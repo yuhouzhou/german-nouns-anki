@@ -1,0 +1,3306 @@
+[
+  {
+    "noun": "Abgeordnete",
+    "article": "der",
+    "plural": "Abgeordnete",
+    "meaning": "representative",
+    "level": "B2"
+  },
+  {
+    "noun": "Absatz",
+    "article": "der",
+    "plural": "Absätze",
+    "meaning": "sales",
+    "level": "B2"
+  },
+  {
+    "noun": "Aktie",
+    "article": "die",
+    "plural": "Aktien",
+    "meaning": "stock",
+    "level": "B2"
+  },
+  {
+    "noun": "Algorithmus",
+    "article": "der",
+    "plural": "Algorithmen",
+    "meaning": "algorithm",
+    "level": "B2"
+  },
+  {
+    "noun": "Alleinerziehende",
+    "article": "die",
+    "plural": "Alleinerziehende",
+    "meaning": "single parent",
+    "level": "B2"
+  },
+  {
+    "noun": "Amtszeit",
+    "article": "die",
+    "plural": "Amtszeiten",
+    "meaning": "term of office",
+    "level": "B2"
+  },
+  {
+    "noun": "Analyse",
+    "article": "die",
+    "plural": "Analysen",
+    "meaning": "analysis",
+    "level": "B2"
+  },
+  {
+    "noun": "Angeklagte",
+    "article": "der",
+    "plural": "Angeklagte",
+    "meaning": "defendant",
+    "level": "B2"
+  },
+  {
+    "noun": "Anklage",
+    "article": "die",
+    "plural": "Anklagen",
+    "meaning": "charge",
+    "level": "B2"
+  },
+  {
+    "noun": "Ansatz",
+    "article": "der",
+    "plural": "Ansätze",
+    "meaning": "approach",
+    "level": "B2"
+  },
+  {
+    "noun": "Anwalt",
+    "article": "der",
+    "plural": "Anwälte",
+    "meaning": "lawyer",
+    "level": "B2"
+  },
+  {
+    "noun": "Artenvielfalt",
+    "article": "die",
+    "plural": "Artenvielfalt",
+    "meaning": "biodiversity",
+    "level": "B2"
+  },
+  {
+    "noun": "Aufforstung",
+    "article": "die",
+    "plural": "Aufforstungen",
+    "meaning": "reforestation",
+    "level": "B2"
+  },
+  {
+    "noun": "Ausdrucksform",
+    "article": "die",
+    "plural": "Ausdrucksformen",
+    "meaning": "form of expression",
+    "level": "B2"
+  },
+  {
+    "noun": "Außenpolitik",
+    "article": "die",
+    "plural": "Außenpolitik",
+    "meaning": "foreign policy",
+    "level": "B2"
+  },
+  {
+    "noun": "Ausstoß",
+    "article": "der",
+    "plural": "Ausstöße",
+    "meaning": "emission",
+    "level": "B2"
+  },
+  {
+    "noun": "Auswertung",
+    "article": "die",
+    "plural": "Auswertungen",
+    "meaning": "evaluation",
+    "level": "B2"
+  },
+  {
+    "noun": "Auszeichnung",
+    "article": "die",
+    "plural": "Auszeichnungen",
+    "meaning": "award",
+    "level": "B2"
+  },
+  {
+    "noun": "Automatisierung",
+    "article": "die",
+    "plural": "Automatisierungen",
+    "meaning": "automation",
+    "level": "B2"
+  },
+  {
+    "noun": "Babysitterin",
+    "article": "die",
+    "plural": "Babysitterinnen",
+    "meaning": "babysitter",
+    "level": "B2"
+  },
+  {
+    "noun": "Beobachtung",
+    "article": "die",
+    "plural": "Beobachtungen",
+    "meaning": "observation",
+    "level": "B2"
+  },
+  {
+    "noun": "Beweis",
+    "article": "der",
+    "plural": "Beweise",
+    "meaning": "evidence",
+    "level": "B2"
+  },
+  {
+    "noun": "Bewusstsein",
+    "article": "das",
+    "plural": "Bewusstseine",
+    "meaning": "consciousness",
+    "level": "B2"
+  },
+  {
+    "noun": "Bilanz",
+    "article": "die",
+    "plural": "Bilanzen",
+    "meaning": "balance",
+    "level": "B2"
+  },
+  {
+    "noun": "Blutprobe",
+    "article": "die",
+    "plural": "Blutproben",
+    "meaning": "blood test",
+    "level": "B2"
+  },
+  {
+    "noun": "Börse",
+    "article": "die",
+    "plural": "Börsen",
+    "meaning": "stock exchange",
+    "level": "B2"
+  },
+  {
+    "noun": "Bruttoinlandsprodukt",
+    "article": "das",
+    "plural": "Bruttoinlandsprodukte",
+    "meaning": "GDP",
+    "level": "B2"
+  },
+  {
+    "noun": "Bürokratie",
+    "article": "die",
+    "plural": "Bürokratien",
+    "meaning": "bureaucracy",
+    "level": "B2"
+  },
+  {
+    "noun": "Bundestag",
+    "article": "der",
+    "plural": "Bundestage",
+    "meaning": "parliament",
+    "level": "B2"
+  },
+  {
+    "noun": "Datenbank",
+    "article": "die",
+    "plural": "Datenbanken",
+    "meaning": "database",
+    "level": "B2"
+  },
+  {
+    "noun": "Datenerhebung",
+    "article": "die",
+    "plural": "Datenerhebungen",
+    "meaning": "data collection",
+    "level": "B2"
+  },
+  {
+    "noun": "Debatte",
+    "article": "die",
+    "plural": "Debatten",
+    "meaning": "debate",
+    "level": "B2"
+  },
+  {
+    "noun": "Depression",
+    "article": "die",
+    "plural": "Depressionen",
+    "meaning": "depression",
+    "level": "B2"
+  },
+  {
+    "noun": "Diagnose",
+    "article": "die",
+    "plural": "Diagnosen",
+    "meaning": "diagnosis",
+    "level": "B2"
+  },
+  {
+    "noun": "Digitalisierung",
+    "article": "die",
+    "plural": "Digitalisierungen",
+    "meaning": "digitalization",
+    "level": "B2"
+  },
+  {
+    "noun": "Dividende",
+    "article": "die",
+    "plural": "Dividenden",
+    "meaning": "dividend",
+    "level": "B2"
+  },
+  {
+    "noun": "Dozent",
+    "article": "der",
+    "plural": "Dozenten",
+    "meaning": "lecturer",
+    "level": "B2"
+  },
+  {
+    "noun": "Drehbuch",
+    "article": "das",
+    "plural": "Drehbücher",
+    "meaning": "screenplay",
+    "level": "B2"
+  },
+  {
+    "noun": "Dürre",
+    "article": "die",
+    "plural": "Dürren",
+    "meaning": "drought",
+    "level": "B2"
+  },
+  {
+    "noun": "Einbürgerung",
+    "article": "die",
+    "plural": "Einbürgerungen",
+    "meaning": "naturalization",
+    "level": "B2"
+  },
+  {
+    "noun": "Einfluss",
+    "article": "der",
+    "plural": "Einflüsse",
+    "meaning": "influence",
+    "level": "B2"
+  },
+  {
+    "noun": "Einwanderungspolitik",
+    "article": "die",
+    "plural": "Einwanderungspolitiken",
+    "meaning": "immigration policy",
+    "level": "B2"
+  },
+  {
+    "noun": "Elterngeld",
+    "article": "das",
+    "plural": "Elterngeld",
+    "meaning": "parental allowance",
+    "level": "B2"
+  },
+  {
+    "noun": "Elternzeit",
+    "article": "die",
+    "plural": "Elternzeiten",
+    "meaning": "parental leave",
+    "level": "B2"
+  },
+  {
+    "noun": "Empathie",
+    "article": "die",
+    "plural": "Empathien",
+    "meaning": "empathy",
+    "level": "B2"
+  },
+  {
+    "noun": "Energiewende",
+    "article": "die",
+    "plural": "Energiewenden",
+    "meaning": "energy transition",
+    "level": "B2"
+  },
+  {
+    "noun": "Entdeckung",
+    "article": "die",
+    "plural": "Entdeckungen",
+    "meaning": "discovery",
+    "level": "B2"
+  },
+  {
+    "noun": "Entwicklung",
+    "article": "die",
+    "plural": "Entwicklungen",
+    "meaning": "development",
+    "level": "B2"
+  },
+  {
+    "noun": "Epidemie",
+    "article": "die",
+    "plural": "Epidemien",
+    "meaning": "epidemic",
+    "level": "B2"
+  },
+  {
+    "noun": "Epoche",
+    "article": "die",
+    "plural": "Epochen",
+    "meaning": "era",
+    "level": "B2"
+  },
+  {
+    "noun": "Erbe",
+    "article": "das",
+    "plural": "Erben",
+    "meaning": "heritage",
+    "level": "B2"
+  },
+  {
+    "noun": "Erkenntnis",
+    "article": "die",
+    "plural": "Erkenntnisse",
+    "meaning": "insight",
+    "level": "B2"
+  },
+  {
+    "noun": "Erziehung",
+    "article": "die",
+    "plural": "Erziehung",
+    "meaning": "upbringing",
+    "level": "B2"
+  },
+  {
+    "noun": "Exekutive",
+    "article": "die",
+    "plural": "Exekutiven",
+    "meaning": "executive",
+    "level": "B2"
+  },
+  {
+    "noun": "Experte",
+    "article": "der",
+    "plural": "Experten",
+    "meaning": "expert",
+    "level": "B2"
+  },
+  {
+    "noun": "Export",
+    "article": "der",
+    "plural": "Exporte",
+    "meaning": "export",
+    "level": "B2"
+  },
+  {
+    "noun": "Faktor",
+    "article": "der",
+    "plural": "Faktoren",
+    "meaning": "factor",
+    "level": "B2"
+  },
+  {
+    "noun": "Finanzierung",
+    "article": "die",
+    "plural": "Finanzierungen",
+    "meaning": "financing",
+    "level": "B2"
+  },
+  {
+    "noun": "Fortschritt",
+    "article": "der",
+    "plural": "Fortschritte",
+    "meaning": "progress",
+    "level": "B2"
+  },
+  {
+    "noun": "Fraktion",
+    "article": "die",
+    "plural": "Fraktionen",
+    "meaning": "parliamentary group",
+    "level": "B2"
+  },
+  {
+    "noun": "Gedächtnis",
+    "article": "das",
+    "plural": "Gedächtnisse",
+    "meaning": "memory",
+    "level": "B2"
+  },
+  {
+    "noun": "Generation",
+    "article": "die",
+    "plural": "Generationen",
+    "meaning": "generation",
+    "level": "B2"
+  },
+  {
+    "noun": "Genesung",
+    "article": "die",
+    "plural": "Genesungen",
+    "meaning": "recovery",
+    "level": "B2"
+  },
+  {
+    "noun": "Genre",
+    "article": "das",
+    "plural": "Genres",
+    "meaning": "genre",
+    "level": "B2"
+  },
+  {
+    "noun": "Gesetzgebung",
+    "article": "die",
+    "plural": "Gesetzgebungen",
+    "meaning": "legislation",
+    "level": "B2"
+  },
+  {
+    "noun": "Gleichstellung",
+    "article": "die",
+    "plural": "Gleichstellungen",
+    "meaning": "equal status",
+    "level": "B2"
+  },
+  {
+    "noun": "Globalisierung",
+    "article": "die",
+    "plural": "Globalisierungen",
+    "meaning": "globalization",
+    "level": "B2"
+  },
+  {
+    "noun": "Großfamilie",
+    "article": "die",
+    "plural": "Großfamilien",
+    "meaning": "extended family",
+    "level": "B2"
+  },
+  {
+    "noun": "Grundstück",
+    "article": "das",
+    "plural": "Grundstücke",
+    "meaning": "property",
+    "level": "B2"
+  },
+  {
+    "noun": "Handelsbeziehung",
+    "article": "die",
+    "plural": "Handelsbeziehungen",
+    "meaning": "trade relation",
+    "level": "B2"
+  },
+  {
+    "noun": "Hardware",
+    "article": "die",
+    "plural": "Hardwares",
+    "meaning": "hardware",
+    "level": "B2"
+  },
+  {
+    "noun": "Hypothese",
+    "article": "die",
+    "plural": "Hypothesen",
+    "meaning": "hypothesis",
+    "level": "B2"
+  },
+  {
+    "noun": "Impfstoff",
+    "article": "der",
+    "plural": "Impfstoffe",
+    "meaning": "vaccine",
+    "level": "B2"
+  },
+  {
+    "noun": "Import",
+    "article": "der",
+    "plural": "Importe",
+    "meaning": "import",
+    "level": "B2"
+  },
+  {
+    "noun": "Infektion",
+    "article": "die",
+    "plural": "Infektionen",
+    "meaning": "infection",
+    "level": "B2"
+  },
+  {
+    "noun": "Innenpolitik",
+    "article": "die",
+    "plural": "Innenpolitik",
+    "meaning": "domestic policy",
+    "level": "B2"
+  },
+  {
+    "noun": "Innovation",
+    "article": "die",
+    "plural": "Innovationen",
+    "meaning": "innovation",
+    "level": "B2"
+  },
+  {
+    "noun": "Inszenierung",
+    "article": "die",
+    "plural": "Inszenierungen",
+    "meaning": "staging",
+    "level": "B2"
+  },
+  {
+    "noun": "Intelligenz",
+    "article": "die",
+    "plural": "Intelligenzen",
+    "meaning": "intelligence",
+    "level": "B2"
+  },
+  {
+    "noun": "Intensivstation",
+    "article": "die",
+    "plural": "Intensivstationen",
+    "meaning": "intensive care",
+    "level": "B2"
+  },
+  {
+    "noun": "Interpretation",
+    "article": "die",
+    "plural": "Interpretationen",
+    "meaning": "interpretation",
+    "level": "B2"
+  },
+  {
+    "noun": "Kapitalismus",
+    "article": "der",
+    "plural": "Kapitalismus",
+    "meaning": "capitalism",
+    "level": "B2"
+  },
+  {
+    "noun": "Kindererziehung",
+    "article": "die",
+    "plural": "Kindererziehung",
+    "meaning": "child-rearing",
+    "level": "B2"
+  },
+  {
+    "noun": "Klage",
+    "article": "die",
+    "plural": "Klagen",
+    "meaning": "lawsuit",
+    "level": "B2"
+  },
+  {
+    "noun": "Klassiker",
+    "article": "der",
+    "plural": "Klassiker",
+    "meaning": "classic",
+    "level": "B2"
+  },
+  {
+    "noun": "Koalition",
+    "article": "die",
+    "plural": "Koalitionen",
+    "meaning": "coalition",
+    "level": "B2"
+  },
+  {
+    "noun": "Konjunktur",
+    "article": "die",
+    "plural": "Konjunkturen",
+    "meaning": "business cycle",
+    "level": "B2"
+  },
+  {
+    "noun": "Konkurs",
+    "article": "der",
+    "plural": "Konkurse",
+    "meaning": "bankruptcy",
+    "level": "B2"
+  },
+  {
+    "noun": "Korruption",
+    "article": "die",
+    "plural": "Korruptionen",
+    "meaning": "corruption",
+    "level": "B2"
+  },
+  {
+    "noun": "Krippe",
+    "article": "die",
+    "plural": "Krippen",
+    "meaning": "nursery",
+    "level": "B2"
+  },
+  {
+    "noun": "Kritik",
+    "article": "die",
+    "plural": "Kritiken",
+    "meaning": "critique",
+    "level": "B2"
+  },
+  {
+    "noun": "Kritiker",
+    "article": "der",
+    "plural": "Kritiker",
+    "meaning": "critic",
+    "level": "B2"
+  },
+  {
+    "noun": "Lebensphase",
+    "article": "die",
+    "plural": "Lebensphasen",
+    "meaning": "life phase",
+    "level": "B2"
+  },
+  {
+    "noun": "Legislative",
+    "article": "die",
+    "plural": "Legislativen",
+    "meaning": "legislature",
+    "level": "B2"
+  },
+  {
+    "noun": "Literatur",
+    "article": "die",
+    "plural": "Literaturen",
+    "meaning": "literature",
+    "level": "B2"
+  },
+  {
+    "noun": "Lobby",
+    "article": "die",
+    "plural": "Lobbys",
+    "meaning": "lobby",
+    "level": "B2"
+  },
+  {
+    "noun": "Luftverschmutzung",
+    "article": "die",
+    "plural": "Luftverschmutzungen",
+    "meaning": "air pollution",
+    "level": "B2"
+  },
+  {
+    "noun": "Mehrheit",
+    "article": "die",
+    "plural": "Mehrheiten",
+    "meaning": "majority",
+    "level": "B2"
+  },
+  {
+    "noun": "Meisterwerk",
+    "article": "das",
+    "plural": "Meisterwerke",
+    "meaning": "masterpiece",
+    "level": "B2"
+  },
+  {
+    "noun": "Menschenrechte",
+    "article": "die",
+    "plural": "Menschenrechte",
+    "meaning": "human rights",
+    "level": "B2"
+  },
+  {
+    "noun": "Mord",
+    "article": "der",
+    "plural": "Morde",
+    "meaning": "murder",
+    "level": "B2"
+  },
+  {
+    "noun": "Motivation",
+    "article": "die",
+    "plural": "Motivationen",
+    "meaning": "motivation",
+    "level": "B2"
+  },
+  {
+    "noun": "Mutterschutz",
+    "article": "der",
+    "plural": "Mutterschutze",
+    "meaning": "maternity protection",
+    "level": "B2"
+  },
+  {
+    "noun": "Nachhaltigkeit",
+    "article": "die",
+    "plural": "Nachhaltigkeit",
+    "meaning": "sustainability",
+    "level": "B2"
+  },
+  {
+    "noun": "Nachweis",
+    "article": "der",
+    "plural": "Nachweise",
+    "meaning": "proof",
+    "level": "B2"
+  },
+  {
+    "noun": "Nettogehalt",
+    "article": "das",
+    "plural": "Nettogehälter",
+    "meaning": "net salary",
+    "level": "B2"
+  },
+  {
+    "noun": "Ökosystem",
+    "article": "das",
+    "plural": "Ökosysteme",
+    "meaning": "ecosystem",
+    "level": "B2"
+  },
+  {
+    "noun": "Opfer",
+    "article": "das",
+    "plural": "Opfer",
+    "meaning": "victim",
+    "level": "B2"
+  },
+  {
+    "noun": "Opposition",
+    "article": "die",
+    "plural": "Oppositionen",
+    "meaning": "opposition",
+    "level": "B2"
+  },
+  {
+    "noun": "Organ",
+    "article": "das",
+    "plural": "Organe",
+    "meaning": "organ",
+    "level": "B2"
+  },
+  {
+    "noun": "Patchworkfamilie",
+    "article": "die",
+    "plural": "Patchworkfamilien",
+    "meaning": "blended family",
+    "level": "B2"
+  },
+  {
+    "noun": "Persönlichkeit",
+    "article": "die",
+    "plural": "Persönlichkeiten",
+    "meaning": "personality",
+    "level": "B2"
+  },
+  {
+    "noun": "Petition",
+    "article": "die",
+    "plural": "Petitionen",
+    "meaning": "petition",
+    "level": "B2"
+  },
+  {
+    "noun": "Prävention",
+    "article": "die",
+    "plural": "Präventionen",
+    "meaning": "prevention",
+    "level": "B2"
+  },
+  {
+    "noun": "Premiere",
+    "article": "die",
+    "plural": "Premieren",
+    "meaning": "premiere",
+    "level": "B2"
+  },
+  {
+    "noun": "Probe",
+    "article": "die",
+    "plural": "Proben",
+    "meaning": "sample",
+    "level": "B2"
+  },
+  {
+    "noun": "Programmierung",
+    "article": "die",
+    "plural": "Programmierungen",
+    "meaning": "programming",
+    "level": "B2"
+  },
+  {
+    "noun": "Promotion",
+    "article": "die",
+    "plural": "Promotionen",
+    "meaning": "doctorate",
+    "level": "B2"
+  },
+  {
+    "noun": "Propaganda",
+    "article": "die",
+    "plural": "Propaganda",
+    "meaning": "propaganda",
+    "level": "B2"
+  },
+  {
+    "noun": "Prozess",
+    "article": "der",
+    "plural": "Prozesse",
+    "meaning": "trial",
+    "level": "B2"
+  },
+  {
+    "noun": "Psychologie",
+    "article": "die",
+    "plural": "Psychologien",
+    "meaning": "psychology",
+    "level": "B2"
+  },
+  {
+    "noun": "Referendum",
+    "article": "das",
+    "plural": "Referenden",
+    "meaning": "referendum",
+    "level": "B2"
+  },
+  {
+    "noun": "Reform",
+    "article": "die",
+    "plural": "Reformen",
+    "meaning": "reform",
+    "level": "B2"
+  },
+  {
+    "noun": "Regie",
+    "article": "die",
+    "plural": "Regien",
+    "meaning": "directing",
+    "level": "B2"
+  },
+  {
+    "noun": "Regierung",
+    "article": "die",
+    "plural": "Regierungen",
+    "meaning": "government",
+    "level": "B2"
+  },
+  {
+    "noun": "Regime",
+    "article": "das",
+    "plural": "Regime",
+    "meaning": "regime",
+    "level": "B2"
+  },
+  {
+    "noun": "Rendite",
+    "article": "die",
+    "plural": "Renditen",
+    "meaning": "return",
+    "level": "B2"
+  },
+  {
+    "noun": "Rezession",
+    "article": "die",
+    "plural": "Rezessionen",
+    "meaning": "recession",
+    "level": "B2"
+  },
+  {
+    "noun": "Richter",
+    "article": "der",
+    "plural": "Richter",
+    "meaning": "judge",
+    "level": "B2"
+  },
+  {
+    "noun": "Roboter",
+    "article": "der",
+    "plural": "Roboter",
+    "meaning": "robot",
+    "level": "B2"
+  },
+  {
+    "noun": "Ruhestand",
+    "article": "der",
+    "plural": "Ruhestand",
+    "meaning": "retirement",
+    "level": "B2"
+  },
+  {
+    "noun": "Sanktion",
+    "article": "die",
+    "plural": "Sanktionen",
+    "meaning": "sanction",
+    "level": "B2"
+  },
+  {
+    "noun": "Satire",
+    "article": "die",
+    "plural": "Satiren",
+    "meaning": "satire",
+    "level": "B2"
+  },
+  {
+    "noun": "Scheidung",
+    "article": "die",
+    "plural": "Scheidungen",
+    "meaning": "divorce",
+    "level": "B2"
+  },
+  {
+    "noun": "Schwangerschaft",
+    "article": "die",
+    "plural": "Schwangerschaften",
+    "meaning": "pregnancy",
+    "level": "B2"
+  },
+  {
+    "noun": "Selbstbewusstsein",
+    "article": "das",
+    "plural": "Selbstbewusstsein",
+    "meaning": "self-confidence",
+    "level": "B2"
+  },
+  {
+    "noun": "Server",
+    "article": "der",
+    "plural": "Server",
+    "meaning": "server",
+    "level": "B2"
+  },
+  {
+    "noun": "Skulptur",
+    "article": "die",
+    "plural": "Skulpturen",
+    "meaning": "sculpture",
+    "level": "B2"
+  },
+  {
+    "noun": "Software",
+    "article": "die",
+    "plural": "Softwares",
+    "meaning": "software",
+    "level": "B2"
+  },
+  {
+    "noun": "Solaranlage",
+    "article": "die",
+    "plural": "Solaranlagen",
+    "meaning": "solar panel",
+    "level": "B2"
+  },
+  {
+    "noun": "Speicher",
+    "article": "der",
+    "plural": "Speicher",
+    "meaning": "storage",
+    "level": "B2"
+  },
+  {
+    "noun": "Strafe",
+    "article": "die",
+    "plural": "Strafen",
+    "meaning": "punishment",
+    "level": "B2"
+  },
+  {
+    "noun": "Strafrecht",
+    "article": "das",
+    "plural": "Strafrecht",
+    "meaning": "criminal law",
+    "level": "B2"
+  },
+  {
+    "noun": "Studie",
+    "article": "die",
+    "plural": "Studien",
+    "meaning": "study",
+    "level": "B2"
+  },
+  {
+    "noun": "Subvention",
+    "article": "die",
+    "plural": "Subventionen",
+    "meaning": "subsidy",
+    "level": "B2"
+  },
+  {
+    "noun": "Symptom",
+    "article": "das",
+    "plural": "Symptome",
+    "meaning": "symptom",
+    "level": "B2"
+  },
+  {
+    "noun": "Täter",
+    "article": "der",
+    "plural": "Täter",
+    "meaning": "perpetrator",
+    "level": "B2"
+  },
+  {
+    "noun": "Theorie",
+    "article": "die",
+    "plural": "Theorien",
+    "meaning": "theory",
+    "level": "B2"
+  },
+  {
+    "noun": "Transparenz",
+    "article": "die",
+    "plural": "Transparenzen",
+    "meaning": "transparency",
+    "level": "B2"
+  },
+  {
+    "noun": "Transplantation",
+    "article": "die",
+    "plural": "Transplantationen",
+    "meaning": "transplant",
+    "level": "B2"
+  },
+  {
+    "noun": "Trauma",
+    "article": "das",
+    "plural": "Traumen",
+    "meaning": "trauma",
+    "level": "B2"
+  },
+  {
+    "noun": "Überschwemmung",
+    "article": "die",
+    "plural": "Überschwemmungen",
+    "meaning": "flood",
+    "level": "B2"
+  },
+  {
+    "noun": "Umweltbewusstsein",
+    "article": "das",
+    "plural": "Umweltbewusstsein",
+    "meaning": "environmental awareness",
+    "level": "B2"
+  },
+  {
+    "noun": "Urheberrecht",
+    "article": "das",
+    "plural": "Urheberrechte",
+    "meaning": "copyright",
+    "level": "B2"
+  },
+  {
+    "noun": "Ursache",
+    "article": "die",
+    "plural": "Ursachen",
+    "meaning": "cause",
+    "level": "B2"
+  },
+  {
+    "noun": "Urteil",
+    "article": "das",
+    "plural": "Urteile",
+    "meaning": "verdict",
+    "level": "B2"
+  },
+  {
+    "noun": "Verfahren",
+    "article": "das",
+    "plural": "Verfahren",
+    "meaning": "process",
+    "level": "B2"
+  },
+  {
+    "noun": "Verfassung",
+    "article": "die",
+    "plural": "Verfassungen",
+    "meaning": "constitution",
+    "level": "B2"
+  },
+  {
+    "noun": "Verfilmung",
+    "article": "die",
+    "plural": "Verfilmung",
+    "meaning": "film adaptation",
+    "level": "B2"
+  },
+  {
+    "noun": "Verhalten",
+    "article": "das",
+    "plural": "Verhalten",
+    "meaning": "behavior",
+    "level": "B2"
+  },
+  {
+    "noun": "Verschlüsselung",
+    "article": "die",
+    "plural": "Verschlüsselungen",
+    "meaning": "encryption",
+    "level": "B2"
+  },
+  {
+    "noun": "Verschwendung",
+    "article": "die",
+    "plural": "Verschwendungen",
+    "meaning": "waste",
+    "level": "B2"
+  },
+  {
+    "noun": "Verwaltung",
+    "article": "die",
+    "plural": "Verwaltungen",
+    "meaning": "administration",
+    "level": "B2"
+  },
+  {
+    "noun": "Wahlbeteiligung",
+    "article": "die",
+    "plural": "Wahlbeteiligungen",
+    "meaning": "voter turnout",
+    "level": "B2"
+  },
+  {
+    "noun": "Wahrnehmung",
+    "article": "die",
+    "plural": "Wahrnehmungen",
+    "meaning": "perception",
+    "level": "B2"
+  },
+  {
+    "noun": "Werk",
+    "article": "das",
+    "plural": "Werke",
+    "meaning": "work (of art)",
+    "level": "B2"
+  },
+  {
+    "noun": "Wettbewerbsfähigkeit",
+    "article": "die",
+    "plural": "Wettbewerbsfähigkeit",
+    "meaning": "competitiveness",
+    "level": "B2"
+  },
+  {
+    "noun": "Windkraftanlage",
+    "article": "die",
+    "plural": "Windkraftanlagen",
+    "meaning": "wind turbine",
+    "level": "B2"
+  },
+  {
+    "noun": "Wissenschaft",
+    "article": "die",
+    "plural": "Wissenschaften",
+    "meaning": "science",
+    "level": "B2"
+  },
+  {
+    "noun": "Zeuge",
+    "article": "der",
+    "plural": "Zeugen",
+    "meaning": "witness",
+    "level": "B2"
+  },
+  {
+    "noun": "Zulieferer",
+    "article": "der",
+    "plural": "Zulieferer",
+    "meaning": "supplier",
+    "level": "B2"
+  },
+  {
+    "noun": "Pressekonferenz",
+    "article": "die",
+    "plural": "Pressekonferenzen",
+    "meaning": "press conference",
+    "level": "B2"
+  },
+  {
+    "noun": "Gesetzentwurf",
+    "article": "der",
+    "plural": "Gesetzentwürfe",
+    "meaning": "bill / draft law",
+    "level": "B2"
+  },
+  {
+    "noun": "Rechtsstaat",
+    "article": "der",
+    "plural": "Rechtsstaaten",
+    "meaning": "constitutional state",
+    "level": "B2"
+  },
+  {
+    "noun": "Strafverfolgung",
+    "article": "die",
+    "plural": "Strafverfolgungen",
+    "meaning": "criminal prosecution",
+    "level": "B2"
+  },
+  {
+    "noun": "Unschuldsvermutung",
+    "article": "die",
+    "plural": "Unschuldsvermutungen",
+    "meaning": "presumption of innocence",
+    "level": "B2"
+  },
+  {
+    "noun": "Asylrecht",
+    "article": "das",
+    "plural": "Asylrechte",
+    "meaning": "right of asylum",
+    "level": "B2"
+  },
+  {
+    "noun": "Bundesrat",
+    "article": "der",
+    "plural": "Bundesräte",
+    "meaning": "Federal Council (Germany)",
+    "level": "B2"
+  },
+  {
+    "noun": "Immunität",
+    "article": "die",
+    "plural": "Immunitäten",
+    "meaning": "parliamentary immunity",
+    "level": "B2"
+  },
+  {
+    "noun": "Koalitionsverhandlung",
+    "article": "die",
+    "plural": "Koalitionsverhandlungen",
+    "meaning": "coalition talks",
+    "level": "B2"
+  },
+  {
+    "noun": "Verfassungsschutz",
+    "article": "der",
+    "plural": "Verfassungsschutz",
+    "meaning": "domestic intelligence",
+    "level": "B2"
+  },
+  {
+    "noun": "Korruptionsaffäre",
+    "article": "die",
+    "plural": "Korruptionsaffären",
+    "meaning": "corruption scandal",
+    "level": "B2"
+  },
+  {
+    "noun": "Volksabstimmung",
+    "article": "die",
+    "plural": "Volksabstimmungen",
+    "meaning": "popular vote",
+    "level": "B2"
+  },
+  {
+    "noun": "Amtsenthebung",
+    "article": "die",
+    "plural": "Amtsenthebungen",
+    "meaning": "impeachment / dismissal",
+    "level": "B2"
+  },
+  {
+    "noun": "Stimmrecht",
+    "article": "das",
+    "plural": "Stimmrechte",
+    "meaning": "right to vote",
+    "level": "B2"
+  },
+  {
+    "noun": "Verhältnismäßigkeit",
+    "article": "die",
+    "plural": "Verhältnismäßigkeiten",
+    "meaning": "proportionality",
+    "level": "B2"
+  },
+  {
+    "noun": "Redefreiheit",
+    "article": "die",
+    "plural": "Redefreiheit",
+    "meaning": "freedom of speech",
+    "level": "B2"
+  },
+  {
+    "noun": "Verwaltungsgericht",
+    "article": "das",
+    "plural": "Verwaltungsgerichte",
+    "meaning": "administrative court",
+    "level": "B2"
+  },
+  {
+    "noun": "Parteitag",
+    "article": "der",
+    "plural": "Parteitage",
+    "meaning": "party conference",
+    "level": "B2"
+  },
+  {
+    "noun": "Wählerschaft",
+    "article": "die",
+    "plural": "Wählerschaften",
+    "meaning": "electorate",
+    "level": "B2"
+  },
+  {
+    "noun": "Staatsverschuldung",
+    "article": "die",
+    "plural": "Staatsverschuldungen",
+    "meaning": "national debt",
+    "level": "B2"
+  },
+  {
+    "noun": "Ermittler",
+    "article": "der",
+    "plural": "Ermittler",
+    "meaning": "investigator",
+    "level": "B2"
+  },
+  {
+    "noun": "Zeugenaussage",
+    "article": "die",
+    "plural": "Zeugenaussagen",
+    "meaning": "witness testimony",
+    "level": "B2"
+  },
+  {
+    "noun": "Medienlandschaft",
+    "article": "die",
+    "plural": "Medienlandschaften",
+    "meaning": "media landscape",
+    "level": "B2"
+  },
+  {
+    "noun": "Cyberangriff",
+    "article": "der",
+    "plural": "Cyberangriffe",
+    "meaning": "cyberattack",
+    "level": "B2"
+  },
+  {
+    "noun": "Datenleck",
+    "article": "das",
+    "plural": "Datenlecks",
+    "meaning": "data breach",
+    "level": "B2"
+  },
+  {
+    "noun": "Desinformationskampagne",
+    "article": "die",
+    "plural": "Desinformationskampagnen",
+    "meaning": "disinformation campaign",
+    "level": "B2"
+  },
+  {
+    "noun": "Onlineplattform",
+    "article": "die",
+    "plural": "Onlineplattformen",
+    "meaning": "online platform",
+    "level": "B2"
+  },
+  {
+    "noun": "Datenschutzverstoß",
+    "article": "der",
+    "plural": "Datenschutzverstöße",
+    "meaning": "data protection violation",
+    "level": "B2"
+  },
+  {
+    "noun": "Informationsfreiheit",
+    "article": "die",
+    "plural": "Informationsfreiheiten",
+    "meaning": "freedom of information",
+    "level": "B2"
+  },
+  {
+    "noun": "Echokammer",
+    "article": "die",
+    "plural": "Echokammern",
+    "meaning": "echo chamber",
+    "level": "B2"
+  },
+  {
+    "noun": "Medienmacht",
+    "article": "die",
+    "plural": "Medienmächte",
+    "meaning": "media power",
+    "level": "B2"
+  },
+  {
+    "noun": "Netzneutralität",
+    "article": "die",
+    "plural": "Netzneutralität",
+    "meaning": "net neutrality",
+    "level": "B2"
+  },
+  {
+    "noun": "Whistleblower",
+    "article": "der",
+    "plural": "Whistleblower",
+    "meaning": "whistleblower",
+    "level": "B2"
+  },
+  {
+    "noun": "Zensur",
+    "article": "die",
+    "plural": "Zensuren",
+    "meaning": "censorship",
+    "level": "B2"
+  },
+  {
+    "noun": "Klickbetrug",
+    "article": "der",
+    "plural": "Klickbetrüge",
+    "meaning": "click fraud",
+    "level": "B2"
+  },
+  {
+    "noun": "Bezahlschranke",
+    "article": "die",
+    "plural": "Bezahlschranken",
+    "meaning": "paywall",
+    "level": "B2"
+  },
+  {
+    "noun": "Influencer-Marketing",
+    "article": "der",
+    "plural": "Influencer-Marketinge",
+    "meaning": "influencer marketing",
+    "level": "B2"
+  },
+  {
+    "noun": "Netzgemeinde",
+    "article": "die",
+    "plural": "Netzgemeinden",
+    "meaning": "online community",
+    "level": "B2"
+  },
+  {
+    "noun": "Treibhausgasneutralität",
+    "article": "die",
+    "plural": "Treibhausgasneutralitäten",
+    "meaning": "greenhouse gas neutrality",
+    "level": "B2"
+  },
+  {
+    "noun": "Artenschwund",
+    "article": "der",
+    "plural": "Artenschwund",
+    "meaning": "species decline",
+    "level": "B2"
+  },
+  {
+    "noun": "Klimagerechtigkeit",
+    "article": "die",
+    "plural": "Klimagerechtigkeiten",
+    "meaning": "climate justice",
+    "level": "B2"
+  },
+  {
+    "noun": "Kreislaufwirtschaft",
+    "article": "die",
+    "plural": "Kreislaufwirtschaften",
+    "meaning": "circular economy",
+    "level": "B2"
+  },
+  {
+    "noun": "Meeresspiegelanstieg",
+    "article": "der",
+    "plural": "Meeresspiegelanstiege",
+    "meaning": "sea level rise",
+    "level": "B2"
+  },
+  {
+    "noun": "Dürreresistenz",
+    "article": "die",
+    "plural": "Dürreresistenzen",
+    "meaning": "drought resistance",
+    "level": "B2"
+  },
+  {
+    "noun": "Wassermangel",
+    "article": "der",
+    "plural": "Wassermangel",
+    "meaning": "water scarcity",
+    "level": "B2"
+  },
+  {
+    "noun": "Kernenergie",
+    "article": "die",
+    "plural": "Kernenergien",
+    "meaning": "nuclear energy",
+    "level": "B2"
+  },
+  {
+    "noun": "Solarzelle",
+    "article": "die",
+    "plural": "Solarzellen",
+    "meaning": "solar cell",
+    "level": "B2"
+  },
+  {
+    "noun": "Gletscherschmelzen",
+    "article": "das",
+    "plural": "Gletscherschmelzen",
+    "meaning": "glacial melt",
+    "level": "B2"
+  },
+  {
+    "noun": "Treibhausgas-Ausstoß",
+    "article": "der",
+    "plural": "Treibhausgas-Ausstöße",
+    "meaning": "greenhouse gas emissions",
+    "level": "B2"
+  },
+  {
+    "noun": "Quantenphysik",
+    "article": "die",
+    "plural": "Quantenphysik",
+    "meaning": "quantum physics",
+    "level": "B2"
+  },
+  {
+    "noun": "Biodiversitätskrise",
+    "article": "die",
+    "plural": "Biodiversitätskrisen",
+    "meaning": "biodiversity crisis",
+    "level": "B2"
+  },
+  {
+    "noun": "Kohlendioxidabscheidung",
+    "article": "die",
+    "plural": "Kohlendioxidabscheidungen",
+    "meaning": "carbon capture",
+    "level": "B2"
+  },
+  {
+    "noun": "Torfboden",
+    "article": "der",
+    "plural": "Torfböden",
+    "meaning": "peat bog",
+    "level": "B2"
+  },
+  {
+    "noun": "Bioökonomie",
+    "article": "die",
+    "plural": "Bioökonomien",
+    "meaning": "bioeconomy",
+    "level": "B2"
+  },
+  {
+    "noun": "Methanausstoß",
+    "article": "der",
+    "plural": "Methanausstöße",
+    "meaning": "methane emissions",
+    "level": "B2"
+  },
+  {
+    "noun": "Elektromobilität",
+    "article": "die",
+    "plural": "Elektromobilität",
+    "meaning": "electric mobility",
+    "level": "B2"
+  },
+  {
+    "noun": "Solarpark",
+    "article": "der",
+    "plural": "Solarparks",
+    "meaning": "solar farm",
+    "level": "B2"
+  },
+  {
+    "noun": "Wasseraufbereitung",
+    "article": "die",
+    "plural": "Wasseraufbereitungen",
+    "meaning": "water treatment",
+    "level": "B2"
+  },
+  {
+    "noun": "Insektizid",
+    "article": "das",
+    "plural": "Insektizide",
+    "meaning": "insecticide",
+    "level": "B2"
+  },
+  {
+    "noun": "Versiegelung",
+    "article": "die",
+    "plural": "Versiegelungen",
+    "meaning": "soil sealing",
+    "level": "B2"
+  },
+  {
+    "noun": "Lieferkette",
+    "article": "die",
+    "plural": "Lieferketten",
+    "meaning": "supply chain",
+    "level": "B2"
+  },
+  {
+    "noun": "Lohnlücke",
+    "article": "die",
+    "plural": "Lohnlücken",
+    "meaning": "pay gap",
+    "level": "B2"
+  },
+  {
+    "noun": "Mindestlohn",
+    "article": "der",
+    "plural": "Mindestlöhne",
+    "meaning": "minimum wage",
+    "level": "B2"
+  },
+  {
+    "noun": "Kurzarbeit",
+    "article": "die",
+    "plural": "Kurzarbeiten",
+    "meaning": "short-time work",
+    "level": "B2"
+  },
+  {
+    "noun": "Insolvenzverfahren",
+    "article": "das",
+    "plural": "Insolvenzverfahren",
+    "meaning": "insolvency proceedings",
+    "level": "B2"
+  },
+  {
+    "noun": "Tarifverhandlung",
+    "article": "die",
+    "plural": "Tarifverhandlungen",
+    "meaning": "collective bargaining",
+    "level": "B2"
+  },
+  {
+    "noun": "Fachkräfteproblem",
+    "article": "das",
+    "plural": "Fachkräfteprobleme",
+    "meaning": "skilled labour shortage",
+    "level": "B2"
+  },
+  {
+    "noun": "Gewinnbeteiligung",
+    "article": "die",
+    "plural": "Gewinnbeteiligungen",
+    "meaning": "profit sharing",
+    "level": "B2"
+  },
+  {
+    "noun": "Unternehmensbesteuerung",
+    "article": "die",
+    "plural": "Unternehmensbesteuerungen",
+    "meaning": "corporate taxation",
+    "level": "B2"
+  },
+  {
+    "noun": "Stellenabbau",
+    "article": "der",
+    "plural": "Stellenabbau",
+    "meaning": "job cuts",
+    "level": "B2"
+  },
+  {
+    "noun": "Tarifbindung",
+    "article": "die",
+    "plural": "Tarifbindungen",
+    "meaning": "collective agreement coverage",
+    "level": "B2"
+  },
+  {
+    "noun": "Eigenkapitalquote",
+    "article": "die",
+    "plural": "Eigenkapitalquoten",
+    "meaning": "equity ratio",
+    "level": "B2"
+  },
+  {
+    "noun": "Wirtschaftswachstum",
+    "article": "das",
+    "plural": "Wirtschaftswachstum",
+    "meaning": "economic growth",
+    "level": "B2"
+  },
+  {
+    "noun": "Kaufkraft",
+    "article": "die",
+    "plural": "Kaufkraft",
+    "meaning": "purchasing power",
+    "level": "B2"
+  },
+  {
+    "noun": "Handelsüberschuss",
+    "article": "der",
+    "plural": "Handelsüberschüsse",
+    "meaning": "trade surplus",
+    "level": "B2"
+  },
+  {
+    "noun": "Bürokratiekosten",
+    "article": "die",
+    "plural": "Bürokratiekosten",
+    "meaning": "bureaucracy costs",
+    "level": "B2"
+  },
+  {
+    "noun": "Startup",
+    "article": "das",
+    "plural": "Startup",
+    "meaning": "startup",
+    "level": "B2"
+  },
+  {
+    "noun": "Fintech-Industrie",
+    "article": "die",
+    "plural": "Fintech-Industrien",
+    "meaning": "fintech industry",
+    "level": "B2"
+  },
+  {
+    "noun": "Rückruf",
+    "article": "der",
+    "plural": "Rückrufe",
+    "meaning": "product recall",
+    "level": "B2"
+  },
+  {
+    "noun": "Wirtschaftsspionage",
+    "article": "die",
+    "plural": "Wirtschaftsspionage",
+    "meaning": "industrial espionage",
+    "level": "B2"
+  },
+  {
+    "noun": "Vorzugsdividende",
+    "article": "die",
+    "plural": "Vorzugsdividenden",
+    "meaning": "preference dividend",
+    "level": "B2"
+  },
+  {
+    "noun": "Konjunkturprogramm",
+    "article": "das",
+    "plural": "Konjunkturprogramme",
+    "meaning": "stimulus programme",
+    "level": "B2"
+  },
+  {
+    "noun": "Arbeitnehmerüberlassung",
+    "article": "die",
+    "plural": "Arbeitnehmerüberlassungen",
+    "meaning": "temporary work / staffing agency",
+    "level": "B2"
+  },
+  {
+    "noun": "Mitbestimmung",
+    "article": "die",
+    "plural": "Mitbestimmungen",
+    "meaning": "worker co-determination",
+    "level": "B2"
+  },
+  {
+    "noun": "Chancenungleichheit",
+    "article": "die",
+    "plural": "Chancenungleichheiten",
+    "meaning": "inequality of opportunity",
+    "level": "B2"
+  },
+  {
+    "noun": "Pflegelücke",
+    "article": "die",
+    "plural": "Pflegelücken",
+    "meaning": "care gap",
+    "level": "B2"
+  },
+  {
+    "noun": "Geburtendefizit",
+    "article": "das",
+    "plural": "Geburtendefizite",
+    "meaning": "birth deficit",
+    "level": "B2"
+  },
+  {
+    "noun": "Obdachlosenunterkunft",
+    "article": "die",
+    "plural": "Obdachlosenunterkünfte",
+    "meaning": "homeless shelter",
+    "level": "B2"
+  },
+  {
+    "noun": "Altersdemenz",
+    "article": "die",
+    "plural": "Altersdemenzen",
+    "meaning": "dementia in old age",
+    "level": "B2"
+  },
+  {
+    "noun": "Kulturgut",
+    "article": "das",
+    "plural": "Kulturgüter",
+    "meaning": "cultural heritage",
+    "level": "B2"
+  },
+  {
+    "noun": "Museumsreform",
+    "article": "die",
+    "plural": "Museumsreformen",
+    "meaning": "museum reform",
+    "level": "B2"
+  },
+  {
+    "noun": "Pflegekonzept",
+    "article": "das",
+    "plural": "Pflegekonzepte",
+    "meaning": "care concept",
+    "level": "B2"
+  },
+  {
+    "noun": "Suchterkrankung",
+    "article": "die",
+    "plural": "Suchterkrankungen",
+    "meaning": "addiction disease",
+    "level": "B2"
+  },
+  {
+    "noun": "Stadterneuerungsprogramm",
+    "article": "das",
+    "plural": "Stadterneuerungsprogramme",
+    "meaning": "urban renewal programme",
+    "level": "B2"
+  },
+  {
+    "noun": "Gemeinwesenarbeit",
+    "article": "die",
+    "plural": "Gemeinwesenarbeiten",
+    "meaning": "community work",
+    "level": "B2"
+  },
+  {
+    "noun": "Migrationsgesellschaft",
+    "article": "die",
+    "plural": "Migrationsgesellschaften",
+    "meaning": "migration society",
+    "level": "B2"
+  },
+  {
+    "noun": "Burnout-Syndrom",
+    "article": "das",
+    "plural": "Burnout-Syndrome",
+    "meaning": "burnout syndrome",
+    "level": "B2"
+  },
+  {
+    "noun": "Wohnungsnot",
+    "article": "die",
+    "plural": "Wohnungsnöte",
+    "meaning": "housing shortage",
+    "level": "B2"
+  },
+  {
+    "noun": "Suizidprävention",
+    "article": "die",
+    "plural": "Suizidpräventionen",
+    "meaning": "suicide prevention",
+    "level": "B2"
+  },
+  {
+    "noun": "Gesundheitsversorgung",
+    "article": "die",
+    "plural": "Gesundheitsversorgungen",
+    "meaning": "healthcare provision",
+    "level": "B2"
+  },
+  {
+    "noun": "Bildungsgerechtigkeit",
+    "article": "die",
+    "plural": "Bildungsgerechtigkeiten",
+    "meaning": "educational equity",
+    "level": "B2"
+  },
+  {
+    "noun": "Rentenreform",
+    "article": "die",
+    "plural": "Rentenreformen",
+    "meaning": "pension reform",
+    "level": "B2"
+  },
+  {
+    "noun": "Impfpflicht",
+    "article": "die",
+    "plural": "Impfpflichten",
+    "meaning": "mandatory vaccination",
+    "level": "B2"
+  },
+  {
+    "noun": "Selbstbestimmung",
+    "article": "die",
+    "plural": "Selbstbestimmungen",
+    "meaning": "self-determination",
+    "level": "B2"
+  },
+  {
+    "noun": "Lohnforderung",
+    "article": "die",
+    "plural": "Lohnforderungen",
+    "meaning": "wage demand",
+    "level": "B2"
+  },
+  {
+    "noun": "Strukturproblem",
+    "article": "das",
+    "plural": "Strukturprobleme",
+    "meaning": "structural problem",
+    "level": "B2"
+  },
+  {
+    "noun": "Haushaltssperre",
+    "article": "die",
+    "plural": "Haushaltssperren",
+    "meaning": "budget freeze",
+    "level": "B2"
+  },
+  {
+    "noun": "Arbeitsniederlegung",
+    "article": "die",
+    "plural": "Arbeitsniederlegungen",
+    "meaning": "work stoppage",
+    "level": "B2"
+  },
+  {
+    "noun": "Marktversagen",
+    "article": "das",
+    "plural": "Marktversagene",
+    "meaning": "market failure",
+    "level": "B2"
+  },
+  {
+    "noun": "Zinssatz",
+    "article": "der",
+    "plural": "Zinssätze",
+    "meaning": "interest rate",
+    "level": "B2"
+  },
+  {
+    "noun": "Investitionsschwäche",
+    "article": "die",
+    "plural": "Investitionsschwächen",
+    "meaning": "investment weakness",
+    "level": "B2"
+  },
+  {
+    "noun": "Protektionismus",
+    "article": "der",
+    "plural": "Protektionismus",
+    "meaning": "protectionism",
+    "level": "B2"
+  },
+  {
+    "noun": "Sozialleistung",
+    "article": "die",
+    "plural": "Sozialleistungen",
+    "meaning": "social benefit",
+    "level": "B2"
+  },
+  {
+    "noun": "Steuerrecht",
+    "article": "das",
+    "plural": "Steuerrechte",
+    "meaning": "tax law",
+    "level": "B2"
+  },
+  {
+    "noun": "Vermögenssteuer",
+    "article": "die",
+    "plural": "Vermögenssteuern",
+    "meaning": "wealth tax",
+    "level": "B2"
+  },
+  {
+    "noun": "Immobilienmarkt",
+    "article": "der",
+    "plural": "Immobilienmärkte",
+    "meaning": "property market",
+    "level": "B2"
+  },
+  {
+    "noun": "Kapitalanlage",
+    "article": "die",
+    "plural": "Kapitalanlagen",
+    "meaning": "capital investment",
+    "level": "B2"
+  },
+  {
+    "noun": "Steueroase",
+    "article": "die",
+    "plural": "Steueroasen",
+    "meaning": "tax haven",
+    "level": "B2"
+  },
+  {
+    "noun": "Wirtschaftsaufschwung",
+    "article": "der",
+    "plural": "Wirtschaftsaufschwünge",
+    "meaning": "economic upturn",
+    "level": "B2"
+  },
+  {
+    "noun": "Exportstärke",
+    "article": "die",
+    "plural": "Exportstärken",
+    "meaning": "export strength",
+    "level": "B2"
+  },
+  {
+    "noun": "Haushaltsdefizit",
+    "article": "das",
+    "plural": "Haushaltsdefizite",
+    "meaning": "budget deficit",
+    "level": "B2"
+  },
+  {
+    "noun": "Preisstabilität",
+    "article": "die",
+    "plural": "Preisstabilität",
+    "meaning": "price stability",
+    "level": "B2"
+  },
+  {
+    "noun": "Wachstumsschwäche",
+    "article": "die",
+    "plural": "Wachstumsschwächen",
+    "meaning": "growth weakness",
+    "level": "B2"
+  },
+  {
+    "noun": "Tarifgefüge",
+    "article": "das",
+    "plural": "Tarifgefüge",
+    "meaning": "wage structure",
+    "level": "B2"
+  },
+  {
+    "noun": "Handelspolitik",
+    "article": "die",
+    "plural": "Handelspolitiken",
+    "meaning": "trade policy",
+    "level": "B2"
+  },
+  {
+    "noun": "Innovationsförderung",
+    "article": "die",
+    "plural": "Innovationsförderungen",
+    "meaning": "innovation funding",
+    "level": "B2"
+  },
+  {
+    "noun": "Verteilungskonflikt",
+    "article": "der",
+    "plural": "Verteilungskonflikte",
+    "meaning": "distributional conflict",
+    "level": "B2"
+  },
+  {
+    "noun": "Nettolohnquote",
+    "article": "die",
+    "plural": "Nettolohnquoten",
+    "meaning": "net wage share",
+    "level": "B2"
+  },
+  {
+    "noun": "Freihandelsabkommen",
+    "article": "das",
+    "plural": "Freihandelsabkommen",
+    "meaning": "free trade agreement",
+    "level": "B2"
+  },
+  {
+    "noun": "Arbeitskampf",
+    "article": "der",
+    "plural": "Arbeitskämpfe",
+    "meaning": "industrial action",
+    "level": "B2"
+  },
+  {
+    "noun": "Beschäftigungsquote",
+    "article": "die",
+    "plural": "Beschäftigungsquoten",
+    "meaning": "employment rate",
+    "level": "B2"
+  },
+  {
+    "noun": "CO₂-Bepreisung",
+    "article": "die",
+    "plural": "CO₂-Bepreisungen",
+    "meaning": "carbon pricing",
+    "level": "B2"
+  },
+  {
+    "noun": "Briefstandard",
+    "article": "der",
+    "plural": "Briefstandards",
+    "meaning": "letter format standard",
+    "level": "B2"
+  },
+  {
+    "noun": "Double Feature",
+    "article": "das",
+    "plural": "Double features",
+    "meaning": "double feature (cinema)",
+    "level": "B2"
+  },
+  {
+    "noun": "Flagship-Store",
+    "article": "der",
+    "plural": "Flagship-Stores",
+    "meaning": "flagship store",
+    "level": "B2"
+  },
+  {
+    "noun": "Gebot",
+    "article": "das",
+    "plural": "Gebote",
+    "meaning": "commandment, bid",
+    "level": "B2"
+  },
+  {
+    "noun": "Individualist",
+    "article": "der",
+    "plural": "Individualisten",
+    "meaning": "individualist (male)",
+    "level": "B2"
+  },
+  {
+    "noun": "Individualistin",
+    "article": "die",
+    "plural": "Individualistinnen",
+    "meaning": "individualist (female)",
+    "level": "B2"
+  },
+  {
+    "noun": "Requiem",
+    "article": "das",
+    "plural": "Requiems",
+    "meaning": "requiem",
+    "level": "B2"
+  },
+  {
+    "noun": "Satzklammer",
+    "article": "die",
+    "plural": "Satzklammern",
+    "meaning": "sentence bracket (grammar)",
+    "level": "B2"
+  },
+  {
+    "noun": "Gala",
+    "article": "die",
+    "plural": "Galas",
+    "meaning": "gala",
+    "level": "B2"
+  },
+  {
+    "noun": "Reichweite",
+    "article": "die",
+    "plural": "Reichweiten",
+    "meaning": "range",
+    "level": "B2"
+  },
+  {
+    "noun": "Immobilie",
+    "article": "die",
+    "plural": "Immobilien",
+    "meaning": "property, real estate",
+    "level": "B2"
+  },
+  {
+    "noun": "Abwechslung",
+    "article": "die",
+    "plural": "Abwechslungen",
+    "meaning": "variety",
+    "level": "B2"
+  },
+  {
+    "noun": "Abwesenheit",
+    "article": "die",
+    "plural": "Abwesenheiten",
+    "meaning": "absence",
+    "level": "B2"
+  },
+  {
+    "noun": "Adoption",
+    "article": "die",
+    "plural": "Adoptionen",
+    "meaning": "adoption",
+    "level": "B2"
+  },
+  {
+    "noun": "Allgemeinheit",
+    "article": "die",
+    "plural": "Allgemeinheiten",
+    "meaning": "community",
+    "level": "B2"
+  },
+  {
+    "noun": "Anerkennung",
+    "article": "die",
+    "plural": "Anerkennungen",
+    "meaning": "recognition",
+    "level": "B2"
+  },
+  {
+    "noun": "Angelegenheit",
+    "article": "die",
+    "plural": "Angelegenheiten",
+    "meaning": "matter",
+    "level": "B2"
+  },
+  {
+    "noun": "Angewohnheit",
+    "article": "die",
+    "plural": "Angewohnheiten",
+    "meaning": "habit",
+    "level": "B2"
+  },
+  {
+    "noun": "Anlieferung",
+    "article": "die",
+    "plural": "Anlieferungen",
+    "meaning": "delivery",
+    "level": "B2"
+  },
+  {
+    "noun": "Annehmlichkeit",
+    "article": "die",
+    "plural": "Annehmlichkeiten",
+    "meaning": "convenience",
+    "level": "B2"
+  },
+  {
+    "noun": "Anstrengung",
+    "article": "die",
+    "plural": "Anstrengungen",
+    "meaning": "effort",
+    "level": "B2"
+  },
+  {
+    "noun": "Anwesenheit",
+    "article": "die",
+    "plural": "Anwesenheit",
+    "meaning": "presence",
+    "level": "B2"
+  },
+  {
+    "noun": "Arbeitsvermittlung",
+    "article": "die",
+    "plural": "Arbeitsvermittlungen",
+    "meaning": "labour exchange",
+    "level": "B2"
+  },
+  {
+    "noun": "Argument",
+    "article": "das",
+    "plural": "Argumente",
+    "meaning": "argument",
+    "level": "B2"
+  },
+  {
+    "noun": "Aufmerksamkeit",
+    "article": "die",
+    "plural": "Aufmerksamkeiten",
+    "meaning": "attention",
+    "level": "B2"
+  },
+  {
+    "noun": "Befriedigung",
+    "article": "die",
+    "plural": "Befriedigungen",
+    "meaning": "satisfaction",
+    "level": "B2"
+  },
+  {
+    "noun": "Bekanntmachung",
+    "article": "die",
+    "plural": "Bekanntmachungen",
+    "meaning": "notice",
+    "level": "B2"
+  },
+  {
+    "noun": "Beleidigung",
+    "article": "die",
+    "plural": "Beleidigungen",
+    "meaning": "offence",
+    "level": "B2"
+  },
+  {
+    "noun": "Beleuchtung",
+    "article": "die",
+    "plural": "Beleuchtungen",
+    "meaning": "lighting",
+    "level": "B2"
+  },
+  {
+    "noun": "Beliebtheit",
+    "article": "die",
+    "plural": "Beliebtheit",
+    "meaning": "popularity",
+    "level": "B2"
+  },
+  {
+    "noun": "Belieferung",
+    "article": "die",
+    "plural": "Belieferungen",
+    "meaning": "supply",
+    "level": "B2"
+  },
+  {
+    "noun": "Bequemlichkeit",
+    "article": "die",
+    "plural": "Bequemlichkeiten",
+    "meaning": "comfort",
+    "level": "B2"
+  },
+  {
+    "noun": "Beschaffenheit",
+    "article": "die",
+    "plural": "Beschaffenheiten",
+    "meaning": "kind",
+    "level": "B2"
+  },
+  {
+    "noun": "Beschäftigung",
+    "article": "die",
+    "plural": "Beschäftigungen",
+    "meaning": "occupation",
+    "level": "B2"
+  },
+  {
+    "noun": "Bescheidenheit",
+    "article": "die",
+    "plural": "Bescheidenheit",
+    "meaning": "humbleness",
+    "level": "B2"
+  },
+  {
+    "noun": "Beschreibung",
+    "article": "die",
+    "plural": "Beschreibungen",
+    "meaning": "description",
+    "level": "B2"
+  },
+  {
+    "noun": "Bevölkerung",
+    "article": "die",
+    "plural": "Bevölkerungen",
+    "meaning": "population",
+    "level": "B2"
+  },
+  {
+    "noun": "Bewunderung",
+    "article": "die",
+    "plural": "Bewunderungen",
+    "meaning": "admiration",
+    "level": "B2"
+  },
+  {
+    "noun": "Bruderschaft",
+    "article": "die",
+    "plural": "Bruderschaften",
+    "meaning": "brotherhood",
+    "level": "B2"
+  },
+  {
+    "noun": "Buchführung",
+    "article": "die",
+    "plural": "Buchführung",
+    "meaning": "bookkeeping",
+    "level": "B2"
+  },
+  {
+    "noun": "Division",
+    "article": "die",
+    "plural": "Divisionen",
+    "meaning": "division",
+    "level": "B2"
+  },
+  {
+    "noun": "Einfachheit",
+    "article": "die",
+    "plural": "Einfachheit",
+    "meaning": "simplicity",
+    "level": "B2"
+  },
+  {
+    "noun": "Element",
+    "article": "das",
+    "plural": "Elemente",
+    "meaning": "element",
+    "level": "B2"
+  },
+  {
+    "noun": "Entschlossenheit",
+    "article": "die",
+    "plural": "Entschlossenheit",
+    "meaning": "determination",
+    "level": "B2"
+  },
+  {
+    "noun": "Erforschung",
+    "article": "die",
+    "plural": "Erforschungen",
+    "meaning": "exploration",
+    "level": "B2"
+  },
+  {
+    "noun": "Erfrischung",
+    "article": "die",
+    "plural": "Erfrischungen",
+    "meaning": "refreshment",
+    "level": "B2"
+  },
+  {
+    "noun": "Erkundigung",
+    "article": "die",
+    "plural": "Erkundigungen",
+    "meaning": "inquiry",
+    "level": "B2"
+  },
+  {
+    "noun": "Erläuterung",
+    "article": "die",
+    "plural": "Erläuterungen",
+    "meaning": "explanation",
+    "level": "B2"
+  },
+  {
+    "noun": "Erleichterung",
+    "article": "die",
+    "plural": "Erleichterungen",
+    "meaning": "relief",
+    "level": "B2"
+  },
+  {
+    "noun": "Ermunterung",
+    "article": "die",
+    "plural": "Ermunterungen",
+    "meaning": "encouragement",
+    "level": "B2"
+  },
+  {
+    "noun": "Erschütterung",
+    "article": "die",
+    "plural": "Erschütterungen",
+    "meaning": "shock",
+    "level": "B2"
+  },
+  {
+    "noun": "Explosion",
+    "article": "die",
+    "plural": "Explosionen",
+    "meaning": "explosion",
+    "level": "B2"
+  },
+  {
+    "noun": "Feuchtigkeit",
+    "article": "die",
+    "plural": "Feuchtigkeiten",
+    "meaning": "damp",
+    "level": "B2"
+  },
+  {
+    "noun": "Flüssigkeit",
+    "article": "die",
+    "plural": "Flüssigkeiten",
+    "meaning": "liquid",
+    "level": "B2"
+  },
+  {
+    "noun": "Frisur",
+    "article": "die",
+    "plural": "Frisuren",
+    "meaning": "hairdo",
+    "level": "B2"
+  },
+  {
+    "noun": "Fußspur",
+    "article": "die",
+    "plural": "Fußspuren",
+    "meaning": "track",
+    "level": "B2"
+  },
+  {
+    "noun": "Garnitur",
+    "article": "die",
+    "plural": "Garnituren",
+    "meaning": "set",
+    "level": "B2"
+  },
+  {
+    "noun": "Gedankenlosigkeit",
+    "article": "die",
+    "plural": "Gedankenlosigkeiten",
+    "meaning": "thoughtlessness",
+    "level": "B2"
+  },
+  {
+    "noun": "Gelegenheit",
+    "article": "die",
+    "plural": "Gelegenheiten",
+    "meaning": "opportunity",
+    "level": "B2"
+  },
+  {
+    "noun": "Glanz",
+    "article": "der",
+    "plural": "Glanz",
+    "meaning": "shine",
+    "level": "B2"
+  },
+  {
+    "noun": "Grausamkeit",
+    "article": "die",
+    "plural": "Grausamkeiten",
+    "meaning": "cruelty",
+    "level": "B2"
+  },
+  {
+    "noun": "Großzügigkeit",
+    "article": "die",
+    "plural": "Großzügigkeit",
+    "meaning": "generosity",
+    "level": "B2"
+  },
+  {
+    "noun": "Herstellung",
+    "article": "die",
+    "plural": "Herstellungen",
+    "meaning": "manufacture",
+    "level": "B2"
+  },
+  {
+    "noun": "Höflichkeit",
+    "article": "die",
+    "plural": "Höflichkeiten",
+    "meaning": "politeness",
+    "level": "B2"
+  },
+  {
+    "noun": "Inhaltsverzeichnis",
+    "article": "das",
+    "plural": "Inhaltsverzeichnisse",
+    "meaning": "table of contents",
+    "level": "B2"
+  },
+  {
+    "noun": "Kameradschaft",
+    "article": "die",
+    "plural": "Kameradschaften",
+    "meaning": "fellowship",
+    "level": "B2"
+  },
+  {
+    "noun": "Klassifikation",
+    "article": "die",
+    "plural": "Klassifikationen",
+    "meaning": "classification",
+    "level": "B2"
+  },
+  {
+    "noun": "Kombination",
+    "article": "die",
+    "plural": "Kombinationen",
+    "meaning": "combination",
+    "level": "B2"
+  },
+  {
+    "noun": "Komposition",
+    "article": "die",
+    "plural": "Kompositionen",
+    "meaning": "composition",
+    "level": "B2"
+  },
+  {
+    "noun": "Konkurrenz",
+    "article": "die",
+    "plural": "Konkurrenzen",
+    "meaning": "competition",
+    "level": "B2"
+  },
+  {
+    "noun": "Konstruktion",
+    "article": "die",
+    "plural": "Konstruktionen",
+    "meaning": "construction",
+    "level": "B2"
+  },
+  {
+    "noun": "Korrektur",
+    "article": "die",
+    "plural": "Korrekturen",
+    "meaning": "correction",
+    "level": "B2"
+  },
+  {
+    "noun": "Kultur",
+    "article": "die",
+    "plural": "Kulturen",
+    "meaning": "culture",
+    "level": "B2"
+  },
+  {
+    "noun": "Kur",
+    "article": "die",
+    "plural": "Kuren",
+    "meaning": "cure",
+    "level": "B2"
+  },
+  {
+    "noun": "Landwirtschaft",
+    "article": "die",
+    "plural": "Landwirtschaften",
+    "meaning": "agriculture",
+    "level": "B2"
+  },
+  {
+    "noun": "Langsamkeit",
+    "article": "die",
+    "plural": "Langsamkeit",
+    "meaning": "slowness",
+    "level": "B2"
+  },
+  {
+    "noun": "Leichtigkeit",
+    "article": "die",
+    "plural": "Leichtigkeit",
+    "meaning": "ease",
+    "level": "B2"
+  },
+  {
+    "noun": "Leidenschaft",
+    "article": "die",
+    "plural": "Leidenschaften",
+    "meaning": "passion",
+    "level": "B2"
+  },
+  {
+    "noun": "Mannigfaltigkeit",
+    "article": "die",
+    "plural": "Mannigfaltigkeiten",
+    "meaning": "variety",
+    "level": "B2"
+  },
+  {
+    "noun": "Massenproduktion",
+    "article": "die",
+    "plural": "Massenproduktionen",
+    "meaning": "mass-production",
+    "level": "B2"
+  },
+  {
+    "noun": "Multiplikation",
+    "article": "die",
+    "plural": "Multiplikationen",
+    "meaning": "multiplication",
+    "level": "B2"
+  },
+  {
+    "noun": "Nation",
+    "article": "die",
+    "plural": "Nationen",
+    "meaning": "nation",
+    "level": "B2"
+  },
+  {
+    "noun": "Naturwissenschaft",
+    "article": "die",
+    "plural": "Naturwissenschaften",
+    "meaning": "natural science",
+    "level": "B2"
+  },
+  {
+    "noun": "Nichtachtung",
+    "article": "die",
+    "plural": "Nichtachtung",
+    "meaning": "disrespect",
+    "level": "B2"
+  },
+  {
+    "noun": "Notwendigkeit",
+    "article": "die",
+    "plural": "Notwendigkeiten",
+    "meaning": "necessity",
+    "level": "B2"
+  },
+  {
+    "noun": "Nützlichkeit",
+    "article": "die",
+    "plural": "Nützlichkeit",
+    "meaning": "usefulness",
+    "level": "B2"
+  },
+  {
+    "noun": "Parlament",
+    "article": "das",
+    "plural": "Parlamente",
+    "meaning": "parliament",
+    "level": "B2"
+  },
+  {
+    "noun": "Politur",
+    "article": "die",
+    "plural": "Polituren",
+    "meaning": "polish",
+    "level": "B2"
+  },
+  {
+    "noun": "Prozession",
+    "article": "die",
+    "plural": "Prozessionen",
+    "meaning": "procession",
+    "level": "B2"
+  },
+  {
+    "noun": "Pünktlichkeit",
+    "article": "die",
+    "plural": "Pünktlichkeit",
+    "meaning": "punctuality",
+    "level": "B2"
+  },
+  {
+    "noun": "Rasur",
+    "article": "die",
+    "plural": "Rasuren",
+    "meaning": "shave",
+    "level": "B2"
+  },
+  {
+    "noun": "Rechtschreibung",
+    "article": "die",
+    "plural": "Rechtschreibungen",
+    "meaning": "spelling",
+    "level": "B2"
+  },
+  {
+    "noun": "Referenz",
+    "article": "die",
+    "plural": "Referenzen",
+    "meaning": "reference",
+    "level": "B2"
+  },
+  {
+    "noun": "Reichtum",
+    "article": "der",
+    "plural": "Reichtümer",
+    "meaning": "wealth",
+    "level": "B2"
+  },
+  {
+    "noun": "Revolution",
+    "article": "die",
+    "plural": "Revolutionen",
+    "meaning": "revolution",
+    "level": "B2"
+  },
+  {
+    "noun": "Schläfrigkeit",
+    "article": "die",
+    "plural": "Schläfrigkeit",
+    "meaning": "sleepiness",
+    "level": "B2"
+  },
+  {
+    "noun": "Schmetterling",
+    "article": "der",
+    "plural": "Schmetterlinge",
+    "meaning": "butterfly",
+    "level": "B2"
+  },
+  {
+    "noun": "Schnelligkeit",
+    "article": "die",
+    "plural": "Schnelligkeiten",
+    "meaning": "quickness",
+    "level": "B2"
+  },
+  {
+    "noun": "Schüchternheit",
+    "article": "die",
+    "plural": "Schüchternheit",
+    "meaning": "shyness",
+    "level": "B2"
+  },
+  {
+    "noun": "Schulzeugnis",
+    "article": "das",
+    "plural": "Schulzeugnisse",
+    "meaning": "report",
+    "level": "B2"
+  },
+  {
+    "noun": "Schwanz",
+    "article": "der",
+    "plural": "Schwänze",
+    "meaning": "tail",
+    "level": "B2"
+  },
+  {
+    "noun": "Selbstverteidigung",
+    "article": "die",
+    "plural": "Selbstverteidigungen",
+    "meaning": "self-defence",
+    "level": "B2"
+  },
+  {
+    "noun": "Standardisierung",
+    "article": "die",
+    "plural": "Standardisierungen",
+    "meaning": "standardization",
+    "level": "B2"
+  },
+  {
+    "noun": "Substanz",
+    "article": "die",
+    "plural": "Substanzen",
+    "meaning": "substance",
+    "level": "B2"
+  },
+  {
+    "noun": "Suggestion",
+    "article": "die",
+    "plural": "Suggestionen",
+    "meaning": "suggestion",
+    "level": "B2"
+  },
+  {
+    "noun": "Tauglichkeit",
+    "article": "die",
+    "plural": "Tauglichkeit",
+    "meaning": "fitness",
+    "level": "B2"
+  },
+  {
+    "noun": "Temperament",
+    "article": "das",
+    "plural": "Temperamente",
+    "meaning": "temper",
+    "level": "B2"
+  },
+  {
+    "noun": "Tendenz",
+    "article": "die",
+    "plural": "Tendenzen",
+    "meaning": "tendency",
+    "level": "B2"
+  },
+  {
+    "noun": "Testament",
+    "article": "das",
+    "plural": "Testamente",
+    "meaning": "will",
+    "level": "B2"
+  },
+  {
+    "noun": "Theateraufführung",
+    "article": "die",
+    "plural": "Theateraufführungen",
+    "meaning": "theatrical performance",
+    "level": "B2"
+  },
+  {
+    "noun": "Theatervorstellung",
+    "article": "die",
+    "plural": "Theatervorstellungen",
+    "meaning": "performance",
+    "level": "B2"
+  },
+  {
+    "noun": "Traurigkeit",
+    "article": "die",
+    "plural": "Traurigkeiten",
+    "meaning": "sadness",
+    "level": "B2"
+  },
+  {
+    "noun": "Trockenheit",
+    "article": "die",
+    "plural": "Trockenheiten",
+    "meaning": "dryness",
+    "level": "B2"
+  },
+  {
+    "noun": "Übereinstimmung",
+    "article": "die",
+    "plural": "Übereinstimmungen",
+    "meaning": "agreement",
+    "level": "B2"
+  },
+  {
+    "noun": "Überprüfung",
+    "article": "die",
+    "plural": "Überprüfungen",
+    "meaning": "check",
+    "level": "B2"
+  },
+  {
+    "noun": "Übersetzung",
+    "article": "die",
+    "plural": "Übersetzungen",
+    "meaning": "translation",
+    "level": "B2"
+  },
+  {
+    "noun": "Überzeugung",
+    "article": "die",
+    "plural": "Überzeugungen",
+    "meaning": "conviction",
+    "level": "B2"
+  },
+  {
+    "noun": "Unabhängigkeit",
+    "article": "die",
+    "plural": "Unabhängigkeiten",
+    "meaning": "independence",
+    "level": "B2"
+  },
+  {
+    "noun": "Unannehmlichkeit",
+    "article": "die",
+    "plural": "Unannehmlichkeiten",
+    "meaning": "inconvenience",
+    "level": "B2"
+  },
+  {
+    "noun": "Unbequemlichkeit",
+    "article": "die",
+    "plural": "Unbequemlichkeiten",
+    "meaning": "discomfort",
+    "level": "B2"
+  },
+  {
+    "noun": "Ungewissheit",
+    "article": "die",
+    "plural": "Ungewissheiten",
+    "meaning": "uncertainty",
+    "level": "B2"
+  },
+  {
+    "noun": "Unmöglichkeit",
+    "article": "die",
+    "plural": "Unmöglichkeiten",
+    "meaning": "impossibility",
+    "level": "B2"
+  },
+  {
+    "noun": "Unregelmäßigkeit",
+    "article": "die",
+    "plural": "Unregelmäßigkeiten",
+    "meaning": "irregularity",
+    "level": "B2"
+  },
+  {
+    "noun": "Unterbrechung",
+    "article": "die",
+    "plural": "Unterbrechungen",
+    "meaning": "interruption",
+    "level": "B2"
+  },
+  {
+    "noun": "Veränderung",
+    "article": "die",
+    "plural": "Veränderungen",
+    "meaning": "change",
+    "level": "B2"
+  },
+  {
+    "noun": "Vereinigung",
+    "article": "die",
+    "plural": "Vereinigungen",
+    "meaning": "union",
+    "level": "B2"
+  },
+  {
+    "noun": "Vergangenheit",
+    "article": "die",
+    "plural": "Vergangenheiten",
+    "meaning": "past",
+    "level": "B2"
+  },
+  {
+    "noun": "Verhinderung",
+    "article": "die",
+    "plural": "Verhinderungen",
+    "meaning": "prevention",
+    "level": "B2"
+  },
+  {
+    "noun": "Verlängerung",
+    "article": "die",
+    "plural": "Verlängerungen",
+    "meaning": "extension",
+    "level": "B2"
+  },
+  {
+    "noun": "Vernachlässigung",
+    "article": "die",
+    "plural": "Vernachlässigungen",
+    "meaning": "neglect",
+    "level": "B2"
+  },
+  {
+    "noun": "Verpflegung",
+    "article": "die",
+    "plural": "Verpflegungen",
+    "meaning": "board",
+    "level": "B2"
+  },
+  {
+    "noun": "Verrücktheit",
+    "article": "die",
+    "plural": "Verrücktheiten",
+    "meaning": "madness",
+    "level": "B2"
+  },
+  {
+    "noun": "Verschwiegenheit",
+    "article": "die",
+    "plural": "Verschwiegenheit",
+    "meaning": "secrecy",
+    "level": "B2"
+  },
+  {
+    "noun": "Verwunderung",
+    "article": "die",
+    "plural": "Verwunderung",
+    "meaning": "wonder",
+    "level": "B2"
+  },
+  {
+    "noun": "Verzeichnis",
+    "article": "das",
+    "plural": "Verzeichnisse",
+    "meaning": "register",
+    "level": "B2"
+  },
+  {
+    "noun": "Verzögerung",
+    "article": "die",
+    "plural": "Verzögerungen",
+    "meaning": "delay",
+    "level": "B2"
+  },
+  {
+    "noun": "Verzweiflung",
+    "article": "die",
+    "plural": "Verzweiflungen",
+    "meaning": "despair",
+    "level": "B2"
+  },
+  {
+    "noun": "Vollkommenheit",
+    "article": "die",
+    "plural": "Vollkommenheiten",
+    "meaning": "perfection",
+    "level": "B2"
+  },
+  {
+    "noun": "Vortrefflichkeit",
+    "article": "die",
+    "plural": "Vortrefflichkeiten",
+    "meaning": "excellence",
+    "level": "B2"
+  },
+  {
+    "noun": "Wachstum",
+    "article": "das",
+    "plural": "Wachstum",
+    "meaning": "growth",
+    "level": "B2"
+  },
+  {
+    "noun": "Wichtigkeit",
+    "article": "die",
+    "plural": "Wichtigkeiten",
+    "meaning": "importance",
+    "level": "B2"
+  },
+  {
+    "noun": "Zärtlichkeit",
+    "article": "die",
+    "plural": "Zärtlichkeiten",
+    "meaning": "tenderness",
+    "level": "B2"
+  },
+  {
+    "noun": "Zeiteinheit",
+    "article": "die",
+    "plural": "Zeiteinheiten",
+    "meaning": "unit of time",
+    "level": "B2"
+  },
+  {
+    "noun": "Zierlichkeit",
+    "article": "die",
+    "plural": "Zierlichkeit",
+    "meaning": "neatness",
+    "level": "B2"
+  },
+  {
+    "noun": "Zivilisation",
+    "article": "die",
+    "plural": "Zivilisationen",
+    "meaning": "civilization",
+    "level": "B2"
+  },
+  {
+    "noun": "Zubereitung",
+    "article": "die",
+    "plural": "Zubereitungen",
+    "meaning": "preparation",
+    "level": "B2"
+  },
+  {
+    "noun": "Zuvorkommenheit",
+    "article": "die",
+    "plural": "Zuvorkommenheit",
+    "meaning": "thoughtfulness",
+    "level": "B2"
+  },
+  {
+    "noun": "Genehmigungsverfahren",
+    "article": "das",
+    "plural": "Genehmigungsverfahren",
+    "meaning": "approval procedure",
+    "level": "B2"
+  },
+  {
+    "noun": "Entwurfsphase",
+    "article": "die",
+    "plural": "Entwurfsphasen",
+    "meaning": "drafting phase",
+    "level": "B2"
+  },
+  {
+    "noun": "Machbarkeitsstudie",
+    "article": "die",
+    "plural": "Machbarkeitsstudien",
+    "meaning": "feasibility study",
+    "level": "B2"
+  },
+  {
+    "noun": "Kostenanalyse",
+    "article": "die",
+    "plural": "Kostenanalysen",
+    "meaning": "cost analysis",
+    "level": "B2"
+  },
+  {
+    "noun": "Risikobewertung",
+    "article": "die",
+    "plural": "Risikobewertungen",
+    "meaning": "risk assessment",
+    "level": "B2"
+  },
+  {
+    "noun": "Schadensersatz",
+    "article": "der",
+    "plural": "Schadensersatz",
+    "meaning": "compensation for damages",
+    "level": "B2"
+  },
+  {
+    "noun": "Vorstandsvorsitzende",
+    "article": "der",
+    "plural": "Vorstandsvorsitzende",
+    "meaning": "chairman of the board",
+    "level": "B2"
+  },
+  {
+    "noun": "Aufsichtsrat",
+    "article": "der",
+    "plural": "Aufsichtsräte",
+    "meaning": "supervisory board",
+    "level": "B2"
+  },
+  {
+    "noun": "Arbeitgeberverband",
+    "article": "der",
+    "plural": "Arbeitgeberverbände",
+    "meaning": "employers association",
+    "level": "B2"
+  },
+  {
+    "noun": "Tarifvertrag",
+    "article": "der",
+    "plural": "Tarifverträge",
+    "meaning": "collective bargaining agreement",
+    "level": "B2"
+  },
+  {
+    "noun": "Aussperrung",
+    "article": "die",
+    "plural": "Aussperrungen",
+    "meaning": "lockout",
+    "level": "B2"
+  },
+  {
+    "noun": "Subventionierung",
+    "article": "die",
+    "plural": "Subventionierung",
+    "meaning": "subsidization",
+    "level": "B2"
+  },
+  {
+    "noun": "Privatisierung",
+    "article": "die",
+    "plural": "Privatisierungen",
+    "meaning": "privatization",
+    "level": "B2"
+  },
+  {
+    "noun": "Monopolstellung",
+    "article": "die",
+    "plural": "Monopolstellungen",
+    "meaning": "monopoly position",
+    "level": "B2"
+  },
+  {
+    "noun": "Kartellbildung",
+    "article": "die",
+    "plural": "Kartellbildungen",
+    "meaning": "cartel formation",
+    "level": "B2"
+  },
+  {
+    "noun": "Marktsegmentierung",
+    "article": "die",
+    "plural": "Marktsegmentierungen",
+    "meaning": "market segmentation",
+    "level": "B2"
+  },
+  {
+    "noun": "Inflationsrate",
+    "article": "die",
+    "plural": "Inflationsraten",
+    "meaning": "inflation rate",
+    "level": "B2"
+  },
+  {
+    "noun": "Leitzins",
+    "article": "der",
+    "plural": "Leitzinsen",
+    "meaning": "benchmark interest rate",
+    "level": "B2"
+  },
+  {
+    "noun": "Handelsbilanz",
+    "article": "die",
+    "plural": "Handelsbilanzen",
+    "meaning": "trade balance",
+    "level": "B2"
+  },
+  {
+    "noun": "Währungskrise",
+    "article": "die",
+    "plural": "Währungskrisen",
+    "meaning": "currency crisis",
+    "level": "B2"
+  },
+  {
+    "noun": "Konjunkturzyklus",
+    "article": "der",
+    "plural": "Konjunkturzyklen",
+    "meaning": "economic cycle, business cycle",
+    "level": "B2"
+  },
+  {
+    "noun": "Expansion",
+    "article": "die",
+    "plural": "Expansionen",
+    "meaning": "economic expansion",
+    "level": "B2"
+  }
+]
