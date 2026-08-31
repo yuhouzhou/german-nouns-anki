@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anki German Noun Cards - Full-Screen Visual Preview</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f1f5f9;
+      color: #0f172a;
+      margin: 0;
+      padding: 30px 16px;
+    }
+    .preview-container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .preview-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+      gap: 24px;
+      margin-top: 20px;
+    }
+    .preview-card-wrapper {
+      background: #ffffff;
+      border-radius: 12px;
+      border: 1px solid #e2e8f0;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+    .preview-header {
+      background: #f8fafc;
+      padding: 10px 16px;
+      font-size: 12px;
+      font-weight: 700;
+      color: #64748b;
+      text-transform: uppercase;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    
+    /* Full Screen Card Mockup */
+    .card {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 20px;
+      text-align: center;
+      color: #0f172a;
+      background-color: #ffffff;
+      padding: 24px 20px 36px 20px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      min-height: 420px;
+    }
+    .dark-theme .card {
+      color: #f8fafc;
+      background-color: #0f172a;
+    }
+    .dark-theme .preview-header {
+      background: #1e293b;
+      color: #94a3b8;
+      border-color: #334155;
+    }
+    .dark-theme.preview-card-wrapper {
+      border-color: #334155;
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      margin-bottom: 24px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #f1f5f9;
+    }
+    .dark-theme .card-header { border-bottom-color: #1e293b; }
+
+    .badge {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      padding: 4px 10px;
+      border-radius: 9999px;
+    }
+    .badge-gender { background: #ede9fe; color: #6d28d9; }
+    .dark-theme .badge-gender { background: #3b0764; color: #d8b4fe; }
+    .badge-plural { background: #fef3c7; color: #b45309; }
+    .dark-theme .badge-plural { background: #451a03; color: #fde68a; }
+    .badge-level { background: #e0f2fe; color: #0369a1; }
+    .dark-theme .badge-level { background: #082f49; color: #7dd3fc; }
+
+    .prompt-title {
+      font-size: 12px;
+      font-weight: 700;
+      color: #64748b;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 12px;
+    }
+    .dark-theme .prompt-title { color: #94a3b8; }
+
+    .main-word-area { margin: 8px 0 12px 0; }
+    .main-noun {
+      font-size: 38px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+      margin: 0;
+    }
+    .placeholder {
+      color: #94a3b8;
+      font-weight: 400;
+      border-bottom: 3px dashed #cbd5e1;
+      padding: 0 4px;
+      margin-right: 4px;
+    }
+    .meaning {
+      font-size: 18px;
+      color: #64748b;
+      margin-top: 6px;
+      margin-bottom: 18px;
+      font-style: italic;
+    }
+    .dark-theme .meaning { color: #94a3b8; }
+
+    .article { font-weight: 900; margin-right: 6px; }
+    .noun { font-weight: 800; }
+    .der, .der .noun, .der .article, span.der { color: #0284c7 !important; }
+    .dark-theme .der, .dark-theme .der .noun, .dark-theme .der .article, .dark-theme span.der { color: #38bdf8 !important; }
+    .die, .die .noun, .die .article, span.die { color: #dc2626 !important; }
+    .dark-theme .die, .dark-theme .die .noun, .dark-theme .die .article, .dark-theme span.die { color: #f87171 !important; }
+    .das, .das .noun, .das .article, span.das { color: #16a34a !important; }
+    .dark-theme .das, .dark-theme .das .noun, .dark-theme .das .article, .dark-theme span.das { color: #4ade80 !important; }
+    .plural-article-neutral { color: #0f172a; font-weight: 800; margin-right: 6px; }
+    .dark-theme .plural-article-neutral { color: #f8fafc; }
+    .plural-highlight { color: #e11d48 !important; font-weight: 900; border-bottom: 2.5px solid #e11d48; padding-bottom: 1px; }
+    .dark-theme .plural-highlight { color: #fb7185 !important; border-bottom-color: #fb7185; }
+
+    .reference-banner {
+      font-size: 14px;
+      color: #64748b;
+      margin: 10px 0 16px 0;
+      padding: 6px 12px;
+      background: #f8fafc;
+      border-radius: 8px;
+      display: inline-block;
+      align-self: center;
+    }
+    .dark-theme .reference-banner { background: #1e293b; color: #94a3b8; }
+
+    .rule-box {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-left: 4px solid #6366f1;
+      border-radius: 10px;
+      padding: 12px 14px;
+      text-align: left;
+      font-size: 13.5px;
+      line-height: 1.45;
+      margin-top: 14px;
+      width: 100%;
+      box-sizing: border-box;
+    }
+    .dark-theme .rule-box {
+      background: #1e293b;
+      border-color: #334155;
+      border-left-color: #818cf8;
+      color: #f1f5f9;
+    }
+    .rule-header {
+      font-weight: 700;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #4338ca;
+      margin-bottom: 4px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .dark-theme .rule-header { color: #a5b4fc; }
+    .rule-body { color: #334155; }
+    .dark-theme .rule-body { color: #e2e8f0; }
+    .rule-examples {
+      margin-top: 6px;
+      padding-top: 6px;
+      border-top: 1px dashed #cbd5e1;
+      font-size: 12px;
+      color: #64748b;
+      font-style: italic;
+    }
+    .dark-theme .rule-examples { border-top-color: #334155; color: #94a3b8; }
+  </style>
+</head>
+<body>
+  <div class="preview-container">
+    <h1 style="margin: 0 0 6px 0; font-size: 24px;">German Nouns Anki Deck - Full Screen Layout</h1>
+    <p style="margin: 0; color: #64748b; font-size: 14px;">Full Edge-to-Edge Screen on iPhone & Desktop &bull; Separate Subdecks for Gender & Plural &bull; Zero Sibling Burying</p>
+
+    <div class="preview-grid">
+      <!-- 1. Gender Front -->
+      <div class="preview-card-wrapper">
+        <div class="preview-header">1. Gender Card (Front)</div>
+        <div class="card">
+          <div class="card-header">
+            <span class="badge badge-gender">GENDER</span>
+            <span class="badge badge-level">A1</span>
+          </div>
+          <div class="prompt-title">Which article (der / die / das)?</div>
+          <div class="main-word-area">
+            <div class="main-noun"><span class="placeholder">___</span> Hund</div>
+            <div class="meaning">dog</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 2. Gender Back (Blue) - Clean Root Noun (No Rule Box, No Plural) -->
+      <div class="preview-card-wrapper">
+        <div class="preview-header">1. Gender Card (Back) - der Hund (Clean)</div>
+        <div class="card">
+          <div class="card-header">
+            <span class="badge badge-gender">GENDER</span>
+            <span class="badge badge-level">A1</span>
+          </div>
+          <div class="main-word-area">
+            <div class="main-noun der"><span class="article der">der</span> <span class="noun der">Hund</span></div>
+            <div class="meaning">dog</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3. Plural Front -->
+      <div class="preview-card-wrapper">
+        <div class="preview-header">2. Plural Card (Front)</div>
+        <div class="card">
+          <div class="card-header">
+            <span class="badge badge-plural">PLURAL</span>
+            <span class="badge badge-level">A1</span>
+          </div>
+          <div class="prompt-title">What is the plural form?</div>
+          <div class="main-word-area">
+            <div class="main-noun der"><span class="article der">der</span> <span class="noun der">Hund</span></div>
+            <div class="meaning">dog</div>
+          </div>
+          <div style="margin: 20px 0 12px 0;">
+            <div class="prompt-title">Plural Form:</div>
+            <div class="main-noun" style="font-size: 32px;">
+              <span class="plural-article-neutral">die</span> <span class="placeholder" style="padding: 0 16px;">__________</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 4. Plural Back -->
+      <div class="preview-card-wrapper">
+        <div class="preview-header">2. Plural Card (Back) - Highlighted Ending</div>
+        <div class="card">
+          <div class="card-header">
+            <span class="badge badge-plural">PLURAL</span>
+            <span class="badge badge-level">A1</span>
+          </div>
+          <div class="main-word-area">
+            <div class="main-noun"><span class="plural-article-neutral">die</span> <span class="noun">Hund<span class="plural-highlight">e</span></span></div>
+            <div class="meaning">dog</div>
+          </div>
+          <div class="reference-banner">
+            Singular: <span class="der"><b>der Hund</b></span>
+          </div>
+          <div class="rule-box">
+            <div class="rule-header"><span>💡</span> Plural Formation</div>
+            <div class="rule-summary">Takes standard plural suffix <b>-e</b></div>
+            <div class="rule-detail">Regular suffix -e without stem vowel change.</div>
+            <div class="rule-examples">Pattern examples: der Hund &rarr; die Hunde, der Tag &rarr; die Tage</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 5. Dark Mode Female Red -->
+      <div class="preview-card-wrapper dark-theme">
+        <div class="preview-header">Dark Mode: die Red (-keit Rule)</div>
+        <div class="card">
+          <div class="card-header">
+            <span class="badge badge-gender">GENDER</span>
+            <span class="badge badge-level">B1</span>
+          </div>
+          <div class="main-word-area">
+            <div class="main-noun die"><span class="article die">die</span> <span class="noun die">Möglichkeit</span></div>
+            <div class="meaning">possibility, opportunity</div>
+          </div>
+          <div class="rule-box">
+            <div class="rule-header"><span>💡</span> Rule Hint</div>
+            <div class="rule-summary">Suffix <b>-keit</b> &rarr; 100% Feminine (<i>die</i>)</div>
+            <div class="rule-detail">Forms abstract nouns describing qualities, abilities, and states.</div>
+            <div class="rule-examples">Examples: die Möglichkeit, die Einsamkeit, die Fähigkeit</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 6. Dark Mode Neuter Green -->
+      <div class="preview-card-wrapper dark-theme">
+        <div class="preview-header">Dark Mode: das Green (-chen Diminutive)</div>
+        <div class="card">
+          <div class="card-header">
+            <span class="badge badge-gender">GENDER</span>
+            <span class="badge badge-level">A1</span>
+          </div>
+          <div class="main-word-area">
+            <div class="main-noun das"><span class="article das">das</span> <span class="noun das">Mädchen</span></div>
+            <div class="meaning">girl</div>
+          </div>
+          <div class="rule-box">
+            <div class="rule-header"><span>💡</span> Rule Hint</div>
+            <div class="rule-summary">Diminutive <b>-chen</b> &rarr; 100% Neuter (<i>das</i>)</div>
+            <div class="rule-detail">Overrules biological gender without exception.</div>
+            <div class="rule-examples">Examples: das Mädchen, das Brötchen, das Häuschen</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
