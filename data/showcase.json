@@ -1,0 +1,65 @@
+[
+  {
+    "noun": "Hund",
+    "article": "der",
+    "plural": "Hunde",
+    "meaning": "dog",
+    "level": "A1"
+  },
+  {
+    "noun": "Möglichkeit",
+    "article": "die",
+    "plural": "Möglichkeiten",
+    "meaning": "possibility, opportunity",
+    "level": "B1"
+  },
+  {
+    "noun": "Mädchen",
+    "article": "das",
+    "plural": "Mädchen",
+    "meaning": "girl",
+    "level": "A1"
+  },
+  {
+    "noun": "Sommer",
+    "article": "der",
+    "plural": "Sommer",
+    "meaning": "summer",
+    "level": "A1"
+  },
+  {
+    "noun": "Katze",
+    "article": "die",
+    "plural": "Katzen",
+    "meaning": "cat",
+    "level": "A1"
+  },
+  {
+    "noun": "Gebäude",
+    "article": "das",
+    "plural": "Gebäude",
+    "meaning": "building",
+    "level": "A2"
+  },
+  {
+    "noun": "Universität",
+    "article": "die",
+    "plural": "Universitäten",
+    "meaning": "university",
+    "level": "A1"
+  },
+  {
+    "noun": "Optimismus",
+    "article": "der",
+    "plural": "Optimismen",
+    "meaning": "optimism",
+    "level": "B2"
+  },
+  {
+    "noun": "Museum",
+    "article": "das",
+    "plural": "Museen",
+    "meaning": "museum",
+    "level": "A1"
+  }
+]
