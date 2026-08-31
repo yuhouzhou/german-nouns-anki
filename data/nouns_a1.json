@@ -1,0 +1,7618 @@
+[
+  {
+    "noun": "Abend",
+    "article": "der",
+    "plural": "Abende",
+    "meaning": "evening",
+    "level": "A1"
+  },
+  {
+    "noun": "Abfahrt",
+    "article": "die",
+    "plural": "Abfahrten",
+    "meaning": "departure",
+    "level": "A1"
+  },
+  {
+    "noun": "Adresse",
+    "article": "die",
+    "plural": "Adressen",
+    "meaning": "address",
+    "level": "A1"
+  },
+  {
+    "noun": "Ärztin",
+    "article": "die",
+    "plural": "Ärztinnen",
+    "meaning": "female doctor",
+    "level": "A1"
+  },
+  {
+    "noun": "Akku",
+    "article": "der",
+    "plural": "Akkus",
+    "meaning": "battery",
+    "level": "A1"
+  },
+  {
+    "noun": "Alltag",
+    "article": "der",
+    "plural": "Alltage",
+    "meaning": "everyday life",
+    "level": "A1"
+  },
+  {
+    "noun": "Alter",
+    "article": "das",
+    "plural": "Alter",
+    "meaning": "age",
+    "level": "A1"
+  },
+  {
+    "noun": "Altstadt",
+    "article": "die",
+    "plural": "Altstädte",
+    "meaning": "old town",
+    "level": "A1"
+  },
+  {
+    "noun": "Anfang",
+    "article": "der",
+    "plural": "Anfänge",
+    "meaning": "beginning",
+    "level": "A1"
+  },
+  {
+    "noun": "Ankunft",
+    "article": "die",
+    "plural": "Ankünfte",
+    "meaning": "arrival",
+    "level": "A1"
+  },
+  {
+    "noun": "Anmeldung",
+    "article": "die",
+    "plural": "Anmeldungen",
+    "meaning": "registration",
+    "level": "A1"
+  },
+  {
+    "noun": "Antwort",
+    "article": "die",
+    "plural": "Antworten",
+    "meaning": "answer",
+    "level": "A1"
+  },
+  {
+    "noun": "Apfel",
+    "article": "der",
+    "plural": "Äpfel",
+    "meaning": "apple",
+    "level": "A1"
+  },
+  {
+    "noun": "Apotheke",
+    "article": "die",
+    "plural": "Apotheken",
+    "meaning": "pharmacy",
+    "level": "A1"
+  },
+  {
+    "noun": "App",
+    "article": "die",
+    "plural": "Apps",
+    "meaning": "app",
+    "level": "A1"
+  },
+  {
+    "noun": "April",
+    "article": "der",
+    "plural": "Aprile",
+    "meaning": "April",
+    "level": "A1"
+  },
+  {
+    "noun": "Arbeit",
+    "article": "die",
+    "plural": "Arbeiten",
+    "meaning": "work",
+    "level": "A1"
+  },
+  {
+    "noun": "Arm",
+    "article": "der",
+    "plural": "Arme",
+    "meaning": "arm",
+    "level": "A1"
+  },
+  {
+    "noun": "Artikel",
+    "article": "der",
+    "plural": "Artikel",
+    "meaning": "article",
+    "level": "A1"
+  },
+  {
+    "noun": "Arzt",
+    "article": "der",
+    "plural": "Ärzte",
+    "meaning": "doctor",
+    "level": "A1"
+  },
+  {
+    "noun": "Aufgabe",
+    "article": "die",
+    "plural": "Aufgaben",
+    "meaning": "task, exercise",
+    "level": "A1"
+  },
+  {
+    "noun": "Aufzug",
+    "article": "der",
+    "plural": "Aufzüge",
+    "meaning": "elevator",
+    "level": "A1"
+  },
+  {
+    "noun": "Auge",
+    "article": "das",
+    "plural": "Augen",
+    "meaning": "eye",
+    "level": "A1"
+  },
+  {
+    "noun": "August",
+    "article": "der",
+    "plural": "Auguste",
+    "meaning": "August",
+    "level": "A1"
+  },
+  {
+    "noun": "Ausflug",
+    "article": "der",
+    "plural": "Ausflüge",
+    "meaning": "excursion",
+    "level": "A1"
+  },
+  {
+    "noun": "Auskunft",
+    "article": "die",
+    "plural": "Auskünfte",
+    "meaning": "information",
+    "level": "A1"
+  },
+  {
+    "noun": "Ausland",
+    "article": "das",
+    "plural": "Ausland",
+    "meaning": "abroad",
+    "level": "A1"
+  },
+  {
+    "noun": "Aussicht",
+    "article": "die",
+    "plural": "Aussichten",
+    "meaning": "view",
+    "level": "A1"
+  },
+  {
+    "noun": "Ausstellung",
+    "article": "die",
+    "plural": "Ausstellungen",
+    "meaning": "exhibition",
+    "level": "A1"
+  },
+  {
+    "noun": "Auto",
+    "article": "das",
+    "plural": "Autos",
+    "meaning": "car",
+    "level": "A1"
+  },
+  {
+    "noun": "Autobahn",
+    "article": "die",
+    "plural": "Autobahnen",
+    "meaning": "highway",
+    "level": "A1"
+  },
+  {
+    "noun": "Baby",
+    "article": "das",
+    "plural": "Babys",
+    "meaning": "baby",
+    "level": "A1"
+  },
+  {
+    "noun": "Badewanne",
+    "article": "die",
+    "plural": "Badewannen",
+    "meaning": "bathtub",
+    "level": "A1"
+  },
+  {
+    "noun": "Bäckerei",
+    "article": "die",
+    "plural": "Bäckereien",
+    "meaning": "bakery",
+    "level": "A1"
+  },
+  {
+    "noun": "Bahnhof",
+    "article": "der",
+    "plural": "Bahnhöfe",
+    "meaning": "train station",
+    "level": "A1"
+  },
+  {
+    "noun": "Bahnsteig",
+    "article": "der",
+    "plural": "Bahnsteige",
+    "meaning": "platform",
+    "level": "A1"
+  },
+  {
+    "noun": "Balkon",
+    "article": "der",
+    "plural": "Balkons",
+    "meaning": "balcony",
+    "level": "A1"
+  },
+  {
+    "noun": "Banane",
+    "article": "die",
+    "plural": "Bananen",
+    "meaning": "banana",
+    "level": "A1"
+  },
+  {
+    "noun": "Bank",
+    "article": "die",
+    "plural": "Bänke",
+    "meaning": "bank",
+    "level": "A1"
+  },
+  {
+    "noun": "Bauch",
+    "article": "der",
+    "plural": "Bäuche",
+    "meaning": "belly, stomach",
+    "level": "A1"
+  },
+  {
+    "noun": "Baum",
+    "article": "der",
+    "plural": "Bäume",
+    "meaning": "tree",
+    "level": "A1"
+  },
+  {
+    "noun": "Bein",
+    "article": "das",
+    "plural": "Beine",
+    "meaning": "leg",
+    "level": "A1"
+  },
+  {
+    "noun": "Beispiel",
+    "article": "das",
+    "plural": "Beispiele",
+    "meaning": "example",
+    "level": "A1"
+  },
+  {
+    "noun": "Benzin",
+    "article": "das",
+    "plural": "Benzine",
+    "meaning": "gasoline",
+    "level": "A1"
+  },
+  {
+    "noun": "Berg",
+    "article": "der",
+    "plural": "Berge",
+    "meaning": "mountain",
+    "level": "A1"
+  },
+  {
+    "noun": "Bericht",
+    "article": "der",
+    "plural": "Berichte",
+    "meaning": "report",
+    "level": "A1"
+  },
+  {
+    "noun": "Beruf",
+    "article": "der",
+    "plural": "Berufe",
+    "meaning": "profession",
+    "level": "A1"
+  },
+  {
+    "noun": "Bett",
+    "article": "das",
+    "plural": "Betten",
+    "meaning": "bed",
+    "level": "A1"
+  },
+  {
+    "noun": "Bewegung",
+    "article": "die",
+    "plural": "Bewegungen",
+    "meaning": "exercise, movement",
+    "level": "A1"
+  },
+  {
+    "noun": "Bewerbung",
+    "article": "die",
+    "plural": "Bewerbungen",
+    "meaning": "application",
+    "level": "A1"
+  },
+  {
+    "noun": "Bewohner",
+    "article": "der",
+    "plural": "Bewohner",
+    "meaning": "resident",
+    "level": "A1"
+  },
+  {
+    "noun": "Bibliothek",
+    "article": "die",
+    "plural": "Bibliotheken",
+    "meaning": "library",
+    "level": "A1"
+  },
+  {
+    "noun": "Bier",
+    "article": "das",
+    "plural": "Biere",
+    "meaning": "beer",
+    "level": "A1"
+  },
+  {
+    "noun": "Bild",
+    "article": "das",
+    "plural": "Bilder",
+    "meaning": "picture",
+    "level": "A1"
+  },
+  {
+    "noun": "Bleistift",
+    "article": "der",
+    "plural": "Bleistifte",
+    "meaning": "pencil",
+    "level": "A1"
+  },
+  {
+    "noun": "Blume",
+    "article": "die",
+    "plural": "Blumen",
+    "meaning": "flower",
+    "level": "A1"
+  },
+  {
+    "noun": "Bluse",
+    "article": "die",
+    "plural": "Blusen",
+    "meaning": "blouse",
+    "level": "A1"
+  },
+  {
+    "noun": "Blut",
+    "article": "das",
+    "plural": "Blute",
+    "meaning": "blood",
+    "level": "A1"
+  },
+  {
+    "noun": "Boden",
+    "article": "der",
+    "plural": "Böden",
+    "meaning": "floor, ground",
+    "level": "A1"
+  },
+  {
+    "noun": "Brief",
+    "article": "der",
+    "plural": "Briefe",
+    "meaning": "letter",
+    "level": "A1"
+  },
+  {
+    "noun": "Brille",
+    "article": "die",
+    "plural": "Brillen",
+    "meaning": "glasses",
+    "level": "A1"
+  },
+  {
+    "noun": "Brötchen",
+    "article": "das",
+    "plural": "Brötchen",
+    "meaning": "bread roll",
+    "level": "A1"
+  },
+  {
+    "noun": "Brot",
+    "article": "das",
+    "plural": "Brote",
+    "meaning": "bread",
+    "level": "A1"
+  },
+  {
+    "noun": "Bruder",
+    "article": "der",
+    "plural": "Brüder",
+    "meaning": "brother",
+    "level": "A1"
+  },
+  {
+    "noun": "Brücke",
+    "article": "die",
+    "plural": "Brücken",
+    "meaning": "bridge",
+    "level": "A1"
+  },
+  {
+    "noun": "Buch",
+    "article": "das",
+    "plural": "Bücher",
+    "meaning": "book",
+    "level": "A1"
+  },
+  {
+    "noun": "Buchstabe",
+    "article": "der",
+    "plural": "Buchstaben",
+    "meaning": "letter (alphabet)",
+    "level": "A1"
+  },
+  {
+    "noun": "Büro",
+    "article": "das",
+    "plural": "Büros",
+    "meaning": "office",
+    "level": "A1"
+  },
+  {
+    "noun": "Bus",
+    "article": "der",
+    "plural": "Busse",
+    "meaning": "bus",
+    "level": "A1"
+  },
+  {
+    "noun": "Butter",
+    "article": "die",
+    "plural": "Butters",
+    "meaning": "butter",
+    "level": "A1"
+  },
+  {
+    "noun": "Café",
+    "article": "das",
+    "plural": "Cafés",
+    "meaning": "café",
+    "level": "A1"
+  },
+  {
+    "noun": "Chef",
+    "article": "der",
+    "plural": "Chefs",
+    "meaning": "boss",
+    "level": "A1"
+  },
+  {
+    "noun": "Chefin",
+    "article": "die",
+    "plural": "Chefinnen",
+    "meaning": "female boss",
+    "level": "A1"
+  },
+  {
+    "noun": "Computer",
+    "article": "der",
+    "plural": "Computer",
+    "meaning": "computer",
+    "level": "A1"
+  },
+  {
+    "noun": "Datei",
+    "article": "die",
+    "plural": "Dateien",
+    "meaning": "file",
+    "level": "A1"
+  },
+  {
+    "noun": "Datum",
+    "article": "das",
+    "plural": "Daten",
+    "meaning": "date",
+    "level": "A1"
+  },
+  {
+    "noun": "Dezember",
+    "article": "der",
+    "plural": "Dezember",
+    "meaning": "December",
+    "level": "A1"
+  },
+  {
+    "noun": "Dienstag",
+    "article": "der",
+    "plural": "Dienstage",
+    "meaning": "Tuesday",
+    "level": "A1"
+  },
+  {
+    "noun": "Doktor",
+    "article": "der",
+    "plural": "Doktoren",
+    "meaning": "doctor (title)",
+    "level": "A1"
+  },
+  {
+    "noun": "Donnerstag",
+    "article": "der",
+    "plural": "Donnerstage",
+    "meaning": "Thursday",
+    "level": "A1"
+  },
+  {
+    "noun": "Dorf",
+    "article": "das",
+    "plural": "Dörfer",
+    "meaning": "village",
+    "level": "A1"
+  },
+  {
+    "noun": "Dose",
+    "article": "die",
+    "plural": "Dosen",
+    "meaning": "can, tin",
+    "level": "A1"
+  },
+  {
+    "noun": "Drucker",
+    "article": "der",
+    "plural": "Drucker",
+    "meaning": "printer",
+    "level": "A1"
+  },
+  {
+    "noun": "Durst",
+    "article": "der",
+    "plural": "Durst",
+    "meaning": "thirst",
+    "level": "A1"
+  },
+  {
+    "noun": "Dusche",
+    "article": "die",
+    "plural": "Duschen",
+    "meaning": "shower",
+    "level": "A1"
+  },
+  {
+    "noun": "E-Mail",
+    "article": "die",
+    "plural": "E-Mails",
+    "meaning": "email",
+    "level": "A1"
+  },
+  {
+    "noun": "Ei",
+    "article": "das",
+    "plural": "Eier",
+    "meaning": "egg",
+    "level": "A1"
+  },
+  {
+    "noun": "Eingang",
+    "article": "der",
+    "plural": "Eingänge",
+    "meaning": "entrance",
+    "level": "A1"
+  },
+  {
+    "noun": "Einkaufswagen",
+    "article": "der",
+    "plural": "Einkaufswagen",
+    "meaning": "shopping cart",
+    "level": "A1"
+  },
+  {
+    "noun": "Eintrittskarte",
+    "article": "die",
+    "plural": "Eintrittskarten",
+    "meaning": "ticket (admission)",
+    "level": "A1"
+  },
+  {
+    "noun": "Eis",
+    "article": "das",
+    "plural": "Eis",
+    "meaning": "ice, ice cream",
+    "level": "A1"
+  },
+  {
+    "noun": "Ende",
+    "article": "das",
+    "plural": "Enden",
+    "meaning": "end",
+    "level": "A1"
+  },
+  {
+    "noun": "Erdbeere",
+    "article": "die",
+    "plural": "Erdbeeren",
+    "meaning": "strawberry",
+    "level": "A1"
+  },
+  {
+    "noun": "Erdgeschoss",
+    "article": "das",
+    "plural": "Erdgeschosse",
+    "meaning": "ground floor",
+    "level": "A1"
+  },
+  {
+    "noun": "Ergebnis",
+    "article": "das",
+    "plural": "Ergebnisse",
+    "meaning": "result",
+    "level": "A1"
+  },
+  {
+    "noun": "Erlaubnis",
+    "article": "die",
+    "plural": "Erlaubnisse",
+    "meaning": "permission",
+    "level": "A1"
+  },
+  {
+    "noun": "Experiment",
+    "article": "das",
+    "plural": "Experimente",
+    "meaning": "experiment",
+    "level": "A1"
+  },
+  {
+    "noun": "Fahrkarte",
+    "article": "die",
+    "plural": "Fahrkarten",
+    "meaning": "ticket (transport)",
+    "level": "A1"
+  },
+  {
+    "noun": "Fahrrad",
+    "article": "das",
+    "plural": "Fahrräder",
+    "meaning": "bicycle",
+    "level": "A1"
+  },
+  {
+    "noun": "Familie",
+    "article": "die",
+    "plural": "Familien",
+    "meaning": "family",
+    "level": "A1"
+  },
+  {
+    "noun": "Farbe",
+    "article": "die",
+    "plural": "Farben",
+    "meaning": "color",
+    "level": "A1"
+  },
+  {
+    "noun": "Februar",
+    "article": "der",
+    "plural": "Februare",
+    "meaning": "February",
+    "level": "A1"
+  },
+  {
+    "noun": "Fehler",
+    "article": "der",
+    "plural": "Fehler",
+    "meaning": "mistake",
+    "level": "A1"
+  },
+  {
+    "noun": "Feier",
+    "article": "die",
+    "plural": "Feiern",
+    "meaning": "celebration",
+    "level": "A1"
+  },
+  {
+    "noun": "Feiertag",
+    "article": "der",
+    "plural": "Feiertage",
+    "meaning": "holiday",
+    "level": "A1"
+  },
+  {
+    "noun": "Fenster",
+    "article": "das",
+    "plural": "Fenster",
+    "meaning": "window",
+    "level": "A1"
+  },
+  {
+    "noun": "Fernseher",
+    "article": "der",
+    "plural": "Fernseher",
+    "meaning": "TV set",
+    "level": "A1"
+  },
+  {
+    "noun": "Fest",
+    "article": "das",
+    "plural": "Feste",
+    "meaning": "festival, party",
+    "level": "A1"
+  },
+  {
+    "noun": "Fett",
+    "article": "das",
+    "plural": "Fette",
+    "meaning": "fat",
+    "level": "A1"
+  },
+  {
+    "noun": "Feuer",
+    "article": "das",
+    "plural": "Feuer",
+    "meaning": "fire",
+    "level": "A1"
+  },
+  {
+    "noun": "Fieber",
+    "article": "das",
+    "plural": "Fieber",
+    "meaning": "fever",
+    "level": "A1"
+  },
+  {
+    "noun": "Finger",
+    "article": "der",
+    "plural": "Finger",
+    "meaning": "finger",
+    "level": "A1"
+  },
+  {
+    "noun": "Firma",
+    "article": "die",
+    "plural": "Firmen",
+    "meaning": "company",
+    "level": "A1"
+  },
+  {
+    "noun": "Fisch",
+    "article": "der",
+    "plural": "Fische",
+    "meaning": "fish",
+    "level": "A1"
+  },
+  {
+    "noun": "Fitness",
+    "article": "die",
+    "plural": "Fitness",
+    "meaning": "fitness",
+    "level": "A1"
+  },
+  {
+    "noun": "Flasche",
+    "article": "die",
+    "plural": "Flaschen",
+    "meaning": "bottle",
+    "level": "A1"
+  },
+  {
+    "noun": "Fleisch",
+    "article": "das",
+    "plural": "Fleisch",
+    "meaning": "meat",
+    "level": "A1"
+  },
+  {
+    "noun": "Flughafen",
+    "article": "der",
+    "plural": "Flughäfen",
+    "meaning": "airport",
+    "level": "A1"
+  },
+  {
+    "noun": "Flugzeug",
+    "article": "das",
+    "plural": "Flugzeuge",
+    "meaning": "aeroplane",
+    "level": "A1"
+  },
+  {
+    "noun": "Fluss",
+    "article": "der",
+    "plural": "Flüsse",
+    "meaning": "river",
+    "level": "A1"
+  },
+  {
+    "noun": "Formular",
+    "article": "das",
+    "plural": "Formulare",
+    "meaning": "form",
+    "level": "A1"
+  },
+  {
+    "noun": "Frage",
+    "article": "die",
+    "plural": "Fragen",
+    "meaning": "question",
+    "level": "A1"
+  },
+  {
+    "noun": "Frau",
+    "article": "die",
+    "plural": "Frauen",
+    "meaning": "woman, Mrs.",
+    "level": "A1"
+  },
+  {
+    "noun": "Freitag",
+    "article": "der",
+    "plural": "Freitage",
+    "meaning": "Friday",
+    "level": "A1"
+  },
+  {
+    "noun": "Freizeit",
+    "article": "die",
+    "plural": "Freizeiten",
+    "meaning": "free time",
+    "level": "A1"
+  },
+  {
+    "noun": "Freund",
+    "article": "der",
+    "plural": "Freunde",
+    "meaning": "friend (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Freundin",
+    "article": "die",
+    "plural": "Freundinnen",
+    "meaning": "friend (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Frühling",
+    "article": "der",
+    "plural": "Frühlinge",
+    "meaning": "spring",
+    "level": "A1"
+  },
+  {
+    "noun": "Frühstück",
+    "article": "das",
+    "plural": "Frühstücke",
+    "meaning": "breakfast",
+    "level": "A1"
+  },
+  {
+    "noun": "Fuß",
+    "article": "der",
+    "plural": "Füße",
+    "meaning": "foot",
+    "level": "A1"
+  },
+  {
+    "noun": "Fußball",
+    "article": "der",
+    "plural": "Fußbälle",
+    "meaning": "football/soccer",
+    "level": "A1"
+  },
+  {
+    "noun": "Gabel",
+    "article": "die",
+    "plural": "Gabeln",
+    "meaning": "fork",
+    "level": "A1"
+  },
+  {
+    "noun": "Garage",
+    "article": "die",
+    "plural": "Garagen",
+    "meaning": "garage",
+    "level": "A1"
+  },
+  {
+    "noun": "Garten",
+    "article": "der",
+    "plural": "Gärten",
+    "meaning": "garden",
+    "level": "A1"
+  },
+  {
+    "noun": "Gast",
+    "article": "der",
+    "plural": "Gäste",
+    "meaning": "guest",
+    "level": "A1"
+  },
+  {
+    "noun": "Gebäude",
+    "article": "das",
+    "plural": "Gebäude",
+    "meaning": "building",
+    "level": "A1"
+  },
+  {
+    "noun": "Geburtstag",
+    "article": "der",
+    "plural": "Geburtstage",
+    "meaning": "birthday",
+    "level": "A1"
+  },
+  {
+    "noun": "Geld",
+    "article": "das",
+    "plural": "Gelder",
+    "meaning": "money",
+    "level": "A1"
+  },
+  {
+    "noun": "Gemüse",
+    "article": "das",
+    "plural": "Gemüse",
+    "meaning": "vegetables",
+    "level": "A1"
+  },
+  {
+    "noun": "Gepäck",
+    "article": "das",
+    "plural": "Gepäck",
+    "meaning": "luggage",
+    "level": "A1"
+  },
+  {
+    "noun": "Gerät",
+    "article": "das",
+    "plural": "Geräte",
+    "meaning": "device",
+    "level": "A1"
+  },
+  {
+    "noun": "Gericht",
+    "article": "das",
+    "plural": "Gerichte",
+    "meaning": "dish",
+    "level": "A1"
+  },
+  {
+    "noun": "Geschäft",
+    "article": "das",
+    "plural": "Geschäfte",
+    "meaning": "shop, store",
+    "level": "A1"
+  },
+  {
+    "noun": "Geschenk",
+    "article": "das",
+    "plural": "Geschenke",
+    "meaning": "gift, present",
+    "level": "A1"
+  },
+  {
+    "noun": "Geschichte",
+    "article": "die",
+    "plural": "Geschichten",
+    "meaning": "story, history",
+    "level": "A1"
+  },
+  {
+    "noun": "Gesicht",
+    "article": "das",
+    "plural": "Gesichter",
+    "meaning": "face",
+    "level": "A1"
+  },
+  {
+    "noun": "Getränk",
+    "article": "das",
+    "plural": "Getränke",
+    "meaning": "drink, beverage",
+    "level": "A1"
+  },
+  {
+    "noun": "Glas",
+    "article": "das",
+    "plural": "Gläser",
+    "meaning": "glass",
+    "level": "A1"
+  },
+  {
+    "noun": "Gleis",
+    "article": "das",
+    "plural": "Gleise",
+    "meaning": "track, platform",
+    "level": "A1"
+  },
+  {
+    "noun": "Glück",
+    "article": "das",
+    "plural": "Glück",
+    "meaning": "luck, happiness",
+    "level": "A1"
+  },
+  {
+    "noun": "Größe",
+    "article": "die",
+    "plural": "Größen",
+    "meaning": "size",
+    "level": "A1"
+  },
+  {
+    "noun": "Großmutter",
+    "article": "die",
+    "plural": "Großmütter",
+    "meaning": "grandmother",
+    "level": "A1"
+  },
+  {
+    "noun": "Großvater",
+    "article": "der",
+    "plural": "Großväter",
+    "meaning": "grandfather",
+    "level": "A1"
+  },
+  {
+    "noun": "Grundschule",
+    "article": "die",
+    "plural": "Grundschulen",
+    "meaning": "primary school",
+    "level": "A1"
+  },
+  {
+    "noun": "Gruß",
+    "article": "der",
+    "plural": "Grüße",
+    "meaning": "greeting",
+    "level": "A1"
+  },
+  {
+    "noun": "Gurke",
+    "article": "die",
+    "plural": "Gurken",
+    "meaning": "cucumber",
+    "level": "A1"
+  },
+  {
+    "noun": "Haar",
+    "article": "das",
+    "plural": "Haare",
+    "meaning": "hair",
+    "level": "A1"
+  },
+  {
+    "noun": "Hähnchen",
+    "article": "das",
+    "plural": "Hähnchen",
+    "meaning": "chicken",
+    "level": "A1"
+  },
+  {
+    "noun": "Halle",
+    "article": "die",
+    "plural": "Hallen",
+    "meaning": "hall",
+    "level": "A1"
+  },
+  {
+    "noun": "Hals",
+    "article": "der",
+    "plural": "Hälse",
+    "meaning": "throat, neck",
+    "level": "A1"
+  },
+  {
+    "noun": "Haltestelle",
+    "article": "die",
+    "plural": "Haltestellen",
+    "meaning": "stop (bus/tram)",
+    "level": "A1"
+  },
+  {
+    "noun": "Hand",
+    "article": "die",
+    "plural": "Hände",
+    "meaning": "hand",
+    "level": "A1"
+  },
+  {
+    "noun": "Handtasche",
+    "article": "die",
+    "plural": "Handtaschen",
+    "meaning": "handbag",
+    "level": "A1"
+  },
+  {
+    "noun": "Handy",
+    "article": "das",
+    "plural": "Handys",
+    "meaning": "mobile phone",
+    "level": "A1"
+  },
+  {
+    "noun": "Hauptbahnhof",
+    "article": "der",
+    "plural": "Hauptbahnhöfe",
+    "meaning": "main train station",
+    "level": "A1"
+  },
+  {
+    "noun": "Haus",
+    "article": "das",
+    "plural": "Häuser",
+    "meaning": "house",
+    "level": "A1"
+  },
+  {
+    "noun": "Hausaufgabe",
+    "article": "die",
+    "plural": "Hausaufgaben",
+    "meaning": "homework",
+    "level": "A1"
+  },
+  {
+    "noun": "Hausfrau",
+    "article": "die",
+    "plural": "Hausfrauen",
+    "meaning": "housewife",
+    "level": "A1"
+  },
+  {
+    "noun": "Haushalt",
+    "article": "der",
+    "plural": "Haushalte",
+    "meaning": "household",
+    "level": "A1"
+  },
+  {
+    "noun": "Heft",
+    "article": "das",
+    "plural": "Hefte",
+    "meaning": "notebook",
+    "level": "A1"
+  },
+  {
+    "noun": "Heimat",
+    "article": "die",
+    "plural": "Heimaten",
+    "meaning": "homeland",
+    "level": "A1"
+  },
+  {
+    "noun": "Herbst",
+    "article": "der",
+    "plural": "Herbste",
+    "meaning": "autumn",
+    "level": "A1"
+  },
+  {
+    "noun": "Herd",
+    "article": "der",
+    "plural": "Herde",
+    "meaning": "stove",
+    "level": "A1"
+  },
+  {
+    "noun": "Herr",
+    "article": "der",
+    "plural": "Herren",
+    "meaning": "Mr., gentleman",
+    "level": "A1"
+  },
+  {
+    "noun": "Hilfe",
+    "article": "die",
+    "plural": "Hilfen",
+    "meaning": "help",
+    "level": "A1"
+  },
+  {
+    "noun": "Himmel",
+    "article": "der",
+    "plural": "Himmel",
+    "meaning": "sky, heaven",
+    "level": "A1"
+  },
+  {
+    "noun": "Hitze",
+    "article": "die",
+    "plural": "Hitzen",
+    "meaning": "heat",
+    "level": "A1"
+  },
+  {
+    "noun": "Hobby",
+    "article": "das",
+    "plural": "Hobbys",
+    "meaning": "hobby",
+    "level": "A1"
+  },
+  {
+    "noun": "Hochzeit",
+    "article": "die",
+    "plural": "Hochzeiten",
+    "meaning": "wedding",
+    "level": "A1"
+  },
+  {
+    "noun": "Hotel",
+    "article": "das",
+    "plural": "Hotels",
+    "meaning": "hotel",
+    "level": "A1"
+  },
+  {
+    "noun": "Hund",
+    "article": "der",
+    "plural": "Hunde",
+    "meaning": "dog",
+    "level": "A1"
+  },
+  {
+    "noun": "Hunger",
+    "article": "der",
+    "plural": "Hunger",
+    "meaning": "hunger",
+    "level": "A1"
+  },
+  {
+    "noun": "Husten",
+    "article": "der",
+    "plural": "Husten",
+    "meaning": "cough",
+    "level": "A1"
+  },
+  {
+    "noun": "Idee",
+    "article": "die",
+    "plural": "Ideen",
+    "meaning": "idea",
+    "level": "A1"
+  },
+  {
+    "noun": "Imperativ",
+    "article": "der",
+    "plural": "Imperative",
+    "meaning": "imperative",
+    "level": "A1"
+  },
+  {
+    "noun": "Information",
+    "article": "die",
+    "plural": "Informationen",
+    "meaning": "information",
+    "level": "A1"
+  },
+  {
+    "noun": "Ingenieur",
+    "article": "der",
+    "plural": "Ingenieure",
+    "meaning": "engineer",
+    "level": "A1"
+  },
+  {
+    "noun": "Insel",
+    "article": "die",
+    "plural": "Inseln",
+    "meaning": "island",
+    "level": "A1"
+  },
+  {
+    "noun": "Internet",
+    "article": "das",
+    "plural": "Internet",
+    "meaning": "internet",
+    "level": "A1"
+  },
+  {
+    "noun": "Jacke",
+    "article": "die",
+    "plural": "Jacken",
+    "meaning": "jacket",
+    "level": "A1"
+  },
+  {
+    "noun": "Jahr",
+    "article": "das",
+    "plural": "Jahre",
+    "meaning": "year",
+    "level": "A1"
+  },
+  {
+    "noun": "Jahreszeit",
+    "article": "die",
+    "plural": "Jahreszeiten",
+    "meaning": "season",
+    "level": "A1"
+  },
+  {
+    "noun": "Januar",
+    "article": "der",
+    "plural": "Januare",
+    "meaning": "January",
+    "level": "A1"
+  },
+  {
+    "noun": "Job",
+    "article": "der",
+    "plural": "Jobs",
+    "meaning": "job",
+    "level": "A1"
+  },
+  {
+    "noun": "Journalist",
+    "article": "der",
+    "plural": "Journalisten",
+    "meaning": "journalist",
+    "level": "A1"
+  },
+  {
+    "noun": "Jugendherberge",
+    "article": "die",
+    "plural": "Jugendherbergen",
+    "meaning": "youth hostel",
+    "level": "A1"
+  },
+  {
+    "noun": "Jugendliche",
+    "article": "der",
+    "plural": "Jugendliche",
+    "meaning": "young person",
+    "level": "A1"
+  },
+  {
+    "noun": "Juli",
+    "article": "der",
+    "plural": "Julis",
+    "meaning": "July",
+    "level": "A1"
+  },
+  {
+    "noun": "Junge",
+    "article": "der",
+    "plural": "Jungen",
+    "meaning": "boy",
+    "level": "A1"
+  },
+  {
+    "noun": "Juni",
+    "article": "der",
+    "plural": "Junis",
+    "meaning": "June",
+    "level": "A1"
+  },
+  {
+    "noun": "Käse",
+    "article": "der",
+    "plural": "Käse",
+    "meaning": "cheese",
+    "level": "A1"
+  },
+  {
+    "noun": "Kaffee",
+    "article": "der",
+    "plural": "Kaffees",
+    "meaning": "coffee",
+    "level": "A1"
+  },
+  {
+    "noun": "Kaffeemaschine",
+    "article": "die",
+    "plural": "Kaffeemaschinen",
+    "meaning": "coffee maker",
+    "level": "A1"
+  },
+  {
+    "noun": "Kalender",
+    "article": "der",
+    "plural": "Kalender",
+    "meaning": "calendar",
+    "level": "A1"
+  },
+  {
+    "noun": "Kantine",
+    "article": "die",
+    "plural": "Kantinen",
+    "meaning": "canteen",
+    "level": "A1"
+  },
+  {
+    "noun": "Karriere",
+    "article": "die",
+    "plural": "Karrieren",
+    "meaning": "career",
+    "level": "A1"
+  },
+  {
+    "noun": "Karte",
+    "article": "die",
+    "plural": "Karten",
+    "meaning": "card, map, ticket",
+    "level": "A1"
+  },
+  {
+    "noun": "Kartoffel",
+    "article": "die",
+    "plural": "Kartoffeln",
+    "meaning": "potato",
+    "level": "A1"
+  },
+  {
+    "noun": "Kasse",
+    "article": "die",
+    "plural": "Kassen",
+    "meaning": "cash register, checkout",
+    "level": "A1"
+  },
+  {
+    "noun": "Kassenzettel",
+    "article": "der",
+    "plural": "Kassenzettel",
+    "meaning": "receipt",
+    "level": "A1"
+  },
+  {
+    "noun": "Katze",
+    "article": "die",
+    "plural": "Katzen",
+    "meaning": "cat",
+    "level": "A1"
+  },
+  {
+    "noun": "Kaufhaus",
+    "article": "das",
+    "plural": "Kaufhäuser",
+    "meaning": "department store",
+    "level": "A1"
+  },
+  {
+    "noun": "Keller",
+    "article": "der",
+    "plural": "Keller",
+    "meaning": "basement",
+    "level": "A1"
+  },
+  {
+    "noun": "Kellner",
+    "article": "der",
+    "plural": "Kellner",
+    "meaning": "waiter",
+    "level": "A1"
+  },
+  {
+    "noun": "Kind",
+    "article": "das",
+    "plural": "Kinder",
+    "meaning": "child",
+    "level": "A1"
+  },
+  {
+    "noun": "Kindergarten",
+    "article": "der",
+    "plural": "Kindergärten",
+    "meaning": "kindergarten",
+    "level": "A1"
+  },
+  {
+    "noun": "Kino",
+    "article": "das",
+    "plural": "Kinos",
+    "meaning": "cinema",
+    "level": "A1"
+  },
+  {
+    "noun": "Kirche",
+    "article": "die",
+    "plural": "Kirchen",
+    "meaning": "church",
+    "level": "A1"
+  },
+  {
+    "noun": "Klasse",
+    "article": "die",
+    "plural": "Klassen",
+    "meaning": "class",
+    "level": "A1"
+  },
+  {
+    "noun": "Kleid",
+    "article": "das",
+    "plural": "Kleider",
+    "meaning": "dress",
+    "level": "A1"
+  },
+  {
+    "noun": "Kleidung",
+    "article": "die",
+    "plural": "Kleidungen",
+    "meaning": "clothing",
+    "level": "A1"
+  },
+  {
+    "noun": "Knie",
+    "article": "das",
+    "plural": "Knie",
+    "meaning": "knee",
+    "level": "A1"
+  },
+  {
+    "noun": "Koffer",
+    "article": "der",
+    "plural": "Koffer",
+    "meaning": "suitcase",
+    "level": "A1"
+  },
+  {
+    "noun": "Kollege",
+    "article": "der",
+    "plural": "Kollegen",
+    "meaning": "colleague (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Kollegin",
+    "article": "die",
+    "plural": "Kolleginnen",
+    "meaning": "colleague (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Kommunikation",
+    "article": "die",
+    "plural": "Kommunikationen",
+    "meaning": "communication",
+    "level": "A1"
+  },
+  {
+    "noun": "Kontakt",
+    "article": "der",
+    "plural": "Kontakte",
+    "meaning": "contact",
+    "level": "A1"
+  },
+  {
+    "noun": "Konto",
+    "article": "das",
+    "plural": "Konten",
+    "meaning": "account",
+    "level": "A1"
+  },
+  {
+    "noun": "Konzert",
+    "article": "das",
+    "plural": "Konzerte",
+    "meaning": "concert",
+    "level": "A1"
+  },
+  {
+    "noun": "Kopf",
+    "article": "der",
+    "plural": "Köpfe",
+    "meaning": "head",
+    "level": "A1"
+  },
+  {
+    "noun": "Krankenhaus",
+    "article": "das",
+    "plural": "Krankenhäuser",
+    "meaning": "hospital",
+    "level": "A1"
+  },
+  {
+    "noun": "Krankheit",
+    "article": "die",
+    "plural": "Krankheiten",
+    "meaning": "illness",
+    "level": "A1"
+  },
+  {
+    "noun": "Kreditkarte",
+    "article": "die",
+    "plural": "Kreditkarten",
+    "meaning": "credit card",
+    "level": "A1"
+  },
+  {
+    "noun": "Krimi",
+    "article": "der",
+    "plural": "Krimis",
+    "meaning": "crime novel/film",
+    "level": "A1"
+  },
+  {
+    "noun": "Kuchen",
+    "article": "der",
+    "plural": "Kuchen",
+    "meaning": "cake",
+    "level": "A1"
+  },
+  {
+    "noun": "Küche",
+    "article": "die",
+    "plural": "Küchen",
+    "meaning": "kitchen",
+    "level": "A1"
+  },
+  {
+    "noun": "Künstler",
+    "article": "der",
+    "plural": "Künstler",
+    "meaning": "artist",
+    "level": "A1"
+  },
+  {
+    "noun": "Kugelschreiber",
+    "article": "der",
+    "plural": "Kugelschreiber",
+    "meaning": "pen",
+    "level": "A1"
+  },
+  {
+    "noun": "Kunde",
+    "article": "der",
+    "plural": "Kunden",
+    "meaning": "customer",
+    "level": "A1"
+  },
+  {
+    "noun": "Kurs",
+    "article": "der",
+    "plural": "Kurse",
+    "meaning": "course",
+    "level": "A1"
+  },
+  {
+    "noun": "Labor",
+    "article": "das",
+    "plural": "Labore",
+    "meaning": "laboratory",
+    "level": "A1"
+  },
+  {
+    "noun": "Laden",
+    "article": "der",
+    "plural": "Läden",
+    "meaning": "shop",
+    "level": "A1"
+  },
+  {
+    "noun": "Lage",
+    "article": "die",
+    "plural": "Lagen",
+    "meaning": "location",
+    "level": "A1"
+  },
+  {
+    "noun": "Lampe",
+    "article": "die",
+    "plural": "Lampen",
+    "meaning": "lamp",
+    "level": "A1"
+  },
+  {
+    "noun": "Land",
+    "article": "das",
+    "plural": "Länder",
+    "meaning": "country, land",
+    "level": "A1"
+  },
+  {
+    "noun": "Landschaft",
+    "article": "die",
+    "plural": "Landschaften",
+    "meaning": "landscape",
+    "level": "A1"
+  },
+  {
+    "noun": "Lebensmittel",
+    "article": "das",
+    "plural": "Lebensmittel",
+    "meaning": "groceries",
+    "level": "A1"
+  },
+  {
+    "noun": "Lehrer",
+    "article": "der",
+    "plural": "Lehrer",
+    "meaning": "teacher (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Lehrerin",
+    "article": "die",
+    "plural": "Lehrerinnen",
+    "meaning": "teacher (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Leitung",
+    "article": "die",
+    "plural": "Leitungen",
+    "meaning": "line, management",
+    "level": "A1"
+  },
+  {
+    "noun": "Licht",
+    "article": "das",
+    "plural": "Lichter",
+    "meaning": "light",
+    "level": "A1"
+  },
+  {
+    "noun": "Lied",
+    "article": "das",
+    "plural": "Lieder",
+    "meaning": "song",
+    "level": "A1"
+  },
+  {
+    "noun": "Linie",
+    "article": "die",
+    "plural": "Linien",
+    "meaning": "line (bus/tram)",
+    "level": "A1"
+  },
+  {
+    "noun": "Liste",
+    "article": "die",
+    "plural": "Listen",
+    "meaning": "list",
+    "level": "A1"
+  },
+  {
+    "noun": "Löffel",
+    "article": "der",
+    "plural": "Löffel",
+    "meaning": "spoon",
+    "level": "A1"
+  },
+  {
+    "noun": "Luft",
+    "article": "die",
+    "plural": "Lüfte",
+    "meaning": "air",
+    "level": "A1"
+  },
+  {
+    "noun": "Mädchen",
+    "article": "das",
+    "plural": "Mädchen",
+    "meaning": "girl",
+    "level": "A1"
+  },
+  {
+    "noun": "März",
+    "article": "der",
+    "plural": "Märze",
+    "meaning": "March",
+    "level": "A1"
+  },
+  {
+    "noun": "Magen",
+    "article": "der",
+    "plural": "Mägen",
+    "meaning": "stomach",
+    "level": "A1"
+  },
+  {
+    "noun": "Mahlzeit",
+    "article": "die",
+    "plural": "Mahlzeiten",
+    "meaning": "meal",
+    "level": "A1"
+  },
+  {
+    "noun": "Mai",
+    "article": "der",
+    "plural": "Maie",
+    "meaning": "May",
+    "level": "A1"
+  },
+  {
+    "noun": "Mann",
+    "article": "der",
+    "plural": "Männer",
+    "meaning": "man, husband",
+    "level": "A1"
+  },
+  {
+    "noun": "Mantel",
+    "article": "der",
+    "plural": "Mäntel",
+    "meaning": "coat",
+    "level": "A1"
+  },
+  {
+    "noun": "Markt",
+    "article": "der",
+    "plural": "Märkte",
+    "meaning": "market",
+    "level": "A1"
+  },
+  {
+    "noun": "Marmelade",
+    "article": "die",
+    "plural": "Marmeladen",
+    "meaning": "jam",
+    "level": "A1"
+  },
+  {
+    "noun": "Medizin",
+    "article": "die",
+    "plural": "Medizinen",
+    "meaning": "medicine",
+    "level": "A1"
+  },
+  {
+    "noun": "Meer",
+    "article": "das",
+    "plural": "Meere",
+    "meaning": "sea",
+    "level": "A1"
+  },
+  {
+    "noun": "Mensch",
+    "article": "der",
+    "plural": "Menschen",
+    "meaning": "person, human",
+    "level": "A1"
+  },
+  {
+    "noun": "Messer",
+    "article": "das",
+    "plural": "Messer",
+    "meaning": "knife",
+    "level": "A1"
+  },
+  {
+    "noun": "Methode",
+    "article": "die",
+    "plural": "Methoden",
+    "meaning": "method",
+    "level": "A1"
+  },
+  {
+    "noun": "Miete",
+    "article": "die",
+    "plural": "Mieten",
+    "meaning": "rent",
+    "level": "A1"
+  },
+  {
+    "noun": "Milch",
+    "article": "die",
+    "plural": "Milche",
+    "meaning": "milk",
+    "level": "A1"
+  },
+  {
+    "noun": "Minute",
+    "article": "die",
+    "plural": "Minuten",
+    "meaning": "minute",
+    "level": "A1"
+  },
+  {
+    "noun": "Mittag",
+    "article": "der",
+    "plural": "Mittage",
+    "meaning": "noon",
+    "level": "A1"
+  },
+  {
+    "noun": "Mittagessen",
+    "article": "das",
+    "plural": "Mittagessen",
+    "meaning": "lunch",
+    "level": "A1"
+  },
+  {
+    "noun": "Mittagspause",
+    "article": "die",
+    "plural": "Mittagspausen",
+    "meaning": "lunch break",
+    "level": "A1"
+  },
+  {
+    "noun": "Mitte",
+    "article": "die",
+    "plural": "Mitten",
+    "meaning": "middle, center",
+    "level": "A1"
+  },
+  {
+    "noun": "Mitternacht",
+    "article": "die",
+    "plural": "Mitternächte",
+    "meaning": "midnight",
+    "level": "A1"
+  },
+  {
+    "noun": "Mittwoch",
+    "article": "der",
+    "plural": "Mittwoche",
+    "meaning": "Wednesday",
+    "level": "A1"
+  },
+  {
+    "noun": "Moment",
+    "article": "der",
+    "plural": "Momente",
+    "meaning": "moment",
+    "level": "A1"
+  },
+  {
+    "noun": "Monat",
+    "article": "der",
+    "plural": "Monate",
+    "meaning": "month",
+    "level": "A1"
+  },
+  {
+    "noun": "Montag",
+    "article": "der",
+    "plural": "Montage",
+    "meaning": "Monday",
+    "level": "A1"
+  },
+  {
+    "noun": "Motorrad",
+    "article": "das",
+    "plural": "Motorräder",
+    "meaning": "motorcycle",
+    "level": "A1"
+  },
+  {
+    "noun": "Mund",
+    "article": "der",
+    "plural": "Münder",
+    "meaning": "mouth",
+    "level": "A1"
+  },
+  {
+    "noun": "Museum",
+    "article": "das",
+    "plural": "Museen",
+    "meaning": "museum",
+    "level": "A1"
+  },
+  {
+    "noun": "Musik",
+    "article": "die",
+    "plural": "Musiken",
+    "meaning": "music",
+    "level": "A1"
+  },
+  {
+    "noun": "Mutter",
+    "article": "die",
+    "plural": "Mütter",
+    "meaning": "mother",
+    "level": "A1"
+  },
+  {
+    "noun": "Nachbar",
+    "article": "der",
+    "plural": "Nachbarn",
+    "meaning": "neighbour",
+    "level": "A1"
+  },
+  {
+    "noun": "Nachmittag",
+    "article": "der",
+    "plural": "Nachmittage",
+    "meaning": "afternoon",
+    "level": "A1"
+  },
+  {
+    "noun": "Nachricht",
+    "article": "die",
+    "plural": "Nachrichten",
+    "meaning": "message, news",
+    "level": "A1"
+  },
+  {
+    "noun": "Nacht",
+    "article": "die",
+    "plural": "Nächte",
+    "meaning": "night",
+    "level": "A1"
+  },
+  {
+    "noun": "Name",
+    "article": "der",
+    "plural": "Namen",
+    "meaning": "name",
+    "level": "A1"
+  },
+  {
+    "noun": "Nase",
+    "article": "die",
+    "plural": "Nasen",
+    "meaning": "nose",
+    "level": "A1"
+  },
+  {
+    "noun": "Natur",
+    "article": "die",
+    "plural": "Naturen",
+    "meaning": "nature",
+    "level": "A1"
+  },
+  {
+    "noun": "Norden",
+    "article": "der",
+    "plural": "Norden",
+    "meaning": "north",
+    "level": "A1"
+  },
+  {
+    "noun": "Notiz",
+    "article": "die",
+    "plural": "Notizen",
+    "meaning": "note",
+    "level": "A1"
+  },
+  {
+    "noun": "November",
+    "article": "der",
+    "plural": "November",
+    "meaning": "November",
+    "level": "A1"
+  },
+  {
+    "noun": "Nudel",
+    "article": "die",
+    "plural": "Nudeln",
+    "meaning": "noodle, pasta",
+    "level": "A1"
+  },
+  {
+    "noun": "Nummer",
+    "article": "die",
+    "plural": "Nummern",
+    "meaning": "number",
+    "level": "A1"
+  },
+  {
+    "noun": "Obst",
+    "article": "das",
+    "plural": "Obst",
+    "meaning": "fruit",
+    "level": "A1"
+  },
+  {
+    "noun": "Öffnungszeit",
+    "article": "die",
+    "plural": "Öffnungszeiten",
+    "meaning": "opening hours",
+    "level": "A1"
+  },
+  {
+    "noun": "Öl",
+    "article": "das",
+    "plural": "Öle",
+    "meaning": "oil",
+    "level": "A1"
+  },
+  {
+    "noun": "Ohr",
+    "article": "das",
+    "plural": "Ohren",
+    "meaning": "ear",
+    "level": "A1"
+  },
+  {
+    "noun": "Oktober",
+    "article": "der",
+    "plural": "Oktober",
+    "meaning": "October",
+    "level": "A1"
+  },
+  {
+    "noun": "Oma",
+    "article": "die",
+    "plural": "Omas",
+    "meaning": "grandma",
+    "level": "A1"
+  },
+  {
+    "noun": "Onkel",
+    "article": "der",
+    "plural": "Onkel",
+    "meaning": "uncle",
+    "level": "A1"
+  },
+  {
+    "noun": "Opa",
+    "article": "der",
+    "plural": "Opas",
+    "meaning": "grandpa",
+    "level": "A1"
+  },
+  {
+    "noun": "Oper",
+    "article": "die",
+    "plural": "Opern",
+    "meaning": "opera",
+    "level": "A1"
+  },
+  {
+    "noun": "Orange",
+    "article": "die",
+    "plural": "Orangen",
+    "meaning": "orange",
+    "level": "A1"
+  },
+  {
+    "noun": "Ort",
+    "article": "der",
+    "plural": "Orte",
+    "meaning": "place, town",
+    "level": "A1"
+  },
+  {
+    "noun": "Osten",
+    "article": "der",
+    "plural": "Osten",
+    "meaning": "east",
+    "level": "A1"
+  },
+  {
+    "noun": "Paar",
+    "article": "das",
+    "plural": "Paare",
+    "meaning": "pair, couple",
+    "level": "A1"
+  },
+  {
+    "noun": "Paket",
+    "article": "das",
+    "plural": "Pakete",
+    "meaning": "package",
+    "level": "A1"
+  },
+  {
+    "noun": "Papier",
+    "article": "das",
+    "plural": "Papiere",
+    "meaning": "paper",
+    "level": "A1"
+  },
+  {
+    "noun": "Park",
+    "article": "der",
+    "plural": "Parks",
+    "meaning": "park",
+    "level": "A1"
+  },
+  {
+    "noun": "Parkplatz",
+    "article": "der",
+    "plural": "Parkplätze",
+    "meaning": "parking lot",
+    "level": "A1"
+  },
+  {
+    "noun": "Partner",
+    "article": "der",
+    "plural": "Partner",
+    "meaning": "partner",
+    "level": "A1"
+  },
+  {
+    "noun": "Party",
+    "article": "die",
+    "plural": "Partys",
+    "meaning": "party",
+    "level": "A1"
+  },
+  {
+    "noun": "Pass",
+    "article": "der",
+    "plural": "Pässe",
+    "meaning": "passport",
+    "level": "A1"
+  },
+  {
+    "noun": "Passwort",
+    "article": "das",
+    "plural": "Passwörter",
+    "meaning": "password",
+    "level": "A1"
+  },
+  {
+    "noun": "Pause",
+    "article": "die",
+    "plural": "Pausen",
+    "meaning": "break, pause",
+    "level": "A1"
+  },
+  {
+    "noun": "Pech",
+    "article": "das",
+    "plural": "Peche",
+    "meaning": "bad luck",
+    "level": "A1"
+  },
+  {
+    "noun": "Perfekt",
+    "article": "das",
+    "plural": "Perfekte",
+    "meaning": "perfect tense",
+    "level": "A1"
+  },
+  {
+    "noun": "Person",
+    "article": "die",
+    "plural": "Personen",
+    "meaning": "person",
+    "level": "A1"
+  },
+  {
+    "noun": "Pfeffer",
+    "article": "der",
+    "plural": "Pfeffer",
+    "meaning": "pepper",
+    "level": "A1"
+  },
+  {
+    "noun": "Pflanze",
+    "article": "die",
+    "plural": "Pflanzen",
+    "meaning": "plant",
+    "level": "A1"
+  },
+  {
+    "noun": "Platz",
+    "article": "der",
+    "plural": "Plätze",
+    "meaning": "place, seat, square",
+    "level": "A1"
+  },
+  {
+    "noun": "Polizei",
+    "article": "die",
+    "plural": "Polizeien",
+    "meaning": "police",
+    "level": "A1"
+  },
+  {
+    "noun": "Portion",
+    "article": "die",
+    "plural": "Portionen",
+    "meaning": "portion",
+    "level": "A1"
+  },
+  {
+    "noun": "Post",
+    "article": "die",
+    "plural": "Posten",
+    "meaning": "mail, post office",
+    "level": "A1"
+  },
+  {
+    "noun": "Postkarte",
+    "article": "die",
+    "plural": "Postkarten",
+    "meaning": "postcard",
+    "level": "A1"
+  },
+  {
+    "noun": "Praktikum",
+    "article": "das",
+    "plural": "Praktika",
+    "meaning": "internship",
+    "level": "A1"
+  },
+  {
+    "noun": "Praxis",
+    "article": "die",
+    "plural": "Praxen",
+    "meaning": "doctor's office",
+    "level": "A1"
+  },
+  {
+    "noun": "Preis",
+    "article": "der",
+    "plural": "Preise",
+    "meaning": "price",
+    "level": "A1"
+  },
+  {
+    "noun": "Problem",
+    "article": "das",
+    "plural": "Probleme",
+    "meaning": "problem",
+    "level": "A1"
+  },
+  {
+    "noun": "Programm",
+    "article": "das",
+    "plural": "Programme",
+    "meaning": "program",
+    "level": "A1"
+  },
+  {
+    "noun": "Prüfung",
+    "article": "die",
+    "plural": "Prüfungen",
+    "meaning": "exam",
+    "level": "A1"
+  },
+  {
+    "noun": "Qualität",
+    "article": "die",
+    "plural": "Qualitäten",
+    "meaning": "quality",
+    "level": "A1"
+  },
+  {
+    "noun": "Quittung",
+    "article": "die",
+    "plural": "Quittungen",
+    "meaning": "receipt",
+    "level": "A1"
+  },
+  {
+    "noun": "Rad",
+    "article": "das",
+    "plural": "Räder",
+    "meaning": "wheel, bicycle",
+    "level": "A1"
+  },
+  {
+    "noun": "Rathaus",
+    "article": "das",
+    "plural": "Rathäuser",
+    "meaning": "town hall",
+    "level": "A1"
+  },
+  {
+    "noun": "Raum",
+    "article": "der",
+    "plural": "Räume",
+    "meaning": "room, space",
+    "level": "A1"
+  },
+  {
+    "noun": "Rechnung",
+    "article": "die",
+    "plural": "Rechnungen",
+    "meaning": "bill, check",
+    "level": "A1"
+  },
+  {
+    "noun": "Regen",
+    "article": "der",
+    "plural": "Regen",
+    "meaning": "rain",
+    "level": "A1"
+  },
+  {
+    "noun": "Reis",
+    "article": "der",
+    "plural": "Reise",
+    "meaning": "rice",
+    "level": "A1"
+  },
+  {
+    "noun": "Reise",
+    "article": "die",
+    "plural": "Reisen",
+    "meaning": "trip, journey",
+    "level": "A1"
+  },
+  {
+    "noun": "Reiseführer",
+    "article": "der",
+    "plural": "Reiseführer",
+    "meaning": "travel guide",
+    "level": "A1"
+  },
+  {
+    "noun": "Restaurant",
+    "article": "das",
+    "plural": "Restaurants",
+    "meaning": "restaurant",
+    "level": "A1"
+  },
+  {
+    "noun": "Richtung",
+    "article": "die",
+    "plural": "Richtungen",
+    "meaning": "direction",
+    "level": "A1"
+  },
+  {
+    "noun": "Rock",
+    "article": "der",
+    "plural": "Röcke",
+    "meaning": "skirt",
+    "level": "A1"
+  },
+  {
+    "noun": "Route",
+    "article": "die",
+    "plural": "Routen",
+    "meaning": "route",
+    "level": "A1"
+  },
+  {
+    "noun": "Rücken",
+    "article": "der",
+    "plural": "Rücken",
+    "meaning": "back (body)",
+    "level": "A1"
+  },
+  {
+    "noun": "Ruhe",
+    "article": "die",
+    "plural": "Ruhe",
+    "meaning": "quiet, peace",
+    "level": "A1"
+  },
+  {
+    "noun": "S-Bahn",
+    "article": "die",
+    "plural": "S-Bahnen",
+    "meaning": "suburban train",
+    "level": "A1"
+  },
+  {
+    "noun": "Sache",
+    "article": "die",
+    "plural": "Sachen",
+    "meaning": "thing, matter",
+    "level": "A1"
+  },
+  {
+    "noun": "Saft",
+    "article": "der",
+    "plural": "Säfte",
+    "meaning": "juice",
+    "level": "A1"
+  },
+  {
+    "noun": "Sahne",
+    "article": "die",
+    "plural": "Sahne",
+    "meaning": "cream",
+    "level": "A1"
+  },
+  {
+    "noun": "Salat",
+    "article": "der",
+    "plural": "Salate",
+    "meaning": "salad",
+    "level": "A1"
+  },
+  {
+    "noun": "Salz",
+    "article": "das",
+    "plural": "Salze",
+    "meaning": "salt",
+    "level": "A1"
+  },
+  {
+    "noun": "Samstag",
+    "article": "der",
+    "plural": "Samstage",
+    "meaning": "Saturday",
+    "level": "A1"
+  },
+  {
+    "noun": "Satz",
+    "article": "der",
+    "plural": "Sätze",
+    "meaning": "sentence",
+    "level": "A1"
+  },
+  {
+    "noun": "Schinken",
+    "article": "der",
+    "plural": "Schinken",
+    "meaning": "ham",
+    "level": "A1"
+  },
+  {
+    "noun": "Schlafzimmer",
+    "article": "das",
+    "plural": "Schlafzimmer",
+    "meaning": "bedroom",
+    "level": "A1"
+  },
+  {
+    "noun": "Schlüssel",
+    "article": "der",
+    "plural": "Schlüssel",
+    "meaning": "key",
+    "level": "A1"
+  },
+  {
+    "noun": "Schmerz",
+    "article": "der",
+    "plural": "Schmerzen",
+    "meaning": "pain",
+    "level": "A1"
+  },
+  {
+    "noun": "Schnee",
+    "article": "der",
+    "plural": "Schnee",
+    "meaning": "snow",
+    "level": "A1"
+  },
+  {
+    "noun": "Schnitzel",
+    "article": "das",
+    "plural": "Schnitzel",
+    "meaning": "schnitzel",
+    "level": "A1"
+  },
+  {
+    "noun": "Schnupfen",
+    "article": "der",
+    "plural": "Schnupfen",
+    "meaning": "runny nose",
+    "level": "A1"
+  },
+  {
+    "noun": "Schokolade",
+    "article": "die",
+    "plural": "Schokoladen",
+    "meaning": "chocolate",
+    "level": "A1"
+  },
+  {
+    "noun": "Schrank",
+    "article": "der",
+    "plural": "Schränke",
+    "meaning": "closet, cabinet",
+    "level": "A1"
+  },
+  {
+    "noun": "Schüler",
+    "article": "der",
+    "plural": "Schüler",
+    "meaning": "student (school)",
+    "level": "A1"
+  },
+  {
+    "noun": "Schuh",
+    "article": "der",
+    "plural": "Schuhe",
+    "meaning": "shoe",
+    "level": "A1"
+  },
+  {
+    "noun": "Schule",
+    "article": "die",
+    "plural": "Schulen",
+    "meaning": "school",
+    "level": "A1"
+  },
+  {
+    "noun": "Schwester",
+    "article": "die",
+    "plural": "Schwestern",
+    "meaning": "sister",
+    "level": "A1"
+  },
+  {
+    "noun": "See",
+    "article": "die",
+    "plural": "Seen",
+    "meaning": "sea",
+    "level": "A1"
+  },
+  {
+    "noun": "Seite",
+    "article": "die",
+    "plural": "Seiten",
+    "meaning": "page, side",
+    "level": "A1"
+  },
+  {
+    "noun": "Sekretärin",
+    "article": "die",
+    "plural": "Sekretärinnen",
+    "meaning": "secretary (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Semester",
+    "article": "das",
+    "plural": "Semester",
+    "meaning": "semester",
+    "level": "A1"
+  },
+  {
+    "noun": "September",
+    "article": "der",
+    "plural": "September",
+    "meaning": "September",
+    "level": "A1"
+  },
+  {
+    "noun": "Sohn",
+    "article": "der",
+    "plural": "Söhne",
+    "meaning": "son",
+    "level": "A1"
+  },
+  {
+    "noun": "Sommer",
+    "article": "der",
+    "plural": "Sommer",
+    "meaning": "summer",
+    "level": "A1"
+  },
+  {
+    "noun": "Sonderangebot",
+    "article": "das",
+    "plural": "Sonderangebote",
+    "meaning": "special offer",
+    "level": "A1"
+  },
+  {
+    "noun": "Sonntag",
+    "article": "der",
+    "plural": "Sonntage",
+    "meaning": "Sunday",
+    "level": "A1"
+  },
+  {
+    "noun": "Sorge",
+    "article": "die",
+    "plural": "Sorgen",
+    "meaning": "worry",
+    "level": "A1"
+  },
+  {
+    "noun": "Soße",
+    "article": "die",
+    "plural": "Soßen",
+    "meaning": "sauce",
+    "level": "A1"
+  },
+  {
+    "noun": "Spaß",
+    "article": "der",
+    "plural": "Späße",
+    "meaning": "fun",
+    "level": "A1"
+  },
+  {
+    "noun": "Speisekarte",
+    "article": "die",
+    "plural": "Speisekarten",
+    "meaning": "menu",
+    "level": "A1"
+  },
+  {
+    "noun": "Spielplatz",
+    "article": "der",
+    "plural": "Spielplätze",
+    "meaning": "playground",
+    "level": "A1"
+  },
+  {
+    "noun": "Sport",
+    "article": "der",
+    "plural": "Sporte",
+    "meaning": "sport",
+    "level": "A1"
+  },
+  {
+    "noun": "Sprache",
+    "article": "die",
+    "plural": "Sprachen",
+    "meaning": "language",
+    "level": "A1"
+  },
+  {
+    "noun": "Spritze",
+    "article": "die",
+    "plural": "Spritzen",
+    "meaning": "injection",
+    "level": "A1"
+  },
+  {
+    "noun": "Stadion",
+    "article": "das",
+    "plural": "Stadien",
+    "meaning": "stadium",
+    "level": "A1"
+  },
+  {
+    "noun": "Stadt",
+    "article": "die",
+    "plural": "Städte",
+    "meaning": "city",
+    "level": "A1"
+  },
+  {
+    "noun": "Statistik",
+    "article": "die",
+    "plural": "Statistiken",
+    "meaning": "statistics",
+    "level": "A1"
+  },
+  {
+    "noun": "Stelle",
+    "article": "die",
+    "plural": "Stellen",
+    "meaning": "place, position",
+    "level": "A1"
+  },
+  {
+    "noun": "Stock",
+    "article": "der",
+    "plural": "Stöcke",
+    "meaning": "floor (building)",
+    "level": "A1"
+  },
+  {
+    "noun": "Strand",
+    "article": "der",
+    "plural": "Strände",
+    "meaning": "beach",
+    "level": "A1"
+  },
+  {
+    "noun": "Straße",
+    "article": "die",
+    "plural": "Straßen",
+    "meaning": "street",
+    "level": "A1"
+  },
+  {
+    "noun": "Straßenbahn",
+    "article": "die",
+    "plural": "Straßenbahnen",
+    "meaning": "tram",
+    "level": "A1"
+  },
+  {
+    "noun": "Stress",
+    "article": "der",
+    "plural": "Stresse",
+    "meaning": "stress",
+    "level": "A1"
+  },
+  {
+    "noun": "Student",
+    "article": "der",
+    "plural": "Studenten",
+    "meaning": "student (university)",
+    "level": "A1"
+  },
+  {
+    "noun": "Studentin",
+    "article": "die",
+    "plural": "Studentinnen",
+    "meaning": "student (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Studium",
+    "article": "das",
+    "plural": "Studien",
+    "meaning": "studies",
+    "level": "A1"
+  },
+  {
+    "noun": "Stück",
+    "article": "das",
+    "plural": "Stücke",
+    "meaning": "piece",
+    "level": "A1"
+  },
+  {
+    "noun": "Stuhl",
+    "article": "der",
+    "plural": "Stühle",
+    "meaning": "chair",
+    "level": "A1"
+  },
+  {
+    "noun": "Stunde",
+    "article": "die",
+    "plural": "Stunden",
+    "meaning": "hour",
+    "level": "A1"
+  },
+  {
+    "noun": "Süden",
+    "article": "der",
+    "plural": "Süden",
+    "meaning": "south",
+    "level": "A1"
+  },
+  {
+    "noun": "Süßigkeit",
+    "article": "die",
+    "plural": "Süßigkeiten",
+    "meaning": "candy",
+    "level": "A1"
+  },
+  {
+    "noun": "Supermarkt",
+    "article": "der",
+    "plural": "Supermärkte",
+    "meaning": "supermarket",
+    "level": "A1"
+  },
+  {
+    "noun": "Suppe",
+    "article": "die",
+    "plural": "Suppen",
+    "meaning": "soup",
+    "level": "A1"
+  },
+  {
+    "noun": "Tablette",
+    "article": "die",
+    "plural": "Tabletten",
+    "meaning": "pill",
+    "level": "A1"
+  },
+  {
+    "noun": "Tafel",
+    "article": "die",
+    "plural": "Tafeln",
+    "meaning": "board, bar (chocolate)",
+    "level": "A1"
+  },
+  {
+    "noun": "Tag",
+    "article": "der",
+    "plural": "Tage",
+    "meaning": "day",
+    "level": "A1"
+  },
+  {
+    "noun": "Tankstelle",
+    "article": "die",
+    "plural": "Tankstellen",
+    "meaning": "gas station",
+    "level": "A1"
+  },
+  {
+    "noun": "Tante",
+    "article": "die",
+    "plural": "Tanten",
+    "meaning": "aunt",
+    "level": "A1"
+  },
+  {
+    "noun": "Tasche",
+    "article": "die",
+    "plural": "Taschen",
+    "meaning": "bag, pocket",
+    "level": "A1"
+  },
+  {
+    "noun": "Tasse",
+    "article": "die",
+    "plural": "Tassen",
+    "meaning": "cup",
+    "level": "A1"
+  },
+  {
+    "noun": "Taxi",
+    "article": "das",
+    "plural": "Taxis",
+    "meaning": "taxi",
+    "level": "A1"
+  },
+  {
+    "noun": "Tee",
+    "article": "der",
+    "plural": "Tees",
+    "meaning": "tea",
+    "level": "A1"
+  },
+  {
+    "noun": "Teil",
+    "article": "der",
+    "plural": "Teile",
+    "meaning": "part",
+    "level": "A1"
+  },
+  {
+    "noun": "Telefon",
+    "article": "das",
+    "plural": "Telefone",
+    "meaning": "telephone",
+    "level": "A1"
+  },
+  {
+    "noun": "Telefonnummer",
+    "article": "die",
+    "plural": "Telefonnummern",
+    "meaning": "phone number",
+    "level": "A1"
+  },
+  {
+    "noun": "Teller",
+    "article": "der",
+    "plural": "Teller",
+    "meaning": "plate",
+    "level": "A1"
+  },
+  {
+    "noun": "Teppich",
+    "article": "der",
+    "plural": "Teppiche",
+    "meaning": "carpet",
+    "level": "A1"
+  },
+  {
+    "noun": "Termin",
+    "article": "der",
+    "plural": "Termine",
+    "meaning": "appointment",
+    "level": "A1"
+  },
+  {
+    "noun": "Text",
+    "article": "der",
+    "plural": "Texte",
+    "meaning": "text",
+    "level": "A1"
+  },
+  {
+    "noun": "Theater",
+    "article": "das",
+    "plural": "Theater",
+    "meaning": "theater",
+    "level": "A1"
+  },
+  {
+    "noun": "Ticket",
+    "article": "das",
+    "plural": "Tickets",
+    "meaning": "ticket",
+    "level": "A1"
+  },
+  {
+    "noun": "Tier",
+    "article": "das",
+    "plural": "Tiere",
+    "meaning": "animal",
+    "level": "A1"
+  },
+  {
+    "noun": "Tipp",
+    "article": "der",
+    "plural": "Tipps",
+    "meaning": "tip, advice",
+    "level": "A1"
+  },
+  {
+    "noun": "Tisch",
+    "article": "der",
+    "plural": "Tische",
+    "meaning": "table",
+    "level": "A1"
+  },
+  {
+    "noun": "Tochter",
+    "article": "die",
+    "plural": "Töchter",
+    "meaning": "daughter",
+    "level": "A1"
+  },
+  {
+    "noun": "Toilette",
+    "article": "die",
+    "plural": "Toiletten",
+    "meaning": "toilet",
+    "level": "A1"
+  },
+  {
+    "noun": "Tomate",
+    "article": "die",
+    "plural": "Tomaten",
+    "meaning": "tomato",
+    "level": "A1"
+  },
+  {
+    "noun": "Topf",
+    "article": "der",
+    "plural": "Töpfe",
+    "meaning": "pot",
+    "level": "A1"
+  },
+  {
+    "noun": "Traum",
+    "article": "der",
+    "plural": "Träume",
+    "meaning": "dream",
+    "level": "A1"
+  },
+  {
+    "noun": "Treppe",
+    "article": "die",
+    "plural": "Treppen",
+    "meaning": "stairs",
+    "level": "A1"
+  },
+  {
+    "noun": "Tür",
+    "article": "die",
+    "plural": "Türen",
+    "meaning": "door",
+    "level": "A1"
+  },
+  {
+    "noun": "Tüte",
+    "article": "die",
+    "plural": "Tüten",
+    "meaning": "bag (plastic/paper)",
+    "level": "A1"
+  },
+  {
+    "noun": "U-Bahn",
+    "article": "die",
+    "plural": "U-Bahnen",
+    "meaning": "subway",
+    "level": "A1"
+  },
+  {
+    "noun": "Überraschung",
+    "article": "die",
+    "plural": "Überraschungen",
+    "meaning": "surprise",
+    "level": "A1"
+  },
+  {
+    "noun": "Übung",
+    "article": "die",
+    "plural": "Übungen",
+    "meaning": "exercise",
+    "level": "A1"
+  },
+  {
+    "noun": "Uhr",
+    "article": "die",
+    "plural": "Uhren",
+    "meaning": "clock, watch",
+    "level": "A1"
+  },
+  {
+    "noun": "Uhrzeit",
+    "article": "die",
+    "plural": "Uhrzeiten",
+    "meaning": "time",
+    "level": "A1"
+  },
+  {
+    "noun": "Umwelt",
+    "article": "die",
+    "plural": "Umwelten",
+    "meaning": "environment",
+    "level": "A1"
+  },
+  {
+    "noun": "Umzug",
+    "article": "der",
+    "plural": "Umzüge",
+    "meaning": "move",
+    "level": "A1"
+  },
+  {
+    "noun": "Unfall",
+    "article": "der",
+    "plural": "Unfälle",
+    "meaning": "accident",
+    "level": "A1"
+  },
+  {
+    "noun": "Unterricht",
+    "article": "der",
+    "plural": "Unterrichte",
+    "meaning": "instruction",
+    "level": "A1"
+  },
+  {
+    "noun": "Unterschrift",
+    "article": "die",
+    "plural": "Unterschriften",
+    "meaning": "signature",
+    "level": "A1"
+  },
+  {
+    "noun": "Urlaub",
+    "article": "der",
+    "plural": "Urlaube",
+    "meaning": "holiday",
+    "level": "A1"
+  },
+  {
+    "noun": "Vater",
+    "article": "der",
+    "plural": "Väter",
+    "meaning": "father",
+    "level": "A1"
+  },
+  {
+    "noun": "Veranstaltung",
+    "article": "die",
+    "plural": "Veranstaltungen",
+    "meaning": "event",
+    "level": "A1"
+  },
+  {
+    "noun": "Verbindung",
+    "article": "die",
+    "plural": "Verbindungen",
+    "meaning": "connection",
+    "level": "A1"
+  },
+  {
+    "noun": "Verkäufer",
+    "article": "der",
+    "plural": "Verkäufer",
+    "meaning": "salesperson",
+    "level": "A1"
+  },
+  {
+    "noun": "Verkehr",
+    "article": "der",
+    "plural": "Verkehre",
+    "meaning": "traffic",
+    "level": "A1"
+  },
+  {
+    "noun": "Verkehrsmittel",
+    "article": "das",
+    "plural": "Verkehrsmittel",
+    "meaning": "means of transport",
+    "level": "A1"
+  },
+  {
+    "noun": "Vermieter",
+    "article": "der",
+    "plural": "Vermieter",
+    "meaning": "landlord",
+    "level": "A1"
+  },
+  {
+    "noun": "Verpackung",
+    "article": "die",
+    "plural": "Verpackungen",
+    "meaning": "packaging",
+    "level": "A1"
+  },
+  {
+    "noun": "Verspätung",
+    "article": "die",
+    "plural": "Verspätungen",
+    "meaning": "delay",
+    "level": "A1"
+  },
+  {
+    "noun": "Vertrag",
+    "article": "der",
+    "plural": "Verträge",
+    "meaning": "contract",
+    "level": "A1"
+  },
+  {
+    "noun": "Viertel",
+    "article": "das",
+    "plural": "Viertel",
+    "meaning": "quarter",
+    "level": "A1"
+  },
+  {
+    "noun": "Vormittag",
+    "article": "der",
+    "plural": "Vormittage",
+    "meaning": "morning (before noon)",
+    "level": "A1"
+  },
+  {
+    "noun": "Vorname",
+    "article": "der",
+    "plural": "Vornamen",
+    "meaning": "first name",
+    "level": "A1"
+  },
+  {
+    "noun": "Vorsicht",
+    "article": "die",
+    "plural": "Vorsicht",
+    "meaning": "caution",
+    "level": "A1"
+  },
+  {
+    "noun": "Wald",
+    "article": "der",
+    "plural": "Wälder",
+    "meaning": "forest",
+    "level": "A1"
+  },
+  {
+    "noun": "Wand",
+    "article": "die",
+    "plural": "Wände",
+    "meaning": "wall",
+    "level": "A1"
+  },
+  {
+    "noun": "Waschmaschine",
+    "article": "die",
+    "plural": "Waschmaschinen",
+    "meaning": "washing machine",
+    "level": "A1"
+  },
+  {
+    "noun": "Wasser",
+    "article": "das",
+    "plural": "Wasser",
+    "meaning": "water",
+    "level": "A1"
+  },
+  {
+    "noun": "Weg",
+    "article": "der",
+    "plural": "Wege",
+    "meaning": "way, path",
+    "level": "A1"
+  },
+  {
+    "noun": "Wein",
+    "article": "der",
+    "plural": "Weine",
+    "meaning": "wine",
+    "level": "A1"
+  },
+  {
+    "noun": "Welt",
+    "article": "die",
+    "plural": "Welten",
+    "meaning": "world",
+    "level": "A1"
+  },
+  {
+    "noun": "Werkstatt",
+    "article": "die",
+    "plural": "Werkstätten",
+    "meaning": "workshop",
+    "level": "A1"
+  },
+  {
+    "noun": "Westen",
+    "article": "der",
+    "plural": "Westen",
+    "meaning": "west",
+    "level": "A1"
+  },
+  {
+    "noun": "Wetter",
+    "article": "das",
+    "plural": "Wetter",
+    "meaning": "weather",
+    "level": "A1"
+  },
+  {
+    "noun": "Wind",
+    "article": "der",
+    "plural": "Winde",
+    "meaning": "wind",
+    "level": "A1"
+  },
+  {
+    "noun": "Winter",
+    "article": "der",
+    "plural": "Winter",
+    "meaning": "winter",
+    "level": "A1"
+  },
+  {
+    "noun": "Woche",
+    "article": "die",
+    "plural": "Wochen",
+    "meaning": "week",
+    "level": "A1"
+  },
+  {
+    "noun": "Wochenende",
+    "article": "das",
+    "plural": "Wochenenden",
+    "meaning": "weekend",
+    "level": "A1"
+  },
+  {
+    "noun": "Wohnung",
+    "article": "die",
+    "plural": "Wohnungen",
+    "meaning": "apartment",
+    "level": "A1"
+  },
+  {
+    "noun": "Wohnzimmer",
+    "article": "das",
+    "plural": "Wohnzimmer",
+    "meaning": "living room",
+    "level": "A1"
+  },
+  {
+    "noun": "Wolke",
+    "article": "die",
+    "plural": "Wolken",
+    "meaning": "cloud",
+    "level": "A1"
+  },
+  {
+    "noun": "Wort",
+    "article": "das",
+    "plural": "Wörter",
+    "meaning": "word",
+    "level": "A1"
+  },
+  {
+    "noun": "Wunsch",
+    "article": "der",
+    "plural": "Wünsche",
+    "meaning": "wish",
+    "level": "A1"
+  },
+  {
+    "noun": "Wurst",
+    "article": "die",
+    "plural": "Würste",
+    "meaning": "sausage",
+    "level": "A1"
+  },
+  {
+    "noun": "Zahl",
+    "article": "die",
+    "plural": "Zahlen",
+    "meaning": "number",
+    "level": "A1"
+  },
+  {
+    "noun": "Zahn",
+    "article": "der",
+    "plural": "Zähne",
+    "meaning": "tooth",
+    "level": "A1"
+  },
+  {
+    "noun": "Zahnarzt",
+    "article": "der",
+    "plural": "Zahnärzte",
+    "meaning": "dentist",
+    "level": "A1"
+  },
+  {
+    "noun": "Zeit",
+    "article": "die",
+    "plural": "Zeiten",
+    "meaning": "time",
+    "level": "A1"
+  },
+  {
+    "noun": "Zeitschrift",
+    "article": "die",
+    "plural": "Zeitschriften",
+    "meaning": "magazine",
+    "level": "A1"
+  },
+  {
+    "noun": "Zeitung",
+    "article": "die",
+    "plural": "Zeitungen",
+    "meaning": "newspaper",
+    "level": "A1"
+  },
+  {
+    "noun": "Zentrum",
+    "article": "das",
+    "plural": "Zentren",
+    "meaning": "center",
+    "level": "A1"
+  },
+  {
+    "noun": "Zimmer",
+    "article": "das",
+    "plural": "Zimmer",
+    "meaning": "room",
+    "level": "A1"
+  },
+  {
+    "noun": "Zucker",
+    "article": "der",
+    "plural": "Zucker",
+    "meaning": "sugar",
+    "level": "A1"
+  },
+  {
+    "noun": "Zug",
+    "article": "der",
+    "plural": "Züge",
+    "meaning": "train",
+    "level": "A1"
+  },
+  {
+    "noun": "Zuschauer",
+    "article": "der",
+    "plural": "Zuschauer",
+    "meaning": "spectator",
+    "level": "A1"
+  },
+  {
+    "noun": "Zwiebel",
+    "article": "die",
+    "plural": "Zwiebeln",
+    "meaning": "onion",
+    "level": "A1"
+  },
+  {
+    "noun": "Arbeitsplatz",
+    "article": "der",
+    "plural": "Arbeitsplätze",
+    "meaning": "workplace / job",
+    "level": "A1"
+  },
+  {
+    "noun": "Feierabend",
+    "article": "der",
+    "plural": "Feierabende",
+    "meaning": "end of work / after-work",
+    "level": "A1"
+  },
+  {
+    "noun": "Präsentation",
+    "article": "die",
+    "plural": "Präsentationen",
+    "meaning": "presentation",
+    "level": "A1"
+  },
+  {
+    "noun": "Rezept",
+    "article": "das",
+    "plural": "Rezepte",
+    "meaning": "prescription",
+    "level": "A1"
+  },
+  {
+    "noun": "Verband",
+    "article": "der",
+    "plural": "Verbände",
+    "meaning": "bandage",
+    "level": "A1"
+  },
+  {
+    "noun": "Medikament",
+    "article": "das",
+    "plural": "Medikamente",
+    "meaning": "medication",
+    "level": "A1"
+  },
+  {
+    "noun": "Interview",
+    "article": "das",
+    "plural": "Interviews",
+    "meaning": "interview",
+    "level": "A1"
+  },
+  {
+    "noun": "Sehenswürdigkeit",
+    "article": "die",
+    "plural": "Sehenswürdigkeiten",
+    "meaning": "tourist attraction",
+    "level": "A1"
+  },
+  {
+    "noun": "Reiseziel",
+    "article": "das",
+    "plural": "Reiseziele",
+    "meaning": "travel destination",
+    "level": "A1"
+  },
+  {
+    "noun": "Wohnort",
+    "article": "der",
+    "plural": "Wohnorte",
+    "meaning": "place of residence",
+    "level": "A1"
+  },
+  {
+    "noun": "Besprechung",
+    "article": "die",
+    "plural": "Besprechungen",
+    "meaning": "meeting",
+    "level": "A1"
+  },
+  {
+    "noun": "Sofa",
+    "article": "das",
+    "plural": "Sofas",
+    "meaning": "sofa",
+    "level": "A1"
+  },
+  {
+    "noun": "Regal",
+    "article": "das",
+    "plural": "Regale",
+    "meaning": "shelf",
+    "level": "A1"
+  },
+  {
+    "noun": "Handtuch",
+    "article": "das",
+    "plural": "Handtücher",
+    "meaning": "towel",
+    "level": "A1"
+  },
+  {
+    "noun": "Seife",
+    "article": "die",
+    "plural": "Seifen",
+    "meaning": "soap",
+    "level": "A1"
+  },
+  {
+    "noun": "Hof",
+    "article": "der",
+    "plural": "Höfe",
+    "meaning": "courtyard",
+    "level": "A1"
+  },
+  {
+    "noun": "Abendessen",
+    "article": "das",
+    "plural": "Abendessen",
+    "meaning": "dinner",
+    "level": "A1"
+  },
+  {
+    "noun": "Joghurt",
+    "article": "der",
+    "plural": "Joghurts",
+    "meaning": "yoghurt",
+    "level": "A1"
+  },
+  {
+    "noun": "Mehl",
+    "article": "das",
+    "plural": "Mehle",
+    "meaning": "flour",
+    "level": "A1"
+  },
+  {
+    "noun": "Pizza",
+    "article": "die",
+    "plural": "Pizzas",
+    "meaning": "pizza",
+    "level": "A1"
+  },
+  {
+    "noun": "Einkauf",
+    "article": "der",
+    "plural": "Einkäufe",
+    "meaning": "shopping / purchase",
+    "level": "A1"
+  },
+  {
+    "noun": "Angebot",
+    "article": "das",
+    "plural": "Angebote",
+    "meaning": "offer / deal",
+    "level": "A1"
+  },
+  {
+    "noun": "Sonne",
+    "article": "die",
+    "plural": "Sonnen",
+    "meaning": "sun",
+    "level": "A1"
+  },
+  {
+    "noun": "Temperatur",
+    "article": "die",
+    "plural": "Temperaturen",
+    "meaning": "temperature",
+    "level": "A1"
+  },
+  {
+    "noun": "Stift",
+    "article": "der",
+    "plural": "Stifte",
+    "meaning": "pen / pencil",
+    "level": "A1"
+  },
+  {
+    "noun": "Test",
+    "article": "der",
+    "plural": "Tests",
+    "meaning": "test",
+    "level": "A1"
+  },
+  {
+    "noun": "Wörterbuch",
+    "article": "das",
+    "plural": "Wörterbücher",
+    "meaning": "dictionary",
+    "level": "A1"
+  },
+  {
+    "noun": "WLAN",
+    "article": "das",
+    "plural": "WLANs",
+    "meaning": "Wi-Fi",
+    "level": "A1"
+  },
+  {
+    "noun": "Foto",
+    "article": "das",
+    "plural": "Fotos",
+    "meaning": "photo",
+    "level": "A1"
+  },
+  {
+    "noun": "Schwimmbad",
+    "article": "das",
+    "plural": "Schwimmbäder",
+    "meaning": "swimming pool",
+    "level": "A1"
+  },
+  {
+    "noun": "Spaziergang",
+    "article": "der",
+    "plural": "Spaziergänge",
+    "meaning": "walk",
+    "level": "A1"
+  },
+  {
+    "noun": "Picknick",
+    "article": "das",
+    "plural": "Picknicke",
+    "meaning": "picnic",
+    "level": "A1"
+  },
+  {
+    "noun": "Enkel",
+    "article": "der",
+    "plural": "Enkel",
+    "meaning": "grandson",
+    "level": "A1"
+  },
+  {
+    "noun": "Enkelin",
+    "article": "die",
+    "plural": "Enkelinnen",
+    "meaning": "granddaughter",
+    "level": "A1"
+  },
+  {
+    "noun": "Mama",
+    "article": "die",
+    "plural": "Mamas",
+    "meaning": "mom",
+    "level": "A1"
+  },
+  {
+    "noun": "Papa",
+    "article": "der",
+    "plural": "Papas",
+    "meaning": "dad",
+    "level": "A1"
+  },
+  {
+    "noun": "Prospekt",
+    "article": "der",
+    "plural": "Prospekte",
+    "meaning": "brochure",
+    "level": "A1"
+  },
+  {
+    "noun": "Quadratmeter",
+    "article": "der",
+    "plural": "Quadratmeter",
+    "meaning": "square meter",
+    "level": "A1"
+  },
+  {
+    "noun": "Radio",
+    "article": "das",
+    "plural": "Radios",
+    "meaning": "radio",
+    "level": "A1"
+  },
+  {
+    "noun": "Smartphone",
+    "article": "das",
+    "plural": "Smartphones",
+    "meaning": "smartphone",
+    "level": "A1"
+  },
+  {
+    "noun": "Sofort-Überweisung",
+    "article": "die",
+    "plural": "Sofort-Überweisungen",
+    "meaning": "instant bank transfer",
+    "level": "A1"
+  },
+  {
+    "noun": "Abendkleidung",
+    "article": "die",
+    "plural": "Abendkleidungen",
+    "meaning": "evening wear",
+    "level": "A1"
+  },
+  {
+    "noun": "Abschnitt",
+    "article": "der",
+    "plural": "Abschnitte",
+    "meaning": "section, segment",
+    "level": "A1"
+  },
+  {
+    "noun": "Absender",
+    "article": "der",
+    "plural": "Absender",
+    "meaning": "sender",
+    "level": "A1"
+  },
+  {
+    "noun": "Adjektiv",
+    "article": "das",
+    "plural": "Adjektive",
+    "meaning": "adjective",
+    "level": "A1"
+  },
+  {
+    "noun": "Akkusativ",
+    "article": "der",
+    "plural": "Akkusative",
+    "meaning": "accusative case",
+    "level": "A1"
+  },
+  {
+    "noun": "Aktivität",
+    "article": "die",
+    "plural": "Aktivitäten",
+    "meaning": "activity",
+    "level": "A1"
+  },
+  {
+    "noun": "Alphabet",
+    "article": "das",
+    "plural": "Alphabete",
+    "meaning": "alphabet",
+    "level": "A1"
+  },
+  {
+    "noun": "Altbauwohnung",
+    "article": "die",
+    "plural": "Altbauwohnungen",
+    "meaning": "apartment in an old building",
+    "level": "A1"
+  },
+  {
+    "noun": "Angabe",
+    "article": "die",
+    "plural": "Angaben",
+    "meaning": "detail, information given",
+    "level": "A1"
+  },
+  {
+    "noun": "Anhang",
+    "article": "der",
+    "plural": "Anhänge",
+    "meaning": "attachment",
+    "level": "A1"
+  },
+  {
+    "noun": "Anrede",
+    "article": "die",
+    "plural": "Anreden",
+    "meaning": "form of address, salutation",
+    "level": "A1"
+  },
+  {
+    "noun": "Anredeformel",
+    "article": "die",
+    "plural": "Anredeformeln",
+    "meaning": "salutation formula",
+    "level": "A1"
+  },
+  {
+    "noun": "Anruf",
+    "article": "der",
+    "plural": "Anrufe",
+    "meaning": "phone call",
+    "level": "A1"
+  },
+  {
+    "noun": "Anschluss",
+    "article": "der",
+    "plural": "Anschlüsse",
+    "meaning": "connection",
+    "level": "A1"
+  },
+  {
+    "noun": "Anweisung",
+    "article": "die",
+    "plural": "Anweisungen",
+    "meaning": "instruction",
+    "level": "A1"
+  },
+  {
+    "noun": "Anzeige",
+    "article": "die",
+    "plural": "Anzeigen",
+    "meaning": "advertisement, notice",
+    "level": "A1"
+  },
+  {
+    "noun": "Anzug",
+    "article": "der",
+    "plural": "Anzüge",
+    "meaning": "suit",
+    "level": "A1"
+  },
+  {
+    "noun": "Apartment",
+    "article": "das",
+    "plural": "Apartments",
+    "meaning": "apartment",
+    "level": "A1"
+  },
+  {
+    "noun": "Apfelsaft",
+    "article": "der",
+    "plural": "Apfelsäfte",
+    "meaning": "apple juice",
+    "level": "A1"
+  },
+  {
+    "noun": "Apfelsaftschorle",
+    "article": "die",
+    "plural": "Apfelsaftschorlen",
+    "meaning": "apple juice spritzer",
+    "level": "A1"
+  },
+  {
+    "noun": "Apfelschorle",
+    "article": "die",
+    "plural": "Apfelschorlen",
+    "meaning": "apple spritzer",
+    "level": "A1"
+  },
+  {
+    "noun": "Arbeitszeit",
+    "article": "die",
+    "plural": "Arbeitszeiten",
+    "meaning": "working hours",
+    "level": "A1"
+  },
+  {
+    "noun": "Arbeitszimmer",
+    "article": "das",
+    "plural": "Arbeitszimmer",
+    "meaning": "study, home office room",
+    "level": "A1"
+  },
+  {
+    "noun": "Architekt",
+    "article": "der",
+    "plural": "Architekten",
+    "meaning": "architect (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Architektin",
+    "article": "die",
+    "plural": "Architektinnen",
+    "meaning": "architect (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Artikelbild",
+    "article": "das",
+    "plural": "Artikelbilder",
+    "meaning": "product image",
+    "level": "A1"
+  },
+  {
+    "noun": "Arztbesuch",
+    "article": "der",
+    "plural": "Arztbesuche",
+    "meaning": "doctor's visit",
+    "level": "A1"
+  },
+  {
+    "noun": "Assoziation",
+    "article": "die",
+    "plural": "Assoziationen",
+    "meaning": "association (of ideas)",
+    "level": "A1"
+  },
+  {
+    "noun": "Atelier",
+    "article": "das",
+    "plural": "Ateliers",
+    "meaning": "studio (artist's)",
+    "level": "A1"
+  },
+  {
+    "noun": "Attraktion",
+    "article": "die",
+    "plural": "Attraktionen",
+    "meaning": "attraction",
+    "level": "A1"
+  },
+  {
+    "noun": "Aufforderung",
+    "article": "die",
+    "plural": "Aufforderungen",
+    "meaning": "request, prompt",
+    "level": "A1"
+  },
+  {
+    "noun": "Ausdruck",
+    "article": "der",
+    "plural": "Ausdrücke",
+    "meaning": "expression",
+    "level": "A1"
+  },
+  {
+    "noun": "Ausgang",
+    "article": "der",
+    "plural": "Ausgänge",
+    "meaning": "exit",
+    "level": "A1"
+  },
+  {
+    "noun": "Aussage",
+    "article": "die",
+    "plural": "Aussagen",
+    "meaning": "statement",
+    "level": "A1"
+  },
+  {
+    "noun": "Aussagesatz",
+    "article": "der",
+    "plural": "Aussagesätze",
+    "meaning": "declarative sentence",
+    "level": "A1"
+  },
+  {
+    "noun": "Ausweis",
+    "article": "der",
+    "plural": "Ausweise",
+    "meaning": "ID card",
+    "level": "A1"
+  },
+  {
+    "noun": "Automat",
+    "article": "der",
+    "plural": "Automaten",
+    "meaning": "vending machine",
+    "level": "A1"
+  },
+  {
+    "noun": "Bad",
+    "article": "das",
+    "plural": "Bäder",
+    "meaning": "bathroom, bath",
+    "level": "A1"
+  },
+  {
+    "noun": "Badeanzug",
+    "article": "der",
+    "plural": "Badeanzüge",
+    "meaning": "swimsuit",
+    "level": "A1"
+  },
+  {
+    "noun": "Badehose",
+    "article": "die",
+    "plural": "Badehosen",
+    "meaning": "swim trunks",
+    "level": "A1"
+  },
+  {
+    "noun": "Badeurlaub",
+    "article": "der",
+    "plural": "Badeurlaube",
+    "meaning": "beach holiday",
+    "level": "A1"
+  },
+  {
+    "noun": "Ball",
+    "article": "der",
+    "plural": "Bälle",
+    "meaning": "ball",
+    "level": "A1"
+  },
+  {
+    "noun": "Baustelle",
+    "article": "die",
+    "plural": "Baustellen",
+    "meaning": "construction site",
+    "level": "A1"
+  },
+  {
+    "noun": "Becher",
+    "article": "der",
+    "plural": "Becher",
+    "meaning": "cup, tub",
+    "level": "A1"
+  },
+  {
+    "noun": "Beisl",
+    "article": "das",
+    "plural": "Beisl",
+    "meaning": "pub (Austrian)",
+    "level": "A1"
+  },
+  {
+    "noun": "Beiz",
+    "article": "die",
+    "plural": "Beizen",
+    "meaning": "pub (Swiss)",
+    "level": "A1"
+  },
+  {
+    "noun": "Bergtour",
+    "article": "die",
+    "plural": "Bergtouren",
+    "meaning": "mountain hike",
+    "level": "A1"
+  },
+  {
+    "noun": "Bestellung",
+    "article": "die",
+    "plural": "Bestellungen",
+    "meaning": "order",
+    "level": "A1"
+  },
+  {
+    "noun": "Besuch",
+    "article": "der",
+    "plural": "Besuche",
+    "meaning": "visit",
+    "level": "A1"
+  },
+  {
+    "noun": "Besucher",
+    "article": "der",
+    "plural": "Besucher",
+    "meaning": "visitor (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Besucherin",
+    "article": "die",
+    "plural": "Besucherinnen",
+    "meaning": "visitor (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Betonung",
+    "article": "die",
+    "plural": "Betonungen",
+    "meaning": "stress, emphasis",
+    "level": "A1"
+  },
+  {
+    "noun": "Betreff",
+    "article": "der",
+    "plural": "Betreffe",
+    "meaning": "subject (of an email)",
+    "level": "A1"
+  },
+  {
+    "noun": "Bewohnerin",
+    "article": "die",
+    "plural": "Bewohnerinnen",
+    "meaning": "resident (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Biergarten",
+    "article": "der",
+    "plural": "Biergärten",
+    "meaning": "beer garden",
+    "level": "A1"
+  },
+  {
+    "noun": "Bikini",
+    "article": "der",
+    "plural": "Bikinis",
+    "meaning": "bikini",
+    "level": "A1"
+  },
+  {
+    "noun": "Bildgeschichte",
+    "article": "die",
+    "plural": "Bildgeschichten",
+    "meaning": "picture story",
+    "level": "A1"
+  },
+  {
+    "noun": "Birne",
+    "article": "die",
+    "plural": "Birnen",
+    "meaning": "pear",
+    "level": "A1"
+  },
+  {
+    "noun": "Blick",
+    "article": "der",
+    "plural": "Blicke",
+    "meaning": "view, glance",
+    "level": "A1"
+  },
+  {
+    "noun": "Blog",
+    "article": "der",
+    "plural": "Blogs",
+    "meaning": "blog",
+    "level": "A1"
+  },
+  {
+    "noun": "Buchladen",
+    "article": "der",
+    "plural": "Buchläden",
+    "meaning": "bookshop",
+    "level": "A1"
+  },
+  {
+    "noun": "Burg",
+    "article": "die",
+    "plural": "Burgen",
+    "meaning": "castle, fortress",
+    "level": "A1"
+  },
+  {
+    "noun": "Butterbrot",
+    "article": "das",
+    "plural": "Butterbrote",
+    "meaning": "bread and butter, sandwich",
+    "level": "A1"
+  },
+  {
+    "noun": "Bäcker",
+    "article": "der",
+    "plural": "Bäcker",
+    "meaning": "baker",
+    "level": "A1"
+  },
+  {
+    "noun": "Bühne",
+    "article": "die",
+    "plural": "Bühnen",
+    "meaning": "stage",
+    "level": "A1"
+  },
+  {
+    "noun": "CD",
+    "article": "die",
+    "plural": "CDs",
+    "meaning": "CD",
+    "level": "A1"
+  },
+  {
+    "noun": "Campingurlaub",
+    "article": "der",
+    "plural": "Campingurlaube",
+    "meaning": "camping holiday",
+    "level": "A1"
+  },
+  {
+    "noun": "Cent",
+    "article": "der",
+    "plural": "Cent",
+    "meaning": "cent",
+    "level": "A1"
+  },
+  {
+    "noun": "Champignon",
+    "article": "der",
+    "plural": "Champignons",
+    "meaning": "mushroom",
+    "level": "A1"
+  },
+  {
+    "noun": "Chor",
+    "article": "der",
+    "plural": "Chöre",
+    "meaning": "choir",
+    "level": "A1"
+  },
+  {
+    "noun": "Club",
+    "article": "der",
+    "plural": "Clubs",
+    "meaning": "club",
+    "level": "A1"
+  },
+  {
+    "noun": "Cola",
+    "article": "die",
+    "plural": "Colas",
+    "meaning": "cola",
+    "level": "A1"
+  },
+  {
+    "noun": "Comic",
+    "article": "der",
+    "plural": "Comics",
+    "meaning": "comic book",
+    "level": "A1"
+  },
+  {
+    "noun": "Computerfirma",
+    "article": "die",
+    "plural": "Computerfirmen",
+    "meaning": "computer company",
+    "level": "A1"
+  },
+  {
+    "noun": "Computerproblem",
+    "article": "das",
+    "plural": "Computerprobleme",
+    "meaning": "computer problem",
+    "level": "A1"
+  },
+  {
+    "noun": "Dame",
+    "article": "die",
+    "plural": "Damen",
+    "meaning": "lady",
+    "level": "A1"
+  },
+  {
+    "noun": "Dativ",
+    "article": "der",
+    "plural": "Dative",
+    "meaning": "dative case",
+    "level": "A1"
+  },
+  {
+    "noun": "Demonstrativartikel",
+    "article": "der",
+    "plural": "Demonstrativartikel",
+    "meaning": "demonstrative article",
+    "level": "A1"
+  },
+  {
+    "noun": "Deutschbuch",
+    "article": "das",
+    "plural": "Deutschbücher",
+    "meaning": "German textbook",
+    "level": "A1"
+  },
+  {
+    "noun": "Dialog",
+    "article": "der",
+    "plural": "Dialoge",
+    "meaning": "dialogue",
+    "level": "A1"
+  },
+  {
+    "noun": "Ding",
+    "article": "das",
+    "plural": "Dinge",
+    "meaning": "thing",
+    "level": "A1"
+  },
+  {
+    "noun": "Doktorin",
+    "article": "die",
+    "plural": "Doktorinnen",
+    "meaning": "doctor (female, title)",
+    "level": "A1"
+  },
+  {
+    "noun": "Duschgel",
+    "article": "das",
+    "plural": "Duschgele",
+    "meaning": "shower gel",
+    "level": "A1"
+  },
+  {
+    "noun": "Döner",
+    "article": "der",
+    "plural": "Döner",
+    "meaning": "doner kebab",
+    "level": "A1"
+  },
+  {
+    "noun": "Ecke",
+    "article": "die",
+    "plural": "Ecken",
+    "meaning": "corner",
+    "level": "A1"
+  },
+  {
+    "noun": "Ehefrau",
+    "article": "die",
+    "plural": "Ehefrauen",
+    "meaning": "wife",
+    "level": "A1"
+  },
+  {
+    "noun": "Ehemann",
+    "article": "der",
+    "plural": "Ehemänner",
+    "meaning": "husband",
+    "level": "A1"
+  },
+  {
+    "noun": "Einkaufszettel",
+    "article": "der",
+    "plural": "Einkaufszettel",
+    "meaning": "shopping list",
+    "level": "A1"
+  },
+  {
+    "noun": "Eintrag",
+    "article": "der",
+    "plural": "Einträge",
+    "meaning": "entry",
+    "level": "A1"
+  },
+  {
+    "noun": "Eintritt",
+    "article": "der",
+    "plural": "Eintritte",
+    "meaning": "admission, entry",
+    "level": "A1"
+  },
+  {
+    "noun": "Einweihungsfeier",
+    "article": "die",
+    "plural": "Einweihungsfeiern",
+    "meaning": "housewarming party",
+    "level": "A1"
+  },
+  {
+    "noun": "Einzelzimmer",
+    "article": "das",
+    "plural": "Einzelzimmer",
+    "meaning": "single room",
+    "level": "A1"
+  },
+  {
+    "noun": "Elektriker",
+    "article": "der",
+    "plural": "Elektriker",
+    "meaning": "electrician (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Elektrikerin",
+    "article": "die",
+    "plural": "Elektrikerinnen",
+    "meaning": "electrician (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Elektrogerät",
+    "article": "das",
+    "plural": "Elektrogeräte",
+    "meaning": "electrical appliance",
+    "level": "A1"
+  },
+  {
+    "noun": "Emmentaler",
+    "article": "der",
+    "plural": "Emmentaler",
+    "meaning": "Emmental cheese",
+    "level": "A1"
+  },
+  {
+    "noun": "Empfänger",
+    "article": "der",
+    "plural": "Empfänger",
+    "meaning": "recipient (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Empfängerin",
+    "article": "die",
+    "plural": "Empfängerinnen",
+    "meaning": "recipient (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Endung",
+    "article": "die",
+    "plural": "Endungen",
+    "meaning": "ending (grammar)",
+    "level": "A1"
+  },
+  {
+    "noun": "Englisch-Test",
+    "article": "der",
+    "plural": "Englisch-Tests",
+    "meaning": "English test",
+    "level": "A1"
+  },
+  {
+    "noun": "Entscheidung",
+    "article": "die",
+    "plural": "Entscheidungen",
+    "meaning": "decision",
+    "level": "A1"
+  },
+  {
+    "noun": "Entschuldigung",
+    "article": "die",
+    "plural": "Entschuldigungen",
+    "meaning": "apology, excuse me",
+    "level": "A1"
+  },
+  {
+    "noun": "Ereignis",
+    "article": "das",
+    "plural": "Ereignisse",
+    "meaning": "event",
+    "level": "A1"
+  },
+  {
+    "noun": "Erfindung",
+    "article": "die",
+    "plural": "Erfindungen",
+    "meaning": "invention",
+    "level": "A1"
+  },
+  {
+    "noun": "Erzieher",
+    "article": "der",
+    "plural": "Erzieher",
+    "meaning": "childcare worker (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Erzieherin",
+    "article": "die",
+    "plural": "Erzieherinnen",
+    "meaning": "childcare worker (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Euro",
+    "article": "der",
+    "plural": "Euros",
+    "meaning": "euro",
+    "level": "A1"
+  },
+  {
+    "noun": "Event",
+    "article": "das",
+    "plural": "Events",
+    "meaning": "event",
+    "level": "A1"
+  },
+  {
+    "noun": "Fachwerkhaus",
+    "article": "das",
+    "plural": "Fachwerkhäuser",
+    "meaning": "half-timbered house",
+    "level": "A1"
+  },
+  {
+    "noun": "Fahrradtour",
+    "article": "die",
+    "plural": "Fahrradtouren",
+    "meaning": "bike tour",
+    "level": "A1"
+  },
+  {
+    "noun": "Familienfoto",
+    "article": "das",
+    "plural": "Familienfotos",
+    "meaning": "family photo",
+    "level": "A1"
+  },
+  {
+    "noun": "Familienname",
+    "article": "der",
+    "plural": "Familiennamen",
+    "meaning": "family name, surname",
+    "level": "A1"
+  },
+  {
+    "noun": "Fernsehproduktion",
+    "article": "die",
+    "plural": "Fernsehproduktionen",
+    "meaning": "TV production",
+    "level": "A1"
+  },
+  {
+    "noun": "Festival",
+    "article": "das",
+    "plural": "Festivals",
+    "meaning": "festival",
+    "level": "A1"
+  },
+  {
+    "noun": "Festspiel",
+    "article": "das",
+    "plural": "Festspiele",
+    "meaning": "festival performance",
+    "level": "A1"
+  },
+  {
+    "noun": "Film",
+    "article": "der",
+    "plural": "Filme",
+    "meaning": "movie, film",
+    "level": "A1"
+  },
+  {
+    "noun": "Filmfan",
+    "article": "der",
+    "plural": "Filmfans",
+    "meaning": "movie fan",
+    "level": "A1"
+  },
+  {
+    "noun": "Filmproduktion",
+    "article": "die",
+    "plural": "Filmproduktionen",
+    "meaning": "film production",
+    "level": "A1"
+  },
+  {
+    "noun": "Fischgericht",
+    "article": "das",
+    "plural": "Fischgerichte",
+    "meaning": "fish dish",
+    "level": "A1"
+  },
+  {
+    "noun": "Fitnessgerät",
+    "article": "das",
+    "plural": "Fitnessgeräte",
+    "meaning": "fitness equipment",
+    "level": "A1"
+  },
+  {
+    "noun": "Flug",
+    "article": "der",
+    "plural": "Flüge",
+    "meaning": "flight",
+    "level": "A1"
+  },
+  {
+    "noun": "Flur",
+    "article": "der",
+    "plural": "Flure",
+    "meaning": "hallway, corridor",
+    "level": "A1"
+  },
+  {
+    "noun": "Form",
+    "article": "die",
+    "plural": "Formen",
+    "meaning": "form, shape",
+    "level": "A1"
+  },
+  {
+    "noun": "Forumsbeitrag",
+    "article": "der",
+    "plural": "Forumsbeiträge",
+    "meaning": "forum post",
+    "level": "A1"
+  },
+  {
+    "noun": "Fotograf",
+    "article": "der",
+    "plural": "Fotografen",
+    "meaning": "photographer (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Fotografin",
+    "article": "die",
+    "plural": "Fotografinnen",
+    "meaning": "photographer (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Fragewort",
+    "article": "das",
+    "plural": "Fragewörter",
+    "meaning": "question word",
+    "level": "A1"
+  },
+  {
+    "noun": "Franken",
+    "article": "der",
+    "plural": "Franken",
+    "meaning": "franc (currency)",
+    "level": "A1"
+  },
+  {
+    "noun": "Freizeitaktivität",
+    "article": "die",
+    "plural": "Freizeitaktivitäten",
+    "meaning": "leisure activity",
+    "level": "A1"
+  },
+  {
+    "noun": "Friseur",
+    "article": "der",
+    "plural": "Friseure",
+    "meaning": "hairdresser (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Friseurin",
+    "article": "die",
+    "plural": "Friseurinnen",
+    "meaning": "hairdresser (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Fußballspiel",
+    "article": "das",
+    "plural": "Fußballspiele",
+    "meaning": "football match",
+    "level": "A1"
+  },
+  {
+    "noun": "Gadget",
+    "article": "das",
+    "plural": "Gadgets",
+    "meaning": "gadget",
+    "level": "A1"
+  },
+  {
+    "noun": "Geburtsdatum",
+    "article": "das",
+    "plural": "Geburtsdaten",
+    "meaning": "date of birth",
+    "level": "A1"
+  },
+  {
+    "noun": "Geburtsort",
+    "article": "der",
+    "plural": "Geburtsorte",
+    "meaning": "place of birth",
+    "level": "A1"
+  },
+  {
+    "noun": "Gewicht",
+    "article": "das",
+    "plural": "Gewichte",
+    "meaning": "weight",
+    "level": "A1"
+  },
+  {
+    "noun": "Glückwunsch",
+    "article": "der",
+    "plural": "Glückwünsche",
+    "meaning": "congratulations",
+    "level": "A1"
+  },
+  {
+    "noun": "Grad",
+    "article": "der",
+    "plural": "Grade",
+    "meaning": "degree (temperature)",
+    "level": "A1"
+  },
+  {
+    "noun": "Gramm",
+    "article": "das",
+    "plural": "Gramme",
+    "meaning": "gram",
+    "level": "A1"
+  },
+  {
+    "noun": "Grammatik",
+    "article": "die",
+    "plural": "Grammatiken",
+    "meaning": "grammar",
+    "level": "A1"
+  },
+  {
+    "noun": "Grillparty",
+    "article": "die",
+    "plural": "Grillpartys",
+    "meaning": "barbecue party",
+    "level": "A1"
+  },
+  {
+    "noun": "Grund",
+    "article": "der",
+    "plural": "Gründe",
+    "meaning": "reason",
+    "level": "A1"
+  },
+  {
+    "noun": "Gruppe",
+    "article": "die",
+    "plural": "Gruppen",
+    "meaning": "group",
+    "level": "A1"
+  },
+  {
+    "noun": "Grußformel",
+    "article": "die",
+    "plural": "Grußformeln",
+    "meaning": "closing formula (letter)",
+    "level": "A1"
+  },
+  {
+    "noun": "Gästebuch",
+    "article": "das",
+    "plural": "Gästebücher",
+    "meaning": "guest book",
+    "level": "A1"
+  },
+  {
+    "noun": "Halbmarathon",
+    "article": "der",
+    "plural": "Halbmarathons",
+    "meaning": "half marathon",
+    "level": "A1"
+  },
+  {
+    "noun": "Hamster",
+    "article": "der",
+    "plural": "Hamster",
+    "meaning": "hamster",
+    "level": "A1"
+  },
+  {
+    "noun": "Handschuh",
+    "article": "der",
+    "plural": "Handschuhe",
+    "meaning": "glove",
+    "level": "A1"
+  },
+  {
+    "noun": "Handwerker",
+    "article": "der",
+    "plural": "Handwerker",
+    "meaning": "tradesman, craftsman",
+    "level": "A1"
+  },
+  {
+    "noun": "Handwerkerin",
+    "article": "die",
+    "plural": "Handwerkerinnen",
+    "meaning": "tradeswoman, craftswoman",
+    "level": "A1"
+  },
+  {
+    "noun": "Handynummer",
+    "article": "die",
+    "plural": "Handynummern",
+    "meaning": "mobile phone number",
+    "level": "A1"
+  },
+  {
+    "noun": "Hauptstadt",
+    "article": "die",
+    "plural": "Hauptstädte",
+    "meaning": "capital city",
+    "level": "A1"
+  },
+  {
+    "noun": "Hausmeister",
+    "article": "der",
+    "plural": "Hausmeister",
+    "meaning": "caretaker, janitor (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Hausmeisterin",
+    "article": "die",
+    "plural": "Hausmeisterinnen",
+    "meaning": "caretaker, janitor (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Hausmittel",
+    "article": "das",
+    "plural": "Hausmittel",
+    "meaning": "home remedy",
+    "level": "A1"
+  },
+  {
+    "noun": "Hausnummer",
+    "article": "die",
+    "plural": "Hausnummern",
+    "meaning": "house number",
+    "level": "A1"
+  },
+  {
+    "noun": "Helm",
+    "article": "der",
+    "plural": "Helme",
+    "meaning": "helmet",
+    "level": "A1"
+  },
+  {
+    "noun": "Hemd",
+    "article": "das",
+    "plural": "Hemden",
+    "meaning": "shirt",
+    "level": "A1"
+  },
+  {
+    "noun": "Himmelsrichtung",
+    "article": "die",
+    "plural": "Himmelsrichtungen",
+    "meaning": "cardinal direction",
+    "level": "A1"
+  },
+  {
+    "noun": "Hochhaus",
+    "article": "das",
+    "plural": "Hochhäuser",
+    "meaning": "high-rise building",
+    "level": "A1"
+  },
+  {
+    "noun": "Holz",
+    "article": "das",
+    "plural": "Hölzer",
+    "meaning": "wood",
+    "level": "A1"
+  },
+  {
+    "noun": "Homepage",
+    "article": "die",
+    "plural": "Homepages",
+    "meaning": "homepage, website",
+    "level": "A1"
+  },
+  {
+    "noun": "Hose",
+    "article": "die",
+    "plural": "Hosen",
+    "meaning": "trousers, pants",
+    "level": "A1"
+  },
+  {
+    "noun": "Hotelchef",
+    "article": "der",
+    "plural": "Hotelchefs",
+    "meaning": "hotel manager (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Hotelchefin",
+    "article": "die",
+    "plural": "Hotelchefinnen",
+    "meaning": "hotel manager (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Hustensaft",
+    "article": "der",
+    "plural": "Hustensäfte",
+    "meaning": "cough syrup",
+    "level": "A1"
+  },
+  {
+    "noun": "Hut",
+    "article": "der",
+    "plural": "Hüte",
+    "meaning": "hat",
+    "level": "A1"
+  },
+  {
+    "noun": "Händler",
+    "article": "der",
+    "plural": "Händler",
+    "meaning": "dealer, trader (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Händlerin",
+    "article": "die",
+    "plural": "Händlerinnen",
+    "meaning": "dealer, trader (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Hühnersuppe",
+    "article": "die",
+    "plural": "Hühnersuppen",
+    "meaning": "chicken soup",
+    "level": "A1"
+  },
+  {
+    "noun": "Infinitiv",
+    "article": "der",
+    "plural": "Infinitive",
+    "meaning": "infinitive",
+    "level": "A1"
+  },
+  {
+    "noun": "Infotext",
+    "article": "der",
+    "plural": "Infotexte",
+    "meaning": "information text",
+    "level": "A1"
+  },
+  {
+    "noun": "Ingenieurin",
+    "article": "die",
+    "plural": "Ingenieurinnen",
+    "meaning": "engineer (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Interrogativartikel",
+    "article": "der",
+    "plural": "Interrogativartikel",
+    "meaning": "interrogative article",
+    "level": "A1"
+  },
+  {
+    "noun": "Jahrestreffen",
+    "article": "das",
+    "plural": "Jahrestreffen",
+    "meaning": "annual meeting",
+    "level": "A1"
+  },
+  {
+    "noun": "Jeans",
+    "article": "die",
+    "plural": "Jeans",
+    "meaning": "jeans",
+    "level": "A1"
+  },
+  {
+    "noun": "Journalistin",
+    "article": "die",
+    "plural": "Journalistinnen",
+    "meaning": "journalist (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Jurist",
+    "article": "der",
+    "plural": "Juristen",
+    "meaning": "lawyer (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Juristin",
+    "article": "die",
+    "plural": "Juristinnen",
+    "meaning": "lawyer (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Kaffeehaus",
+    "article": "das",
+    "plural": "Kaffeehäuser",
+    "meaning": "coffee house, café",
+    "level": "A1"
+  },
+  {
+    "noun": "Kamera",
+    "article": "die",
+    "plural": "Kameras",
+    "meaning": "camera",
+    "level": "A1"
+  },
+  {
+    "noun": "Kapitel",
+    "article": "das",
+    "plural": "Kapitel",
+    "meaning": "chapter",
+    "level": "A1"
+  },
+  {
+    "noun": "Karussell",
+    "article": "das",
+    "plural": "Karussells",
+    "meaning": "carousel, merry-go-round",
+    "level": "A1"
+  },
+  {
+    "noun": "Keks",
+    "article": "der",
+    "plural": "Keks",
+    "meaning": "cookie, biscuit",
+    "level": "A1"
+  },
+  {
+    "noun": "Kellnerin",
+    "article": "die",
+    "plural": "Kellnerinnen",
+    "meaning": "waitress",
+    "level": "A1"
+  },
+  {
+    "noun": "Kilo",
+    "article": "das",
+    "plural": "Kilo",
+    "meaning": "kilo",
+    "level": "A1"
+  },
+  {
+    "noun": "Kilogramm",
+    "article": "das",
+    "plural": "Kilogramme",
+    "meaning": "kilogram",
+    "level": "A1"
+  },
+  {
+    "noun": "Kilometer",
+    "article": "der",
+    "plural": "Kilometer",
+    "meaning": "kilometer",
+    "level": "A1"
+  },
+  {
+    "noun": "Kinderzimmer",
+    "article": "das",
+    "plural": "Kinderzimmer",
+    "meaning": "children's room",
+    "level": "A1"
+  },
+  {
+    "noun": "Kiste",
+    "article": "die",
+    "plural": "Kisten",
+    "meaning": "box, crate",
+    "level": "A1"
+  },
+  {
+    "noun": "Kleidergeschäft",
+    "article": "das",
+    "plural": "Kleidergeschäfte",
+    "meaning": "clothing store",
+    "level": "A1"
+  },
+  {
+    "noun": "Kleiderkauf",
+    "article": "der",
+    "plural": "Kleiderkäufe",
+    "meaning": "clothes shopping",
+    "level": "A1"
+  },
+  {
+    "noun": "Kneipe",
+    "article": "die",
+    "plural": "Kneipen",
+    "meaning": "pub, bar",
+    "level": "A1"
+  },
+  {
+    "noun": "Koch",
+    "article": "der",
+    "plural": "Köche",
+    "meaning": "cook, chef (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Kommentar",
+    "article": "der",
+    "plural": "Kommentare",
+    "meaning": "comment",
+    "level": "A1"
+  },
+  {
+    "noun": "Kompositum",
+    "article": "das",
+    "plural": "Komposita",
+    "meaning": "compound word",
+    "level": "A1"
+  },
+  {
+    "noun": "Konsonant",
+    "article": "der",
+    "plural": "Konsonanten",
+    "meaning": "consonant",
+    "level": "A1"
+  },
+  {
+    "noun": "Kontext",
+    "article": "der",
+    "plural": "Kontexte",
+    "meaning": "context",
+    "level": "A1"
+  },
+  {
+    "noun": "Kontonummer",
+    "article": "die",
+    "plural": "Kontonummern",
+    "meaning": "account number",
+    "level": "A1"
+  },
+  {
+    "noun": "Kontrolle",
+    "article": "die",
+    "plural": "Kontrollen",
+    "meaning": "control, check",
+    "level": "A1"
+  },
+  {
+    "noun": "Konzerthaus",
+    "article": "das",
+    "plural": "Konzerthäuser",
+    "meaning": "concert hall",
+    "level": "A1"
+  },
+  {
+    "noun": "Konzertkarte",
+    "article": "die",
+    "plural": "Konzertkarten",
+    "meaning": "concert ticket",
+    "level": "A1"
+  },
+  {
+    "noun": "Kosmetik",
+    "article": "die",
+    "plural": "Kosmetika",
+    "meaning": "cosmetics",
+    "level": "A1"
+  },
+  {
+    "noun": "Krankenpfleger",
+    "article": "der",
+    "plural": "Krankenpfleger",
+    "meaning": "male nurse",
+    "level": "A1"
+  },
+  {
+    "noun": "Krankenpflegerin",
+    "article": "die",
+    "plural": "Krankenpflegerinnen",
+    "meaning": "female nurse",
+    "level": "A1"
+  },
+  {
+    "noun": "Krawatte",
+    "article": "die",
+    "plural": "Krawatten",
+    "meaning": "tie",
+    "level": "A1"
+  },
+  {
+    "noun": "Kultur-Nacht",
+    "article": "die",
+    "plural": "Kultur-Nächte",
+    "meaning": "culture night",
+    "level": "A1"
+  },
+  {
+    "noun": "Kulturfestival",
+    "article": "das",
+    "plural": "Kulturfestivals",
+    "meaning": "culture festival",
+    "level": "A1"
+  },
+  {
+    "noun": "Kundenbesuch",
+    "article": "der",
+    "plural": "Kundenbesuche",
+    "meaning": "customer visit",
+    "level": "A1"
+  },
+  {
+    "noun": "Kundin",
+    "article": "die",
+    "plural": "Kundinnen",
+    "meaning": "customer (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Kunst",
+    "article": "die",
+    "plural": "Künste",
+    "meaning": "art",
+    "level": "A1"
+  },
+  {
+    "noun": "Kunsthalle",
+    "article": "die",
+    "plural": "Kunsthallen",
+    "meaning": "art gallery",
+    "level": "A1"
+  },
+  {
+    "noun": "Kursplakat",
+    "article": "das",
+    "plural": "Kursplakate",
+    "meaning": "course poster",
+    "level": "A1"
+  },
+  {
+    "noun": "Kursraum",
+    "article": "der",
+    "plural": "Kursräume",
+    "meaning": "classroom (course)",
+    "level": "A1"
+  },
+  {
+    "noun": "Kursstatistik",
+    "article": "die",
+    "plural": "Kursstatistiken",
+    "meaning": "course statistics",
+    "level": "A1"
+  },
+  {
+    "noun": "Kurzform",
+    "article": "die",
+    "plural": "Kurzformen",
+    "meaning": "short form, abbreviation",
+    "level": "A1"
+  },
+  {
+    "noun": "Köchin",
+    "article": "die",
+    "plural": "Köchinnen",
+    "meaning": "cook, chef (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Körper",
+    "article": "der",
+    "plural": "Körper",
+    "meaning": "body",
+    "level": "A1"
+  },
+  {
+    "noun": "Körperteil",
+    "article": "der",
+    "plural": "Körperteile",
+    "meaning": "body part",
+    "level": "A1"
+  },
+  {
+    "noun": "Kühlschrank",
+    "article": "der",
+    "plural": "Kühlschränke",
+    "meaning": "refrigerator",
+    "level": "A1"
+  },
+  {
+    "noun": "Künstlerin",
+    "article": "die",
+    "plural": "Künstlerinnen",
+    "meaning": "artist (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Label",
+    "article": "das",
+    "plural": "Labels",
+    "meaning": "label, brand",
+    "level": "A1"
+  },
+  {
+    "noun": "Laborant",
+    "article": "der",
+    "plural": "Laboranten",
+    "meaning": "lab technician (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Laborantin",
+    "article": "die",
+    "plural": "Laborantinnen",
+    "meaning": "lab technician (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Lernkarte",
+    "article": "die",
+    "plural": "Lernkarten",
+    "meaning": "flashcard",
+    "level": "A1"
+  },
+  {
+    "noun": "Lernwortschatz",
+    "article": "der",
+    "plural": "Lernwortschätze",
+    "meaning": "vocabulary to learn",
+    "level": "A1"
+  },
+  {
+    "noun": "Lieblingsfarbe",
+    "article": "die",
+    "plural": "Lieblingsfarben",
+    "meaning": "favorite color",
+    "level": "A1"
+  },
+  {
+    "noun": "Lieblingsort",
+    "article": "der",
+    "plural": "Lieblingsorte",
+    "meaning": "favorite place",
+    "level": "A1"
+  },
+  {
+    "noun": "Lieblingszimmer",
+    "article": "das",
+    "plural": "Lieblingszimmer",
+    "meaning": "favorite room",
+    "level": "A1"
+  },
+  {
+    "noun": "Liter",
+    "article": "der",
+    "plural": "Liter",
+    "meaning": "liter",
+    "level": "A1"
+  },
+  {
+    "noun": "Lokal",
+    "article": "das",
+    "plural": "Lokale",
+    "meaning": "restaurant, pub",
+    "level": "A1"
+  },
+  {
+    "noun": "Lösung",
+    "article": "die",
+    "plural": "Lösungen",
+    "meaning": "solution",
+    "level": "A1"
+  },
+  {
+    "noun": "Mail",
+    "article": "die",
+    "plural": "Mails",
+    "meaning": "email (informal)",
+    "level": "A1"
+  },
+  {
+    "noun": "Marathon",
+    "article": "der",
+    "plural": "Marathons",
+    "meaning": "marathon",
+    "level": "A1"
+  },
+  {
+    "noun": "Maß",
+    "article": "das",
+    "plural": "Maße",
+    "meaning": "measure, size",
+    "level": "A1"
+  },
+  {
+    "noun": "Mechaniker",
+    "article": "der",
+    "plural": "Mechaniker",
+    "meaning": "mechanic (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Mechanikerin",
+    "article": "die",
+    "plural": "Mechanikerinnen",
+    "meaning": "mechanic (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Mensa",
+    "article": "die",
+    "plural": "Mensen",
+    "meaning": "university cafeteria",
+    "level": "A1"
+  },
+  {
+    "noun": "Meter",
+    "article": "der",
+    "plural": "Meter",
+    "meaning": "meter",
+    "level": "A1"
+  },
+  {
+    "noun": "Metzgerei",
+    "article": "die",
+    "plural": "Metzgereien",
+    "meaning": "butcher shop",
+    "level": "A1"
+  },
+  {
+    "noun": "Milliarde",
+    "article": "die",
+    "plural": "Milliarden",
+    "meaning": "billion",
+    "level": "A1"
+  },
+  {
+    "noun": "Million",
+    "article": "die",
+    "plural": "Millionen",
+    "meaning": "million",
+    "level": "A1"
+  },
+  {
+    "noun": "Mindmap",
+    "article": "die",
+    "plural": "Mindmaps",
+    "meaning": "mind map",
+    "level": "A1"
+  },
+  {
+    "noun": "Mitarbeiter",
+    "article": "der",
+    "plural": "Mitarbeiter",
+    "meaning": "employee (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Mitarbeiterin",
+    "article": "die",
+    "plural": "Mitarbeiterinnen",
+    "meaning": "employee (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Mitglied",
+    "article": "das",
+    "plural": "Mitglieder",
+    "meaning": "member",
+    "level": "A1"
+  },
+  {
+    "noun": "Modalverb",
+    "article": "das",
+    "plural": "Modalverben",
+    "meaning": "modal verb",
+    "level": "A1"
+  },
+  {
+    "noun": "Modedesigner",
+    "article": "der",
+    "plural": "Modedesigner",
+    "meaning": "fashion designer (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Modedesignerin",
+    "article": "die",
+    "plural": "Modedesignerinnen",
+    "meaning": "fashion designer (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Modefan",
+    "article": "der",
+    "plural": "Modefans",
+    "meaning": "fashion fan",
+    "level": "A1"
+  },
+  {
+    "noun": "Modell",
+    "article": "das",
+    "plural": "Modelle",
+    "meaning": "model",
+    "level": "A1"
+  },
+  {
+    "noun": "Modeschule",
+    "article": "die",
+    "plural": "Modeschulen",
+    "meaning": "fashion school",
+    "level": "A1"
+  },
+  {
+    "noun": "Museumsnacht",
+    "article": "die",
+    "plural": "Museumsnächte",
+    "meaning": "museum night",
+    "level": "A1"
+  },
+  {
+    "noun": "Musikgruppe",
+    "article": "die",
+    "plural": "Musikgruppen",
+    "meaning": "music group, band",
+    "level": "A1"
+  },
+  {
+    "noun": "Musikproduktion",
+    "article": "die",
+    "plural": "Musikproduktionen",
+    "meaning": "music production",
+    "level": "A1"
+  },
+  {
+    "noun": "Musikschule",
+    "article": "die",
+    "plural": "Musikschulen",
+    "meaning": "music school",
+    "level": "A1"
+  },
+  {
+    "noun": "Muttersprache",
+    "article": "die",
+    "plural": "Muttersprachen",
+    "meaning": "native language",
+    "level": "A1"
+  },
+  {
+    "noun": "Möglichkeit",
+    "article": "die",
+    "plural": "Möglichkeiten",
+    "meaning": "possibility",
+    "level": "A1"
+  },
+  {
+    "noun": "Müsli",
+    "article": "das",
+    "plural": "Müsli",
+    "meaning": "muesli",
+    "level": "A1"
+  },
+  {
+    "noun": "Mütze",
+    "article": "die",
+    "plural": "Mützen",
+    "meaning": "cap, beanie",
+    "level": "A1"
+  },
+  {
+    "noun": "Nachbarin",
+    "article": "die",
+    "plural": "Nachbarinnen",
+    "meaning": "neighbor (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Nachname",
+    "article": "der",
+    "plural": "Nachnamen",
+    "meaning": "surname",
+    "level": "A1"
+  },
+  {
+    "noun": "Nachteil",
+    "article": "der",
+    "plural": "Nachteile",
+    "meaning": "disadvantage",
+    "level": "A1"
+  },
+  {
+    "noun": "Negationsartikel",
+    "article": "der",
+    "plural": "Negationsartikel",
+    "meaning": "negation article",
+    "level": "A1"
+  },
+  {
+    "noun": "Nelke",
+    "article": "die",
+    "plural": "Nelken",
+    "meaning": "carnation",
+    "level": "A1"
+  },
+  {
+    "noun": "Netz",
+    "article": "das",
+    "plural": "Netze",
+    "meaning": "network, signal",
+    "level": "A1"
+  },
+  {
+    "noun": "Nomen",
+    "article": "das",
+    "plural": "Nomina",
+    "meaning": "noun",
+    "level": "A1"
+  },
+  {
+    "noun": "Nominativ",
+    "article": "der",
+    "plural": "Nominative",
+    "meaning": "nominative case",
+    "level": "A1"
+  },
+  {
+    "noun": "Notarzt",
+    "article": "der",
+    "plural": "Notärzte",
+    "meaning": "emergency doctor (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Notärztin",
+    "article": "die",
+    "plural": "Notärztinnen",
+    "meaning": "emergency doctor (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Olive",
+    "article": "die",
+    "plural": "Oliven",
+    "meaning": "olive",
+    "level": "A1"
+  },
+  {
+    "noun": "Open-Air-Kino",
+    "article": "das",
+    "plural": "Open-Air-Kinos",
+    "meaning": "outdoor cinema",
+    "level": "A1"
+  },
+  {
+    "noun": "Orchester",
+    "article": "das",
+    "plural": "Orchester",
+    "meaning": "orchestra",
+    "level": "A1"
+  },
+  {
+    "noun": "Ordinalzahl",
+    "article": "die",
+    "plural": "Ordinalzahlen",
+    "meaning": "ordinal number",
+    "level": "A1"
+  },
+  {
+    "noun": "Ortsangabe",
+    "article": "die",
+    "plural": "Ortsangaben",
+    "meaning": "location detail",
+    "level": "A1"
+  },
+  {
+    "noun": "Ortsveränderung",
+    "article": "die",
+    "plural": "Ortsveränderungen",
+    "meaning": "change of location",
+    "level": "A1"
+  },
+  {
+    "noun": "Parfüm",
+    "article": "das",
+    "plural": "Parfüms",
+    "meaning": "perfume",
+    "level": "A1"
+  },
+  {
+    "noun": "Parfümerie",
+    "article": "die",
+    "plural": "Parfümerien",
+    "meaning": "perfume shop",
+    "level": "A1"
+  },
+  {
+    "noun": "Partnerin",
+    "article": "die",
+    "plural": "Partnerinnen",
+    "meaning": "partner (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Patient",
+    "article": "der",
+    "plural": "Patienten",
+    "meaning": "patient (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Patientin",
+    "article": "die",
+    "plural": "Patientinnen",
+    "meaning": "patient (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Pension",
+    "article": "die",
+    "plural": "Pensionen",
+    "meaning": "guesthouse, pension",
+    "level": "A1"
+  },
+  {
+    "noun": "Personalpronomen",
+    "article": "das",
+    "plural": "Personalpronomen",
+    "meaning": "personal pronoun",
+    "level": "A1"
+  },
+  {
+    "noun": "Pflaster",
+    "article": "das",
+    "plural": "Pflaster",
+    "meaning": "band-aid, plaster",
+    "level": "A1"
+  },
+  {
+    "noun": "Physiotherapeut",
+    "article": "der",
+    "plural": "Physiotherapeuten",
+    "meaning": "physiotherapist (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Physiotherapeutin",
+    "article": "die",
+    "plural": "Physiotherapeutinnen",
+    "meaning": "physiotherapist (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Plakat",
+    "article": "das",
+    "plural": "Plakate",
+    "meaning": "poster",
+    "level": "A1"
+  },
+  {
+    "noun": "Plan",
+    "article": "der",
+    "plural": "Pläne",
+    "meaning": "plan",
+    "level": "A1"
+  },
+  {
+    "noun": "Plural",
+    "article": "der",
+    "plural": "Plurale",
+    "meaning": "plural",
+    "level": "A1"
+  },
+  {
+    "noun": "Pluralendung",
+    "article": "die",
+    "plural": "Pluralendungen",
+    "meaning": "plural ending",
+    "level": "A1"
+  },
+  {
+    "noun": "Pluralform",
+    "article": "die",
+    "plural": "Pluralformen",
+    "meaning": "plural form",
+    "level": "A1"
+  },
+  {
+    "noun": "Polizist",
+    "article": "der",
+    "plural": "Polizisten",
+    "meaning": "police officer (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Polizistin",
+    "article": "die",
+    "plural": "Polizistinnen",
+    "meaning": "police officer (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Position",
+    "article": "die",
+    "plural": "Positionen",
+    "meaning": "position",
+    "level": "A1"
+  },
+  {
+    "noun": "Possessivartikel",
+    "article": "der",
+    "plural": "Possessivartikel",
+    "meaning": "possessive article",
+    "level": "A1"
+  },
+  {
+    "noun": "Postleitzahl",
+    "article": "die",
+    "plural": "Postleitzahlen",
+    "meaning": "postal code",
+    "level": "A1"
+  },
+  {
+    "noun": "Produkt",
+    "article": "das",
+    "plural": "Produkte",
+    "meaning": "product",
+    "level": "A1"
+  },
+  {
+    "noun": "Produktion",
+    "article": "die",
+    "plural": "Produktionen",
+    "meaning": "production",
+    "level": "A1"
+  },
+  {
+    "noun": "Professor",
+    "article": "der",
+    "plural": "Professoren",
+    "meaning": "professor (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Professorin",
+    "article": "die",
+    "plural": "Professorinnen",
+    "meaning": "professor (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Profil",
+    "article": "das",
+    "plural": "Profile",
+    "meaning": "profile",
+    "level": "A1"
+  },
+  {
+    "noun": "Projekt",
+    "article": "das",
+    "plural": "Projekte",
+    "meaning": "project",
+    "level": "A1"
+  },
+  {
+    "noun": "Pronomen",
+    "article": "das",
+    "plural": "Pronomen",
+    "meaning": "pronoun",
+    "level": "A1"
+  },
+  {
+    "noun": "Präfix",
+    "article": "das",
+    "plural": "Präfixe",
+    "meaning": "prefix",
+    "level": "A1"
+  },
+  {
+    "noun": "Präposition",
+    "article": "die",
+    "plural": "Präpositionen",
+    "meaning": "preposition",
+    "level": "A1"
+  },
+  {
+    "noun": "Präteritum",
+    "article": "das",
+    "plural": "Präterita",
+    "meaning": "simple past tense",
+    "level": "A1"
+  },
+  {
+    "noun": "Pulli",
+    "article": "der",
+    "plural": "Pullis",
+    "meaning": "sweater (informal)",
+    "level": "A1"
+  },
+  {
+    "noun": "Pullover",
+    "article": "der",
+    "plural": "Pullover",
+    "meaning": "sweater, pullover",
+    "level": "A1"
+  },
+  {
+    "noun": "Punkt",
+    "article": "der",
+    "plural": "Punkte",
+    "meaning": "point, period",
+    "level": "A1"
+  },
+  {
+    "noun": "Radiosendung",
+    "article": "die",
+    "plural": "Radiosendungen",
+    "meaning": "radio broadcast",
+    "level": "A1"
+  },
+  {
+    "noun": "Ratebild",
+    "article": "das",
+    "plural": "Ratebilder",
+    "meaning": "guessing picture",
+    "level": "A1"
+  },
+  {
+    "noun": "Reaktion",
+    "article": "die",
+    "plural": "Reaktionen",
+    "meaning": "reaction",
+    "level": "A1"
+  },
+  {
+    "noun": "Redemittel",
+    "article": "das",
+    "plural": "Redemittel",
+    "meaning": "language tool, phrase",
+    "level": "A1"
+  },
+  {
+    "noun": "Regenjacke",
+    "article": "die",
+    "plural": "Regenjacken",
+    "meaning": "raincoat",
+    "level": "A1"
+  },
+  {
+    "noun": "Regenschirm",
+    "article": "der",
+    "plural": "Regenschirme",
+    "meaning": "umbrella",
+    "level": "A1"
+  },
+  {
+    "noun": "Regisseur",
+    "article": "der",
+    "plural": "Regisseure",
+    "meaning": "director (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Regisseurin",
+    "article": "die",
+    "plural": "Regisseurinnen",
+    "meaning": "director (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Reihenfolge",
+    "article": "die",
+    "plural": "Reihenfolgen",
+    "meaning": "sequence, order",
+    "level": "A1"
+  },
+  {
+    "noun": "Reihenhaus",
+    "article": "das",
+    "plural": "Reihenhäuser",
+    "meaning": "terraced house, row house",
+    "level": "A1"
+  },
+  {
+    "noun": "Reiseführerin",
+    "article": "die",
+    "plural": "Reiseführerinnen",
+    "meaning": "tour guide (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Reisetasche",
+    "article": "die",
+    "plural": "Reisetaschen",
+    "meaning": "travel bag",
+    "level": "A1"
+  },
+  {
+    "noun": "Religion",
+    "article": "die",
+    "plural": "Religionen",
+    "meaning": "religion",
+    "level": "A1"
+  },
+  {
+    "noun": "Rest",
+    "article": "der",
+    "plural": "Reste",
+    "meaning": "rest, remainder",
+    "level": "A1"
+  },
+  {
+    "noun": "Rezeption",
+    "article": "die",
+    "plural": "Rezeptionen",
+    "meaning": "reception (hotel)",
+    "level": "A1"
+  },
+  {
+    "noun": "Rolle",
+    "article": "die",
+    "plural": "Rollen",
+    "meaning": "role",
+    "level": "A1"
+  },
+  {
+    "noun": "Rollenkarte",
+    "article": "die",
+    "plural": "Rollenkarten",
+    "meaning": "role card",
+    "level": "A1"
+  },
+  {
+    "noun": "Saison",
+    "article": "die",
+    "plural": "Saisons",
+    "meaning": "season",
+    "level": "A1"
+  },
+  {
+    "noun": "Saison-Job",
+    "article": "der",
+    "plural": "Saison-Jobs",
+    "meaning": "seasonal job",
+    "level": "A1"
+  },
+  {
+    "noun": "Salami",
+    "article": "die",
+    "plural": "Salami",
+    "meaning": "salami",
+    "level": "A1"
+  },
+  {
+    "noun": "Salbe",
+    "article": "die",
+    "plural": "Salben",
+    "meaning": "ointment",
+    "level": "A1"
+  },
+  {
+    "noun": "Samstagabend",
+    "article": "der",
+    "plural": "Samstagabende",
+    "meaning": "Saturday evening",
+    "level": "A1"
+  },
+  {
+    "noun": "Sandwich",
+    "article": "das",
+    "plural": "Sandwichs",
+    "meaning": "sandwich",
+    "level": "A1"
+  },
+  {
+    "noun": "Satzende",
+    "article": "das",
+    "plural": "Satzenden",
+    "meaning": "end of the sentence",
+    "level": "A1"
+  },
+  {
+    "noun": "Satzmelodie",
+    "article": "die",
+    "plural": "Satzmelodien",
+    "meaning": "sentence intonation",
+    "level": "A1"
+  },
+  {
+    "noun": "Saxofon",
+    "article": "das",
+    "plural": "Saxofone",
+    "meaning": "saxophone",
+    "level": "A1"
+  },
+  {
+    "noun": "Schaffner",
+    "article": "der",
+    "plural": "Schaffner",
+    "meaning": "train conductor (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Schaffnerin",
+    "article": "die",
+    "plural": "Schaffnerinnen",
+    "meaning": "train conductor (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Schal",
+    "article": "der",
+    "plural": "Schals",
+    "meaning": "scarf",
+    "level": "A1"
+  },
+  {
+    "noun": "Schauspieler",
+    "article": "der",
+    "plural": "Schauspieler",
+    "meaning": "actor",
+    "level": "A1"
+  },
+  {
+    "noun": "Schauspielerin",
+    "article": "die",
+    "plural": "Schauspielerinnen",
+    "meaning": "actress",
+    "level": "A1"
+  },
+  {
+    "noun": "Schiff",
+    "article": "das",
+    "plural": "Schiffe",
+    "meaning": "ship",
+    "level": "A1"
+  },
+  {
+    "noun": "Schild",
+    "article": "das",
+    "plural": "Schilder",
+    "meaning": "sign",
+    "level": "A1"
+  },
+  {
+    "noun": "Schlafsack",
+    "article": "der",
+    "plural": "Schlafsäcke",
+    "meaning": "sleeping bag",
+    "level": "A1"
+  },
+  {
+    "noun": "Schlaftablette",
+    "article": "die",
+    "plural": "Schlaftabletten",
+    "meaning": "sleeping pill",
+    "level": "A1"
+  },
+  {
+    "noun": "Schluss",
+    "article": "der",
+    "plural": "Schlüsse",
+    "meaning": "end, conclusion",
+    "level": "A1"
+  },
+  {
+    "noun": "Schreibtisch",
+    "article": "der",
+    "plural": "Schreibtische",
+    "meaning": "desk",
+    "level": "A1"
+  },
+  {
+    "noun": "Schuhfan",
+    "article": "der",
+    "plural": "Schuhfans",
+    "meaning": "shoe fan",
+    "level": "A1"
+  },
+  {
+    "noun": "Schuhladen",
+    "article": "der",
+    "plural": "Schuhläden",
+    "meaning": "shoe shop",
+    "level": "A1"
+  },
+  {
+    "noun": "Secondhand-Laden",
+    "article": "der",
+    "plural": "Secondhand-Läden",
+    "meaning": "second-hand shop",
+    "level": "A1"
+  },
+  {
+    "noun": "Segellehrer",
+    "article": "der",
+    "plural": "Segellehrer",
+    "meaning": "sailing instructor (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Segellehrerin",
+    "article": "die",
+    "plural": "Segellehrerinnen",
+    "meaning": "sailing instructor (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Sekretär",
+    "article": "der",
+    "plural": "Sekretäre",
+    "meaning": "secretary (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Sekunde",
+    "article": "die",
+    "plural": "Sekunden",
+    "meaning": "second (time)",
+    "level": "A1"
+  },
+  {
+    "noun": "Seminar",
+    "article": "das",
+    "plural": "Seminare",
+    "meaning": "seminar",
+    "level": "A1"
+  },
+  {
+    "noun": "Sensation",
+    "article": "die",
+    "plural": "Sensationen",
+    "meaning": "sensation",
+    "level": "A1"
+  },
+  {
+    "noun": "Serie",
+    "article": "die",
+    "plural": "Serien",
+    "meaning": "TV series",
+    "level": "A1"
+  },
+  {
+    "noun": "Serviette",
+    "article": "die",
+    "plural": "Servietten",
+    "meaning": "napkin",
+    "level": "A1"
+  },
+  {
+    "noun": "Sessel",
+    "article": "der",
+    "plural": "Sessel",
+    "meaning": "armchair",
+    "level": "A1"
+  },
+  {
+    "noun": "Shop",
+    "article": "der",
+    "plural": "Shops",
+    "meaning": "shop",
+    "level": "A1"
+  },
+  {
+    "noun": "Silbenanfang",
+    "article": "der",
+    "plural": "Silbenanfänge",
+    "meaning": "start of a syllable",
+    "level": "A1"
+  },
+  {
+    "noun": "Situation",
+    "article": "die",
+    "plural": "Situationen",
+    "meaning": "situation",
+    "level": "A1"
+  },
+  {
+    "noun": "Ski",
+    "article": "der",
+    "plural": "Ski",
+    "meaning": "ski",
+    "level": "A1"
+  },
+  {
+    "noun": "Ski-Urlaub",
+    "article": "der",
+    "plural": "Ski-Urlaube",
+    "meaning": "skiing holiday",
+    "level": "A1"
+  },
+  {
+    "noun": "Small Talk",
+    "article": "der",
+    "plural": "Small Talks",
+    "meaning": "small talk",
+    "level": "A1"
+  },
+  {
+    "noun": "Snowboard-Urlaub",
+    "article": "der",
+    "plural": "Snowboard-Urlaube",
+    "meaning": "snowboarding holiday",
+    "level": "A1"
+  },
+  {
+    "noun": "Solist",
+    "article": "der",
+    "plural": "Solisten",
+    "meaning": "soloist (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Solistin",
+    "article": "die",
+    "plural": "Solistinnen",
+    "meaning": "soloist (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Sommerfest",
+    "article": "das",
+    "plural": "Sommerfeste",
+    "meaning": "summer festival",
+    "level": "A1"
+  },
+  {
+    "noun": "Sonnenbrille",
+    "article": "die",
+    "plural": "Sonnenbrillen",
+    "meaning": "sunglasses",
+    "level": "A1"
+  },
+  {
+    "noun": "Sonnencreme",
+    "article": "die",
+    "plural": "Sonnencremes",
+    "meaning": "sunscreen",
+    "level": "A1"
+  },
+  {
+    "noun": "Sonntagnachmittag",
+    "article": "der",
+    "plural": "Sonntagnachmittage",
+    "meaning": "Sunday afternoon",
+    "level": "A1"
+  },
+  {
+    "noun": "Souvenir",
+    "article": "das",
+    "plural": "Souvenirs",
+    "meaning": "souvenir",
+    "level": "A1"
+  },
+  {
+    "noun": "Spezialität",
+    "article": "die",
+    "plural": "Spezialitäten",
+    "meaning": "specialty",
+    "level": "A1"
+  },
+  {
+    "noun": "Spiel",
+    "article": "das",
+    "plural": "Spiele",
+    "meaning": "game",
+    "level": "A1"
+  },
+  {
+    "noun": "Sportclub",
+    "article": "der",
+    "plural": "Sportclubs",
+    "meaning": "sports club",
+    "level": "A1"
+  },
+  {
+    "noun": "Sportler",
+    "article": "der",
+    "plural": "Sportler",
+    "meaning": "athlete (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Sportlerin",
+    "article": "die",
+    "plural": "Sportlerinnen",
+    "meaning": "athlete (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Sportschuh",
+    "article": "der",
+    "plural": "Sportschuhe",
+    "meaning": "sports shoe",
+    "level": "A1"
+  },
+  {
+    "noun": "Sprachinstitut",
+    "article": "das",
+    "plural": "Sprachinstitute",
+    "meaning": "language institute",
+    "level": "A1"
+  },
+  {
+    "noun": "Sprachkurs",
+    "article": "der",
+    "plural": "Sprachkurse",
+    "meaning": "language course",
+    "level": "A1"
+  },
+  {
+    "noun": "Sprachnachricht",
+    "article": "die",
+    "plural": "Sprachnachrichten",
+    "meaning": "voice message",
+    "level": "A1"
+  },
+  {
+    "noun": "Sprachschule",
+    "article": "die",
+    "plural": "Sprachschulen",
+    "meaning": "language school",
+    "level": "A1"
+  },
+  {
+    "noun": "Spülmaschine",
+    "article": "die",
+    "plural": "Spülmaschinen",
+    "meaning": "dishwasher",
+    "level": "A1"
+  },
+  {
+    "noun": "Stadtführung",
+    "article": "die",
+    "plural": "Stadtführungen",
+    "meaning": "city tour",
+    "level": "A1"
+  },
+  {
+    "noun": "Stadtpark",
+    "article": "der",
+    "plural": "Stadtparks",
+    "meaning": "city park",
+    "level": "A1"
+  },
+  {
+    "noun": "Stadttour",
+    "article": "die",
+    "plural": "Stadttouren",
+    "meaning": "city tour",
+    "level": "A1"
+  },
+  {
+    "noun": "Stadturlaub",
+    "article": "der",
+    "plural": "Stadturlaube",
+    "meaning": "city holiday",
+    "level": "A1"
+  },
+  {
+    "noun": "Stapel",
+    "article": "der",
+    "plural": "Stapel",
+    "meaning": "stack, pile",
+    "level": "A1"
+  },
+  {
+    "noun": "Star",
+    "article": "der",
+    "plural": "Stare",
+    "meaning": "star (celebrity)",
+    "level": "A1"
+  },
+  {
+    "noun": "Start",
+    "article": "der",
+    "plural": "Starts",
+    "meaning": "start",
+    "level": "A1"
+  },
+  {
+    "noun": "Station",
+    "article": "die",
+    "plural": "Stationen",
+    "meaning": "station, stop",
+    "level": "A1"
+  },
+  {
+    "noun": "Statist",
+    "article": "der",
+    "plural": "Statisten",
+    "meaning": "extra (film, male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Statistin",
+    "article": "die",
+    "plural": "Statistinnen",
+    "meaning": "extra (film, female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Stichpunkt",
+    "article": "der",
+    "plural": "Stichpunkte",
+    "meaning": "bullet point, key point",
+    "level": "A1"
+  },
+  {
+    "noun": "Stiefel",
+    "article": "der",
+    "plural": "Stiefel",
+    "meaning": "boot",
+    "level": "A1"
+  },
+  {
+    "noun": "Stollen",
+    "article": "der",
+    "plural": "Stollen",
+    "meaning": "stollen (Christmas cake)",
+    "level": "A1"
+  },
+  {
+    "noun": "Strandbar",
+    "article": "die",
+    "plural": "Strandbars",
+    "meaning": "beach bar",
+    "level": "A1"
+  },
+  {
+    "noun": "Strategie",
+    "article": "die",
+    "plural": "Strategien",
+    "meaning": "strategy",
+    "level": "A1"
+  },
+  {
+    "noun": "Studio",
+    "article": "das",
+    "plural": "Studios",
+    "meaning": "studio",
+    "level": "A1"
+  },
+  {
+    "noun": "Städtereise",
+    "article": "die",
+    "plural": "Städtereisen",
+    "meaning": "city trip",
+    "level": "A1"
+  },
+  {
+    "noun": "Subjekt",
+    "article": "das",
+    "plural": "Subjekte",
+    "meaning": "subject (grammar)",
+    "level": "A1"
+  },
+  {
+    "noun": "Suppenhuhn",
+    "article": "das",
+    "plural": "Suppenhühner",
+    "meaning": "stewing hen",
+    "level": "A1"
+  },
+  {
+    "noun": "Sweatshirt",
+    "article": "das",
+    "plural": "Sweatshirts",
+    "meaning": "sweatshirt",
+    "level": "A1"
+  },
+  {
+    "noun": "Symbol",
+    "article": "das",
+    "plural": "Symbole",
+    "meaning": "symbol",
+    "level": "A1"
+  },
+  {
+    "noun": "Szene",
+    "article": "die",
+    "plural": "Szenen",
+    "meaning": "scene",
+    "level": "A1"
+  },
+  {
+    "noun": "T-Shirt",
+    "article": "das",
+    "plural": "T-Shirts",
+    "meaning": "T-shirt",
+    "level": "A1"
+  },
+  {
+    "noun": "Tabelle",
+    "article": "die",
+    "plural": "Tabellen",
+    "meaning": "table (chart)",
+    "level": "A1"
+  },
+  {
+    "noun": "Tageszeit",
+    "article": "die",
+    "plural": "Tageszeiten",
+    "meaning": "time of day",
+    "level": "A1"
+  },
+  {
+    "noun": "Taxifahrer",
+    "article": "der",
+    "plural": "Taxifahrer",
+    "meaning": "taxi driver (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Taxifahrerin",
+    "article": "die",
+    "plural": "Taxifahrerinnen",
+    "meaning": "taxi driver (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Taxifahrt",
+    "article": "die",
+    "plural": "Taxifahrten",
+    "meaning": "taxi ride",
+    "level": "A1"
+  },
+  {
+    "noun": "Team",
+    "article": "das",
+    "plural": "Teams",
+    "meaning": "team",
+    "level": "A1"
+  },
+  {
+    "noun": "Technik",
+    "article": "die",
+    "plural": "Techniken",
+    "meaning": "technology, technique",
+    "level": "A1"
+  },
+  {
+    "noun": "Techniker",
+    "article": "der",
+    "plural": "Techniker",
+    "meaning": "technician (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Technikerin",
+    "article": "die",
+    "plural": "Technikerinnen",
+    "meaning": "technician (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Telefongespräch",
+    "article": "das",
+    "plural": "Telefongespräche",
+    "meaning": "phone conversation",
+    "level": "A1"
+  },
+  {
+    "noun": "Tennisplatz",
+    "article": "der",
+    "plural": "Tennisplätze",
+    "meaning": "tennis court",
+    "level": "A1"
+  },
+  {
+    "noun": "Terrasse",
+    "article": "die",
+    "plural": "Terrassen",
+    "meaning": "terrace",
+    "level": "A1"
+  },
+  {
+    "noun": "Thema",
+    "article": "das",
+    "plural": "Themen",
+    "meaning": "topic",
+    "level": "A1"
+  },
+  {
+    "noun": "Therapeut",
+    "article": "der",
+    "plural": "Therapeuten",
+    "meaning": "therapist (male)",
+    "level": "A1"
+  },
+  {
+    "noun": "Therapeutin",
+    "article": "die",
+    "plural": "Therapeutinnen",
+    "meaning": "therapist (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Tomatensuppe",
+    "article": "die",
+    "plural": "Tomatensuppen",
+    "meaning": "tomato soup",
+    "level": "A1"
+  },
+  {
+    "noun": "Tour",
+    "article": "die",
+    "plural": "Touren",
+    "meaning": "tour",
+    "level": "A1"
+  },
+  {
+    "noun": "Training",
+    "article": "das",
+    "plural": "Trainings",
+    "meaning": "training",
+    "level": "A1"
+  },
+  {
+    "noun": "Tram",
+    "article": "die",
+    "plural": "Trams",
+    "meaning": "tram",
+    "level": "A1"
+  },
+  {
+    "noun": "Traumurlaub",
+    "article": "der",
+    "plural": "Traumurlaube",
+    "meaning": "dream holiday",
+    "level": "A1"
+  },
+  {
+    "noun": "Treffpunkt",
+    "article": "der",
+    "plural": "Treffpunkte",
+    "meaning": "meeting point",
+    "level": "A1"
+  },
+  {
+    "noun": "Trinkgeld",
+    "article": "das",
+    "plural": "Trinkgelder",
+    "meaning": "tip (gratuity)",
+    "level": "A1"
+  },
+  {
+    "noun": "Trompete",
+    "article": "die",
+    "plural": "Trompeten",
+    "meaning": "trumpet",
+    "level": "A1"
+  },
+  {
+    "noun": "Tropfen",
+    "article": "der",
+    "plural": "Tropfen",
+    "meaning": "drop (liquid)",
+    "level": "A1"
+  },
+  {
+    "noun": "Tuch",
+    "article": "das",
+    "plural": "Tücher",
+    "meaning": "cloth, scarf",
+    "level": "A1"
+  },
+  {
+    "noun": "Turm",
+    "article": "der",
+    "plural": "Türme",
+    "meaning": "tower",
+    "level": "A1"
+  },
+  {
+    "noun": "USB-Stick",
+    "article": "der",
+    "plural": "USB-Sticks",
+    "meaning": "USB stick",
+    "level": "A1"
+  },
+  {
+    "noun": "Umlaut",
+    "article": "der",
+    "plural": "Umlaute",
+    "meaning": "umlaut",
+    "level": "A1"
+  },
+  {
+    "noun": "Uni",
+    "article": "die",
+    "plural": "Unis",
+    "meaning": "university (informal)",
+    "level": "A1"
+  },
+  {
+    "noun": "Universität",
+    "article": "die",
+    "plural": "Universitäten",
+    "meaning": "university",
+    "level": "A1"
+  },
+  {
+    "noun": "Untergeschoss",
+    "article": "das",
+    "plural": "Untergeschosse",
+    "meaning": "basement level",
+    "level": "A1"
+  },
+  {
+    "noun": "Unterstrich",
+    "article": "der",
+    "plural": "Unterstriche",
+    "meaning": "underscore",
+    "level": "A1"
+  },
+  {
+    "noun": "Urlaubsnachricht",
+    "article": "die",
+    "plural": "Urlaubsnachrichten",
+    "meaning": "out-of-office message",
+    "level": "A1"
+  },
+  {
+    "noun": "Urlaubsort",
+    "article": "der",
+    "plural": "Urlaubsorte",
+    "meaning": "holiday destination",
+    "level": "A1"
+  },
+  {
+    "noun": "Variation",
+    "article": "die",
+    "plural": "Variationen",
+    "meaning": "variation",
+    "level": "A1"
+  },
+  {
+    "noun": "Verabredung",
+    "article": "die",
+    "plural": "Verabredungen",
+    "meaning": "appointment, date",
+    "level": "A1"
+  },
+  {
+    "noun": "Verb",
+    "article": "das",
+    "plural": "Verben",
+    "meaning": "verb",
+    "level": "A1"
+  },
+  {
+    "noun": "Verkäuferin",
+    "article": "die",
+    "plural": "Verkäuferinnen",
+    "meaning": "shop assistant (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Vermieterin",
+    "article": "die",
+    "plural": "Vermieterinnen",
+    "meaning": "landlady",
+    "level": "A1"
+  },
+  {
+    "noun": "Video",
+    "article": "das",
+    "plural": "Videos",
+    "meaning": "video",
+    "level": "A1"
+  },
+  {
+    "noun": "Vokal",
+    "article": "der",
+    "plural": "Vokale",
+    "meaning": "vowel",
+    "level": "A1"
+  },
+  {
+    "noun": "Vorliebe",
+    "article": "die",
+    "plural": "Vorlieben",
+    "meaning": "preference, fondness",
+    "level": "A1"
+  },
+  {
+    "noun": "Vorschlag",
+    "article": "der",
+    "plural": "Vorschläge",
+    "meaning": "suggestion",
+    "level": "A1"
+  },
+  {
+    "noun": "Vorteil",
+    "article": "der",
+    "plural": "Vorteile",
+    "meaning": "advantage",
+    "level": "A1"
+  },
+  {
+    "noun": "W-Frage",
+    "article": "die",
+    "plural": "W-Fragen",
+    "meaning": "wh-question",
+    "level": "A1"
+  },
+  {
+    "noun": "W-Wort",
+    "article": "das",
+    "plural": "W-Wörter",
+    "meaning": "wh-word",
+    "level": "A1"
+  },
+  {
+    "noun": "WG",
+    "article": "die",
+    "plural": "WGs",
+    "meaning": "shared apartment",
+    "level": "A1"
+  },
+  {
+    "noun": "Ware",
+    "article": "die",
+    "plural": "Waren",
+    "meaning": "goods, merchandise",
+    "level": "A1"
+  },
+  {
+    "noun": "Wechselpräposition",
+    "article": "die",
+    "plural": "Wechselpräpositionen",
+    "meaning": "two-way preposition",
+    "level": "A1"
+  },
+  {
+    "noun": "Wegbeschreibung",
+    "article": "die",
+    "plural": "Wegbeschreibungen",
+    "meaning": "directions",
+    "level": "A1"
+  },
+  {
+    "noun": "Weihnachtsmarkt",
+    "article": "der",
+    "plural": "Weihnachtsmärkte",
+    "meaning": "Christmas market",
+    "level": "A1"
+  },
+  {
+    "noun": "Weise",
+    "article": "die",
+    "plural": "Weisen",
+    "meaning": "way, manner",
+    "level": "A1"
+  },
+  {
+    "noun": "Wetterbericht",
+    "article": "der",
+    "plural": "Wetterberichte",
+    "meaning": "weather report",
+    "level": "A1"
+  },
+  {
+    "noun": "Winterjacke",
+    "article": "die",
+    "plural": "Winterjacken",
+    "meaning": "winter jacket",
+    "level": "A1"
+  },
+  {
+    "noun": "Wochentag",
+    "article": "der",
+    "plural": "Wochentage",
+    "meaning": "day of the week",
+    "level": "A1"
+  },
+  {
+    "noun": "Wohnfläche",
+    "article": "die",
+    "plural": "Wohnflächen",
+    "meaning": "living space (area)",
+    "level": "A1"
+  },
+  {
+    "noun": "Wohnform",
+    "article": "die",
+    "plural": "Wohnformen",
+    "meaning": "form of housing",
+    "level": "A1"
+  },
+  {
+    "noun": "Wohnsituation",
+    "article": "die",
+    "plural": "Wohnsituationen",
+    "meaning": "housing situation",
+    "level": "A1"
+  },
+  {
+    "noun": "Wohnungsanzeige",
+    "article": "die",
+    "plural": "Wohnungsanzeigen",
+    "meaning": "apartment listing",
+    "level": "A1"
+  },
+  {
+    "noun": "Wortanfang",
+    "article": "der",
+    "plural": "Wortanfänge",
+    "meaning": "start of a word",
+    "level": "A1"
+  },
+  {
+    "noun": "Wortende",
+    "article": "das",
+    "plural": "Wortenden",
+    "meaning": "end of a word",
+    "level": "A1"
+  },
+  {
+    "noun": "Wortgruppe",
+    "article": "die",
+    "plural": "Wortgruppen",
+    "meaning": "word group, phrase",
+    "level": "A1"
+  },
+  {
+    "noun": "Wortliste",
+    "article": "die",
+    "plural": "Wortlisten",
+    "meaning": "word list",
+    "level": "A1"
+  },
+  {
+    "noun": "Wortteil",
+    "article": "der",
+    "plural": "Wortteile",
+    "meaning": "word part",
+    "level": "A1"
+  },
+  {
+    "noun": "Würstchen",
+    "article": "das",
+    "plural": "Würstchen",
+    "meaning": "small sausage",
+    "level": "A1"
+  },
+  {
+    "noun": "Würstel",
+    "article": "das",
+    "plural": "Würstel",
+    "meaning": "small sausage (Austrian)",
+    "level": "A1"
+  },
+  {
+    "noun": "Zahnärztin",
+    "article": "die",
+    "plural": "Zahnärztinnen",
+    "meaning": "dentist (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Zeichnung",
+    "article": "die",
+    "plural": "Zeichnungen",
+    "meaning": "drawing",
+    "level": "A1"
+  },
+  {
+    "noun": "Zeitangabe",
+    "article": "die",
+    "plural": "Zeitangaben",
+    "meaning": "time expression",
+    "level": "A1"
+  },
+  {
+    "noun": "Zelt",
+    "article": "das",
+    "plural": "Zelte",
+    "meaning": "tent",
+    "level": "A1"
+  },
+  {
+    "noun": "Zettel",
+    "article": "der",
+    "plural": "Zettel",
+    "meaning": "note, slip of paper",
+    "level": "A1"
+  },
+  {
+    "noun": "Ziel",
+    "article": "das",
+    "plural": "Ziele",
+    "meaning": "goal, destination",
+    "level": "A1"
+  },
+  {
+    "noun": "Zoo",
+    "article": "der",
+    "plural": "Zoos",
+    "meaning": "zoo",
+    "level": "A1"
+  },
+  {
+    "noun": "Zufall",
+    "article": "der",
+    "plural": "Zufälle",
+    "meaning": "coincidence",
+    "level": "A1"
+  },
+  {
+    "noun": "Zuschauerin",
+    "article": "die",
+    "plural": "Zuschauerinnen",
+    "meaning": "spectator (female)",
+    "level": "A1"
+  },
+  {
+    "noun": "Äußerung",
+    "article": "die",
+    "plural": "Äußerungen",
+    "meaning": "utterance, statement",
+    "level": "A1"
+  },
+  {
+    "noun": "Überraschungstag",
+    "article": "der",
+    "plural": "Überraschungstage",
+    "meaning": "surprise day",
+    "level": "A1"
+  },
+  {
+    "noun": "Überschrift",
+    "article": "die",
+    "plural": "Überschriften",
+    "meaning": "heading, title",
+    "level": "A1"
+  },
+  {
+    "noun": "Übungsbuch",
+    "article": "das",
+    "plural": "Übungsbücher",
+    "meaning": "exercise book, workbook",
+    "level": "A1"
+  },
+  {
+    "noun": "Gespräch",
+    "article": "das",
+    "plural": "Gespräche",
+    "meaning": "conversation, talk",
+    "level": "A1"
+  },
+  {
+    "noun": "Lektion",
+    "article": "die",
+    "plural": "Lektionen",
+    "meaning": "lesson, chapter",
+    "level": "A1"
+  },
+  {
+    "noun": "Visitenkarte",
+    "article": "die",
+    "plural": "Visitenkarten",
+    "meaning": "business card",
+    "level": "A1"
+  },
+  {
+    "noun": "Fremdsprache",
+    "article": "die",
+    "plural": "Fremdsprachen",
+    "meaning": "foreign language",
+    "level": "A1"
+  },
+  {
+    "noun": "Pfannkuchen",
+    "article": "der",
+    "plural": "Pfannkuchen",
+    "meaning": "pancake",
+    "level": "A1"
+  },
+  {
+    "noun": "Ehepaar",
+    "article": "das",
+    "plural": "Ehepaare",
+    "meaning": "married couple",
+    "level": "A1"
+  },
+  {
+    "noun": "TV",
+    "article": "das",
+    "plural": "TVs",
+    "meaning": "TV, television",
+    "level": "A1"
+  },
+  {
+    "noun": "Intensivkurs",
+    "article": "der",
+    "plural": "Intensivkurse",
+    "meaning": "intensive course",
+    "level": "A1"
+  },
+  {
+    "noun": "Gitarre",
+    "article": "die",
+    "plural": "Gitarren",
+    "meaning": "guitar",
+    "level": "A1"
+  },
+  {
+    "noun": "Hamburger",
+    "article": "der",
+    "plural": "Hamburger",
+    "meaning": "hamburger",
+    "level": "A1"
+  },
+  {
+    "noun": "Speise",
+    "article": "die",
+    "plural": "Speisen",
+    "meaning": "dish, food",
+    "level": "A1"
+  },
+  {
+    "noun": "Grill",
+    "article": "der",
+    "plural": "Grills",
+    "meaning": "grill, barbecue",
+    "level": "A1"
+  },
+  {
+    "noun": "Würfel",
+    "article": "der",
+    "plural": "Würfel",
+    "meaning": "die, dice",
+    "level": "A1"
+  },
+  {
+    "noun": "Klavier",
+    "article": "das",
+    "plural": "Klaviere",
+    "meaning": "piano",
+    "level": "A1"
+  },
+  {
+    "noun": "Diktat",
+    "article": "das",
+    "plural": "Diktate",
+    "meaning": "dictation",
+    "level": "A1"
+  },
+  {
+    "noun": "Brust",
+    "article": "die",
+    "plural": "Brüste",
+    "meaning": "chest, breast",
+    "level": "A1"
+  },
+  {
+    "noun": "Stadtplan",
+    "article": "der",
+    "plural": "Stadtpläne",
+    "meaning": "city map",
+    "level": "A1"
+  },
+  {
+    "noun": "Kiosk",
+    "article": "der",
+    "plural": "Kioske",
+    "meaning": "kiosk, newsstand",
+    "level": "A1"
+  },
+  {
+    "noun": "Buchhandlung",
+    "article": "die",
+    "plural": "Buchhandlungen",
+    "meaning": "bookstore",
+    "level": "A1"
+  },
+  {
+    "noun": "Durchsage",
+    "article": "die",
+    "plural": "Durchsagen",
+    "meaning": "announcement",
+    "level": "A1"
+  },
+  {
+    "noun": "Schalter",
+    "article": "der",
+    "plural": "Schalter",
+    "meaning": "counter, ticket window",
+    "level": "A1"
+  },
+  {
+    "noun": "Heimatland",
+    "article": "das",
+    "plural": "Heimatländer",
+    "meaning": "home country",
+    "level": "A1"
+  },
+  {
+    "noun": "Kleider",
+    "article": "die",
+    "plural": "Kleider",
+    "meaning": "clothes",
+    "level": "A1"
+  },
+  {
+    "noun": "Ansage",
+    "article": "die",
+    "plural": "Ansagen",
+    "meaning": "announcement",
+    "level": "A1"
+  },
+  {
+    "noun": "Gebrauchsanweisung",
+    "article": "die",
+    "plural": "Gebrauchsanweisungen",
+    "meaning": "instructions for use",
+    "level": "A1"
+  },
+  {
+    "noun": "Reinigung",
+    "article": "die",
+    "plural": "Reinigungen",
+    "meaning": "cleaning",
+    "level": "A1"
+  },
+  {
+    "noun": "Steckdose",
+    "article": "die",
+    "plural": "Steckdosen",
+    "meaning": "electrical socket",
+    "level": "A1"
+  },
+  {
+    "noun": "Socke",
+    "article": "die",
+    "plural": "Socken",
+    "meaning": "sock",
+    "level": "A1"
+  },
+  {
+    "noun": "Strumpf",
+    "article": "der",
+    "plural": "Strümpfe",
+    "meaning": "stocking",
+    "level": "A1"
+  },
+  {
+    "noun": "Bratwurst",
+    "article": "die",
+    "plural": "Bratwürste",
+    "meaning": "bratwurst, fried sausage",
+    "level": "A1"
+  },
+  {
+    "noun": "Nordsee",
+    "article": "die",
+    "plural": "Nordsee",
+    "meaning": "North Sea",
+    "level": "A1"
+  },
+  {
+    "noun": "Musiker",
+    "article": "der",
+    "plural": "Musiker",
+    "meaning": "musician",
+    "level": "A1"
+  },
+  {
+    "noun": "Rekord",
+    "article": "der",
+    "plural": "Rekorde",
+    "meaning": "record",
+    "level": "A1"
+  },
+  {
+    "noun": "Witz",
+    "article": "der",
+    "plural": "Witze",
+    "meaning": "joke",
+    "level": "A1"
+  },
+  {
+    "noun": "Obergeschoss",
+    "article": "das",
+    "plural": "Obergeschosse",
+    "meaning": "upper floor",
+    "level": "A1"
+  },
+  {
+    "noun": "Drogerie",
+    "article": "die",
+    "plural": "Drogerien",
+    "meaning": "drugstore",
+    "level": "A1"
+  },
+  {
+    "noun": "Geschirr",
+    "article": "das",
+    "plural": "Geschirre",
+    "meaning": "dishes, crockery",
+    "level": "A1"
+  },
+  {
+    "noun": "Laptop",
+    "article": "der",
+    "plural": "Laptops",
+    "meaning": "laptop",
+    "level": "A1"
+  },
+  {
+    "noun": "Einladung",
+    "article": "die",
+    "plural": "Einladungen",
+    "meaning": "invitation",
+    "level": "A1"
+  },
+  {
+    "noun": "Karneval",
+    "article": "der",
+    "plural": "Karnevale",
+    "meaning": "carnival",
+    "level": "A1"
+  },
+  {
+    "noun": "Reifen",
+    "article": "der",
+    "plural": "Reifen",
+    "meaning": "tire, hoop",
+    "level": "A1"
+  },
+  {
+    "noun": "Abschied",
+    "article": "der",
+    "plural": "Abschiede",
+    "meaning": "farewell",
+    "level": "A1"
+  },
+  {
+    "noun": "Arbeitsstelle",
+    "article": "die",
+    "plural": "Arbeitsstellen",
+    "meaning": "job, workplace",
+    "level": "A1"
+  },
+  {
+    "noun": "Verwandte",
+    "article": "der",
+    "plural": "Verwandte",
+    "meaning": "relative",
+    "level": "A1"
+  },
+  {
+    "noun": "Geburtsname",
+    "article": "der",
+    "plural": "Geburtsnamen",
+    "meaning": "birth name",
+    "level": "A1"
+  },
+  {
+    "noun": "Geschlecht",
+    "article": "das",
+    "plural": "Geschlechter",
+    "meaning": "gender",
+    "level": "A1"
+  },
+  {
+    "noun": "Angehörige",
+    "article": "der",
+    "plural": "Angehörige",
+    "meaning": "relative, dependent",
+    "level": "A1"
+  },
+  {
+    "noun": "Sprachenschule",
+    "article": "die",
+    "plural": "Sprachenschulen",
+    "meaning": "language school",
+    "level": "A1"
+  },
+  {
+    "noun": "Erklärung",
+    "article": "die",
+    "plural": "Erklärungen",
+    "meaning": "explanation, declaration",
+    "level": "A1"
+  },
+  {
+    "noun": "Klub",
+    "article": "der",
+    "plural": "Klubs",
+    "meaning": "club",
+    "level": "A1"
+  },
+  {
+    "noun": "Bereich",
+    "article": "der",
+    "plural": "Bereiche",
+    "meaning": "area, zone",
+    "level": "A1"
+  },
+  {
+    "noun": "Kuss",
+    "article": "der",
+    "plural": "Küsse",
+    "meaning": "kiss",
+    "level": "A1"
+  },
+  {
+    "noun": "Bekannte",
+    "article": "der",
+    "plural": "Bekannte",
+    "meaning": "acquaintance",
+    "level": "A1"
+  },
+  {
+    "noun": "Schritt",
+    "article": "der",
+    "plural": "Schritte",
+    "meaning": "step",
+    "level": "A1"
+  },
+  {
+    "noun": "Versichertenkarte",
+    "article": "die",
+    "plural": "Versichertenkarten",
+    "meaning": "health insurance card",
+    "level": "A1"
+  },
+  {
+    "noun": "Mechatroniker",
+    "article": "der",
+    "plural": "Mechatroniker",
+    "meaning": "mechatronics technician",
+    "level": "A1"
+  },
+  {
+    "noun": "Hausmann",
+    "article": "der",
+    "plural": "Hausmänner",
+    "meaning": "stay-at-home husband",
+    "level": "A1"
+  },
+  {
+    "noun": "Leiter",
+    "article": "der",
+    "plural": "Leiter",
+    "meaning": "manager, head",
+    "level": "A1"
+  },
+  {
+    "noun": "Diplom",
+    "article": "das",
+    "plural": "Diplome",
+    "meaning": "diploma",
+    "level": "A1"
+  },
+  {
+    "noun": "Tourist",
+    "article": "der",
+    "plural": "Touristen",
+    "meaning": "tourist",
+    "level": "A1"
+  },
+  {
+    "noun": "Berufserfahrung",
+    "article": "die",
+    "plural": "Berufserfahrungen",
+    "meaning": "professional experience",
+    "level": "A1"
+  },
+  {
+    "noun": "Arbeiter",
+    "article": "der",
+    "plural": "Arbeiter",
+    "meaning": "worker",
+    "level": "A1"
+  },
+  {
+    "noun": "Vollzeit",
+    "article": "die",
+    "plural": "Vollzeit",
+    "meaning": "full-time",
+    "level": "A1"
+  },
+  {
+    "noun": "Aushilfe",
+    "article": "die",
+    "plural": "Aushilfen",
+    "meaning": "temporary worker, helper",
+    "level": "A1"
+  },
+  {
+    "noun": "Europäische Union",
+    "article": "die",
+    "plural": "Europäische Union",
+    "meaning": "the European Union",
+    "level": "A1"
+  },
+  {
+    "noun": "Erwachsene",
+    "article": "der",
+    "plural": "Erwachsene",
+    "meaning": "adult",
+    "level": "A1"
+  }
+]
