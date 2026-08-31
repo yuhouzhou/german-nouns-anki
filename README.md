@@ -1,10 +1,22 @@
 # 🇩🇪 German Nouns Anki Deck Collection (CEFR A1 to C1)
 
+[![Release](https://img.shields.io/github/v/release/yuhouzhou/german-nouns-anki?color=blue&label=Release)](https://github.com/yuhouzhou/german-nouns-anki/releases/latest)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Anki](https://img.shields.io/badge/Anki-Ready-success.svg)](https://apps.ankiweb.net/)
 
 A curated, comprehensive collection of **4,052 German Nouns (8,104 cards)** organized by CEFR level (**A1 to C1**), powered by a 100,000-lemma Wiktionary morphological database, concise 2-tier grammatical rules, automatic morphological plural highlighting, and zero sibling burying.
+
+### 📥 Direct Downloads ([v1.0.0 Release](https://github.com/yuhouzhou/german-nouns-anki/releases/tag/v1.0.0))
+
+| Deck Package | Level | Nouns | Cards | Direct Download |
+| :--- | :--- | :--- | :--- | :--- |
+| **Complete Bundle** | **A1–C1** | **4,052** | **8,104** | [⬇️ Download .apkg (3.5 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.0.0/german_nouns_A1_to_C1_complete.apkg) |
+| **Level A1** | Beginner | 1,088 | 2,176 | [⬇️ Download .apkg (992 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.0.0/german_nouns_A1.apkg) |
+| **Level A2** | Elementary | 914 | 1,828 | [⬇️ Download .apkg (824 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.0.0/german_nouns_A2.apkg) |
+| **Level B1** | Intermediate | 1,244 | 2,488 | [⬇️ Download .apkg (1.1 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.0.0/german_nouns_B1.apkg) |
+| **Level B2** | Upper-Intermediate | 472 | 944 | [⬇️ Download .apkg (524 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.0.0/german_nouns_B2.apkg) |
+| **Level C1** | Advanced | 334 | 668 | [⬇️ Download .apkg (404 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.0.0/german_nouns_C1.apkg) |
 
 ---
 
