@@ -20,6 +20,15 @@ A curated, comprehensive collection of **4,052 German Nouns (8,104 cards)** orga
 
 ---
 
+## 📱 Mobile App Demo (AnkiMobile / AnkiDroid)
+
+| 1. Gender Card (Front) | 1. Gender Card (Back) | 2. Plural Card (Front) | 2. Plural Card (Back) |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/gender_card_front.png" width="220" alt="Gender Front"> | <img src="docs/screenshots/gender_card_back.png" width="220" alt="Gender Back"> | <img src="docs/screenshots/plural_card_front.png" width="220" alt="Plural Front"> | <img src="docs/screenshots/plural_card_back.png" width="220" alt="Plural Back"> |
+| *Prompt: Article `der/die/das`* | *Reveal: Full color + Gender Rule* | *Prompt: Recall plural form* | *Reveal: Crimson diff + Plural Rule* |
+
+---
+
 ## 🌟 Key Features
 
 ### 1. 🗂️ Dual Subdeck Architecture (Zero Sibling Burying)
