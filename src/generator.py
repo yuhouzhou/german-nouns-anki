@@ -23,19 +23,40 @@ def create_notes_for_noun(
     noun_data: Dict[str, Any],
     gender_model: genanki.Model,
     plural_model: genanki.Model
-) -> Tuple[genanki.Note, genanki.Note]:
+) -> Tuple[genanki.Note, Any]:
     """
-    Creates 2 separate notes for a German noun:
+    Creates notes for a German noun:
     1. A Gender Note for the Gender deck (with 2-tier rule summary + detail).
-    2. A Plural Note for the Plural deck (with highlighted morphology and 2-tier rule hints).
+    2. A Plural Note for the Plural deck (ONLY if the noun has a valid plural form).
+       Singular-only nouns (Singulariatantum) and Plural-only nouns (Pluraliatantum)
+       do NOT generate plural notes.
     """
     noun = noun_data["noun"].strip()
     article = noun_data["article"].strip().lower()
-    plural = noun_data["plural"].strip()
+    plural = noun_data.get("plural", "").strip()
     meaning = noun_data.get("meaning", "").strip()
     level = noun_data.get("level", "A1").strip().upper()
     notes = noun_data.get("notes", "").strip()
     
+    is_pl_only = noun_data.get("plural_only", False)
+    is_sg_only = not is_pl_only and (
+        noun_data.get("singular_only", False) or not plural or plural.lower() in ("-", "kein plural", "ohne plural", "nur singular")
+    )
+
+    # Contextual notes for special noun classes
+    if is_pl_only:
+        plural = ""
+        if not notes:
+            notes = "Pluraliatantum (nur Plural / always plural — 'die' is the plural article)"
+        elif "Plural" not in notes:
+            notes = f"{notes} | Pluraliatantum (nur Plural)"
+    elif is_sg_only:
+        plural = ""
+        if not notes:
+            notes = "Singulariatantum (nur Singular / no plural form)"
+        elif "Singular" not in notes:
+            notes = f"{notes} | Singulariatantum (nur Singular)"
+
     # 1. Resolve Gender Rule
     if "gender_rule_summary" in noun_data and noun_data["gender_rule_summary"]:
         gender_rule_summary = noun_data["gender_rule_summary"]
@@ -51,30 +72,11 @@ def create_notes_for_noun(
         gender_rule_detail = rule_info.get("detail", "")
         gender_examples = rule_info.get("examples", "")
         
-    # 2. Resolve Plural Rule & Highlighted Form
-    plural_highlighted = noun_data.get("plural_highlighted") or get_highlighted_plural(noun, plural)
-    
-    if "plural_rule_summary" in noun_data and noun_data["plural_rule_summary"]:
-        plural_rule_summary = noun_data["plural_rule_summary"]
-        plural_rule_detail = noun_data.get("plural_rule_detail", "")
-        plural_examples = noun_data.get("plural_rule_examples", "")
-    elif "plural_rule" in noun_data and noun_data["plural_rule"]:
-        plural_rule_summary = noun_data["plural_rule"]
-        plural_rule_detail = ""
-        plural_examples = noun_data.get("plural_rule_examples", "")
-    else:
-        p_rule_info = get_plural_rule(noun, article, plural)
-        # Only populate plural rule summary if there is a distinct linguistic rule
-        if p_rule_info.get("detail"):
-            plural_rule_summary = p_rule_info.get("summary", "")
-            plural_rule_detail = p_rule_info.get("detail", "")
-            plural_examples = p_rule_info.get("examples", "")
-        else:
-            plural_rule_summary = ""
-            plural_rule_detail = ""
-            plural_examples = ""
-
     tags = [f"level::{level}", f"gender::{article}", "german-noun"]
+    if is_sg_only:
+        tags.append("singulariatantum")
+    if is_pl_only:
+        tags.append("pluraliatantum")
     if "tags" in noun_data:
         tags.extend(noun_data["tags"])
 
@@ -97,7 +99,32 @@ def create_notes_for_noun(
         guid=gender_guid
     )
 
-    # 2. Plural Note
+    # 2. Plural Note (Only generated if the noun has a valid plural form)
+    if is_sg_only or is_pl_only:
+        return gender_note, None
+
+    # Resolve Plural Rule & Highlighted Form
+    plural_highlighted = noun_data.get("plural_highlighted") or get_highlighted_plural(noun, plural)
+    
+    if "plural_rule_summary" in noun_data and noun_data["plural_rule_summary"]:
+        plural_rule_summary = noun_data["plural_rule_summary"]
+        plural_rule_detail = noun_data.get("plural_rule_detail", "")
+        plural_examples = noun_data.get("plural_rule_examples", "")
+    elif "plural_rule" in noun_data and noun_data["plural_rule"]:
+        plural_rule_summary = noun_data["plural_rule"]
+        plural_rule_detail = ""
+        plural_examples = noun_data.get("plural_rule_examples", "")
+    else:
+        p_rule_info = get_plural_rule(noun, article, plural)
+        if p_rule_info.get("detail"):
+            plural_rule_summary = p_rule_info.get("summary", "")
+            plural_rule_detail = p_rule_info.get("detail", "")
+            plural_examples = p_rule_info.get("examples", "")
+        else:
+            plural_rule_summary = ""
+            plural_rule_detail = ""
+            plural_examples = ""
+
     plural_guid = genanki.guid_for(f"german_plural_{noun}_{article}_{level}")
     plural_note = genanki.Note(
         model=plural_model,
@@ -140,8 +167,10 @@ def create_noun_subdecks(
 
     for item in nouns:
         g_note, p_note = create_notes_for_noun(item, gender_model, plural_model)
-        gender_deck.add_note(g_note)
-        plural_deck.add_note(p_note)
+        if g_note is not None:
+            gender_deck.add_note(g_note)
+        if p_note is not None:
+            plural_deck.add_note(p_note)
 
     return [gender_deck, plural_deck]
 
@@ -180,8 +209,10 @@ def create_hierarchical_cefr_decks(
 
         for item in nouns:
             g_note, p_note = create_notes_for_noun(item, gender_model, plural_model)
-            g_deck.add_note(g_note)
-            p_deck.add_note(p_note)
+            if g_note is not None:
+                g_deck.add_note(g_note)
+            if p_note is not None:
+                p_deck.add_note(p_note)
 
         all_decks.extend([g_deck, p_deck])
 

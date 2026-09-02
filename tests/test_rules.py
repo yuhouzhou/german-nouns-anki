@@ -152,11 +152,25 @@ def test_highlighted_plural():
     assert get_highlighted_plural("Apfel", "Äpfel") == '<span class="plural-highlight">Ä</span>pfel'
 
 
+def test_singular_only_and_plural_only_rules():
+    p = get_plural_rule("Ausland", "das", "")
+    assert "Singular-only" in p["rule_name"]
+    assert "Singulariatantum" in p["summary"]
+
+    p2 = get_plural_rule("Gepäck", "das", "-")
+    assert "Singular-only" in p2["rule_name"]
+
+    from src.rules import get_highlighted_plural
+    assert get_highlighted_plural("Ausland", "") == ""
+    assert get_highlighted_plural("Milch", "") == ""
+
+
 if __name__ == "__main__":
     test_feminine_suffixes()
     test_masculine_suffixes_and_semantics()
     test_neuter_suffixes_and_prefixes()
     test_plural_rules()
+    test_singular_only_and_plural_only_rules()
     test_conflicting_rules()
     test_highlighted_plural()
     print("✅ All rule engine unit tests passed!")

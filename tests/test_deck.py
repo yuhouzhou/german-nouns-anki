@@ -104,8 +104,62 @@ def test_master_bundle_generation():
             conn.close()
 
 
+def test_singular_only_and_plural_only_deck_generation():
+    """
+    Verifies that Singulariatantum (das Ausland) and Pluraliatantum (die Eltern)
+    generate exactly 1 Gender card and 0 Plural cards, with appropriate contextual notes.
+    """
+    test_nouns = [
+        {"noun": "Ausland", "article": "das", "plural": "", "meaning": "abroad", "level": "A1", "singular_only": True},
+        {"noun": "Eltern", "article": "die", "plural": "", "meaning": "parents", "level": "A1", "plural_only": True},
+        {"noun": "Hund", "article": "der", "plural": "Hunde", "meaning": "dog", "level": "A1"}
+    ]
+
+    decks = create_noun_subdecks("Special Noun Test Deck", test_nouns)
+    assert len(decks) == 2, "Should create 2 subdecks"
+    gender_deck, plural_deck = decks[0], decks[1]
+
+    # Gender deck should have 3 notes (Ausland, Eltern, Hund)
+    assert len(gender_deck.notes) == 3
+
+    # Plural deck should ONLY have 1 note (Hund -> Hunde)
+    assert len(plural_deck.notes) == 1
+    assert plural_deck.notes[0].fields[0] == "Hund"
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        apkg_path = Path(tmpdir) / "test_special.apkg"
+        export_package(decks, str(apkg_path))
+        assert apkg_path.exists()
+
+        with zipfile.ZipFile(apkg_path, "r") as zf:
+            db_name = "collection.anki2" if "collection.anki2" in zf.namelist() else "collection.anki21"
+            zf.extract(db_name, tmpdir)
+            conn = sqlite3.connect(str(Path(tmpdir) / db_name))
+            cur = conn.cursor()
+
+            # Total notes = 4 (3 gender + 1 plural)
+            cur.execute("SELECT count(*) FROM notes")
+            assert cur.fetchone()[0] == 4
+
+            # Total cards = 4
+            cur.execute("SELECT count(*) FROM cards")
+            assert cur.fetchone()[0] == 4
+
+            # Check notes content
+            cur.execute("SELECT flds FROM notes")
+            rows = cur.fetchall()
+            ausland_note = [r[0].split("\x1f") for r in rows if r[0].startswith("Ausland")][0]
+            eltern_note = [r[0].split("\x1f") for r in rows if r[0].startswith("Eltern")][0]
+
+            assert "Singulariatantum" in ausland_note[8]
+            assert "Pluraliatantum" in eltern_note[8]
+
+            conn.close()
+
+
 if __name__ == "__main__":
     test_single_noun_sample_generation()
     test_master_bundle_generation()
     test_color_coding_css()
+    test_singular_only_and_plural_only_deck_generation()
     print("✅ All deck generation & APKG validation tests passed!")

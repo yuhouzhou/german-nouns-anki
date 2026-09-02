@@ -121,7 +121,7 @@
   {
     "noun": "Beamte",
     "article": "der",
-    "plural": "Beamte",
+    "plural": "Beamten",
     "meaning": "civil servant",
     "level": "A2"
   },
@@ -462,6 +462,13 @@
     "level": "A2"
   },
   {
+    "noun": "Genehmigung",
+    "article": "die",
+    "plural": "Genehmigungen",
+    "meaning": "permit",
+    "level": "A2"
+  },
+  {
     "noun": "Geschäftsreise",
     "article": "die",
     "plural": "Geschäftsreisen",
@@ -541,9 +548,10 @@
   {
     "noun": "Hagel",
     "article": "der",
-    "plural": "Hagel",
+    "plural": "",
     "meaning": "hail",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Heizung",
@@ -583,9 +591,10 @@
   {
     "noun": "Jugend",
     "article": "die",
-    "plural": "Jugend",
+    "plural": "",
     "meaning": "youth",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Kirsche",
@@ -625,9 +634,10 @@
   {
     "noun": "Kleingeld",
     "article": "das",
-    "plural": "Kleingeld",
+    "plural": "",
     "meaning": "change (coins)",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Klima",
@@ -646,9 +656,10 @@
   {
     "noun": "Knoblauch",
     "article": "der",
-    "plural": "Knoblauch",
+    "plural": "",
     "meaning": "garlic",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Kompetenz",
@@ -733,6 +744,14 @@
     "plural": "Lebensläufe",
     "meaning": "CV",
     "level": "A2"
+  },
+  {
+    "noun": "Lebensmittel",
+    "article": "die",
+    "plural": "",
+    "meaning": "groceries",
+    "level": "A2",
+    "plural_only": true
   },
   {
     "noun": "Leder",
@@ -828,9 +847,10 @@
   {
     "noun": "Müll",
     "article": "der",
-    "plural": "Müll",
+    "plural": "",
     "meaning": "garbage",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Mülltonne",
@@ -852,6 +872,14 @@
     "plural": "Nebenjobs",
     "meaning": "side job",
     "level": "A2"
+  },
+  {
+    "noun": "Nebenkosten",
+    "article": "die",
+    "plural": "",
+    "meaning": "utility costs",
+    "level": "A2",
+    "plural_only": true
   },
   {
     "noun": "Netzwerk",
@@ -975,9 +1003,10 @@
   {
     "noun": "Schmutz",
     "article": "der",
-    "plural": "Schmutz",
+    "plural": "",
     "meaning": "dirt",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Schuljahr",
@@ -1129,9 +1158,10 @@
   {
     "noun": "Umweltschutz",
     "article": "der",
-    "plural": "Umweltschutz",
+    "plural": "",
     "meaning": "environmental protection",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Unterkunft",
@@ -1227,9 +1257,10 @@
   {
     "noun": "Zusammenarbeit",
     "article": "die",
-    "plural": "Zusammenarbeit",
+    "plural": "",
     "meaning": "cooperation",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Zutat",
@@ -1339,9 +1370,10 @@
   {
     "noun": "Bargeld",
     "article": "das",
-    "plural": "Bargeld",
+    "plural": "",
     "meaning": "cash",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Wechselgeld",
@@ -1379,6 +1411,14 @@
     "level": "A2"
   },
   {
+    "noun": "Schaufenster",
+    "article": "die",
+    "plural": "",
+    "meaning": "shop windows",
+    "level": "A2",
+    "plural_only": true
+  },
+  {
     "noun": "Kassierer",
     "article": "der",
     "plural": "Kassierer",
@@ -1400,11 +1440,27 @@
     "level": "A2"
   },
   {
+    "noun": "Hausaufgaben",
+    "article": "die",
+    "plural": "",
+    "meaning": "homework",
+    "level": "A2",
+    "plural_only": true
+  },
+  {
     "noun": "Schulbus",
     "article": "der",
     "plural": "Schulbusse",
     "meaning": "school bus",
     "level": "A2"
+  },
+  {
+    "noun": "Schulferien",
+    "article": "die",
+    "plural": "",
+    "meaning": "school holidays",
+    "level": "A2",
+    "plural_only": true
   },
   {
     "noun": "Aufsatz",
@@ -2025,9 +2081,10 @@
   {
     "noun": "Gehaltsnachweis",
     "article": "der",
-    "plural": "Gehaltsnachweise",
+    "plural": "",
     "meaning": "proof of salary, payslip",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Menü",
@@ -2067,9 +2124,10 @@
   {
     "noun": "Kindheit",
     "article": "die",
-    "plural": "Kindheit",
+    "plural": "",
     "meaning": "childhood",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Gegenteil",
@@ -2116,9 +2174,10 @@
   {
     "noun": "Sachen",
     "article": "die",
-    "plural": "Sachen",
+    "plural": "",
     "meaning": "things, belongings",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Arbeitstag",
@@ -2193,9 +2252,10 @@
   {
     "noun": "Plastik",
     "article": "das",
-    "plural": "Plastiken",
+    "plural": "",
     "meaning": "plastic",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Müllabfuhr",
@@ -2284,9 +2344,10 @@
   {
     "noun": "Appetit",
     "article": "der",
-    "plural": "Appetit",
+    "plural": "",
     "meaning": "appetite",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Fabrik",
@@ -2347,14 +2408,15 @@
   {
     "noun": "Zeitarbeit",
     "article": "die",
-    "plural": "Zeitarbeit",
+    "plural": "",
     "meaning": "temporary work",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Auszubildende",
     "article": "der",
-    "plural": "Auszubildende",
+    "plural": "Auszubildenden",
     "meaning": "trainee, apprentice",
     "level": "A2"
   },
@@ -2459,23 +2521,26 @@
   {
     "noun": "Gold",
     "article": "das",
-    "plural": "Gold",
+    "plural": "",
     "meaning": "gold",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Gymnastik",
     "article": "die",
-    "plural": "Gymnastik",
+    "plural": "",
     "meaning": "gymnastics, exercise",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Tischtennis",
     "article": "das",
-    "plural": "Tischtennis",
+    "plural": "",
     "meaning": "table tennis",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Volleyball",
@@ -2543,9 +2608,10 @@
   {
     "noun": "Physik",
     "article": "die",
-    "plural": "Physik",
+    "plural": "",
     "meaning": "physics",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Sozialkunde",
@@ -2557,9 +2623,10 @@
   {
     "noun": "Biologie",
     "article": "die",
-    "plural": "Biologie",
+    "plural": "",
     "meaning": "biology",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Chemie",
@@ -2886,9 +2953,10 @@
   {
     "noun": "Gas",
     "article": "das",
-    "plural": "Gase",
+    "plural": "",
     "meaning": "gas",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Gedanke",
@@ -3187,9 +3255,10 @@
   {
     "noun": "Halbpension",
     "article": "die",
-    "plural": "Halbpension",
+    "plural": "",
     "meaning": "half board",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Dom",
@@ -3222,7 +3291,7 @@
   {
     "noun": "Angestellte",
     "article": "der",
-    "plural": "Angestellte",
+    "plural": "Angestellten",
     "meaning": "employee (m.)",
     "level": "A2"
   },
@@ -3278,9 +3347,10 @@
   {
     "noun": "Sozialarbeit",
     "article": "die",
-    "plural": "Sozialarbeit",
+    "plural": "",
     "meaning": "social work",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Behinderung",
@@ -3362,9 +3432,10 @@
   {
     "noun": "Grundeinkommen",
     "article": "das",
-    "plural": "Grundeinkommen",
+    "plural": "",
     "meaning": "basic income",
-    "level": "A2"
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Dolmetscher",
@@ -3455,2946 +3526,6 @@
     "article": "die",
     "plural": "Schultüten",
     "meaning": "school cone (first-day-of-school gift)",
-    "level": "A2"
-  },
-  {
-    "noun": "Abgabe",
-    "article": "die",
-    "plural": "Abgaben",
-    "meaning": "tax",
-    "level": "A2"
-  },
-  {
-    "noun": "Abhang",
-    "article": "der",
-    "plural": "Abhänge",
-    "meaning": "slope",
-    "level": "A2"
-  },
-  {
-    "noun": "Abzug",
-    "article": "der",
-    "plural": "Abzüge",
-    "meaning": "print",
-    "level": "A2"
-  },
-  {
-    "noun": "Adel",
-    "article": "der",
-    "plural": "Adel",
-    "meaning": "nobility",
-    "level": "A2"
-  },
-  {
-    "noun": "Affe",
-    "article": "der",
-    "plural": "Affen",
-    "meaning": "monkey",
-    "level": "A2"
-  },
-  {
-    "noun": "Agent",
-    "article": "der",
-    "plural": "Agenten",
-    "meaning": "agent",
-    "level": "A2"
-  },
-  {
-    "noun": "Akt",
-    "article": "der",
-    "plural": "Akte",
-    "meaning": "act",
-    "level": "A2"
-  },
-  {
-    "noun": "Alarm",
-    "article": "der",
-    "plural": "Alarme",
-    "meaning": "alarm",
-    "level": "A2"
-  },
-  {
-    "noun": "Allee",
-    "article": "die",
-    "plural": "Alleen",
-    "meaning": "avenue",
-    "level": "A2"
-  },
-  {
-    "noun": "Anlass",
-    "article": "der",
-    "plural": "Anlässe",
-    "meaning": "occasion",
-    "level": "A2"
-  },
-  {
-    "noun": "Anreiz",
-    "article": "der",
-    "plural": "Anreize",
-    "meaning": "attraction",
-    "level": "A2"
-  },
-  {
-    "noun": "Anstoß",
-    "article": "der",
-    "plural": "Anstöße",
-    "meaning": "push",
-    "level": "A2"
-  },
-  {
-    "noun": "Anteil",
-    "article": "der",
-    "plural": "Anteile",
-    "meaning": "share",
-    "level": "A2"
-  },
-  {
-    "noun": "Ärmel",
-    "article": "der",
-    "plural": "Ärmel",
-    "meaning": "sleeve",
-    "level": "A2"
-  },
-  {
-    "noun": "Aroma",
-    "article": "das",
-    "plural": "Aromen",
-    "meaning": "flavour",
-    "level": "A2"
-  },
-  {
-    "noun": "Arrest",
-    "article": "der",
-    "plural": "Arreste",
-    "meaning": "arrest",
-    "level": "A2"
-  },
-  {
-    "noun": "Art",
-    "article": "die",
-    "plural": "Arten",
-    "meaning": "kind",
-    "level": "A2"
-  },
-  {
-    "noun": "Asche",
-    "article": "die",
-    "plural": "Aschen",
-    "meaning": "ashes",
-    "level": "A2"
-  },
-  {
-    "noun": "Atem",
-    "article": "der",
-    "plural": "Atem",
-    "meaning": "breath",
-    "level": "A2"
-  },
-  {
-    "noun": "Atmen",
-    "article": "das",
-    "plural": "Atmen",
-    "meaning": "breathing",
-    "level": "A2"
-  },
-  {
-    "noun": "Aufbau",
-    "article": "der",
-    "plural": "Aufbauten",
-    "meaning": "structure",
-    "level": "A2"
-  },
-  {
-    "noun": "Ausmaß",
-    "article": "das",
-    "plural": "Ausmaße",
-    "meaning": "extent",
-    "level": "A2"
-  },
-  {
-    "noun": "Ausruf",
-    "article": "der",
-    "plural": "Ausrufe",
-    "meaning": "outcry",
-    "level": "A2"
-  },
-  {
-    "noun": "Bach",
-    "article": "der",
-    "plural": "Bäche",
-    "meaning": "brook",
-    "level": "A2"
-  },
-  {
-    "noun": "Bar",
-    "article": "das",
-    "plural": "Bars",
-    "meaning": "bar",
-    "level": "A2"
-  },
-  {
-    "noun": "Barren",
-    "article": "der",
-    "plural": "Barren",
-    "meaning": "bar",
-    "level": "A2"
-  },
-  {
-    "noun": "Bart",
-    "article": "der",
-    "plural": "Bärte",
-    "meaning": "beard",
-    "level": "A2"
-  },
-  {
-    "noun": "Basis",
-    "article": "die",
-    "plural": "Basen",
-    "meaning": "basis",
-    "level": "A2"
-  },
-  {
-    "noun": "Becken",
-    "article": "das",
-    "plural": "Becken",
-    "meaning": "basin",
-    "level": "A2"
-  },
-  {
-    "noun": "Bedarf",
-    "article": "der",
-    "plural": "Bedarfe",
-    "meaning": "want",
-    "level": "A2"
-  },
-  {
-    "noun": "Beere",
-    "article": "die",
-    "plural": "Beeren",
-    "meaning": "berry",
-    "level": "A2"
-  },
-  {
-    "noun": "Befehl",
-    "article": "der",
-    "plural": "Befehle",
-    "meaning": "order",
-    "level": "A2"
-  },
-  {
-    "noun": "Besitz",
-    "article": "der",
-    "plural": "Besitze",
-    "meaning": "possession",
-    "level": "A2"
-  },
-  {
-    "noun": "Beutel",
-    "article": "der",
-    "plural": "Beutel",
-    "meaning": "bag",
-    "level": "A2"
-  },
-  {
-    "noun": "Bezirk",
-    "article": "der",
-    "plural": "Bezirke",
-    "meaning": "district",
-    "level": "A2"
-  },
-  {
-    "noun": "Bibel",
-    "article": "die",
-    "plural": "Bibeln",
-    "meaning": "Bible",
-    "level": "A2"
-  },
-  {
-    "noun": "Bitte",
-    "article": "die",
-    "plural": "Bitten",
-    "meaning": "request",
-    "level": "A2"
-  },
-  {
-    "noun": "Blässe",
-    "article": "die",
-    "plural": "Blässe",
-    "meaning": "paleness",
-    "level": "A2"
-  },
-  {
-    "noun": "Blei",
-    "article": "das",
-    "plural": "Bleie",
-    "meaning": "lead",
-    "level": "A2"
-  },
-  {
-    "noun": "Blitz",
-    "article": "der",
-    "plural": "Blitze",
-    "meaning": "lightning",
-    "level": "A2"
-  },
-  {
-    "noun": "Block",
-    "article": "der",
-    "plural": "Blöcke",
-    "meaning": "block",
-    "level": "A2"
-  },
-  {
-    "noun": "Blüte",
-    "article": "die",
-    "plural": "Blüten",
-    "meaning": "bloom",
-    "level": "A2"
-  },
-  {
-    "noun": "Bogen",
-    "article": "der",
-    "plural": "Bogen",
-    "meaning": "arch",
-    "level": "A2"
-  },
-  {
-    "noun": "Bote",
-    "article": "der",
-    "plural": "Boten",
-    "meaning": "messenger",
-    "level": "A2"
-  },
-  {
-    "noun": "Brand",
-    "article": "der",
-    "plural": "Brände",
-    "meaning": "fire",
-    "level": "A2"
-  },
-  {
-    "noun": "Brauch",
-    "article": "der",
-    "plural": "Bräuche",
-    "meaning": "custom",
-    "level": "A2"
-  },
-  {
-    "noun": "Braut",
-    "article": "die",
-    "plural": "Bräute",
-    "meaning": "bride",
-    "level": "A2"
-  },
-  {
-    "noun": "Breite",
-    "article": "die",
-    "plural": "Breiten",
-    "meaning": "width",
-    "level": "A2"
-  },
-  {
-    "noun": "Brett",
-    "article": "das",
-    "plural": "Bretter",
-    "meaning": "board",
-    "level": "A2"
-  },
-  {
-    "noun": "Bucht",
-    "article": "die",
-    "plural": "Buchten",
-    "meaning": "bay",
-    "level": "A2"
-  },
-  {
-    "noun": "Bündel",
-    "article": "das",
-    "plural": "Bündel",
-    "meaning": "bundle",
-    "level": "A2"
-  },
-  {
-    "noun": "Bürde",
-    "article": "die",
-    "plural": "Bürden",
-    "meaning": "burden",
-    "level": "A2"
-  },
-  {
-    "noun": "Busch",
-    "article": "der",
-    "plural": "Büsche",
-    "meaning": "bush",
-    "level": "A2"
-  },
-  {
-    "noun": "China",
-    "article": "die",
-    "plural": "Chinas",
-    "meaning": "China",
-    "level": "A2"
-  },
-  {
-    "noun": "Christ",
-    "article": "der",
-    "plural": "Christen",
-    "meaning": "Christian",
-    "level": "A2"
-  },
-  {
-    "noun": "Couch",
-    "article": "die",
-    "plural": "Couchs",
-    "meaning": "couch",
-    "level": "A2"
-  },
-  {
-    "noun": "Dampf",
-    "article": "der",
-    "plural": "Dämpfe",
-    "meaning": "steam",
-    "level": "A2"
-  },
-  {
-    "noun": "Dasein",
-    "article": "das",
-    "plural": "Dasein",
-    "meaning": "existence",
-    "level": "A2"
-  },
-  {
-    "noun": "Daumen",
-    "article": "der",
-    "plural": "Daumen",
-    "meaning": "thumb",
-    "level": "A2"
-  },
-  {
-    "noun": "Deckel",
-    "article": "der",
-    "plural": "Deckel",
-    "meaning": "lid",
-    "level": "A2"
-  },
-  {
-    "noun": "Denker",
-    "article": "der",
-    "plural": "Denker",
-    "meaning": "thinker",
-    "level": "A2"
-  },
-  {
-    "noun": "Diener",
-    "article": "der",
-    "plural": "Diener",
-    "meaning": "servant",
-    "level": "A2"
-  },
-  {
-    "noun": "Dollar",
-    "article": "der",
-    "plural": "Dollar",
-    "meaning": "dollar",
-    "level": "A2"
-  },
-  {
-    "noun": "Draht",
-    "article": "der",
-    "plural": "Drähte",
-    "meaning": "wire",
-    "level": "A2"
-  },
-  {
-    "noun": "Dreck",
-    "article": "der",
-    "plural": "Dreck",
-    "meaning": "soil",
-    "level": "A2"
-  },
-  {
-    "noun": "Druck",
-    "article": "der",
-    "plural": "Drücke",
-    "meaning": "print",
-    "level": "A2"
-  },
-  {
-    "noun": "Dunst",
-    "article": "der",
-    "plural": "Dünste",
-    "meaning": "mist",
-    "level": "A2"
-  },
-  {
-    "noun": "Ebbe",
-    "article": "die",
-    "plural": "Ebben",
-    "meaning": "low tide",
-    "level": "A2"
-  },
-  {
-    "noun": "Ebene",
-    "article": "die",
-    "plural": "Ebenen",
-    "meaning": "level",
-    "level": "A2"
-  },
-  {
-    "noun": "Ehe",
-    "article": "die",
-    "plural": "Ehen",
-    "meaning": "marriage",
-    "level": "A2"
-  },
-  {
-    "noun": "Ehre",
-    "article": "die",
-    "plural": "Ehren",
-    "meaning": "honour",
-    "level": "A2"
-  },
-  {
-    "noun": "Eiche",
-    "article": "die",
-    "plural": "Eichen",
-    "meaning": "oak",
-    "level": "A2"
-  },
-  {
-    "noun": "Eile",
-    "article": "die",
-    "plural": "Eile",
-    "meaning": "urgency",
-    "level": "A2"
-  },
-  {
-    "noun": "Eisen",
-    "article": "das",
-    "plural": "Eisen",
-    "meaning": "iron",
-    "level": "A2"
-  },
-  {
-    "noun": "Eiweiß",
-    "article": "das",
-    "plural": "Eiweiße",
-    "meaning": "egg-white",
-    "level": "A2"
-  },
-  {
-    "noun": "Enge",
-    "article": "die",
-    "plural": "Engen",
-    "meaning": "narrowness",
-    "level": "A2"
-  },
-  {
-    "noun": "Engel",
-    "article": "der",
-    "plural": "Engel",
-    "meaning": "angel",
-    "level": "A2"
-  },
-  {
-    "noun": "Erbse",
-    "article": "die",
-    "plural": "Erbsen",
-    "meaning": "pea",
-    "level": "A2"
-  },
-  {
-    "noun": "Ernst",
-    "article": "der",
-    "plural": "Ernst",
-    "meaning": "earnest",
-    "level": "A2"
-  },
-  {
-    "noun": "Ertrag",
-    "article": "der",
-    "plural": "Erträge",
-    "meaning": "yield",
-    "level": "A2"
-  },
-  {
-    "noun": "Esel",
-    "article": "der",
-    "plural": "Esel",
-    "meaning": "donkey",
-    "level": "A2"
-  },
-  {
-    "noun": "Essen",
-    "article": "das",
-    "plural": "Essen",
-    "meaning": "food",
-    "level": "A2"
-  },
-  {
-    "noun": "Europa",
-    "article": "die",
-    "plural": "Europa",
-    "meaning": "Europe",
-    "level": "A2"
-  },
-  {
-    "noun": "Examen",
-    "article": "das",
-    "plural": "Examina",
-    "meaning": "examination",
-    "level": "A2"
-  },
-  {
-    "noun": "Extrem",
-    "article": "das",
-    "plural": "Extreme",
-    "meaning": "extreem",
-    "level": "A2"
-  },
-  {
-    "noun": "Faden",
-    "article": "der",
-    "plural": "Fäden",
-    "meaning": "thread",
-    "level": "A2"
-  },
-  {
-    "noun": "Fahrer",
-    "article": "der",
-    "plural": "Fahrer",
-    "meaning": "driver",
-    "level": "A2"
-  },
-  {
-    "noun": "Falle",
-    "article": "die",
-    "plural": "Fallen",
-    "meaning": "trap",
-    "level": "A2"
-  },
-  {
-    "noun": "Fass",
-    "article": "das",
-    "plural": "Fässer",
-    "meaning": "barrel",
-    "level": "A2"
-  },
-  {
-    "noun": "Faust",
-    "article": "die",
-    "plural": "Fäuste",
-    "meaning": "fist",
-    "level": "A2"
-  },
-  {
-    "noun": "Feind",
-    "article": "der",
-    "plural": "Feinde",
-    "meaning": "enemy",
-    "level": "A2"
-  },
-  {
-    "noun": "Felsen",
-    "article": "der",
-    "plural": "Felsen",
-    "meaning": "rock",
-    "level": "A2"
-  },
-  {
-    "noun": "Ferse",
-    "article": "die",
-    "plural": "Fersen",
-    "meaning": "heel",
-    "level": "A2"
-  },
-  {
-    "noun": "Flagge",
-    "article": "die",
-    "plural": "Flaggen",
-    "meaning": "flag",
-    "level": "A2"
-  },
-  {
-    "noun": "Flamme",
-    "article": "die",
-    "plural": "Flammen",
-    "meaning": "flame",
-    "level": "A2"
-  },
-  {
-    "noun": "Flaute",
-    "article": "die",
-    "plural": "Flauten",
-    "meaning": "dullness",
-    "level": "A2"
-  },
-  {
-    "noun": "Fliege",
-    "article": "die",
-    "plural": "Fliegen",
-    "meaning": "fly",
-    "level": "A2"
-  },
-  {
-    "noun": "Fluch",
-    "article": "der",
-    "plural": "Flüche",
-    "meaning": "curse",
-    "level": "A2"
-  },
-  {
-    "noun": "Flucht",
-    "article": "die",
-    "plural": "Fluchten",
-    "meaning": "flight",
-    "level": "A2"
-  },
-  {
-    "noun": "Flügel",
-    "article": "der",
-    "plural": "Flügel",
-    "meaning": "wing",
-    "level": "A2"
-  },
-  {
-    "noun": "Flut",
-    "article": "die",
-    "plural": "Fluten",
-    "meaning": "flood",
-    "level": "A2"
-  },
-  {
-    "noun": "Fuchs",
-    "article": "der",
-    "plural": "Füchse",
-    "meaning": "fox",
-    "level": "A2"
-  },
-  {
-    "noun": "Führer",
-    "article": "der",
-    "plural": "Führer",
-    "meaning": "leader",
-    "level": "A2"
-  },
-  {
-    "noun": "Fund",
-    "article": "der",
-    "plural": "Funde",
-    "meaning": "find",
-    "level": "A2"
-  },
-  {
-    "noun": "Furcht",
-    "article": "die",
-    "plural": "Furcht",
-    "meaning": "anxiety",
-    "level": "A2"
-  },
-  {
-    "noun": "Fürst",
-    "article": "der",
-    "plural": "Fürsten",
-    "meaning": "prince",
-    "level": "A2"
-  },
-  {
-    "noun": "Fußweg",
-    "article": "der",
-    "plural": "Fußwege",
-    "meaning": "footpath",
-    "level": "A2"
-  },
-  {
-    "noun": "Gans",
-    "article": "die",
-    "plural": "Gänse",
-    "meaning": "goose",
-    "level": "A2"
-  },
-  {
-    "noun": "Gebäck",
-    "article": "das",
-    "plural": "Gebäcke",
-    "meaning": "pastry",
-    "level": "A2"
-  },
-  {
-    "noun": "Gebet",
-    "article": "das",
-    "plural": "Gebete",
-    "meaning": "prayer",
-    "level": "A2"
-  },
-  {
-    "noun": "Geburt",
-    "article": "die",
-    "plural": "Geburten",
-    "meaning": "birth",
-    "level": "A2"
-  },
-  {
-    "noun": "Geduld",
-    "article": "die",
-    "plural": "Geduld",
-    "meaning": "patience",
-    "level": "A2"
-  },
-  {
-    "noun": "Gehirn",
-    "article": "das",
-    "plural": "Gehirne",
-    "meaning": "brain",
-    "level": "A2"
-  },
-  {
-    "noun": "Geige",
-    "article": "die",
-    "plural": "Geigen",
-    "meaning": "violin",
-    "level": "A2"
-  },
-  {
-    "noun": "Geist",
-    "article": "der",
-    "plural": "Geister",
-    "meaning": "spirit",
-    "level": "A2"
-  },
-  {
-    "noun": "Gelenk",
-    "article": "das",
-    "plural": "Gelenke",
-    "meaning": "joint",
-    "level": "A2"
-  },
-  {
-    "noun": "Geruch",
-    "article": "der",
-    "plural": "Gerüche",
-    "meaning": "smell",
-    "level": "A2"
-  },
-  {
-    "noun": "Gesuch",
-    "article": "das",
-    "plural": "Gesuche",
-    "meaning": "request",
-    "level": "A2"
-  },
-  {
-    "noun": "Gewalt",
-    "article": "die",
-    "plural": "Gewalten",
-    "meaning": "force",
-    "level": "A2"
-  },
-  {
-    "noun": "Gewehr",
-    "article": "das",
-    "plural": "Gewehre",
-    "meaning": "gun",
-    "level": "A2"
-  },
-  {
-    "noun": "Gier",
-    "article": "die",
-    "plural": "Gier",
-    "meaning": "greed",
-    "level": "A2"
-  },
-  {
-    "noun": "Gift",
-    "article": "das",
-    "plural": "Gifte",
-    "meaning": "poison",
-    "level": "A2"
-  },
-  {
-    "noun": "Glocke",
-    "article": "die",
-    "plural": "Glocken",
-    "meaning": "bell",
-    "level": "A2"
-  },
-  {
-    "noun": "Gnade",
-    "article": "die",
-    "plural": "Gnaden",
-    "meaning": "grace",
-    "level": "A2"
-  },
-  {
-    "noun": "Göttin",
-    "article": "die",
-    "plural": "Göttinnen",
-    "meaning": "goddess",
-    "level": "A2"
-  },
-  {
-    "noun": "Grab",
-    "article": "das",
-    "plural": "Gräber",
-    "meaning": "grave",
-    "level": "A2"
-  },
-  {
-    "noun": "Graben",
-    "article": "der",
-    "plural": "Gräben",
-    "meaning": "ditch",
-    "level": "A2"
-  },
-  {
-    "noun": "Gras",
-    "article": "das",
-    "plural": "Gräser",
-    "meaning": "grass",
-    "level": "A2"
-  },
-  {
-    "noun": "Gummi",
-    "article": "der",
-    "plural": "Gummi",
-    "meaning": "rubber",
-    "level": "A2"
-  },
-  {
-    "noun": "Gunst",
-    "article": "die",
-    "plural": "Gunst",
-    "meaning": "favour",
-    "level": "A2"
-  },
-  {
-    "noun": "Gürtel",
-    "article": "der",
-    "plural": "Gürtel",
-    "meaning": "belt",
-    "level": "A2"
-  },
-  {
-    "noun": "Güte",
-    "article": "die",
-    "plural": "Güte",
-    "meaning": "goodness",
-    "level": "A2"
-  },
-  {
-    "noun": "Haken",
-    "article": "der",
-    "plural": "Haken",
-    "meaning": "hook",
-    "level": "A2"
-  },
-  {
-    "noun": "Halt",
-    "article": "der",
-    "plural": "Halte",
-    "meaning": "stop",
-    "level": "A2"
-  },
-  {
-    "noun": "Hammel",
-    "article": "der",
-    "plural": "Hammel",
-    "meaning": "mutton",
-    "level": "A2"
-  },
-  {
-    "noun": "Hang",
-    "article": "der",
-    "plural": "Hänge",
-    "meaning": "hillside",
-    "level": "A2"
-  },
-  {
-    "noun": "Härte",
-    "article": "die",
-    "plural": "Härten",
-    "meaning": "hardship",
-    "level": "A2"
-  },
-  {
-    "noun": "Hass",
-    "article": "der",
-    "plural": "Hass",
-    "meaning": "hate",
-    "level": "A2"
-  },
-  {
-    "noun": "Haufen",
-    "article": "der",
-    "plural": "Haufen",
-    "meaning": "pile",
-    "level": "A2"
-  },
-  {
-    "noun": "Haut",
-    "article": "die",
-    "plural": "Häute",
-    "meaning": "skin",
-    "level": "A2"
-  },
-  {
-    "noun": "Heer",
-    "article": "das",
-    "plural": "Heere",
-    "meaning": "army",
-    "level": "A2"
-  },
-  {
-    "noun": "Heim",
-    "article": "das",
-    "plural": "Heime",
-    "meaning": "home",
-    "level": "A2"
-  },
-  {
-    "noun": "Held",
-    "article": "der",
-    "plural": "Helden",
-    "meaning": "hero",
-    "level": "A2"
-  },
-  {
-    "noun": "Helfer",
-    "article": "der",
-    "plural": "Helfer",
-    "meaning": "helper",
-    "level": "A2"
-  },
-  {
-    "noun": "Henkel",
-    "article": "der",
-    "plural": "Henkel",
-    "meaning": "handle",
-    "level": "A2"
-  },
-  {
-    "noun": "Henker",
-    "article": "der",
-    "plural": "Henker",
-    "meaning": "hangman",
-    "level": "A2"
-  },
-  {
-    "noun": "Henne",
-    "article": "die",
-    "plural": "Hennen",
-    "meaning": "hen",
-    "level": "A2"
-  },
-  {
-    "noun": "Herrin",
-    "article": "die",
-    "plural": "Herrinnen",
-    "meaning": "mistress",
-    "level": "A2"
-  },
-  {
-    "noun": "Heu",
-    "article": "das",
-    "plural": "Heu",
-    "meaning": "hay",
-    "level": "A2"
-  },
-  {
-    "noun": "Hieb",
-    "article": "der",
-    "plural": "Hiebe",
-    "meaning": "blow",
-    "level": "A2"
-  },
-  {
-    "noun": "Hölle",
-    "article": "die",
-    "plural": "Höllen",
-    "meaning": "hell",
-    "level": "A2"
-  },
-  {
-    "noun": "Honig",
-    "article": "der",
-    "plural": "Honige",
-    "meaning": "honey",
-    "level": "A2"
-  },
-  {
-    "noun": "Hörer",
-    "article": "der",
-    "plural": "Hörer",
-    "meaning": "listener",
-    "level": "A2"
-  },
-  {
-    "noun": "Horn",
-    "article": "das",
-    "plural": "Hörner",
-    "meaning": "horn",
-    "level": "A2"
-  },
-  {
-    "noun": "Hügel",
-    "article": "der",
-    "plural": "Hügel",
-    "meaning": "hill",
-    "level": "A2"
-  },
-  {
-    "noun": "Hütte",
-    "article": "die",
-    "plural": "Hütten",
-    "meaning": "cottage",
-    "level": "A2"
-  },
-  {
-    "noun": "Ideal",
-    "article": "das",
-    "plural": "Ideale",
-    "meaning": "ideal",
-    "level": "A2"
-  },
-  {
-    "noun": "Inder",
-    "article": "der",
-    "plural": "Inder",
-    "meaning": "Indian",
-    "level": "A2"
-  },
-  {
-    "noun": "Insekt",
-    "article": "das",
-    "plural": "Insekten",
-    "meaning": "insect",
-    "level": "A2"
-  },
-  {
-    "noun": "Ire",
-    "article": "der",
-    "plural": "Iren",
-    "meaning": "Irishman (irr.)",
-    "level": "A2"
-  },
-  {
-    "noun": "Iren",
-    "article": "das",
-    "plural": "Irene",
-    "meaning": "Irish (pl.)",
-    "level": "A2"
-  },
-  {
-    "noun": "Irin",
-    "article": "die",
-    "plural": "Irinnen",
-    "meaning": "Irishwoman",
-    "level": "A2"
-  },
-  {
-    "noun": "Jagd",
-    "article": "die",
-    "plural": "Jagden",
-    "meaning": "hunt",
-    "level": "A2"
-  },
-  {
-    "noun": "Jäger",
-    "article": "der",
-    "plural": "Jäger",
-    "meaning": "hunter",
-    "level": "A2"
-  },
-  {
-    "noun": "Juwel",
-    "article": "der",
-    "plural": "Juwelen",
-    "meaning": "jewel",
-    "level": "A2"
-  },
-  {
-    "noun": "Käfig",
-    "article": "der",
-    "plural": "Käfige",
-    "meaning": "cage",
-    "level": "A2"
-  },
-  {
-    "noun": "Kalb",
-    "article": "das",
-    "plural": "Kälber",
-    "meaning": "calf",
-    "level": "A2"
-  },
-  {
-    "noun": "Kälte",
-    "article": "die",
-    "plural": "Kälte",
-    "meaning": "coldness",
-    "level": "A2"
-  },
-  {
-    "noun": "Kamin",
-    "article": "der",
-    "plural": "Kamine",
-    "meaning": "chimney",
-    "level": "A2"
-  },
-  {
-    "noun": "Kamm",
-    "article": "der",
-    "plural": "Kämme",
-    "meaning": "comb",
-    "level": "A2"
-  },
-  {
-    "noun": "Kammer",
-    "article": "die",
-    "plural": "Kammern",
-    "meaning": "chamber",
-    "level": "A2"
-  },
-  {
-    "noun": "Kante",
-    "article": "die",
-    "plural": "Kanten",
-    "meaning": "edge",
-    "level": "A2"
-  },
-  {
-    "noun": "Kap",
-    "article": "das",
-    "plural": "Kaps",
-    "meaning": "cape",
-    "level": "A2"
-  },
-  {
-    "noun": "Karre",
-    "article": "die",
-    "plural": "Karren",
-    "meaning": "cart",
-    "level": "A2"
-  },
-  {
-    "noun": "Kehle",
-    "article": "die",
-    "plural": "Kehlen",
-    "meaning": "throat",
-    "level": "A2"
-  },
-  {
-    "noun": "Kessel",
-    "article": "der",
-    "plural": "Kessel",
-    "meaning": "kettle",
-    "level": "A2"
-  },
-  {
-    "noun": "Kinn",
-    "article": "das",
-    "plural": "Kinne",
-    "meaning": "chin",
-    "level": "A2"
-  },
-  {
-    "noun": "Klang",
-    "article": "der",
-    "plural": "Klänge",
-    "meaning": "sound",
-    "level": "A2"
-  },
-  {
-    "noun": "Klinge",
-    "article": "die",
-    "plural": "Klingen",
-    "meaning": "blade",
-    "level": "A2"
-  },
-  {
-    "noun": "Klippe",
-    "article": "die",
-    "plural": "Klippen",
-    "meaning": "cliff",
-    "level": "A2"
-  },
-  {
-    "noun": "Kohl",
-    "article": "der",
-    "plural": "Kohle",
-    "meaning": "cabbage",
-    "level": "A2"
-  },
-  {
-    "noun": "Korb",
-    "article": "der",
-    "plural": "Körbe",
-    "meaning": "basket",
-    "level": "A2"
-  },
-  {
-    "noun": "Kork",
-    "article": "der",
-    "plural": "Korke",
-    "meaning": "cork",
-    "level": "A2"
-  },
-  {
-    "noun": "Korken",
-    "article": "der",
-    "plural": "Korken",
-    "meaning": "cork",
-    "level": "A2"
-  },
-  {
-    "noun": "Korn",
-    "article": "das",
-    "plural": "Körner",
-    "meaning": "grain",
-    "level": "A2"
-  },
-  {
-    "noun": "Kragen",
-    "article": "der",
-    "plural": "Kragen",
-    "meaning": "collar",
-    "level": "A2"
-  },
-  {
-    "noun": "Kreuz",
-    "article": "das",
-    "plural": "Kreuze",
-    "meaning": "cross",
-    "level": "A2"
-  },
-  {
-    "noun": "Krone",
-    "article": "die",
-    "plural": "Kronen",
-    "meaning": "crown",
-    "level": "A2"
-  },
-  {
-    "noun": "Kugel",
-    "article": "die",
-    "plural": "Kugeln",
-    "meaning": "ball",
-    "level": "A2"
-  },
-  {
-    "noun": "Kühle",
-    "article": "die",
-    "plural": "Kühle",
-    "meaning": "cool",
-    "level": "A2"
-  },
-  {
-    "noun": "Kupfer",
-    "article": "das",
-    "plural": "Kupfer",
-    "meaning": "copper",
-    "level": "A2"
-  },
-  {
-    "noun": "Kurve",
-    "article": "die",
-    "plural": "Kurven",
-    "meaning": "curve",
-    "level": "A2"
-  },
-  {
-    "noun": "Kürze",
-    "article": "die",
-    "plural": "Kürze",
-    "meaning": "shortness",
-    "level": "A2"
-  },
-  {
-    "noun": "Lachen",
-    "article": "das",
-    "plural": "Lachen",
-    "meaning": "laugh",
-    "level": "A2"
-  },
-  {
-    "noun": "Lamm",
-    "article": "das",
-    "plural": "Lämmer",
-    "meaning": "lamb",
-    "level": "A2"
-  },
-  {
-    "noun": "Länge",
-    "article": "die",
-    "plural": "Längen",
-    "meaning": "length",
-    "level": "A2"
-  },
-  {
-    "noun": "Lärm",
-    "article": "der",
-    "plural": "Lärm",
-    "meaning": "noise",
-    "level": "A2"
-  },
-  {
-    "noun": "Last",
-    "article": "die",
-    "plural": "Lasten",
-    "meaning": "load",
-    "level": "A2"
-  },
-  {
-    "noun": "Lauf",
-    "article": "der",
-    "plural": "Läufe",
-    "meaning": "run",
-    "level": "A2"
-  },
-  {
-    "noun": "Laut",
-    "article": "der",
-    "plural": "Laute",
-    "meaning": "sound",
-    "level": "A2"
-  },
-  {
-    "noun": "Leben",
-    "article": "das",
-    "plural": "Leben",
-    "meaning": "life",
-    "level": "A2"
-  },
-  {
-    "noun": "Leere",
-    "article": "die",
-    "plural": "Leere",
-    "meaning": "emptiness",
-    "level": "A2"
-  },
-  {
-    "noun": "Leiche",
-    "article": "die",
-    "plural": "Leichen",
-    "meaning": "dead body",
-    "level": "A2"
-  },
-  {
-    "noun": "Leim",
-    "article": "der",
-    "plural": "Leime",
-    "meaning": "paste",
-    "level": "A2"
-  },
-  {
-    "noun": "Leser",
-    "article": "der",
-    "plural": "Leser",
-    "meaning": "reader",
-    "level": "A2"
-  },
-  {
-    "noun": "Lid",
-    "article": "das",
-    "plural": "Lider",
-    "meaning": "lid",
-    "level": "A2"
-  },
-  {
-    "noun": "Liebe",
-    "article": "die",
-    "plural": "Lieben",
-    "meaning": "love",
-    "level": "A2"
-  },
-  {
-    "noun": "Lippe",
-    "article": "die",
-    "plural": "Lippen",
-    "meaning": "lip",
-    "level": "A2"
-  },
-  {
-    "noun": "Lob",
-    "article": "das",
-    "plural": "Lobe",
-    "meaning": "praise",
-    "level": "A2"
-  },
-  {
-    "noun": "Loch",
-    "article": "das",
-    "plural": "Löcher",
-    "meaning": "hole",
-    "level": "A2"
-  },
-  {
-    "noun": "Locke",
-    "article": "die",
-    "plural": "Locken",
-    "meaning": "curl",
-    "level": "A2"
-  },
-  {
-    "noun": "Mahl",
-    "article": "das",
-    "plural": "Mähler",
-    "meaning": "meal",
-    "level": "A2"
-  },
-  {
-    "noun": "Marke",
-    "article": "die",
-    "plural": "Marken",
-    "meaning": "mark",
-    "level": "A2"
-  },
-  {
-    "noun": "Marsch",
-    "article": "die",
-    "plural": "Marschen",
-    "meaning": "march",
-    "level": "A2"
-  },
-  {
-    "noun": "Masse",
-    "article": "die",
-    "plural": "Massen",
-    "meaning": "mass",
-    "level": "A2"
-  },
-  {
-    "noun": "Matte",
-    "article": "die",
-    "plural": "Matten",
-    "meaning": "mat",
-    "level": "A2"
-  },
-  {
-    "noun": "Maul",
-    "article": "das",
-    "plural": "Mäuler",
-    "meaning": "jaw",
-    "level": "A2"
-  },
-  {
-    "noun": "Maus",
-    "article": "die",
-    "plural": "Mäuse",
-    "meaning": "mouse (irr.)",
-    "level": "A2"
-  },
-  {
-    "noun": "Meile",
-    "article": "die",
-    "plural": "Meilen",
-    "meaning": "mile",
-    "level": "A2"
-  },
-  {
-    "noun": "Milde",
-    "article": "die",
-    "plural": "Milde",
-    "meaning": "mildness",
-    "level": "A2"
-  },
-  {
-    "noun": "Mode",
-    "article": "die",
-    "plural": "Moden",
-    "meaning": "fashion",
-    "level": "A2"
-  },
-  {
-    "noun": "Möhre",
-    "article": "die",
-    "plural": "Möhren",
-    "meaning": "carrot",
-    "level": "A2"
-  },
-  {
-    "noun": "Mond",
-    "article": "der",
-    "plural": "Monde",
-    "meaning": "moon",
-    "level": "A2"
-  },
-  {
-    "noun": "Morgen",
-    "article": "der",
-    "plural": "Morgen",
-    "meaning": "morning",
-    "level": "A2"
-  },
-  {
-    "noun": "Motor",
-    "article": "der",
-    "plural": "Motoren",
-    "meaning": "motor",
-    "level": "A2"
-  },
-  {
-    "noun": "Mühle",
-    "article": "die",
-    "plural": "Mühlen",
-    "meaning": "mill",
-    "level": "A2"
-  },
-  {
-    "noun": "Müller",
-    "article": "der",
-    "plural": "Müller",
-    "meaning": "miller",
-    "level": "A2"
-  },
-  {
-    "noun": "Muße",
-    "article": "die",
-    "plural": "Muße",
-    "meaning": "leisure",
-    "level": "A2"
-  },
-  {
-    "noun": "Muskel",
-    "article": "der",
-    "plural": "Muskeln",
-    "meaning": "muscle",
-    "level": "A2"
-  },
-  {
-    "noun": "Muster",
-    "article": "das",
-    "plural": "Muster",
-    "meaning": "sample",
-    "level": "A2"
-  },
-  {
-    "noun": "Mut",
-    "article": "der",
-    "plural": "Mut",
-    "meaning": "courage",
-    "level": "A2"
-  },
-  {
-    "noun": "Nagel",
-    "article": "der",
-    "plural": "Nägel",
-    "meaning": "nail",
-    "level": "A2"
-  },
-  {
-    "noun": "Narr",
-    "article": "der",
-    "plural": "Narren",
-    "meaning": "fool",
-    "level": "A2"
-  },
-  {
-    "noun": "Nässe",
-    "article": "die",
-    "plural": "Nässe",
-    "meaning": "wet",
-    "level": "A2"
-  },
-  {
-    "noun": "Neid",
-    "article": "der",
-    "plural": "Neid",
-    "meaning": "envy",
-    "level": "A2"
-  },
-  {
-    "noun": "Nest",
-    "article": "das",
-    "plural": "Nester",
-    "meaning": "nest",
-    "level": "A2"
-  },
-  {
-    "noun": "Niveau",
-    "article": "das",
-    "plural": "Niveaus",
-    "meaning": "level",
-    "level": "A2"
-  },
-  {
-    "noun": "Not",
-    "article": "die",
-    "plural": "Nöte",
-    "meaning": "need",
-    "level": "A2"
-  },
-  {
-    "noun": "Null",
-    "article": "die",
-    "plural": "Nullen",
-    "meaning": "zero",
-    "level": "A2"
-  },
-  {
-    "noun": "Nutzen",
-    "article": "der",
-    "plural": "Nutzen",
-    "meaning": "use",
-    "level": "A2"
-  },
-  {
-    "noun": "Ofen",
-    "article": "der",
-    "plural": "Öfen",
-    "meaning": "stove",
-    "level": "A2"
-  },
-  {
-    "noun": "Ostern",
-    "article": "das",
-    "plural": "Ostern",
-    "meaning": "Easter",
-    "level": "A2"
-  },
-  {
-    "noun": "Ozean",
-    "article": "der",
-    "plural": "Ozeane",
-    "meaning": "ocean",
-    "level": "A2"
-  },
-  {
-    "noun": "Pacht",
-    "article": "die",
-    "plural": "Pachten",
-    "meaning": "rent",
-    "level": "A2"
-  },
-  {
-    "noun": "Partei",
-    "article": "die",
-    "plural": "Parteien",
-    "meaning": "party",
-    "level": "A2"
-  },
-  {
-    "noun": "Paste",
-    "article": "die",
-    "plural": "Pasten",
-    "meaning": "paste",
-    "level": "A2"
-  },
-  {
-    "noun": "Pate",
-    "article": "der",
-    "plural": "Paten",
-    "meaning": "godfather",
-    "level": "A2"
-  },
-  {
-    "noun": "Patin",
-    "article": "die",
-    "plural": "Patinnen",
-    "meaning": "godmother",
-    "level": "A2"
-  },
-  {
-    "noun": "Pelz",
-    "article": "der",
-    "plural": "Pelze",
-    "meaning": "fur",
-    "level": "A2"
-  },
-  {
-    "noun": "Penny",
-    "article": "der",
-    "plural": "Pennys",
-    "meaning": "penny (irr.)",
-    "level": "A2"
-  },
-  {
-    "noun": "Perle",
-    "article": "die",
-    "plural": "Perlen",
-    "meaning": "pearl",
-    "level": "A2"
-  },
-  {
-    "noun": "Pfeil",
-    "article": "der",
-    "plural": "Pfeile",
-    "meaning": "arrow",
-    "level": "A2"
-  },
-  {
-    "noun": "Pflug",
-    "article": "der",
-    "plural": "Pflüge",
-    "meaning": "plough",
-    "level": "A2"
-  },
-  {
-    "noun": "Pforte",
-    "article": "die",
-    "plural": "Pforten",
-    "meaning": "gate",
-    "level": "A2"
-  },
-  {
-    "noun": "Pfote",
-    "article": "die",
-    "plural": "Pfoten",
-    "meaning": "paw",
-    "level": "A2"
-  },
-  {
-    "noun": "Pfund",
-    "article": "das",
-    "plural": "Pfunde",
-    "meaning": "pound",
-    "level": "A2"
-  },
-  {
-    "noun": "Pinsel",
-    "article": "der",
-    "plural": "Pinsel",
-    "meaning": "brush",
-    "level": "A2"
-  },
-  {
-    "noun": "Planet",
-    "article": "der",
-    "plural": "Planeten",
-    "meaning": "planet",
-    "level": "A2"
-  },
-  {
-    "noun": "Pol",
-    "article": "der",
-    "plural": "Pole",
-    "meaning": "pole",
-    "level": "A2"
-  },
-  {
-    "noun": "Porto",
-    "article": "das",
-    "plural": "Portos",
-    "meaning": "postage",
-    "level": "A2"
-  },
-  {
-    "noun": "Posten",
-    "article": "der",
-    "plural": "Posten",
-    "meaning": "post",
-    "level": "A2"
-  },
-  {
-    "noun": "Prinz",
-    "article": "der",
-    "plural": "Prinzen",
-    "meaning": "prince",
-    "level": "A2"
-  },
-  {
-    "noun": "Profit",
-    "article": "der",
-    "plural": "Profite",
-    "meaning": "profit",
-    "level": "A2"
-  },
-  {
-    "noun": "Puder",
-    "article": "der",
-    "plural": "Puder",
-    "meaning": "powder",
-    "level": "A2"
-  },
-  {
-    "noun": "Pulver",
-    "article": "das",
-    "plural": "Pulver",
-    "meaning": "powder",
-    "level": "A2"
-  },
-  {
-    "noun": "Pumpe",
-    "article": "die",
-    "plural": "Pumpen",
-    "meaning": "pump",
-    "level": "A2"
-  },
-  {
-    "noun": "Rache",
-    "article": "die",
-    "plural": "Rache",
-    "meaning": "revenge",
-    "level": "A2"
-  },
-  {
-    "noun": "Rachen",
-    "article": "der",
-    "plural": "Rachen",
-    "meaning": "jaw",
-    "level": "A2"
-  },
-  {
-    "noun": "Rahmen",
-    "article": "der",
-    "plural": "Rahmen",
-    "meaning": "frame",
-    "level": "A2"
-  },
-  {
-    "noun": "Rasse",
-    "article": "die",
-    "plural": "Rassen",
-    "meaning": "race",
-    "level": "A2"
-  },
-  {
-    "noun": "Rat",
-    "article": "der",
-    "plural": "Räte",
-    "meaning": "advice",
-    "level": "A2"
-  },
-  {
-    "noun": "Rate",
-    "article": "die",
-    "plural": "Raten",
-    "meaning": "rate",
-    "level": "A2"
-  },
-  {
-    "noun": "Raub",
-    "article": "der",
-    "plural": "Raube",
-    "meaning": "robbery",
-    "level": "A2"
-  },
-  {
-    "noun": "Räuber",
-    "article": "der",
-    "plural": "Räuber",
-    "meaning": "robber",
-    "level": "A2"
-  },
-  {
-    "noun": "Rauch",
-    "article": "der",
-    "plural": "Rauche",
-    "meaning": "smoke",
-    "level": "A2"
-  },
-  {
-    "noun": "Rechen",
-    "article": "der",
-    "plural": "Rechen",
-    "meaning": "rake",
-    "level": "A2"
-  },
-  {
-    "noun": "Redner",
-    "article": "der",
-    "plural": "Redner",
-    "meaning": "speaker",
-    "level": "A2"
-  },
-  {
-    "noun": "Reihe",
-    "article": "die",
-    "plural": "Reihen",
-    "meaning": "series",
-    "level": "A2"
-  },
-  {
-    "noun": "Reiter",
-    "article": "der",
-    "plural": "Reiter",
-    "meaning": "rider",
-    "level": "A2"
-  },
-  {
-    "noun": "Reiz",
-    "article": "der",
-    "plural": "Reize",
-    "meaning": "charm",
-    "level": "A2"
-  },
-  {
-    "noun": "Rennen",
-    "article": "das",
-    "plural": "Rennen",
-    "meaning": "race",
-    "level": "A2"
-  },
-  {
-    "noun": "Ring",
-    "article": "der",
-    "plural": "Ringe",
-    "meaning": "ring",
-    "level": "A2"
-  },
-  {
-    "noun": "Riß",
-    "article": "die",
-    "plural": "Riß",
-    "meaning": "crack",
-    "level": "A2"
-  },
-  {
-    "noun": "Ritter",
-    "article": "der",
-    "plural": "Ritter",
-    "meaning": "knight",
-    "level": "A2"
-  },
-  {
-    "noun": "Rivale",
-    "article": "der",
-    "plural": "Rivalen",
-    "meaning": "rival",
-    "level": "A2"
-  },
-  {
-    "noun": "Rohr",
-    "article": "das",
-    "plural": "Rohre",
-    "meaning": "tube",
-    "level": "A2"
-  },
-  {
-    "noun": "Ruder",
-    "article": "das",
-    "plural": "Ruder",
-    "meaning": "oar",
-    "level": "A2"
-  },
-  {
-    "noun": "Ruf",
-    "article": "der",
-    "plural": "Rufe",
-    "meaning": "call",
-    "level": "A2"
-  },
-  {
-    "noun": "Ruhm",
-    "article": "der",
-    "plural": "Ruhm",
-    "meaning": "glory",
-    "level": "A2"
-  },
-  {
-    "noun": "Ruin",
-    "article": "der",
-    "plural": "Ruin",
-    "meaning": "ruin",
-    "level": "A2"
-  },
-  {
-    "noun": "Ruine",
-    "article": "die",
-    "plural": "Ruinen",
-    "meaning": "ruin",
-    "level": "A2"
-  },
-  {
-    "noun": "Rumpf",
-    "article": "der",
-    "plural": "Rümpfe",
-    "meaning": "trunk",
-    "level": "A2"
-  },
-  {
-    "noun": "Russe",
-    "article": "der",
-    "plural": "Russen",
-    "meaning": "Russian",
-    "level": "A2"
-  },
-  {
-    "noun": "Rute",
-    "article": "die",
-    "plural": "Ruten",
-    "meaning": "rod",
-    "level": "A2"
-  },
-  {
-    "noun": "Saal",
-    "article": "der",
-    "plural": "Säle",
-    "meaning": "hall",
-    "level": "A2"
-  },
-  {
-    "noun": "Sack",
-    "article": "der",
-    "plural": "Säcke",
-    "meaning": "sack",
-    "level": "A2"
-  },
-  {
-    "noun": "Safe",
-    "article": "der",
-    "plural": "Safes",
-    "meaning": "safe",
-    "level": "A2"
-  },
-  {
-    "noun": "Säge",
-    "article": "die",
-    "plural": "Sägen",
-    "meaning": "saw",
-    "level": "A2"
-  },
-  {
-    "noun": "Samen",
-    "article": "der",
-    "plural": "Samen",
-    "meaning": "seed",
-    "level": "A2"
-  },
-  {
-    "noun": "Sand",
-    "article": "der",
-    "plural": "Sande",
-    "meaning": "sand",
-    "level": "A2"
-  },
-  {
-    "noun": "Sattel",
-    "article": "der",
-    "plural": "Sättel",
-    "meaning": "saddle",
-    "level": "A2"
-  },
-  {
-    "noun": "Säule",
-    "article": "die",
-    "plural": "Säulen",
-    "meaning": "pillar",
-    "level": "A2"
-  },
-  {
-    "noun": "Schale",
-    "article": "die",
-    "plural": "Schalen",
-    "meaning": "bowl",
-    "level": "A2"
-  },
-  {
-    "noun": "Schatz",
-    "article": "der",
-    "plural": "Schätze",
-    "meaning": "treasure",
-    "level": "A2"
-  },
-  {
-    "noun": "Schau",
-    "article": "die",
-    "plural": "Schauen",
-    "meaning": "show",
-    "level": "A2"
-  },
-  {
-    "noun": "Schein",
-    "article": "der",
-    "plural": "Scheine",
-    "meaning": "shine",
-    "level": "A2"
-  },
-  {
-    "noun": "Scherz",
-    "article": "der",
-    "plural": "Scherze",
-    "meaning": "joke",
-    "level": "A2"
-  },
-  {
-    "noun": "Schlaf",
-    "article": "der",
-    "plural": "Schlaf",
-    "meaning": "sleep",
-    "level": "A2"
-  },
-  {
-    "noun": "Schlag",
-    "article": "der",
-    "plural": "Schläge",
-    "meaning": "blow",
-    "level": "A2"
-  },
-  {
-    "noun": "Schock",
-    "article": "der",
-    "plural": "Schocke",
-    "meaning": "shock",
-    "level": "A2"
-  },
-  {
-    "noun": "Schrei",
-    "article": "der",
-    "plural": "Schreie",
-    "meaning": "cry",
-    "level": "A2"
-  },
-  {
-    "noun": "Schuld",
-    "article": "die",
-    "plural": "Schulden",
-    "meaning": "guilt",
-    "level": "A2"
-  },
-  {
-    "noun": "Seele",
-    "article": "die",
-    "plural": "Seelen",
-    "meaning": "soul",
-    "level": "A2"
-  },
-  {
-    "noun": "Segel",
-    "article": "das",
-    "plural": "Segel",
-    "meaning": "sail",
-    "level": "A2"
-  },
-  {
-    "noun": "Segen",
-    "article": "der",
-    "plural": "Segen",
-    "meaning": "blessing",
-    "level": "A2"
-  },
-  {
-    "noun": "Seide",
-    "article": "die",
-    "plural": "Seiden",
-    "meaning": "silk",
-    "level": "A2"
-  },
-  {
-    "noun": "Seil",
-    "article": "das",
-    "plural": "Seile",
-    "meaning": "rope",
-    "level": "A2"
-  },
-  {
-    "noun": "Sein",
-    "article": "das",
-    "plural": "Sein",
-    "meaning": "being",
-    "level": "A2"
-  },
-  {
-    "noun": "Sie",
-    "article": "die",
-    "plural": "Sie",
-    "meaning": "you",
-    "level": "A2"
-  },
-  {
-    "noun": "Signal",
-    "article": "das",
-    "plural": "Signale",
-    "meaning": "signal",
-    "level": "A2"
-  },
-  {
-    "noun": "Silber",
-    "article": "das",
-    "plural": "Silber",
-    "meaning": "silver",
-    "level": "A2"
-  },
-  {
-    "noun": "Sinn",
-    "article": "der",
-    "plural": "Sinne",
-    "meaning": "sense",
-    "level": "A2"
-  },
-  {
-    "noun": "Sitz",
-    "article": "der",
-    "plural": "Sitze",
-    "meaning": "seat",
-    "level": "A2"
-  },
-  {
-    "noun": "Skala",
-    "article": "die",
-    "plural": "Skalen",
-    "meaning": "scale",
-    "level": "A2"
-  },
-  {
-    "noun": "Sklave",
-    "article": "der",
-    "plural": "Sklaven",
-    "meaning": "slave",
-    "level": "A2"
-  },
-  {
-    "noun": "Soldat",
-    "article": "der",
-    "plural": "Soldaten",
-    "meaning": "soldier",
-    "level": "A2"
-  },
-  {
-    "noun": "Sorte",
-    "article": "die",
-    "plural": "Sorten",
-    "meaning": "sort",
-    "level": "A2"
-  },
-  {
-    "noun": "Spalte",
-    "article": "die",
-    "plural": "Spalten",
-    "meaning": "gap",
-    "level": "A2"
-  },
-  {
-    "noun": "Spaten",
-    "article": "der",
-    "plural": "Spaten",
-    "meaning": "spade",
-    "level": "A2"
-  },
-  {
-    "noun": "Speck",
-    "article": "der",
-    "plural": "Specke",
-    "meaning": "bacon",
-    "level": "A2"
-  },
-  {
-    "noun": "Spion",
-    "article": "der",
-    "plural": "Spione",
-    "meaning": "spy",
-    "level": "A2"
-  },
-  {
-    "noun": "Spitze",
-    "article": "die",
-    "plural": "Spitzen",
-    "meaning": "tip",
-    "level": "A2"
-  },
-  {
-    "noun": "Stahl",
-    "article": "der",
-    "plural": "Stähle",
-    "meaning": "steel",
-    "level": "A2"
-  },
-  {
-    "noun": "Stand",
-    "article": "der",
-    "plural": "Stände",
-    "meaning": "stand",
-    "level": "A2"
-  },
-  {
-    "noun": "Stärke",
-    "article": "die",
-    "plural": "Stärken",
-    "meaning": "strength",
-    "level": "A2"
-  },
-  {
-    "noun": "Staub",
-    "article": "der",
-    "plural": "Stäube",
-    "meaning": "dust",
-    "level": "A2"
-  },
-  {
-    "noun": "Steak",
-    "article": "das",
-    "plural": "Steaks",
-    "meaning": "steak",
-    "level": "A2"
-  },
-  {
-    "noun": "Stier",
-    "article": "der",
-    "plural": "Stiere",
-    "meaning": "bull",
-    "level": "A2"
-  },
-  {
-    "noun": "Stil",
-    "article": "der",
-    "plural": "Stile",
-    "meaning": "style",
-    "level": "A2"
-  },
-  {
-    "noun": "Stille",
-    "article": "die",
-    "plural": "Stille",
-    "meaning": "stillness",
-    "level": "A2"
-  },
-  {
-    "noun": "Stolz",
-    "article": "der",
-    "plural": "Stolz",
-    "meaning": "pride",
-    "level": "A2"
-  },
-  {
-    "noun": "Stoß",
-    "article": "der",
-    "plural": "Stöße",
-    "meaning": "push",
-    "level": "A2"
-  },
-  {
-    "noun": "Strahl",
-    "article": "der",
-    "plural": "Strahlen",
-    "meaning": "ray",
-    "level": "A2"
-  },
-  {
-    "noun": "Straps",
-    "article": "der",
-    "plural": "Strapse",
-    "meaning": "strap",
-    "level": "A2"
-  },
-  {
-    "noun": "Strauß",
-    "article": "der",
-    "plural": "Sträuße",
-    "meaning": "bunch",
-    "level": "A2"
-  },
-  {
-    "noun": "Streit",
-    "article": "der",
-    "plural": "Streite",
-    "meaning": "quarrel",
-    "level": "A2"
-  },
-  {
-    "noun": "Strick",
-    "article": "der",
-    "plural": "Stricke",
-    "meaning": "cord",
-    "level": "A2"
-  },
-  {
-    "noun": "Stroh",
-    "article": "das",
-    "plural": "Stroh",
-    "meaning": "straw",
-    "level": "A2"
-  },
-  {
-    "noun": "Suche",
-    "article": "die",
-    "plural": "Suchen",
-    "meaning": "search",
-    "level": "A2"
-  },
-  {
-    "noun": "Sünde",
-    "article": "die",
-    "plural": "Sünden",
-    "meaning": "sin",
-    "level": "A2"
-  },
-  {
-    "noun": "Tabak",
-    "article": "der",
-    "plural": "Tabake",
-    "meaning": "tobacco",
-    "level": "A2"
-  },
-  {
-    "noun": "Taille",
-    "article": "die",
-    "plural": "Taillen",
-    "meaning": "waist",
-    "level": "A2"
-  },
-  {
-    "noun": "Tanzen",
-    "article": "das",
-    "plural": "Tanzen",
-    "meaning": "dancing",
-    "level": "A2"
-  },
-  {
-    "noun": "Tat",
-    "article": "die",
-    "plural": "Taten",
-    "meaning": "deed",
-    "level": "A2"
-  },
-  {
-    "noun": "Taube",
-    "article": "die",
-    "plural": "Tauben",
-    "meaning": "pigeon",
-    "level": "A2"
-  },
-  {
-    "noun": "Teich",
-    "article": "der",
-    "plural": "Teiche",
-    "meaning": "pool",
-    "level": "A2"
-  },
-  {
-    "noun": "Tempel",
-    "article": "der",
-    "plural": "Tempel",
-    "meaning": "temple",
-    "level": "A2"
-  },
-  {
-    "noun": "Teufel",
-    "article": "der",
-    "plural": "Teufel",
-    "meaning": "devil",
-    "level": "A2"
-  },
-  {
-    "noun": "Tiefe",
-    "article": "die",
-    "plural": "Tiefen",
-    "meaning": "depth",
-    "level": "A2"
-  },
-  {
-    "noun": "Tiegel",
-    "article": "der",
-    "plural": "Tiegel",
-    "meaning": "pan",
-    "level": "A2"
-  },
-  {
-    "noun": "Tinte",
-    "article": "die",
-    "plural": "Tinten",
-    "meaning": "ink",
-    "level": "A2"
-  },
-  {
-    "noun": "Ton",
-    "article": "der",
-    "plural": "Tone",
-    "meaning": "sound",
-    "level": "A2"
-  },
-  {
-    "noun": "Tonne",
-    "article": "die",
-    "plural": "Tonnen",
-    "meaning": "ton",
-    "level": "A2"
-  },
-  {
-    "noun": "Tote",
-    "article": "die",
-    "plural": "Tote",
-    "meaning": "dead",
-    "level": "A2"
-  },
-  {
-    "noun": "Träne",
-    "article": "die",
-    "plural": "Tränen",
-    "meaning": "tear",
-    "level": "A2"
-  },
-  {
-    "noun": "Traube",
-    "article": "die",
-    "plural": "Trauben",
-    "meaning": "grape",
-    "level": "A2"
-  },
-  {
-    "noun": "Treue",
-    "article": "die",
-    "plural": "Treue",
-    "meaning": "loyalty",
-    "level": "A2"
-  },
-  {
-    "noun": "Tritt",
-    "article": "der",
-    "plural": "Tritte",
-    "meaning": "kick",
-    "level": "A2"
-  },
-  {
-    "noun": "Truppe",
-    "article": "die",
-    "plural": "Truppen",
-    "meaning": "troop",
-    "level": "A2"
-  },
-  {
-    "noun": "Tube",
-    "article": "die",
-    "plural": "Tuben",
-    "meaning": "tube",
-    "level": "A2"
-  },
-  {
-    "noun": "Türkei",
-    "article": "die",
-    "plural": "Türkei",
-    "meaning": "Turkey",
-    "level": "A2"
-  },
-  {
-    "noun": "Übel",
-    "article": "das",
-    "plural": "Übel",
-    "meaning": "evil",
-    "level": "A2"
-  },
-  {
-    "noun": "Unruhe",
-    "article": "die",
-    "plural": "Unruhen",
-    "meaning": "trouble",
-    "level": "A2"
-  },
-  {
-    "noun": "Unsinn",
-    "article": "der",
-    "plural": "Unsinn",
-    "meaning": "nonsense",
-    "level": "A2"
-  },
-  {
-    "noun": "Unze",
-    "article": "die",
-    "plural": "Unzen",
-    "meaning": "ounce",
-    "level": "A2"
-  },
-  {
-    "noun": "Vetter",
-    "article": "der",
-    "plural": "Vettern",
-    "meaning": "cousin",
-    "level": "A2"
-  },
-  {
-    "noun": "Vorrat",
-    "article": "der",
-    "plural": "Vorräte",
-    "meaning": "supply",
-    "level": "A2"
-  },
-  {
-    "noun": "Waage",
-    "article": "die",
-    "plural": "Waagen",
-    "meaning": "scales",
-    "level": "A2"
-  },
-  {
-    "noun": "Wache",
-    "article": "die",
-    "plural": "Wachen",
-    "meaning": "guard",
-    "level": "A2"
-  },
-  {
-    "noun": "Wachs",
-    "article": "das",
-    "plural": "Wachse",
-    "meaning": "wax",
-    "level": "A2"
-  },
-  {
-    "noun": "Wade",
-    "article": "die",
-    "plural": "Waden",
-    "meaning": "calf",
-    "level": "A2"
-  },
-  {
-    "noun": "Waffe",
-    "article": "die",
-    "plural": "Waffen",
-    "meaning": "weapon",
-    "level": "A2"
-  },
-  {
-    "noun": "Wähler",
-    "article": "der",
-    "plural": "Wähler",
-    "meaning": "voter",
-    "level": "A2"
-  },
-  {
-    "noun": "Wange",
-    "article": "die",
-    "plural": "Wangen",
-    "meaning": "cheek",
-    "level": "A2"
-  },
-  {
-    "noun": "Wärme",
-    "article": "die",
-    "plural": "Wärme",
-    "meaning": "warmth",
-    "level": "A2"
-  },
-  {
-    "noun": "Wärter",
-    "article": "der",
-    "plural": "Wärter",
-    "meaning": "keeper",
-    "level": "A2"
-  },
-  {
-    "noun": "Weber",
-    "article": "der",
-    "plural": "Weber",
-    "meaning": "weaver",
-    "level": "A2"
-  },
-  {
-    "noun": "Weile",
-    "article": "die",
-    "plural": "Weile",
-    "meaning": "while",
-    "level": "A2"
-  },
-  {
-    "noun": "Weiß",
-    "article": "das",
-    "plural": "Weiß",
-    "meaning": "white",
-    "level": "A2"
-  },
-  {
-    "noun": "Weizen",
-    "article": "der",
-    "plural": "Weizen",
-    "meaning": "wheat",
-    "level": "A2"
-  },
-  {
-    "noun": "Welle",
-    "article": "die",
-    "plural": "Wellen",
-    "meaning": "wave",
-    "level": "A2"
-  },
-  {
-    "noun": "Wert",
-    "article": "der",
-    "plural": "Werte",
-    "meaning": "worth",
-    "level": "A2"
-  },
-  {
-    "noun": "Wesen",
-    "article": "das",
-    "plural": "Wesen",
-    "meaning": "essence",
-    "level": "A2"
-  },
-  {
-    "noun": "Weste",
-    "article": "die",
-    "plural": "Westen",
-    "meaning": "waistcoat",
-    "level": "A2"
-  },
-  {
-    "noun": "Wette",
-    "article": "die",
-    "plural": "Wetten",
-    "meaning": "bet",
-    "level": "A2"
-  },
-  {
-    "noun": "Whisky",
-    "article": "der",
-    "plural": "Whiskys",
-    "meaning": "whisk(e)y",
-    "level": "A2"
-  },
-  {
-    "noun": "Wild",
-    "article": "das",
-    "plural": "Wild",
-    "meaning": "game",
-    "level": "A2"
-  },
-  {
-    "noun": "Wille",
-    "article": "der",
-    "plural": "Willen",
-    "meaning": "will",
-    "level": "A2"
-  },
-  {
-    "noun": "Wissen",
-    "article": "das",
-    "plural": "Wissen",
-    "meaning": "knowledge",
-    "level": "A2"
-  },
-  {
-    "noun": "Witwe",
-    "article": "die",
-    "plural": "Witwen",
-    "meaning": "widow",
-    "level": "A2"
-  },
-  {
-    "noun": "Wolf",
-    "article": "der",
-    "plural": "Wölfe",
-    "meaning": "wolf (irr.)",
-    "level": "A2"
-  },
-  {
-    "noun": "Wolle",
-    "article": "die",
-    "plural": "Wollen",
-    "meaning": "wool",
-    "level": "A2"
-  },
-  {
-    "noun": "Wrack",
-    "article": "das",
-    "plural": "Wracks",
-    "meaning": "wreck",
-    "level": "A2"
-  },
-  {
-    "noun": "Wunde",
-    "article": "die",
-    "plural": "Wunden",
-    "meaning": "wound",
-    "level": "A2"
-  },
-  {
-    "noun": "Wurf",
-    "article": "der",
-    "plural": "Würfe",
-    "meaning": "throw",
-    "level": "A2"
-  },
-  {
-    "noun": "Wurm",
-    "article": "der",
-    "plural": "Würmer",
-    "meaning": "worm",
-    "level": "A2"
-  },
-  {
-    "noun": "Wurzel",
-    "article": "die",
-    "plural": "Wurzeln",
-    "meaning": "root",
-    "level": "A2"
-  },
-  {
-    "noun": "Wüste",
-    "article": "die",
-    "plural": "Wüsten",
-    "meaning": "desert",
-    "level": "A2"
-  },
-  {
-    "noun": "Zaun",
-    "article": "der",
-    "plural": "Zäune",
-    "meaning": "fence",
-    "level": "A2"
-  },
-  {
-    "noun": "Zehe",
-    "article": "die",
-    "plural": "Zehen",
-    "meaning": "toe",
-    "level": "A2"
-  },
-  {
-    "noun": "Zeile",
-    "article": "die",
-    "plural": "Zeilen",
-    "meaning": "line",
-    "level": "A2"
-  },
-  {
-    "noun": "Zeug",
-    "article": "das",
-    "plural": "Zeuge",
-    "meaning": "stuff",
-    "level": "A2"
-  },
-  {
-    "noun": "Ziege",
-    "article": "die",
-    "plural": "Ziegen",
-    "meaning": "goat",
-    "level": "A2"
-  },
-  {
-    "noun": "Ziffer",
-    "article": "die",
-    "plural": "Ziffern",
-    "meaning": "figure",
-    "level": "A2"
-  },
-  {
-    "noun": "Zither",
-    "article": "die",
-    "plural": "Zithern",
-    "meaning": "zither",
-    "level": "A2"
-  },
-  {
-    "noun": "Zorn",
-    "article": "der",
-    "plural": "Zorn",
-    "meaning": "anger",
-    "level": "A2"
-  },
-  {
-    "noun": "Zugang",
-    "article": "der",
-    "plural": "Zugänge",
-    "meaning": "admission",
-    "level": "A2"
-  },
-  {
-    "noun": "Zunge",
-    "article": "die",
-    "plural": "Zungen",
-    "meaning": "tongue",
-    "level": "A2"
-  },
-  {
-    "noun": "Zweck",
-    "article": "der",
-    "plural": "Zwecke",
-    "meaning": "purpose",
-    "level": "A2"
-  },
-  {
-    "noun": "Zweig",
-    "article": "der",
-    "plural": "Zweige",
-    "meaning": "branch",
     "level": "A2"
   }
 ]

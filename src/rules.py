@@ -761,6 +761,15 @@ def get_plural_rule(noun: str, article: str, plural: str) -> Dict[str, Any]:
             "icon": icon
         }
 
+    # 0. Singular-only nouns (No plural)
+    if not clean_plural or lower_plural in ("-", "kein plural", "ohne plural", "nur singular"):
+        return make_plural_rule(
+            "Singulariatantum", "Singular-only Noun (Kein Plural)",
+            "<b>Singulariatantum</b> &rarr; Nur Singular (kein Plural)",
+            "Dieses Substantiv existiert im Deutschen standardmäßig nur im Singular und bildet keine Pluralform.",
+            f"{article} {clean_noun}", "📌"
+        )
+
     # 1. Diminutives -chen / -lein (No change)
     if lower_noun.endswith("chen") or lower_noun.endswith("lein"):
         return make_plural_rule(

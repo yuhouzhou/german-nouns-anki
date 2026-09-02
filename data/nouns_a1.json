@@ -184,9 +184,10 @@
   {
     "noun": "Ausland",
     "article": "das",
-    "plural": "Ausland",
+    "plural": "",
     "meaning": "abroad",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Aussicht",
@@ -485,9 +486,10 @@
   {
     "noun": "Butter",
     "article": "die",
-    "plural": "Butters",
+    "plural": "",
     "meaning": "butter",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Café",
@@ -523,6 +525,14 @@
     "plural": "Dateien",
     "meaning": "file",
     "level": "A1"
+  },
+  {
+    "noun": "Daten",
+    "article": "die",
+    "plural": "",
+    "meaning": "data",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Datum",
@@ -583,9 +593,10 @@
   {
     "noun": "Durst",
     "article": "der",
-    "plural": "Durst",
+    "plural": "",
     "meaning": "thirst",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Dusche",
@@ -632,9 +643,18 @@
   {
     "noun": "Eis",
     "article": "das",
-    "plural": "Eis",
+    "plural": "",
     "meaning": "ice, ice cream",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
+  },
+  {
+    "noun": "Eltern",
+    "article": "die",
+    "plural": "",
+    "meaning": "parents",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Ende",
@@ -742,6 +762,14 @@
     "level": "A1"
   },
   {
+    "noun": "Ferien",
+    "article": "die",
+    "plural": "",
+    "meaning": "holidays, vacation",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "Fernseher",
     "article": "der",
     "plural": "Fernseher",
@@ -800,9 +828,10 @@
   {
     "noun": "Fitness",
     "article": "die",
-    "plural": "Fitness",
+    "plural": "",
     "meaning": "fitness",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Flasche",
@@ -814,9 +843,10 @@
   {
     "noun": "Fleisch",
     "article": "das",
-    "plural": "Fleisch",
+    "plural": "",
     "meaning": "meat",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Flughafen",
@@ -975,9 +1005,10 @@
   {
     "noun": "Gepäck",
     "article": "das",
-    "plural": "Gepäck",
+    "plural": "",
     "meaning": "luggage",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Gerät",
@@ -1015,6 +1046,14 @@
     "level": "A1"
   },
   {
+    "noun": "Geschwister",
+    "article": "die",
+    "plural": "",
+    "meaning": "siblings",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "Gesicht",
     "article": "das",
     "plural": "Gesichter",
@@ -1045,9 +1084,10 @@
   {
     "noun": "Glück",
     "article": "das",
-    "plural": "Glück",
+    "plural": "",
     "meaning": "luck, happiness",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Größe",
@@ -1055,6 +1095,14 @@
     "plural": "Größen",
     "meaning": "size",
     "level": "A1"
+  },
+  {
+    "noun": "Großeltern",
+    "article": "die",
+    "plural": "",
+    "meaning": "grandparents",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Großmutter",
@@ -1234,9 +1282,10 @@
   {
     "noun": "Hitze",
     "article": "die",
-    "plural": "Hitzen",
+    "plural": "",
     "meaning": "heat",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Hobby",
@@ -1269,9 +1318,10 @@
   {
     "noun": "Hunger",
     "article": "der",
-    "plural": "Hunger",
+    "plural": "",
     "meaning": "hunger",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Husten",
@@ -1318,9 +1368,10 @@
   {
     "noun": "Internet",
     "article": "das",
-    "plural": "Internet",
+    "plural": "",
     "meaning": "internet",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Jacke",
@@ -1374,7 +1425,7 @@
   {
     "noun": "Jugendliche",
     "article": "der",
-    "plural": "Jugendliche",
+    "plural": "Jugendlichen",
     "meaning": "young person",
     "level": "A1"
   },
@@ -1610,6 +1661,14 @@
     "level": "A1"
   },
   {
+    "noun": "Kopfschmerzen",
+    "article": "die",
+    "plural": "",
+    "meaning": "headache",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "Krankenhaus",
     "article": "das",
     "plural": "Krankenhäuser",
@@ -1722,13 +1781,6 @@
     "level": "A1"
   },
   {
-    "noun": "Lebensmittel",
-    "article": "das",
-    "plural": "Lebensmittel",
-    "meaning": "groceries",
-    "level": "A1"
-  },
-  {
     "noun": "Lehrer",
     "article": "der",
     "plural": "Lehrer",
@@ -1748,6 +1800,14 @@
     "plural": "Leitungen",
     "meaning": "line, management",
     "level": "A1"
+  },
+  {
+    "noun": "Leute",
+    "article": "die",
+    "plural": "",
+    "meaning": "people",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Licht",
@@ -1787,9 +1847,10 @@
   {
     "noun": "Luft",
     "article": "die",
-    "plural": "Lüfte",
+    "plural": "",
     "meaning": "air",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Mädchen",
@@ -1899,9 +1960,10 @@
   {
     "noun": "Milch",
     "article": "die",
-    "plural": "Milche",
+    "plural": "",
     "meaning": "milk",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Minute",
@@ -1951,6 +2013,14 @@
     "plural": "Mittwoche",
     "meaning": "Wednesday",
     "level": "A1"
+  },
+  {
+    "noun": "Möbel",
+    "article": "die",
+    "plural": "",
+    "meaning": "furniture",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Moment",
@@ -2060,9 +2130,10 @@
   {
     "noun": "Norden",
     "article": "der",
-    "plural": "Norden",
+    "plural": "",
     "meaning": "north",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Notiz",
@@ -2095,9 +2166,10 @@
   {
     "noun": "Obst",
     "article": "das",
-    "plural": "Obst",
+    "plural": "",
     "meaning": "fruit",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Öffnungszeit",
@@ -2172,9 +2244,10 @@
   {
     "noun": "Osten",
     "article": "der",
-    "plural": "Osten",
+    "plural": "",
     "meaning": "east",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Paar",
@@ -2249,9 +2322,10 @@
   {
     "noun": "Pech",
     "article": "das",
-    "plural": "Peche",
+    "plural": "",
     "meaning": "bad luck",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Perfekt",
@@ -2270,9 +2344,10 @@
   {
     "noun": "Pfeffer",
     "article": "der",
-    "plural": "Pfeffer",
+    "plural": "",
     "meaning": "pepper",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Pflanze",
@@ -2466,9 +2541,10 @@
   {
     "noun": "Ruhe",
     "article": "die",
-    "plural": "Ruhe",
+    "plural": "",
     "meaning": "quiet, peace",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "S-Bahn",
@@ -2494,9 +2570,10 @@
   {
     "noun": "Sahne",
     "article": "die",
-    "plural": "Sahne",
+    "plural": "",
     "meaning": "cream",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Salat",
@@ -2557,9 +2634,10 @@
   {
     "noun": "Schnee",
     "article": "der",
-    "plural": "Schnee",
+    "plural": "",
     "meaning": "snow",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Schnitzel",
@@ -2844,9 +2922,10 @@
   {
     "noun": "Süden",
     "article": "der",
-    "plural": "Süden",
+    "plural": "",
     "meaning": "south",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Süßigkeit",
@@ -3180,9 +3259,10 @@
   {
     "noun": "Verkehr",
     "article": "der",
-    "plural": "Verkehre",
+    "plural": "",
     "meaning": "traffic",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Verkehrsmittel",
@@ -3243,9 +3323,10 @@
   {
     "noun": "Vorsicht",
     "article": "die",
-    "plural": "Vorsicht",
+    "plural": "",
     "meaning": "caution",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Wald",
@@ -3306,9 +3387,10 @@
   {
     "noun": "Westen",
     "article": "der",
-    "plural": "Westen",
+    "plural": "",
     "meaning": "west",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Wetter",
@@ -3446,9 +3528,10 @@
   {
     "noun": "Zucker",
     "article": "der",
-    "plural": "Zucker",
+    "plural": "",
     "meaning": "sugar",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Zug",
@@ -3610,6 +3693,14 @@
     "plural": "Pizzas",
     "meaning": "pizza",
     "level": "A1"
+  },
+  {
+    "noun": "Öffnungszeiten",
+    "article": "die",
+    "plural": "",
+    "meaning": "opening hours",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Einkauf",
@@ -4053,6 +4144,14 @@
     "level": "A1"
   },
   {
+    "noun": "Bauchschmerzen",
+    "article": "die",
+    "plural": "",
+    "meaning": "stomach ache",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "Baustelle",
     "article": "die",
     "plural": "Baustellen",
@@ -4240,6 +4339,14 @@
     "plural": "Champignons",
     "meaning": "mushroom",
     "level": "A1"
+  },
+  {
+    "noun": "Chips",
+    "article": "die",
+    "plural": "",
+    "meaning": "crisps, chips",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Chor",
@@ -4781,6 +4888,14 @@
     "level": "A1"
   },
   {
+    "noun": "Halsschmerzen",
+    "article": "die",
+    "plural": "",
+    "meaning": "sore throat",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "Hamster",
     "article": "der",
     "plural": "Hamster",
@@ -4821,6 +4936,14 @@
     "plural": "Hauptstädte",
     "meaning": "capital city",
     "level": "A1"
+  },
+  {
+    "noun": "Haushaltswaren",
+    "article": "die",
+    "plural": "",
+    "meaning": "household goods",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Hausmeister",
@@ -5087,6 +5210,14 @@
     "plural": "Kisten",
     "meaning": "box, crate",
     "level": "A1"
+  },
+  {
+    "noun": "Klamotten",
+    "article": "die",
+    "plural": "",
+    "meaning": "clothes (informal)",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Kleidergeschäft",
@@ -5418,6 +5549,14 @@
     "level": "A1"
   },
   {
+    "noun": "Medien",
+    "article": "die",
+    "plural": "",
+    "meaning": "media",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "Mensa",
     "article": "die",
     "plural": "Mensen",
@@ -5593,6 +5732,14 @@
     "level": "A1"
   },
   {
+    "noun": "Nachrichten",
+    "article": "die",
+    "plural": "",
+    "meaning": "news",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "Nachteil",
     "article": "der",
     "plural": "Nachteile",
@@ -5689,6 +5836,14 @@
     "plural": "Ortsveränderungen",
     "meaning": "change of location",
     "level": "A1"
+  },
+  {
+    "noun": "Papiere",
+    "article": "die",
+    "plural": "",
+    "meaning": "papers, documents",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Parfüm",
@@ -5808,6 +5963,14 @@
     "plural": "Polizistinnen",
     "meaning": "police officer (female)",
     "level": "A1"
+  },
+  {
+    "noun": "Pommes frites",
+    "article": "die",
+    "plural": "",
+    "meaning": "French fries",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Position",
@@ -6041,6 +6204,14 @@
     "level": "A1"
   },
   {
+    "noun": "Rückenschmerzen",
+    "article": "die",
+    "plural": "",
+    "meaning": "back pain",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "Saison",
     "article": "die",
     "plural": "Saisons",
@@ -6179,6 +6350,14 @@
     "plural": "Schreibtische",
     "meaning": "desk",
     "level": "A1"
+  },
+  {
+    "noun": "Schreibwaren",
+    "article": "die",
+    "plural": "",
+    "meaning": "stationery",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Schuhfan",
@@ -6363,6 +6542,14 @@
     "level": "A1"
   },
   {
+    "noun": "Spaghetti",
+    "article": "die",
+    "plural": "",
+    "meaning": "spaghetti",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "Spezialität",
     "article": "die",
     "plural": "Spezialitäten",
@@ -6375,6 +6562,14 @@
     "plural": "Spiele",
     "meaning": "game",
     "level": "A1"
+  },
+  {
+    "noun": "Spielwaren",
+    "article": "die",
+    "plural": "",
+    "meaning": "toys",
+    "level": "A1",
+    "plural_only": true
   },
   {
     "noun": "Sportclub",
@@ -6783,6 +6978,14 @@
     "level": "A1"
   },
   {
+    "noun": "USA",
+    "article": "die",
+    "plural": "",
+    "meaning": "the USA",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "USB-Stick",
     "article": "der",
     "plural": "USB-Sticks",
@@ -7063,6 +7266,14 @@
     "level": "A1"
   },
   {
+    "noun": "Zahnschmerzen",
+    "article": "die",
+    "plural": "",
+    "meaning": "toothache",
+    "level": "A1",
+    "plural_only": true
+  },
+  {
     "noun": "Zahnärztin",
     "article": "die",
     "plural": "Zahnärztinnen",
@@ -7310,9 +7521,10 @@
   {
     "noun": "Kleider",
     "article": "die",
-    "plural": "Kleider",
+    "plural": "",
     "meaning": "clothes",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Ansage",
@@ -7366,9 +7578,10 @@
   {
     "noun": "Nordsee",
     "article": "die",
-    "plural": "Nordsee",
+    "plural": "",
     "meaning": "North Sea",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Musiker",
@@ -7457,7 +7670,7 @@
   {
     "noun": "Verwandte",
     "article": "der",
-    "plural": "Verwandte",
+    "plural": "Verwandten",
     "meaning": "relative",
     "level": "A1"
   },
@@ -7478,7 +7691,7 @@
   {
     "noun": "Angehörige",
     "article": "der",
-    "plural": "Angehörige",
+    "plural": "Angehörigen",
     "meaning": "relative, dependent",
     "level": "A1"
   },
@@ -7520,7 +7733,7 @@
   {
     "noun": "Bekannte",
     "article": "der",
-    "plural": "Bekannte",
+    "plural": "Bekannten",
     "meaning": "acquaintance",
     "level": "A1"
   },
@@ -7590,9 +7803,10 @@
   {
     "noun": "Vollzeit",
     "article": "die",
-    "plural": "Vollzeit",
+    "plural": "",
     "meaning": "full-time",
-    "level": "A1"
+    "level": "A1",
+    "singular_only": true
   },
   {
     "noun": "Aushilfe",
@@ -7604,14 +7818,14 @@
   {
     "noun": "Europäische Union",
     "article": "die",
-    "plural": "Europäische Union",
+    "plural": "Europäische unionen",
     "meaning": "the European Union",
     "level": "A1"
   },
   {
     "noun": "Erwachsene",
     "article": "der",
-    "plural": "Erwachsene",
+    "plural": "Erwachsenen",
     "meaning": "adult",
     "level": "A1"
   }

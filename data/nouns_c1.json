@@ -49,6 +49,14 @@
     "level": "C1"
   },
   {
+    "noun": "Antikörper",
+    "article": "die",
+    "plural": "",
+    "meaning": "antibodies",
+    "level": "C1",
+    "plural_only": true
+  },
+  {
     "noun": "Argumentation",
     "article": "die",
     "plural": "Argumentationen",
@@ -72,16 +80,10 @@
   {
     "noun": "Autoritarismus",
     "article": "der",
-    "plural": "Autoritarismus",
+    "plural": "",
     "meaning": "authoritarianism",
-    "level": "C1"
-  },
-  {
-    "noun": "Befund",
-    "article": "der",
-    "plural": "Befunde",
-    "meaning": "finding",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Benachteiligung",
@@ -114,23 +116,25 @@
   {
     "noun": "Bilanzierung",
     "article": "die",
-    "plural": "Bilanzierung",
+    "plural": "Bilanzierungen",
     "meaning": "accounting",
     "level": "C1"
   },
   {
     "noun": "Bioethik",
     "article": "die",
-    "plural": "Bioethik",
+    "plural": "",
     "meaning": "bioethics",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Biotechnologie",
     "article": "die",
-    "plural": "Biotechnologie",
+    "plural": "",
     "meaning": "biotechnology",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Bündnispolitik",
@@ -149,16 +153,26 @@
   {
     "noun": "Chancengleichheit",
     "article": "die",
-    "plural": "Chancengleichheit",
+    "plural": "",
     "meaning": "equal opportunity",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Chromosomen",
+    "article": "die",
+    "plural": "",
+    "meaning": "chromosomes",
+    "level": "C1",
+    "plural_only": true
   },
   {
     "noun": "Compliance",
     "article": "die",
-    "plural": "Compliance",
+    "plural": "",
     "meaning": "compliance",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Deflation",
@@ -170,9 +184,10 @@
   {
     "noun": "Dekarbonisierung",
     "article": "die",
-    "plural": "Dekarbonisierung",
+    "plural": "",
     "meaning": "decarbonization",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Demenz",
@@ -198,30 +213,34 @@
   {
     "noun": "Desertifikation",
     "article": "die",
-    "plural": "Desertifikation",
+    "plural": "",
     "meaning": "desertification",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Determinismus",
     "article": "der",
-    "plural": "Determinismus",
+    "plural": "",
     "meaning": "determinism",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Dialektik",
     "article": "die",
-    "plural": "Dialektik",
+    "plural": "",
     "meaning": "dialectics",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Diplomatie",
     "article": "die",
-    "plural": "Diplomatie",
+    "plural": "",
     "meaning": "diplomacy",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Dissertation",
@@ -233,9 +252,10 @@
   {
     "noun": "Diversität",
     "article": "die",
-    "plural": "Diversität",
+    "plural": "",
     "meaning": "diversity",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Drohne",
@@ -261,9 +281,10 @@
   {
     "noun": "Emissionshandel",
     "article": "der",
-    "plural": "Emissionshandel",
+    "plural": "",
     "meaning": "emissions trading",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Energiespeicher",
@@ -282,16 +303,18 @@
   {
     "noun": "Epidemiologie",
     "article": "die",
-    "plural": "Epidemiologie",
+    "plural": "",
     "meaning": "epidemiology",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Epistemologie",
     "article": "die",
-    "plural": "Epistemologie",
+    "plural": "",
     "meaning": "epistemology",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Ermittlung",
@@ -324,23 +347,17 @@
   {
     "noun": "Fusionierung",
     "article": "die",
-    "plural": "Fusionierung",
+    "plural": "Fusionierungen",
     "meaning": "merger",
-    "level": "C1"
-  },
-  {
-    "noun": "Genehmigung",
-    "article": "die",
-    "plural": "Genehmigungen",
-    "meaning": "permit",
     "level": "C1"
   },
   {
     "noun": "Genetik",
     "article": "die",
-    "plural": "Genetik",
+    "plural": "",
     "meaning": "genetics",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Gentechnik",
@@ -373,9 +390,10 @@
   {
     "noun": "Gewaltenteilung",
     "article": "die",
-    "plural": "Gewaltenteilung",
+    "plural": "",
     "meaning": "separation of powers",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Grundgesetz",
@@ -415,9 +433,10 @@
   {
     "noun": "Immunologie",
     "article": "die",
-    "plural": "Immunologie",
+    "plural": "",
     "meaning": "immunology",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Implikation",
@@ -520,30 +539,34 @@
   {
     "noun": "Kybernetik",
     "article": "die",
-    "plural": "Kybernetik",
+    "plural": "",
     "meaning": "cybernetics",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Lebenserwartung",
     "article": "die",
-    "plural": "Lebenserwartung",
+    "plural": "",
     "meaning": "life expectancy",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Legitimität",
     "article": "die",
-    "plural": "Legitimität",
+    "plural": "",
     "meaning": "legitimacy",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Liquidität",
     "article": "die",
-    "plural": "Liquidität",
+    "plural": "",
     "meaning": "liquidity",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Machtausübung",
@@ -569,9 +592,10 @@
   {
     "noun": "Maschinelle Lernen",
     "article": "das",
-    "plural": "Maschinelle Lernen",
+    "plural": "",
     "meaning": "machine learning",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Meeresspiegel",
@@ -583,9 +607,10 @@
   {
     "noun": "Metaphysik",
     "article": "die",
-    "plural": "Metaphysik",
+    "plural": "",
     "meaning": "metaphysics",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Methodik",
@@ -611,9 +636,10 @@
   {
     "noun": "Moralphilosophie",
     "article": "die",
-    "plural": "Moralphilosophie",
+    "plural": "",
     "meaning": "moral philosophy",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Nanotechnologie",
@@ -639,9 +665,10 @@
   {
     "noun": "Nihilismus",
     "article": "der",
-    "plural": "Nihilismus",
+    "plural": "",
     "meaning": "nihilism",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Novellierung",
@@ -667,23 +694,26 @@
   {
     "noun": "Outsourcing",
     "article": "das",
-    "plural": "Outsourcing",
+    "plural": "",
     "meaning": "outsourcing",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Ozonschicht",
     "article": "die",
-    "plural": "Ozonschicht",
+    "plural": "",
     "meaning": "ozone layer",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Palliativmedizin",
     "article": "die",
-    "plural": "Palliativmedizin",
+    "plural": "",
     "meaning": "palliative medicine",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Paradigma",
@@ -716,14 +746,15 @@
   {
     "noun": "Pragmatismus",
     "article": "der",
-    "plural": "Pragmatismus",
+    "plural": "",
     "meaning": "pragmatism",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Profitabilität",
     "article": "die",
-    "plural": "Profitabilität",
+    "plural": "Profitabilitäten",
     "meaning": "profitability",
     "level": "C1"
   },
@@ -814,9 +845,10 @@
   {
     "noun": "Robotik",
     "article": "die",
-    "plural": "Robotik",
+    "plural": "",
     "meaning": "robotics",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Sachverhalt",
@@ -863,16 +895,17 @@
   {
     "noun": "Skalierbarkeit",
     "article": "die",
-    "plural": "Skalierbarkeit",
+    "plural": "Skalierbarkeiten",
     "meaning": "scalability",
     "level": "C1"
   },
   {
     "noun": "Skepsis",
     "article": "die",
-    "plural": "Skepsis",
+    "plural": "",
     "meaning": "skepticism",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Souveränität",
@@ -884,9 +917,17 @@
   {
     "noun": "Sozialisierung",
     "article": "die",
-    "plural": "Sozialisierung",
+    "plural": "Sozialisierungen",
     "meaning": "socialization",
     "level": "C1"
+  },
+  {
+    "noun": "Stakeholder",
+    "article": "die",
+    "plural": "",
+    "meaning": "stakeholders",
+    "level": "C1",
+    "plural_only": true
   },
   {
     "noun": "Stammzelle",
@@ -919,9 +960,10 @@
   {
     "noun": "Transzendenz",
     "article": "die",
-    "plural": "Transzendenz",
+    "plural": "",
     "meaning": "transcendence",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Treibhausgas",
@@ -961,9 +1003,10 @@
   {
     "noun": "Utilitarismus",
     "article": "der",
-    "plural": "Utilitarismus",
+    "plural": "",
     "meaning": "utilitarianism",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Validität",
@@ -989,7 +1032,7 @@
   {
     "noun": "Vernetzung",
     "article": "die",
-    "plural": "Vernetzung",
+    "plural": "Vernetzungen",
     "meaning": "networking",
     "level": "C1"
   },
@@ -1003,23 +1046,25 @@
   {
     "noun": "Versauerung",
     "article": "die",
-    "plural": "Versauerung",
+    "plural": "Versauerungen",
     "meaning": "acidification",
     "level": "C1"
   },
   {
     "noun": "Virologie",
     "article": "die",
-    "plural": "Virologie",
+    "plural": "",
     "meaning": "virology",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Völkerrecht",
     "article": "das",
-    "plural": "Völkerrecht",
+    "plural": "",
     "meaning": "international law",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Volatilität",
@@ -1073,37 +1118,34 @@
   {
     "noun": "Willensfreiheit",
     "article": "die",
-    "plural": "Willensfreiheit",
+    "plural": "",
     "meaning": "free will",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Zahlungsfähigkeit",
     "article": "die",
-    "plural": "Zahlungsfähigkeit",
+    "plural": "",
     "meaning": "solvency",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Zivilrecht",
     "article": "das",
-    "plural": "Zivilrecht",
+    "plural": "",
     "meaning": "civil law",
-    "level": "C1"
-  },
-  {
-    "noun": "Ausgrenzung",
-    "article": "die",
-    "plural": "Ausgrenzungen",
-    "meaning": "exclusion",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Rechtsstaatlichkeit",
     "article": "die",
-    "plural": "Rechtsstaatlichkeit",
+    "plural": "",
     "meaning": "rule of law",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Verfassungsgericht",
@@ -1129,9 +1171,10 @@
   {
     "noun": "Rechtsdogmatik",
     "article": "die",
-    "plural": "Rechtsdogmatik",
+    "plural": "",
     "meaning": "legal doctrine",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Delikt",
@@ -1178,9 +1221,10 @@
   {
     "noun": "Beweislastumkehr",
     "article": "die",
-    "plural": "Beweislastumkehr",
+    "plural": "",
     "meaning": "reversal of burden of proof",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Verbotsgesetz",
@@ -1227,9 +1271,10 @@
   {
     "noun": "Strafjustiz",
     "article": "die",
-    "plural": "Strafjustiz",
+    "plural": "",
     "meaning": "criminal justice system",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Rechtsmittel",
@@ -1288,6 +1333,14 @@
     "level": "C1"
   },
   {
+    "noun": "Negativzinsen",
+    "article": "die",
+    "plural": "",
+    "meaning": "negative interest rates",
+    "level": "C1",
+    "plural_only": true
+  },
+  {
     "noun": "Wirtschaftsprognose",
     "article": "die",
     "plural": "Wirtschaftsprognosen",
@@ -1297,9 +1350,10 @@
   {
     "noun": "Kreditwürdigkeit",
     "article": "die",
-    "plural": "Kreditwürdigkeit",
+    "plural": "",
     "meaning": "creditworthiness",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Oligopol",
@@ -1325,9 +1379,10 @@
   {
     "noun": "Humankapital",
     "article": "das",
-    "plural": "Humankapital",
+    "plural": "",
     "meaning": "human capital",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Wirtschaftssanktion",
@@ -1381,9 +1436,10 @@
   {
     "noun": "Epigenetik",
     "article": "die",
-    "plural": "Epigenetik",
+    "plural": "",
     "meaning": "epigenetics",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Immuntherapie",
@@ -1409,14 +1465,15 @@
   {
     "noun": "Neuroplastizität",
     "article": "die",
-    "plural": "Neuroplastizität",
+    "plural": "",
     "meaning": "neuroplasticity",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Proteinfaltung",
     "article": "die",
-    "plural": "Proteinfaltung",
+    "plural": "Proteinfaltungen",
     "meaning": "protein folding",
     "level": "C1"
   },
@@ -1426,6 +1483,14 @@
     "plural": "Wirkungsmechanismen",
     "meaning": "mechanism of action",
     "level": "C1"
+  },
+  {
+    "noun": "Biomarker",
+    "article": "die",
+    "plural": "",
+    "meaning": "biomarkers",
+    "level": "C1",
+    "plural_only": true
   },
   {
     "noun": "Gewebetransplantation",
@@ -1444,23 +1509,26 @@
   {
     "noun": "Zellwachstum",
     "article": "das",
-    "plural": "Zellwachstum",
+    "plural": "",
     "meaning": "cell growth",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Metabolomik",
     "article": "die",
-    "plural": "Metabolomik",
+    "plural": "",
     "meaning": "metabolomics",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Pandemievorsorge",
     "article": "die",
-    "plural": "Pandemievorsorgen",
+    "plural": "",
     "meaning": "pandemic preparedness",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Resistenzentwicklung",
@@ -1479,9 +1547,10 @@
   {
     "noun": "Systembiologie",
     "article": "die",
-    "plural": "Systembiologie",
+    "plural": "",
     "meaning": "systems biology",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Präzisionsmedizin",
@@ -1500,9 +1569,10 @@
   {
     "noun": "Phänomenologie",
     "article": "die",
-    "plural": "Phänomenologie",
+    "plural": "",
     "meaning": "phenomenology",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Erkenntnissubjekt",
@@ -1514,9 +1584,10 @@
   {
     "noun": "Hermeneutik",
     "article": "die",
-    "plural": "Hermeneutik",
+    "plural": "",
     "meaning": "hermeneutics",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Sprachspiel",
@@ -1584,9 +1655,10 @@
   {
     "noun": "Positivismus",
     "article": "der",
-    "plural": "Positivismus",
+    "plural": "",
     "meaning": "positivism",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Denkkollektiv",
@@ -1610,6 +1682,14 @@
     "level": "C1"
   },
   {
+    "noun": "Partikularinteressen",
+    "article": "die",
+    "plural": "",
+    "meaning": "particular interests",
+    "level": "C1",
+    "plural_only": true
+  },
+  {
     "noun": "Wahlsystem",
     "article": "das",
     "plural": "Wahlsysteme",
@@ -1626,7 +1706,7 @@
   {
     "noun": "Bürokratisierung",
     "article": "die",
-    "plural": "Bürokratisierung",
+    "plural": "Bürokratisierungen",
     "meaning": "bureaucratisation",
     "level": "C1"
   },
@@ -1647,30 +1727,34 @@
   {
     "noun": "Subsidiaritätsprinzip",
     "article": "das",
-    "plural": "Subsidiaritätsprinzip",
+    "plural": "",
     "meaning": "principle of subsidiarity",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Staatsräson",
     "article": "die",
-    "plural": "Staatsräson",
+    "plural": "",
     "meaning": "reason of state",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Zivilcourage",
     "article": "die",
-    "plural": "Zivilcourage",
+    "plural": "",
     "meaning": "civil courage",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Kommunitarismus",
     "article": "der",
-    "plural": "Kommunitarismus",
+    "plural": "",
     "meaning": "communitarianism",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Extremismusprävention",
@@ -1766,9 +1850,10 @@
   {
     "noun": "Geoengineering",
     "article": "das",
-    "plural": "Geoengineeringe",
+    "plural": "",
     "meaning": "geoengineering",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Ökosystemmanagement",
@@ -1808,9 +1893,10 @@
   {
     "noun": "Umweltbundesamt",
     "article": "das",
-    "plural": "Umweltbundesamt",
+    "plural": "",
     "meaning": "Federal Environment Agency",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Naturschutzrecht",
@@ -1864,9 +1950,10 @@
   {
     "noun": "Augmented Reality",
     "article": "die",
-    "plural": "Augmented Reality",
+    "plural": "",
     "meaning": "augmented reality",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Quantencomputing",
@@ -1892,9 +1979,10 @@
   {
     "noun": "Sprachverarbeitung",
     "article": "die",
-    "plural": "Sprachverarbeitung",
+    "plural": "",
     "meaning": "natural language processing",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Datenhoheit",
@@ -1906,9 +1994,10 @@
   {
     "noun": "Smart Grid",
     "article": "das",
-    "plural": "Smart Grid",
+    "plural": "",
     "meaning": "smart grid",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Cloud-Infrastruktur",
@@ -1948,9 +2037,10 @@
   {
     "noun": "Kulturerbe",
     "article": "das",
-    "plural": "Kulturerben",
+    "plural": "",
     "meaning": "cultural heritage",
-    "level": "C1"
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Kunstförderung",
@@ -2006,335 +2096,6 @@
     "article": "der",
     "plural": "Notdienstpläne",
     "meaning": "on-call schedule",
-    "level": "C1"
-  },
-  {
-    "noun": "Elastizität",
-    "article": "die",
-    "plural": "Elastizität",
-    "meaning": "elasticity",
-    "level": "C1"
-  },
-  {
-    "noun": "Elektrizität",
-    "article": "die",
-    "plural": "Elektrizität",
-    "meaning": "electricity",
-    "level": "C1"
-  },
-  {
-    "noun": "Formalität",
-    "article": "die",
-    "plural": "Formalitäten",
-    "meaning": "formality",
-    "level": "C1"
-  },
-  {
-    "noun": "Originalität",
-    "article": "die",
-    "plural": "Originalitäten",
-    "meaning": "originality",
-    "level": "C1"
-  },
-  {
-    "noun": "Rivalität",
-    "article": "die",
-    "plural": "Rivalitäten",
-    "meaning": "rivalry",
-    "level": "C1"
-  },
-  {
-    "noun": "Subsidiarität",
-    "article": "die",
-    "plural": "Subsidiaritäten",
-    "meaning": "subsidiarity",
-    "level": "C1"
-  },
-  {
-    "noun": "Rentabilität",
-    "article": "die",
-    "plural": "Rentabilität",
-    "meaning": "profitability, return on investment",
-    "level": "C1"
-  },
-  {
-    "noun": "Kompatibilität",
-    "article": "die",
-    "plural": "Kompatibilitäten",
-    "meaning": "compatibility",
-    "level": "C1"
-  },
-  {
-    "noun": "Reziprozität",
-    "article": "die",
-    "plural": "Reziprozität",
-    "meaning": "reciprocity, mutual exchange",
-    "level": "C1"
-  },
-  {
-    "noun": "Heterogenität",
-    "article": "die",
-    "plural": "Heterogenität",
-    "meaning": "heterogeneity, diversity",
-    "level": "C1"
-  },
-  {
-    "noun": "Homogenität",
-    "article": "die",
-    "plural": "Homogenitäten",
-    "meaning": "homogeneity, uniformity",
-    "level": "C1"
-  },
-  {
-    "noun": "Ambiguität",
-    "article": "die",
-    "plural": "Ambiguitäten",
-    "meaning": "ambiguity",
-    "level": "C1"
-  },
-  {
-    "noun": "Modalität",
-    "article": "die",
-    "plural": "Modalitäten",
-    "meaning": "modality, specific manner",
-    "level": "C1"
-  },
-  {
-    "noun": "Singularität",
-    "article": "die",
-    "plural": "Singularitäten",
-    "meaning": "singularity",
-    "level": "C1"
-  },
-  {
-    "noun": "Variabilität",
-    "article": "die",
-    "plural": "Variabilitäten",
-    "meaning": "variability",
-    "level": "C1"
-  },
-  {
-    "noun": "Affinität",
-    "article": "die",
-    "plural": "Affinitäten",
-    "meaning": "affinity, natural liking",
-    "level": "C1"
-  },
-  {
-    "noun": "Anachronismus",
-    "article": "der",
-    "plural": "Anachronismen",
-    "meaning": "anachronism",
-    "level": "C1"
-  },
-  {
-    "noun": "Opportunismus",
-    "article": "der",
-    "plural": "Opportunismus",
-    "meaning": "opportunism",
-    "level": "C1"
-  },
-  {
-    "noun": "Zynismus",
-    "article": "der",
-    "plural": "Zynismen",
-    "meaning": "cynicism",
-    "level": "C1"
-  },
-  {
-    "noun": "Dogmatismus",
-    "article": "der",
-    "plural": "Dogmatismen",
-    "meaning": "dogmatism",
-    "level": "C1"
-  },
-  {
-    "noun": "Empirismus",
-    "article": "der",
-    "plural": "Empirismus",
-    "meaning": "empiricism",
-    "level": "C1"
-  },
-  {
-    "noun": "Rationalismus",
-    "article": "der",
-    "plural": "Rationalismus",
-    "meaning": "rationalism",
-    "level": "C1"
-  },
-  {
-    "noun": "Konstruktivismus",
-    "article": "der",
-    "plural": "Konstruktivismus",
-    "meaning": "constructivism",
-    "level": "C1"
-  },
-  {
-    "noun": "Skeptizismus",
-    "article": "der",
-    "plural": "Skeptizismus",
-    "meaning": "scepticism",
-    "level": "C1"
-  },
-  {
-    "noun": "Idealismus",
-    "article": "der",
-    "plural": "Idealismus",
-    "meaning": "idealism",
-    "level": "C1"
-  },
-  {
-    "noun": "Einschätzung",
-    "article": "die",
-    "plural": "Einschätzungen",
-    "meaning": "assessment, appraisal",
-    "level": "C1"
-  },
-  {
-    "noun": "Auseinandersetzung",
-    "article": "die",
-    "plural": "Auseinandersetzungen",
-    "meaning": "in-depth confrontation, argument",
-    "level": "C1"
-  },
-  {
-    "noun": "Beeinträchtigung",
-    "article": "die",
-    "plural": "Beeinträchtigungen",
-    "meaning": "impairment, detrimental effect",
-    "level": "C1"
-  },
-  {
-    "noun": "Berücksichtigung",
-    "article": "die",
-    "plural": "Berücksichtigungen",
-    "meaning": "consideration, taking into account",
-    "level": "C1"
-  },
-  {
-    "noun": "Aufrechterhaltung",
-    "article": "die",
-    "plural": "Aufrechterhaltungen",
-    "meaning": "maintenance, upholding",
-    "level": "C1"
-  },
-  {
-    "noun": "Herabwürdigung",
-    "article": "die",
-    "plural": "Herabwürdigungen",
-    "meaning": "disparagement, degradation",
-    "level": "C1"
-  },
-  {
-    "noun": "Entflechtung",
-    "article": "die",
-    "plural": "Entflechtung",
-    "meaning": "unbundling, structural separation",
-    "level": "C1"
-  },
-  {
-    "noun": "Veranschaulichung",
-    "article": "die",
-    "plural": "Veranschaulichung",
-    "meaning": "illustration, visualization",
-    "level": "C1"
-  },
-  {
-    "noun": "Einstufung",
-    "article": "die",
-    "plural": "Einstufung",
-    "meaning": "classification, categorization",
-    "level": "C1"
-  },
-  {
-    "noun": "Wiederherstellung",
-    "article": "die",
-    "plural": "Wiederherstellungen",
-    "meaning": "restoration, recovery",
-    "level": "C1"
-  },
-  {
-    "noun": "Rechtfertigung",
-    "article": "die",
-    "plural": "Rechtfertigungen",
-    "meaning": "justification, vindication",
-    "level": "C1"
-  },
-  {
-    "noun": "Gewährleistung",
-    "article": "die",
-    "plural": "Gewährleistungen",
-    "meaning": "warranty, guarantee",
-    "level": "C1"
-  },
-  {
-    "noun": "Dienstleistung",
-    "article": "die",
-    "plural": "Dienstleistungen",
-    "meaning": "service provision",
-    "level": "C1"
-  },
-  {
-    "noun": "Tatbestand",
-    "article": "der",
-    "plural": "Tatbestände",
-    "meaning": "factual elements of an offense",
-    "level": "C1"
-  },
-  {
-    "noun": "Wortlaut",
-    "article": "der",
-    "plural": "Wortlaut",
-    "meaning": "exact wording, literal text",
-    "level": "C1"
-  },
-  {
-    "noun": "Leitfaden",
-    "article": "der",
-    "plural": "Leitfäden",
-    "meaning": "guideline, practical manual",
-    "level": "C1"
-  },
-  {
-    "noun": "Zuschuss",
-    "article": "der",
-    "plural": "Zuschüsse",
-    "meaning": "financial grant, subsidy",
-    "level": "C1"
-  },
-  {
-    "noun": "Überschuss",
-    "article": "der",
-    "plural": "Überschüsse",
-    "meaning": "financial surplus, excess",
-    "level": "C1"
-  },
-  {
-    "noun": "Rückstand",
-    "article": "der",
-    "plural": "Rückstände",
-    "meaning": "residue, backlog, arrears",
-    "level": "C1"
-  },
-  {
-    "noun": "Bestandteil",
-    "article": "der",
-    "plural": "Bestandteile",
-    "meaning": "integral component, constituent part",
-    "level": "C1"
-  },
-  {
-    "noun": "Gesichtspunkt",
-    "article": "der",
-    "plural": "Gesichtspunkte",
-    "meaning": "point of view, angle, aspect",
-    "level": "C1"
-  },
-  {
-    "noun": "Brennpunkt",
-    "article": "der",
-    "plural": "Brennpunkte",
-    "meaning": "focal point, epicenter",
     "level": "C1"
   }
 ]

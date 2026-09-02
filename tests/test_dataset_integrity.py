@@ -42,7 +42,8 @@ def test_datasets_integrity():
             # Check required keys
             for key in ["noun", "article", "plural", "meaning", "level"]:
                 assert key in item, f"Missing key '{key}' in {filename} at index {idx}: {item}"
-                assert item[key], f"Empty value for '{key}' in {filename} at index {idx}: {item}"
+                if key != "plural" or (not item.get("singular_only") and not item.get("plural_only")):
+                    assert item[key], f"Empty value for '{key}' in {filename} at index {idx}: {item}"
 
             noun = item["noun"].strip()
             article = item["article"].strip().lower()
@@ -74,10 +75,50 @@ def test_datasets_integrity():
             # Test highlighted plural generation
             highlighted_p = get_highlighted_plural(noun, plural)
             assert isinstance(highlighted_p, str)
-            assert len(highlighted_p) > 0
+            if plural:
+                assert len(highlighted_p) > 0
 
-    print("✅ All CEFR datasets passed integrity and linguistic rule validation!")
+
+def test_special_noun_classes():
+    """Verifies that Singulariatantum and Pluraliatantum are correctly represented in datasets."""
+    with open(DATA_DIR / "nouns_a1.json", "r", encoding="utf-8") as f:
+        a1_nouns = {n["noun"]: n for n in json.load(f)}
+
+    # 1. Singular-Only: das Ausland, die Milch, die Butter
+    assert "Ausland" in a1_nouns
+    assert a1_nouns["Ausland"]["article"] == "das"
+    assert a1_nouns["Ausland"]["plural"] == ""
+    assert a1_nouns["Ausland"].get("singular_only") is True
+
+    assert "Milch" in a1_nouns
+    assert a1_nouns["Milch"]["article"] == "die"
+    assert a1_nouns["Milch"]["plural"] == ""
+    assert a1_nouns["Milch"].get("singular_only") is True
+
+    # 2. Plural-Only: die Eltern, die Leute, die Geschwister
+    assert "Eltern" in a1_nouns
+    assert a1_nouns["Eltern"]["article"] == "die"
+    assert a1_nouns["Eltern"]["plural"] == ""
+    assert a1_nouns["Eltern"].get("plural_only") is True
+
+    assert "Leute" in a1_nouns
+    assert a1_nouns["Leute"]["article"] == "die"
+    assert a1_nouns["Leute"]["plural"] == ""
+    assert a1_nouns["Leute"].get("plural_only") is True
+
+    assert "Geschwister" in a1_nouns
+    assert a1_nouns["Geschwister"]["article"] == "die"
+    assert a1_nouns["Geschwister"]["plural"] == ""
+    assert a1_nouns["Geschwister"].get("plural_only") is True
+
+    # 3. Regular & Null-Plural: der Hund, der Koffer, das Mädchen
+    assert a1_nouns["Hund"]["plural"] == "Hunde"
+    assert a1_nouns["Koffer"]["plural"] == "Koffer"
+    assert a1_nouns["Mädchen"]["plural"] == "Mädchen"
+
+    print("✅ Verified special noun classes (Singulariatantum & Pluraliatantum)!")
 
 
 if __name__ == "__main__":
     test_datasets_integrity()
+    test_special_noun_classes()
