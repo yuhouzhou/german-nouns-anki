@@ -85,14 +85,14 @@ def create_notes_for_noun(
 
     # 2. Plural Note (Format display & rule for Plural deck)
     if is_sg_only:
-        plural_highlighted = '<span class="noun" style="color: #64748b; font-style: italic; font-weight: 700;">— (kein Plural)</span>'
+        plural_highlighted = '<style>.plural-article-neutral { display: none !important; }</style><span style="color: #64748b; font-style: italic; font-weight: 700;">— (kein Plural)</span>'
         p_rule_info = get_plural_rule(noun, article, "")
     elif is_pl_only:
-        plural_highlighted = f'<span class="plural-article-neutral">die</span> <span class="noun">{noun}</span> <span style="font-size: 16px; color: #64748b; font-style: italic; font-weight: normal;">(nur Plural)</span>'
+        plural_highlighted = f'{noun} <span style="font-size: 16px; color: #64748b; font-style: italic; font-weight: normal;">(nur Plural)</span>'
         p_rule_info = get_plural_rule(noun, article, "", is_pl_only=True)
     else:
         hl = noun_data.get("plural_highlighted") or get_highlighted_plural(noun, plural)
-        plural_highlighted = f'<span class="plural-article-neutral">die</span> <span class="noun">{hl}</span>'
+        plural_highlighted = hl
         if "plural_rule_summary" in noun_data and noun_data["plural_rule_summary"]:
             p_rule_info = {
                 "summary": noun_data["plural_rule_summary"],

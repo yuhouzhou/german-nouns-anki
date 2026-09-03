@@ -499,7 +499,7 @@ PLURAL_BACK_HTML = """
   
   <div class="main-word-area">
     <div class="main-noun">
-      {{PluralHighlighted}}
+      <span class="plural-article-neutral">die</span> <span class="noun">{{PluralHighlighted}}</span>
     </div>
     {{#Meaning}}<div class="meaning">{{Meaning}}</div>{{/Meaning}}
   </div>
