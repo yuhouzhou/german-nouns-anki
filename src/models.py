@@ -483,7 +483,7 @@ PLURAL_FRONT_HTML = """
   <div style="margin: 24px 0 16px 0;">
     <div class="prompt-title">Plural Form:</div>
     <div class="main-noun" style="font-size: 34px;">
-      <span class="plural-article-neutral">die</span> <span class="placeholder" style="padding: 0 16px;">__________</span>
+      <span class="placeholder" style="padding: 0 24px;">__________</span>
     </div>
   </div>
 </div>
@@ -499,7 +499,7 @@ PLURAL_BACK_HTML = """
   
   <div class="main-word-area">
     <div class="main-noun">
-      <span class="plural-article-neutral">die</span> <span class="noun">{{PluralHighlighted}}</span>
+      {{PluralHighlighted}}
     </div>
     {{#Meaning}}<div class="meaning">{{Meaning}}</div>{{/Meaning}}
   </div>

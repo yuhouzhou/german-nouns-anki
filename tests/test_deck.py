@@ -106,8 +106,10 @@ def test_master_bundle_generation():
 
 def test_singular_only_and_plural_only_deck_generation():
     """
-    Verifies that Singulariatantum (das Ausland) and Pluraliatantum (die Eltern)
-    generate exactly 1 Gender card and 0 Plural cards, with appropriate contextual notes.
+    Verifies Option 1:
+    - Gender deck has clean notes (no plural clutter on gender card).
+    - Plural deck generates dedicated cards showing '— (kein Plural)' for Singulariatantum (das Ausland)
+      and 'die Eltern (nur Plural)' for Pluraliatantum.
     """
     test_nouns = [
         {"noun": "Ausland", "article": "das", "plural": "", "meaning": "abroad", "level": "A1", "singular_only": True},
@@ -121,10 +123,8 @@ def test_singular_only_and_plural_only_deck_generation():
 
     # Gender deck should have 3 notes (Ausland, Eltern, Hund)
     assert len(gender_deck.notes) == 3
-
-    # Plural deck should ONLY have 1 note (Hund -> Hunde)
-    assert len(plural_deck.notes) == 1
-    assert plural_deck.notes[0].fields[0] == "Hund"
+    # Plural deck should have 3 notes (Ausland, Eltern, Hund)
+    assert len(plural_deck.notes) == 3
 
     with tempfile.TemporaryDirectory() as tmpdir:
         apkg_path = Path(tmpdir) / "test_special.apkg"
@@ -137,22 +137,34 @@ def test_singular_only_and_plural_only_deck_generation():
             conn = sqlite3.connect(str(Path(tmpdir) / db_name))
             cur = conn.cursor()
 
-            # Total notes = 4 (3 gender + 1 plural)
+            # Total notes = 6 (3 gender + 3 plural)
             cur.execute("SELECT count(*) FROM notes")
-            assert cur.fetchone()[0] == 4
+            assert cur.fetchone()[0] == 6
 
-            # Total cards = 4
+            # Total cards = 6
             cur.execute("SELECT count(*) FROM cards")
-            assert cur.fetchone()[0] == 4
+            assert cur.fetchone()[0] == 6
 
             # Check notes content
             cur.execute("SELECT flds FROM notes")
             rows = cur.fetchall()
-            ausland_note = [r[0].split("\x1f") for r in rows if r[0].startswith("Ausland")][0]
-            eltern_note = [r[0].split("\x1f") for r in rows if r[0].startswith("Eltern")][0]
+            
+            gender_notes = {r[0].split("\x1f")[0]: r[0].split("\x1f") for r in rows if len(r[0].split("\x1f")) == 9}
+            plural_notes = {r[0].split("\x1f")[0]: r[0].split("\x1f") for r in rows if len(r[0].split("\x1f")) == 10}
 
-            assert "Singulariatantum" in ausland_note[8]
-            assert "Pluraliatantum" in eltern_note[8]
+            # Gender cards must be clean (no plural notes injected)
+            assert gender_notes["Ausland"][8] == ""
+            assert gender_notes["Eltern"][8] == ""
+            assert gender_notes["Hund"][8] == ""
+
+            # Plural cards must show exact forms & rules
+            assert "— (kein Plural)" in plural_notes["Ausland"][3]
+            assert "Singulariatantum" in plural_notes["Ausland"][6]
+
+            assert "(nur Plural)" in plural_notes["Eltern"][3]
+            assert "Pluraliatantum" in plural_notes["Eltern"][6]
+
+            assert "Hund<span class=\"plural-highlight\">e</span>" in plural_notes["Hund"][3]
 
             conn.close()
 

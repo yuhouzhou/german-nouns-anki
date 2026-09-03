@@ -739,7 +739,7 @@ def get_gender_rule(noun: str, article: str, meaning: str = "", tags: Optional[l
 # 4. DETAILED PLURAL RULES LOGIC
 # ==========================================
 
-def get_plural_rule(noun: str, article: str, plural: str) -> Dict[str, Any]:
+def get_plural_rule(noun: str, article: str, plural: str, is_pl_only: bool = False) -> Dict[str, Any]:
     """
     Determines the linguistic pattern and rule for forming the plural of a German noun.
     Returns structured 2-tier summary and detailed explanation.
@@ -761,7 +761,16 @@ def get_plural_rule(noun: str, article: str, plural: str) -> Dict[str, Any]:
             "icon": icon
         }
 
-    # 0. Singular-only nouns (No plural)
+    # 0a. Plural-only nouns (Pluraliatantum)
+    if is_pl_only or lower_plural in ("pl.", "pl", "pluraliatantum", "nur plural"):
+        return make_plural_rule(
+            "Pluraliatantum", "Plural-only Noun (Kein Singular)",
+            "<b>Pluraliatantum</b> &rarr; Nur Plural (kein Singular)",
+            "Dieses Substantiv existiert im Deutschen nur im Plural. Das vorangestellte 'die' ist der Pluralartikel (nicht feminin).",
+            f"die {clean_noun}", "📌"
+        )
+
+    # 0b. Singular-only nouns (Singulariatantum)
     if not clean_plural or lower_plural in ("-", "kein plural", "ohne plural", "nur singular"):
         return make_plural_rule(
             "Singulariatantum", "Singular-only Noun (Kein Plural)",

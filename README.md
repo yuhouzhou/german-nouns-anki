@@ -5,18 +5,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Anki](https://img.shields.io/badge/Anki-Ready-success.svg)](https://apps.ankiweb.net/)
 
-A curated, comprehensive collection of **2,760 German Nouns (5,281 cards)** organized by CEFR level (**A1 to C1**), powered by a 100,000-lemma Wiktionary morphological database, concise 2-tier grammatical rules, automatic morphological plural highlighting, and zero sibling burying.
+A curated, comprehensive collection of **2,760 German Nouns (5,520 cards)** organized by CEFR level (**A1 to C1**), powered by a 100,000-lemma Wiktionary morphological database, concise 2-tier grammatical rules, automatic morphological plural highlighting, and zero sibling burying.
 
-### 📥 Direct Downloads ([v1.1.0 Release](https://github.com/yuhouzhou/german-nouns-anki/releases/tag/v1.1.0))
+### 📥 Direct Downloads ([v1.2.0 Release](https://github.com/yuhouzhou/german-nouns-anki/releases/tag/v1.2.0))
 
 | Deck Package | Level | Nouns | Cards | Direct Download |
 | :--- | :--- | :--- | :--- | :--- |
-| **Complete Bundle** | **A1–C1** | **2,760** | **5,281** | [⬇️ Download .apkg (2.6 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_A1_to_C1_complete.apkg) |
-| **Level A1** | Beginner | 1,111 | 2,169 | [⬇️ Download .apkg (1.1 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_A1.apkg) |
-| **Level A2** | Elementary | 500 | 971 | [⬇️ Download .apkg (488 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_A2.apkg) |
-| **Level B1** | Intermediate | 538 | 1,026 | [⬇️ Download .apkg (528 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_B1.apkg) |
-| **Level B2** | Upper-Intermediate | 321 | 604 | [⬇️ Download .apkg (318 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_B2.apkg) |
-| **Level C1** | Advanced | 290 | 511 | [⬇️ Download .apkg (276 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_C1.apkg) |
+| **Complete Bundle** | **A1–C1** | **2,760** | **5,520** | [⬇️ Download .apkg (2.6 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_A1_to_C1_complete.apkg) |
+| **Level A1** | Beginner | 1,111 | 2,222 | [⬇️ Download .apkg (1.1 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_A1.apkg) |
+| **Level A2** | Elementary | 500 | 1,000 | [⬇️ Download .apkg (496 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_A2.apkg) |
+| **Level B1** | Intermediate | 538 | 1,076 | [⬇️ Download .apkg (556 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_B1.apkg) |
+| **Level B2** | Upper-Intermediate | 321 | 642 | [⬇️ Download .apkg (356 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_B2.apkg) |
+| **Level C1** | Advanced | 290 | 580 | [⬇️ Download .apkg (336 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_C1.apkg) |
 
 ---
 
@@ -98,12 +98,12 @@ Sourced from **Goethe-Institut**, **Profile Deutsch**, **Hathibelagal Lexicon**,
 
 | Deck Package | CEFR Focus | Noun Count | Card Count | Dual Subdecks |
 | :--- | :--- | :--- | :--- | :--- |
-| **`german_nouns_A1.apkg`** | **A1 (Beginner)** | 1,111 nouns | 2,169 cards | `1. Gender`, `2. Plural` |
-| **`german_nouns_A2.apkg`** | **A2 (Elementary)** | 500 nouns | 971 cards | `1. Gender`, `2. Plural` |
-| **`german_nouns_B1.apkg`** | **B1 (Intermediate)** | 538 nouns | 1,026 cards | `1. Gender`, `2. Plural` |
-| **`german_nouns_B2.apkg`** | **B2 (Upper-Intermediate)** | 321 nouns | 604 cards | `1. Gender`, `2. Plural` |
-| **`german_nouns_C1.apkg`** | **C1 (Advanced)** | 290 nouns | 511 cards | `1. Gender`, `2. Plural` |
-| **`german_nouns_A1_to_C1_complete.apkg`** | **Master Complete Bundle** | **2,760 nouns** | **5,281 cards** | **10 subdecks** |
+| **`german_nouns_A1.apkg`** | **A1 (Beginner)** | 1,111 nouns | 2,222 cards | `1. Gender`, `2. Plural` |
+| **`german_nouns_A2.apkg`** | **A2 (Elementary)** | 500 nouns | 1,000 cards | `1. Gender`, `2. Plural` |
+| **`german_nouns_B1.apkg`** | **B1 (Intermediate)** | 538 nouns | 1,076 cards | `1. Gender`, `2. Plural` |
+| **`german_nouns_B2.apkg`** | **B2 (Upper-Intermediate)** | 321 nouns | 642 cards | `1. Gender`, `2. Plural` |
+| **`german_nouns_C1.apkg`** | **C1 (Advanced)** | 290 nouns | 580 cards | `1. Gender`, `2. Plural` |
+| **`german_nouns_A1_to_C1_complete.apkg`** | **Master Complete Bundle** | **2,760 nouns** | **5,520 cards** | **10 subdecks** |
 
 ---
 
