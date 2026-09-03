@@ -12,8 +12,8 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).parent.parent.resolve()
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.generator import create_noun_subdecks, export_package, load_nouns_from_json
-from src.models import FULL_SCREEN_CSS
+from src.generator import create_noun_subdecks, export_package, load_nouns_from_json, create_notes_for_noun
+from src.models import FULL_SCREEN_CSS, create_gender_model, create_plural_model
 
 
 def test_single_noun_sample_generation():
@@ -169,9 +169,60 @@ def test_singular_only_and_plural_only_deck_generation():
             conn.close()
 
 
+def test_homonyms_nominalized_adjectives_and_double_plurals_deck():
+    """Verifies that homonyms, nominalized adjectives, and double plurals produce accurate notes and cards."""
+    gender_model = create_gender_model()
+    plural_model = create_plural_model()
+
+    # 1. Nominalized Adjectives: Erwachsene
+    erw_data = {
+        "noun": "Erwachsene",
+        "article": "der/die",
+        "plural": "Erwachsenen",
+        "meaning": "adult",
+        "level": "A1",
+        "nominalized_adj": True
+    }
+    g_note, p_note = create_notes_for_noun(erw_data, gender_model, plural_model)
+    # Gender Note
+    assert g_note.fields[1] == "der / die"
+    assert "Substantiviertes Adjektiv" in g_note.fields[5]
+    assert "ein Erwachsener" in g_note.fields[6]
+    assert "eine Erwachsene" in g_note.fields[6]
+    assert g_note.fields[8] == ""  # Zero plural info on gender card!
+    # Plural Note
+    assert "Erwachsen" in p_note.fields[3] and "<span class=\"plural-highlight\">n</span>" in p_note.fields[3]
+    assert "ohne Artikel / nach Zahlen:" in p_note.fields[3]
+    assert "viele Erwachsene" in p_note.fields[3]
+    assert "Substantiviertes Adjektiv" in p_note.fields[6]
+    assert "Adjektiv-Deklination" in p_note.fields[7]
+
+    # 2. Homonyms: das Band vs der Band vs die Band
+    band_das = {"noun": "Band", "article": "das", "plural": "Bänder", "meaning": "ribbon", "level": "A2", "is_homonym": True}
+    band_der = {"noun": "Band", "article": "der", "plural": "Bände", "meaning": "volume", "level": "B1", "is_homonym": True}
+    band_die = {"noun": "Band", "article": "die", "plural": "Bands", "meaning": "music group", "level": "A1", "is_homonym": True}
+
+    g_das, p_das = create_notes_for_noun(band_das, gender_model, plural_model)
+    g_der, p_der = create_notes_for_noun(band_der, gender_model, plural_model)
+    g_die, p_die = create_notes_for_noun(band_die, gender_model, plural_model)
+
+    assert g_das.guid != g_der.guid != g_die.guid
+    assert "Homonym-Verwechslungsgefahr" in g_das.fields[8]
+    assert "Homonym-Verwechslungsgefahr" in g_der.fields[8]
+
+    # 3. Double Plurals: das Wort
+    wort_data = {"noun": "Wort", "article": "das", "plural": "Wörter", "meaning": "word", "level": "A1", "double_plural": True}
+    _, p_wort = create_notes_for_noun(wort_data, gender_model, plural_model)
+    assert "W<span class=\"plural-highlight\">ö</span>rt<span class=\"plural-highlight\">er</span>" in p_wort.fields[3]
+    assert "Wort<span class=\"plural-highlight\">e</span>" in p_wort.fields[3]
+    assert "Doppelplural" in p_wort.fields[6]
+    assert "Einzelne Vokabeln" in p_wort.fields[7]
+
+
 if __name__ == "__main__":
     test_single_noun_sample_generation()
     test_master_bundle_generation()
     test_color_coding_css()
     test_singular_only_and_plural_only_deck_generation()
+    test_homonyms_nominalized_adjectives_and_double_plurals_deck()
     print("✅ All deck generation & APKG validation tests passed!")

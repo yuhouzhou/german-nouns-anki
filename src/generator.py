@@ -11,7 +11,10 @@ from typing import List, Dict, Any, Tuple
 import genanki
 
 from src.models import create_gender_model, create_plural_model
-from src.rules import get_gender_rule, get_plural_rule, get_highlighted_plural
+from src.rules import (
+    get_gender_rule, get_plural_rule, get_highlighted_plural,
+    HOMONYM_GROUPS, CURATED_DOUBLE_PLURALS, NOMINALIZED_ADJ
+)
 
 
 def get_deterministic_id(key: str) -> int:
@@ -40,6 +43,8 @@ def create_notes_for_noun(
     is_sg_only = not is_pl_only and (
         noun_data.get("singular_only", False) or not plural or plural.lower() in ("-", "kein plural", "ohne plural", "nur singular")
     )
+    is_nom_adj = noun_data.get("nominalized_adj") or article in ("der/die", "der / die") or noun.lower() in NOMINALIZED_ADJ
+    is_double_pl = noun_data.get("double_plural") or (noun in CURATED_DOUBLE_PLURALS and article == CURATED_DOUBLE_PLURALS[noun]["article"])
 
     # 1. Resolve Gender Rule
     if "gender_rule_summary" in noun_data and noun_data["gender_rule_summary"]:
@@ -61,8 +66,20 @@ def create_notes_for_noun(
         tags.append("singulariatantum")
     if is_pl_only:
         tags.append("pluraliatantum")
+    if is_nom_adj:
+        tags.append("nominalized_adj")
+    if is_double_pl:
+        tags.append("double_plural")
+    if noun in HOMONYM_GROUPS or noun_data.get("is_homonym"):
+        tags.append("homonym")
+        if not notes and noun in HOMONYM_GROUPS:
+            notes = HOMONYM_GROUPS[noun]["note"]
+
     if "tags" in noun_data:
         tags.extend(noun_data["tags"])
+
+    # Format article display string (e.g. 'der / die' with spacing for dual gender)
+    article_display = "der / die" if is_nom_adj else article
 
     # 1. Gender Note (Kept 100% clean - no plural notes injected)
     gender_guid = genanki.guid_for(f"german_gender_{noun}_{article}_{level}")
@@ -70,7 +87,7 @@ def create_notes_for_noun(
         model=gender_model,
         fields=[
             noun,
-            article,
+            article_display,
             plural,
             meaning,
             level,
@@ -90,6 +107,26 @@ def create_notes_for_noun(
     elif is_pl_only:
         plural_highlighted = f'{noun} <span style="font-size: 16px; color: #64748b; font-style: italic; font-weight: normal;">(nur Plural)</span>'
         p_rule_info = get_plural_rule(noun, article, "", is_pl_only=True)
+    elif is_nom_adj:
+        p_rule_info = get_plural_rule(noun, article, plural)
+        plural_highlighted = (
+            f'{noun}<span class="plural-highlight">n</span>'
+            f'<div style="font-size: 20px; font-weight: 500; color: #64748b; margin-top: 8px;">'
+            f'<i>(ohne Artikel / nach Zahlen:</i> <span style="color: #0284c7; font-weight: 600;">viele {noun}</span><i>)</i>'
+            f'</div>'
+        )
+    elif is_double_pl:
+        dp = CURATED_DOUBLE_PLURALS[noun]
+        pl1, pl2 = dp["plurals"]
+        hl1 = get_highlighted_plural(noun, pl1)
+        hl2 = get_highlighted_plural(noun, pl2)
+        plural_highlighted = (
+            f'<style>.plural-article-neutral {{ display: none !important; }}</style>'
+            f'<span class="plural-article-neutral">die</span> <span class="noun">{hl1}</span> '
+            f'<span style="font-size: 24px; color: #94a3b8; font-weight: normal; margin: 0 6px;">/</span> '
+            f'<span class="plural-article-neutral">die</span> <span class="noun">{hl2}</span>'
+        )
+        p_rule_info = get_plural_rule(noun, article, plural)
     else:
         hl = noun_data.get("plural_highlighted") or get_highlighted_plural(noun, plural)
         plural_highlighted = hl
@@ -111,7 +148,7 @@ def create_notes_for_noun(
         model=plural_model,
         fields=[
             noun,
-            article,
+            article_display,
             plural,
             plural_highlighted,
             meaning,

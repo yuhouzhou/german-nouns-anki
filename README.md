@@ -5,18 +5,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Anki](https://img.shields.io/badge/Anki-Ready-success.svg)](https://apps.ankiweb.net/)
 
-A curated, comprehensive collection of **2,760 German Nouns (5,520 cards)** organized by CEFR level (**A1 to C1**), powered by a 100,000-lemma Wiktionary morphological database, concise 2-tier grammatical rules, automatic morphological plural highlighting, and zero sibling burying.
+A curated, comprehensive collection of **2,805 German Nouns (5,610 cards)** organized by CEFR level (**A1 to C1**), powered by a 100,000-lemma Wiktionary morphological database, concise 2-tier grammatical rules, automatic morphological plural highlighting, and zero sibling burying.
 
-### 📥 Direct Downloads ([v1.2.0 Release](https://github.com/yuhouzhou/german-nouns-anki/releases/tag/v1.2.0))
+### 📥 Direct Downloads ([v1.1.0 Release](https://github.com/yuhouzhou/german-nouns-anki/releases/tag/v1.1.0))
 
 | Deck Package | Level | Nouns | Cards | Direct Download |
 | :--- | :--- | :--- | :--- | :--- |
-| **Complete Bundle** | **A1–C1** | **2,760** | **5,520** | [⬇️ Download .apkg (2.6 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_A1_to_C1_complete.apkg) |
-| **Level A1** | Beginner | 1,111 | 2,222 | [⬇️ Download .apkg (1.1 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_A1.apkg) |
-| **Level A2** | Elementary | 500 | 1,000 | [⬇️ Download .apkg (496 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_A2.apkg) |
-| **Level B1** | Intermediate | 538 | 1,076 | [⬇️ Download .apkg (556 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_B1.apkg) |
-| **Level B2** | Upper-Intermediate | 321 | 642 | [⬇️ Download .apkg (356 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_B2.apkg) |
-| **Level C1** | Advanced | 290 | 580 | [⬇️ Download .apkg (336 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.2.0/german_nouns_C1.apkg) |
+| **Complete Bundle** | **A1–C1** | **2,805** | **5,610** | [⬇️ Download .apkg (2.6 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_A1_to_C1_complete.apkg) |
+| **Level A1** | Beginner | 1,110 | 2,220 | [⬇️ Download .apkg (1.0 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_A1.apkg) |
+| **Level A2** | Elementary | 514 | 1,028 | [⬇️ Download .apkg (544 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_A2.apkg) |
+| **Level B1** | Intermediate | 555 | 1,110 | [⬇️ Download .apkg (612 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_B1.apkg) |
+| **Level B2** | Upper-Intermediate | 336 | 672 | [⬇️ Download .apkg (408 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_B2.apkg) |
+| **Level C1** | Advanced | 290 | 580 | [⬇️ Download .apkg (372 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_C1.apkg) |
 
 ---
 
@@ -57,15 +57,43 @@ Anki by default buries sibling cards from the same note on the same day. This co
 
 ---
 
-### 2. 🎨 Full Color-Coded Reveal
+### 2. 👥 Nominalized Adjectives (`der / die`)
+Words referring to persons that decline like adjectives (*der/die Erwachsene*, *der/die Jugendliche*, *der/die Bekannte*, *der/die Beamte*, *der/die Verwandte*) are fully modeled:
+- **Gender Card**: Displays **`der / die [Noun]`** with split gradient styling and adjective declension breakdown (*Maskulin: ein Erwachsener*, *Feminin: eine Erwachsene*).
+- **Plural Card**: Displays the primary definite plural **`die Erwachsenen`** and prominently displays the strong inflection without article: **`(ohne Artikel / nach Zahlen: viele Erwachsene)`**.
+
+---
+
+### 3. 🔀 Curated Homonyms with Different Gender & Meaning
+24 pairs and triplets of German nouns that change gender and meaning are fully disambiguated with English descriptions on card fronts and cross-reference comparison boxes on card backs:
+- **`Band`**: `das Band` *(ribbon/tape &rarr; die Bänder)* | `der Band` *(book volume &rarr; die Bände)* | `die Band` *(music band &rarr; die Bands)*
+- **`Gehalt`**: `das Gehalt` *(salary &rarr; die Gehälter)* | `der Gehalt` *(content/substance &rarr; die Gehalte)*
+- **`Leiter`**: `der Leiter` *(leader &rarr; die Leiter)* | `die Leiter` *(ladder &rarr; die Leitern)*
+- **`Schild`**: `das Schild` *(signboard &rarr; die Schilder)* | `der Schild` *(shield &rarr; die Schilde)*
+- **`Steuer`**: `die Steuer` *(tax &rarr; die Steuern)* | `das Steuer` *(steering wheel &rarr; die Steuer)*
+
+---
+
+### 4. ✨ Curated Double Plurals with Semantic Distinctions
+Nouns with two distinct plural forms display both highlighted on the card back alongside clear semantic explanations:
+- **`das Wort`**: `die Wörter` *(isolated vocabulary words)* vs `die Worte` *(connected speech, meaningful quotes)*
+- **`die Bank`**: `die Bänke` *(sitting benches)* vs `die Banken` *(financial institutions)*
+- **`das Band`**: `die Bänder` *(ribbons/tapes)* vs `die Bande` *(bonds of friendship, ties)*
+- **`das Tuch`**: `die Tücher` *(cloths, towels)* vs `die Tuche` *(woven fabrics, textiles)*
+- **`das Denkmal`**: `die Denkmäler` *(standard)* vs `die Denkmale` *(literary/official)*
+
+---
+
+### 5. 🎨 Full Color-Coded Reveal
 On card reveal, both the definite article and the entire noun light up in vibrant color:
 - **Masculine (`der`)** &rarr; **Blue** (`#0284c7` / `#38bdf8`)
 - **Feminine (`die`)** &rarr; **Red** (`#dc2626` / `#f87171`)
 - **Neuter (`das`)** &rarr; **Green** (`#16a34a` / `#4ade80`)
+- **Dual Gender (`der/die`)** &rarr; **Split Blue/Red Gradient & Purple** (`#8b5cf6` / `#c084fc`)
 
 ---
 
-### 3. ✨ Morphological Plural Highlighting
+### 6. ✨ Morphological Plural Highlighting
 On plural cards, the article `die` is rendered in **neutral black text**, and all morphological changes (Umlaut shifts and suffix endings) are highlighted in **vibrant underlined crimson**:
 
 | Singular | Plural Card Output | Highlighted Changes |
@@ -79,14 +107,14 @@ On plural cards, the article `die` is rendered in **neutral black text**, and al
 
 ---
 
-### 4. 💡 2-Tier Glanceable Rule Engine
+### 7. 💡 2-Tier Glanceable Rule Engine
 - **Headline (< 0.5s glance)**: Bold high-level takeaway (e.g. `Suffix -keit ➔ 100% Feminine (die)`).
 - **Context**: Rationale and pattern examples.
 - **Clean for Root Words**: Pure root nouns without an applicable rule leave the rule box completely hidden.
 
 ---
 
-### 5. 🌙 Native iOS & macOS System Dark Mode
+### 8. 🌙 Native iOS & macOS System Dark Mode
 - Automatically reacts whenever your iPhone, iPad, or Mac switches between Light and Dark mode via `@media (prefers-color-scheme: dark)`.
 - Full-screen edge-to-edge layout customized for **AnkiMobile (iOS)** and **Anki Desktop**.
 
@@ -98,12 +126,12 @@ Sourced from **Goethe-Institut**, **Profile Deutsch**, **Hathibelagal Lexicon**,
 
 | Deck Package | CEFR Focus | Noun Count | Card Count | Dual Subdecks |
 | :--- | :--- | :--- | :--- | :--- |
-| **`german_nouns_A1.apkg`** | **A1 (Beginner)** | 1,111 nouns | 2,222 cards | `1. Gender`, `2. Plural` |
-| **`german_nouns_A2.apkg`** | **A2 (Elementary)** | 500 nouns | 1,000 cards | `1. Gender`, `2. Plural` |
-| **`german_nouns_B1.apkg`** | **B1 (Intermediate)** | 538 nouns | 1,076 cards | `1. Gender`, `2. Plural` |
-| **`german_nouns_B2.apkg`** | **B2 (Upper-Intermediate)** | 321 nouns | 642 cards | `1. Gender`, `2. Plural` |
+| **`german_nouns_A1.apkg`** | **A1 (Beginner)** | 1,110 nouns | 2,220 cards | `1. Gender`, `2. Plural` |
+| **`german_nouns_A2.apkg`** | **A2 (Elementary)** | 514 nouns | 1,028 cards | `1. Gender`, `2. Plural` |
+| **`german_nouns_B1.apkg`** | **B1 (Intermediate)** | 555 nouns | 1,110 cards | `1. Gender`, `2. Plural` |
+| **`german_nouns_B2.apkg`** | **B2 (Upper-Intermediate)** | 336 nouns | 672 cards | `1. Gender`, `2. Plural` |
 | **`german_nouns_C1.apkg`** | **C1 (Advanced)** | 290 nouns | 580 cards | `1. Gender`, `2. Plural` |
-| **`german_nouns_A1_to_C1_complete.apkg`** | **Master Complete Bundle** | **2,760 nouns** | **5,520 cards** | **10 subdecks** |
+| **`german_nouns_A1_to_C1_complete.apkg`** | **Master Complete Bundle** | **2,805 nouns** | **5,610 cards** | **10 subdecks** |
 
 ---
 

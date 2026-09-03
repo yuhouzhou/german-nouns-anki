@@ -14,6 +14,27 @@
     "level": "A2"
   },
   {
+    "noun": "Abitur",
+    "article": "das",
+    "plural": "Abiture",
+    "meaning": "school-leaving exam",
+    "level": "A2"
+  },
+  {
+    "noun": "Abschluss",
+    "article": "der",
+    "plural": "Abschlüsse",
+    "meaning": "graduation, degree",
+    "level": "A2"
+  },
+  {
+    "noun": "Absicht",
+    "article": "die",
+    "plural": "Absichten",
+    "meaning": "intention",
+    "level": "A2"
+  },
+  {
     "noun": "Abteilung",
     "article": "die",
     "plural": "Abteilungen",
@@ -21,10 +42,31 @@
     "level": "A2"
   },
   {
+    "noun": "Agentur",
+    "article": "die",
+    "plural": "Agenturen",
+    "meaning": "agency",
+    "level": "A2"
+  },
+  {
+    "noun": "Ahnung",
+    "article": "die",
+    "plural": "Ahnungen",
+    "meaning": "idea, clue",
+    "level": "A2"
+  },
+  {
     "noun": "Aktion",
     "article": "die",
     "plural": "Aktionen",
     "meaning": "promotion",
+    "level": "A2"
+  },
+  {
+    "noun": "Akzent",
+    "article": "der",
+    "plural": "Akzente",
+    "meaning": "accent",
     "level": "A2"
   },
   {
@@ -49,6 +91,14 @@
     "level": "A2"
   },
   {
+    "noun": "Angestellte",
+    "article": "der/die",
+    "plural": "Angestellten",
+    "meaning": "employee, salaried worker",
+    "level": "A2",
+    "nominalized_adj": true
+  },
+  {
     "noun": "Angst",
     "article": "die",
     "plural": "Ängste",
@@ -61,6 +111,14 @@
     "plural": "Anträge",
     "meaning": "application",
     "level": "A2"
+  },
+  {
+    "noun": "Appetit",
+    "article": "der",
+    "plural": "",
+    "meaning": "appetite",
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Arbeitgeber",
@@ -77,10 +135,45 @@
     "level": "A2"
   },
   {
+    "noun": "Arbeitstag",
+    "article": "der",
+    "plural": "Arbeitstage",
+    "meaning": "working day",
+    "level": "A2"
+  },
+  {
+    "noun": "Arbeitswelt",
+    "article": "die",
+    "plural": "Arbeitswelten",
+    "meaning": "world of work",
+    "level": "A2"
+  },
+  {
+    "noun": "Astronaut",
+    "article": "der",
+    "plural": "Astronauten",
+    "meaning": "astronaut",
+    "level": "A2"
+  },
+  {
+    "noun": "Aufenthalt",
+    "article": "der",
+    "plural": "Aufenthalte",
+    "meaning": "stay, stopover",
+    "level": "A2"
+  },
+  {
     "noun": "Aufführung",
     "article": "die",
     "plural": "Aufführungen",
     "meaning": "performance",
+    "level": "A2"
+  },
+  {
+    "noun": "Aufsatz",
+    "article": "der",
+    "plural": "Aufsätze",
+    "meaning": "essay",
     "level": "A2"
   },
   {
@@ -98,6 +191,13 @@
     "level": "A2"
   },
   {
+    "noun": "Ausfahrt",
+    "article": "die",
+    "plural": "Ausfahrten",
+    "meaning": "exit (highway)",
+    "level": "A2"
+  },
+  {
     "noun": "Austausch",
     "article": "der",
     "plural": "Austausche",
@@ -112,6 +212,66 @@
     "level": "A2"
   },
   {
+    "noun": "Auszubildende",
+    "article": "der",
+    "plural": "Auszubildenden",
+    "meaning": "trainee, apprentice",
+    "level": "A2"
+  },
+  {
+    "noun": "Azubi",
+    "article": "der",
+    "plural": "Azubis",
+    "meaning": "apprentice, trainee",
+    "level": "A2"
+  },
+  {
+    "noun": "Babykleidung",
+    "article": "die",
+    "plural": "Babykleidungen",
+    "meaning": "baby clothes",
+    "level": "A2"
+  },
+  {
+    "noun": "Bahn",
+    "article": "die",
+    "plural": "Bahnen",
+    "meaning": "train, railway",
+    "level": "A2"
+  },
+  {
+    "noun": "Band",
+    "article": "das",
+    "plural": "Bänder",
+    "meaning": "ribbon, tape, strap, anatomical ligament",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "Band",
+    "double_plural": true
+  },
+  {
+    "noun": "Bargeld",
+    "article": "das",
+    "plural": "",
+    "meaning": "cash",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Batterie",
+    "article": "die",
+    "plural": "Batterien",
+    "meaning": "battery",
+    "level": "A2"
+  },
+  {
+    "noun": "Bauernhof",
+    "article": "der",
+    "plural": "Bauernhöfe",
+    "meaning": "farm",
+    "level": "A2"
+  },
+  {
     "noun": "Baumwolle",
     "article": "die",
     "plural": "Baumwollen",
@@ -120,9 +280,31 @@
   },
   {
     "noun": "Beamte",
-    "article": "der",
+    "article": "der/die",
     "plural": "Beamten",
-    "meaning": "civil servant",
+    "meaning": "civil servant, official",
+    "level": "A2",
+    "nominalized_adj": true
+  },
+  {
+    "noun": "Beamtin",
+    "article": "die",
+    "plural": "Beamtinnen",
+    "meaning": "female official, civil servant",
+    "level": "A2"
+  },
+  {
+    "noun": "Bedeutung",
+    "article": "die",
+    "plural": "Bedeutungen",
+    "meaning": "meaning",
+    "level": "A2"
+  },
+  {
+    "noun": "Beginn",
+    "article": "der",
+    "plural": "Beginne",
+    "meaning": "beginning, start",
     "level": "A2"
   },
   {
@@ -130,6 +312,13 @@
     "article": "die",
     "plural": "Behandlungen",
     "meaning": "treatment",
+    "level": "A2"
+  },
+  {
+    "noun": "Behinderung",
+    "article": "die",
+    "plural": "Behinderungen",
+    "meaning": "disability",
     "level": "A2"
   },
   {
@@ -147,6 +336,20 @@
     "level": "A2"
   },
   {
+    "noun": "Beleg",
+    "article": "der",
+    "plural": "Belege",
+    "meaning": "receipt, proof",
+    "level": "A2"
+  },
+  {
+    "noun": "Beratung",
+    "article": "die",
+    "plural": "Beratungen",
+    "meaning": "counseling, advice",
+    "level": "A2"
+  },
+  {
     "noun": "Bescheinigung",
     "article": "die",
     "plural": "Bescheinigungen",
@@ -158,6 +361,20 @@
     "article": "der",
     "plural": "Besen",
     "meaning": "broom",
+    "level": "A2"
+  },
+  {
+    "noun": "Besteck",
+    "article": "das",
+    "plural": "Bestecke",
+    "meaning": "cutlery",
+    "level": "A2"
+  },
+  {
+    "noun": "Bestätigung",
+    "article": "die",
+    "plural": "Bestätigungen",
+    "meaning": "confirmation",
     "level": "A2"
   },
   {
@@ -175,6 +392,13 @@
     "level": "A2"
   },
   {
+    "noun": "Bezahlung",
+    "article": "die",
+    "plural": "Bezahlungen",
+    "meaning": "payment / pay",
+    "level": "A2"
+  },
+  {
     "noun": "Beziehung",
     "article": "die",
     "plural": "Beziehungen",
@@ -189,10 +413,25 @@
     "level": "A2"
   },
   {
+    "noun": "Biologie",
+    "article": "die",
+    "plural": "",
+    "meaning": "biology",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
     "noun": "Blatt",
     "article": "das",
     "plural": "Blätter",
     "meaning": "sheet",
+    "level": "A2"
+  },
+  {
+    "noun": "Blogbeitrag",
+    "article": "der",
+    "plural": "Blogbeiträge",
+    "meaning": "blog post",
     "level": "A2"
   },
   {
@@ -210,6 +449,13 @@
     "level": "A2"
   },
   {
+    "noun": "Boot",
+    "article": "das",
+    "plural": "Boote",
+    "meaning": "boat",
+    "level": "A2"
+  },
+  {
     "noun": "Botschaft",
     "article": "die",
     "plural": "Botschaften",
@@ -224,10 +470,73 @@
     "level": "A2"
   },
   {
+    "noun": "Brautkleid",
+    "article": "das",
+    "plural": "Brautkleider",
+    "meaning": "wedding dress",
+    "level": "A2"
+  },
+  {
     "noun": "Bremse",
     "article": "die",
     "plural": "Bremsen",
     "meaning": "brake",
+    "level": "A2"
+  },
+  {
+    "noun": "Briefkasten",
+    "article": "der",
+    "plural": "Briefkästen",
+    "meaning": "letterbox",
+    "level": "A2"
+  },
+  {
+    "noun": "Briefmarke",
+    "article": "die",
+    "plural": "Briefmarken",
+    "meaning": "postage stamp",
+    "level": "A2"
+  },
+  {
+    "noun": "Brieftasche",
+    "article": "die",
+    "plural": "Brieftaschen",
+    "meaning": "wallet",
+    "level": "A2"
+  },
+  {
+    "noun": "Briefträger",
+    "article": "der",
+    "plural": "Briefträger",
+    "meaning": "postman",
+    "level": "A2"
+  },
+  {
+    "noun": "Briefumschlag",
+    "article": "der",
+    "plural": "Briefumschläge",
+    "meaning": "envelope",
+    "level": "A2"
+  },
+  {
+    "noun": "Broschüre",
+    "article": "die",
+    "plural": "Broschüren",
+    "meaning": "brochure",
+    "level": "A2"
+  },
+  {
+    "noun": "Bär",
+    "article": "der",
+    "plural": "Bären",
+    "meaning": "bear",
+    "level": "A2"
+  },
+  {
+    "noun": "Bücherei",
+    "article": "die",
+    "plural": "Büchereien",
+    "meaning": "library",
     "level": "A2"
   },
   {
@@ -238,10 +547,52 @@
     "level": "A2"
   },
   {
+    "noun": "Bürgerin",
+    "article": "die",
+    "plural": "Bürgerinnen",
+    "meaning": "female citizen",
+    "level": "A2"
+  },
+  {
     "noun": "Bürgersteig",
     "article": "der",
     "plural": "Bürgersteige",
     "meaning": "sidewalk",
+    "level": "A2"
+  },
+  {
+    "noun": "Cafeteria",
+    "article": "die",
+    "plural": "Cafeterien",
+    "meaning": "cafeteria",
+    "level": "A2"
+  },
+  {
+    "noun": "Chemie",
+    "article": "die",
+    "plural": "Chemien",
+    "meaning": "chemistry",
+    "level": "A2"
+  },
+  {
+    "noun": "Cousin",
+    "article": "der",
+    "plural": "Cousins",
+    "meaning": "male cousin",
+    "level": "A2"
+  },
+  {
+    "noun": "Creme",
+    "article": "die",
+    "plural": "Cremes",
+    "meaning": "cream",
+    "level": "A2"
+  },
+  {
+    "noun": "Dach",
+    "article": "das",
+    "plural": "Dächer",
+    "meaning": "roof",
     "level": "A2"
   },
   {
@@ -252,6 +603,35 @@
     "level": "A2"
   },
   {
+    "noun": "Denkmal",
+    "article": "das",
+    "plural": "Denkmäler",
+    "meaning": "monument, memorial",
+    "level": "A2",
+    "double_plural": true
+  },
+  {
+    "noun": "Diebstahl",
+    "article": "der",
+    "plural": "Diebstähle",
+    "meaning": "theft",
+    "level": "A2"
+  },
+  {
+    "noun": "Disko",
+    "article": "die",
+    "plural": "Diskos",
+    "meaning": "disco",
+    "level": "A2"
+  },
+  {
+    "noun": "Diskothek",
+    "article": "die",
+    "plural": "Diskotheken",
+    "meaning": "discotheque",
+    "level": "A2"
+  },
+  {
     "noun": "Dokument",
     "article": "das",
     "plural": "Dokumente",
@@ -259,10 +639,73 @@
     "level": "A2"
   },
   {
+    "noun": "Dolmetscher",
+    "article": "der",
+    "plural": "Dolmetscher",
+    "meaning": "interpreter (male)",
+    "level": "A2"
+  },
+  {
+    "noun": "Dolmetscherin",
+    "article": "die",
+    "plural": "Dolmetscherinnen",
+    "meaning": "interpreter (female)",
+    "level": "A2"
+  },
+  {
+    "noun": "Dom",
+    "article": "der",
+    "plural": "Dome",
+    "meaning": "cathedral",
+    "level": "A2"
+  },
+  {
     "noun": "Donner",
     "article": "der",
     "plural": "Donner",
     "meaning": "thunder",
+    "level": "A2"
+  },
+  {
+    "noun": "Doppelzimmer",
+    "article": "das",
+    "plural": "Doppelzimmer",
+    "meaning": "double room",
+    "level": "A2"
+  },
+  {
+    "noun": "Durchschnitt",
+    "article": "der",
+    "plural": "Durchschnitte",
+    "meaning": "average",
+    "level": "A2"
+  },
+  {
+    "noun": "DVD",
+    "article": "die",
+    "plural": "DVDs",
+    "meaning": "DVD",
+    "level": "A2"
+  },
+  {
+    "noun": "E-Book-Reader",
+    "article": "der",
+    "plural": "E-Book-Reader",
+    "meaning": "e-book reader",
+    "level": "A2"
+  },
+  {
+    "noun": "EC-Karte",
+    "article": "die",
+    "plural": "EC-Karten",
+    "meaning": "debit card",
+    "level": "A2"
+  },
+  {
+    "noun": "Eimer",
+    "article": "der",
+    "plural": "Eimer",
+    "meaning": "bucket",
     "level": "A2"
   },
   {
@@ -280,10 +723,66 @@
     "level": "A2"
   },
   {
+    "noun": "Einfahrt",
+    "article": "die",
+    "plural": "Einfahrten",
+    "meaning": "driveway, entrance",
+    "level": "A2"
+  },
+  {
+    "noun": "Einfall",
+    "article": "der",
+    "plural": "Einfälle",
+    "meaning": "idea",
+    "level": "A2"
+  },
+  {
+    "noun": "Einführung",
+    "article": "die",
+    "plural": "Einführungen",
+    "meaning": "introduction",
+    "level": "A2"
+  },
+  {
+    "noun": "Einkaufskorb",
+    "article": "der",
+    "plural": "Einkaufskörbe",
+    "meaning": "shopping basket",
+    "level": "A2"
+  },
+  {
     "noun": "Einkaufszentrum",
     "article": "das",
     "plural": "Einkaufszentren",
     "meaning": "shopping center",
+    "level": "A2"
+  },
+  {
+    "noun": "Einschreiben",
+    "article": "das",
+    "plural": "Einschreiben",
+    "meaning": "registered letter",
+    "level": "A2"
+  },
+  {
+    "noun": "Eisenbahn",
+    "article": "die",
+    "plural": "Eisenbahnen",
+    "meaning": "railway, train set",
+    "level": "A2"
+  },
+  {
+    "noun": "Elefant",
+    "article": "der",
+    "plural": "Elefanten",
+    "meaning": "elephant",
+    "level": "A2"
+  },
+  {
+    "noun": "Elternbeirat",
+    "article": "der",
+    "plural": "Elternbeiräte",
+    "meaning": "parents' council",
     "level": "A2"
   },
   {
@@ -294,10 +793,38 @@
     "level": "A2"
   },
   {
+    "noun": "Ente",
+    "article": "die",
+    "plural": "Enten",
+    "meaning": "duck",
+    "level": "A2"
+  },
+  {
     "noun": "Entfernung",
     "article": "die",
     "plural": "Entfernungen",
     "meaning": "distance",
+    "level": "A2"
+  },
+  {
+    "noun": "Entlassung",
+    "article": "die",
+    "plural": "Entlassungen",
+    "meaning": "dismissal, layoff",
+    "level": "A2"
+  },
+  {
+    "noun": "Entspannung",
+    "article": "die",
+    "plural": "Entspannungen",
+    "meaning": "relaxation",
+    "level": "A2"
+  },
+  {
+    "noun": "Enttäuschung",
+    "article": "die",
+    "plural": "Enttäuschungen",
+    "meaning": "disappointment",
     "level": "A2"
   },
   {
@@ -322,6 +849,13 @@
     "level": "A2"
   },
   {
+    "noun": "Erhöhung",
+    "article": "die",
+    "plural": "Erhöhungen",
+    "meaning": "raise, increase",
+    "level": "A2"
+  },
+  {
     "noun": "Erinnerung",
     "article": "die",
     "plural": "Erinnerungen",
@@ -343,6 +877,13 @@
     "level": "A2"
   },
   {
+    "noun": "Ernte",
+    "article": "die",
+    "plural": "Ernten",
+    "meaning": "harvest",
+    "level": "A2"
+  },
+  {
     "noun": "Ernährung",
     "article": "die",
     "plural": "Ernährungen",
@@ -357,6 +898,13 @@
     "level": "A2"
   },
   {
+    "noun": "Fabrik",
+    "article": "die",
+    "plural": "Fabriken",
+    "meaning": "factory",
+    "level": "A2"
+  },
+  {
     "noun": "Fach",
     "article": "das",
     "plural": "Fächer",
@@ -364,10 +912,52 @@
     "level": "A2"
   },
   {
-    "noun": "Fähre",
+    "noun": "Fahrbahn",
     "article": "die",
-    "plural": "Fähren",
-    "meaning": "ferry",
+    "plural": "Fahrbahnen",
+    "meaning": "roadway, carriageway",
+    "level": "A2"
+  },
+  {
+    "noun": "Fahrgast",
+    "article": "der",
+    "plural": "Fahrgäste",
+    "meaning": "passenger",
+    "level": "A2"
+  },
+  {
+    "noun": "Fahrplan",
+    "article": "der",
+    "plural": "Fahrpläne",
+    "meaning": "timetable",
+    "level": "A2"
+  },
+  {
+    "noun": "Fahrt",
+    "article": "die",
+    "plural": "Fahrten",
+    "meaning": "journey",
+    "level": "A2"
+  },
+  {
+    "noun": "Fahrzeug",
+    "article": "das",
+    "plural": "Fahrzeuge",
+    "meaning": "vehicle",
+    "level": "A2"
+  },
+  {
+    "noun": "Fan",
+    "article": "der",
+    "plural": "Fans",
+    "meaning": "fan",
+    "level": "A2"
+  },
+  {
+    "noun": "Feedback",
+    "article": "das",
+    "plural": "Feedbacks",
+    "meaning": "feedback",
     "level": "A2"
   },
   {
@@ -378,10 +968,61 @@
     "level": "A2"
   },
   {
+    "noun": "Feuerzeug",
+    "article": "das",
+    "plural": "Feuerzeuge",
+    "meaning": "lighter",
+    "level": "A2"
+  },
+  {
+    "noun": "Flohmarkt",
+    "article": "der",
+    "plural": "Flohmärkte",
+    "meaning": "flea market",
+    "level": "A2"
+  },
+  {
+    "noun": "Flur",
+    "article": "der",
+    "plural": "Flure",
+    "meaning": "hallway, corridor",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "Flur"
+  },
+  {
+    "noun": "Fläche",
+    "article": "die",
+    "plural": "Flächen",
+    "meaning": "area, surface",
+    "level": "A2"
+  },
+  {
     "noun": "Folge",
     "article": "die",
     "plural": "Folgen",
     "meaning": "episode",
+    "level": "A2"
+  },
+  {
+    "noun": "Fortsetzung",
+    "article": "die",
+    "plural": "Fortsetzungen",
+    "meaning": "continuation, sequel",
+    "level": "A2"
+  },
+  {
+    "noun": "Forum",
+    "article": "das",
+    "plural": "Foren",
+    "meaning": "forum",
+    "level": "A2"
+  },
+  {
+    "noun": "Freude",
+    "article": "die",
+    "plural": "Freuden",
+    "meaning": "joy, pleasure",
     "level": "A2"
   },
   {
@@ -399,6 +1040,27 @@
     "level": "A2"
   },
   {
+    "noun": "Frühjahr",
+    "article": "das",
+    "plural": "Frühjahre",
+    "meaning": "spring",
+    "level": "A2"
+  },
+  {
+    "noun": "Fußgänger",
+    "article": "der",
+    "plural": "Fußgänger",
+    "meaning": "pedestrian",
+    "level": "A2"
+  },
+  {
+    "noun": "Fußgängerin",
+    "article": "die",
+    "plural": "Fußgängerinnen",
+    "meaning": "female pedestrian",
+    "level": "A2"
+  },
+  {
     "noun": "Fußgängerzone",
     "article": "die",
     "plural": "Fußgängerzonen",
@@ -406,10 +1068,38 @@
     "level": "A2"
   },
   {
+    "noun": "Fähre",
+    "article": "die",
+    "plural": "Fähren",
+    "meaning": "ferry",
+    "level": "A2"
+  },
+  {
+    "noun": "Förderung",
+    "article": "die",
+    "plural": "Förderungen",
+    "meaning": "funding, support",
+    "level": "A2"
+  },
+  {
+    "noun": "Führerschein",
+    "article": "der",
+    "plural": "Führerscheine",
+    "meaning": "driving licence",
+    "level": "A2"
+  },
+  {
     "noun": "Galerie",
     "article": "die",
     "plural": "Galerien",
     "meaning": "gallery",
+    "level": "A2"
+  },
+  {
+    "noun": "Gang",
+    "article": "der",
+    "plural": "Gänge",
+    "meaning": "corridor / gear / gait",
     "level": "A2"
   },
   {
@@ -434,10 +1124,46 @@
     "level": "A2"
   },
   {
+    "noun": "Gartenarbeit",
+    "article": "die",
+    "plural": "Gartenarbeiten",
+    "meaning": "gardening / yard work",
+    "level": "A2"
+  },
+  {
+    "noun": "Gas",
+    "article": "das",
+    "plural": "",
+    "meaning": "gas",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Gebirge",
+    "article": "das",
+    "plural": "Gebirge",
+    "meaning": "mountain range",
+    "level": "A2"
+  },
+  {
     "noun": "Gebühr",
     "article": "die",
     "plural": "Gebühren",
     "meaning": "fee",
+    "level": "A2"
+  },
+  {
+    "noun": "Gedanke",
+    "article": "der",
+    "plural": "Gedanken",
+    "meaning": "thought",
+    "level": "A2"
+  },
+  {
+    "noun": "Gefahr",
+    "article": "die",
+    "plural": "Gefahren",
+    "meaning": "danger",
     "level": "A2"
   },
   {
@@ -448,10 +1174,55 @@
     "level": "A2"
   },
   {
+    "noun": "Gegenstand",
+    "article": "der",
+    "plural": "Gegenstände",
+    "meaning": "object, item",
+    "level": "A2"
+  },
+  {
+    "noun": "Gegenteil",
+    "article": "das",
+    "plural": "Gegenteile",
+    "meaning": "opposite",
+    "level": "A2"
+  },
+  {
     "noun": "Gehalt",
     "article": "das",
     "plural": "Gehälter",
-    "meaning": "salary",
+    "meaning": "salary, monthly wage",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "Gehalt"
+  },
+  {
+    "noun": "Gehaltsnachweis",
+    "article": "der",
+    "plural": "",
+    "meaning": "proof of salary, payslip",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Geldautomat",
+    "article": "der",
+    "plural": "Geldautomaten",
+    "meaning": "cash machine / ATM",
+    "level": "A2"
+  },
+  {
+    "noun": "Geldbeutel",
+    "article": "der",
+    "plural": "Geldbeutel",
+    "meaning": "wallet, purse",
+    "level": "A2"
+  },
+  {
+    "noun": "Geldbörse",
+    "article": "die",
+    "plural": "Geldbörsen",
+    "meaning": "wallet, purse",
     "level": "A2"
   },
   {
@@ -469,10 +1240,10 @@
     "level": "A2"
   },
   {
-    "noun": "Geschäftsreise",
-    "article": "die",
-    "plural": "Geschäftsreisen",
-    "meaning": "business trip",
+    "noun": "Genitiv",
+    "article": "der",
+    "plural": "Genitive",
+    "meaning": "genitive case",
     "level": "A2"
   },
   {
@@ -480,6 +1251,13 @@
     "article": "der",
     "plural": "Geschmäcke",
     "meaning": "taste",
+    "level": "A2"
+  },
+  {
+    "noun": "Geschäftsreise",
+    "article": "die",
+    "plural": "Geschäftsreisen",
+    "meaning": "business trip",
     "level": "A2"
   },
   {
@@ -518,6 +1296,28 @@
     "level": "A2"
   },
   {
+    "noun": "Girokonto",
+    "article": "das",
+    "plural": "Girokonten",
+    "meaning": "current/checking account",
+    "level": "A2"
+  },
+  {
+    "noun": "Glühbirne",
+    "article": "die",
+    "plural": "Glühbirnen",
+    "meaning": "light bulb",
+    "level": "A2"
+  },
+  {
+    "noun": "Gold",
+    "article": "das",
+    "plural": "",
+    "meaning": "gold",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
     "noun": "Grenze",
     "article": "die",
     "plural": "Grenzen",
@@ -532,11 +1332,34 @@
     "level": "A2"
   },
   {
+    "noun": "Grundeinkommen",
+    "article": "das",
+    "plural": "",
+    "meaning": "basic income",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Gutschein",
+    "article": "der",
+    "plural": "Gutscheine",
+    "meaning": "voucher / coupon",
+    "level": "A2"
+  },
+  {
     "noun": "Gymnasium",
     "article": "das",
     "plural": "Gymnasien",
     "meaning": "grammar school",
     "level": "A2"
+  },
+  {
+    "noun": "Gymnastik",
+    "article": "die",
+    "plural": "",
+    "meaning": "gymnastics, exercise",
+    "level": "A2",
+    "singular_only": true
   },
   {
     "noun": "Hafen",
@@ -554,10 +1377,75 @@
     "singular_only": true
   },
   {
+    "noun": "Halbpension",
+    "article": "die",
+    "plural": "",
+    "meaning": "half board",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Hallig",
+    "article": "die",
+    "plural": "Halligen",
+    "meaning": "small unprotected island (North Sea)",
+    "level": "A2"
+  },
+  {
+    "noun": "Hammer",
+    "article": "der",
+    "plural": "Hämmer",
+    "meaning": "hammer",
+    "level": "A2"
+  },
+  {
+    "noun": "Hauptrolle",
+    "article": "die",
+    "plural": "Hauptrollen",
+    "meaning": "leading role",
+    "level": "A2"
+  },
+  {
+    "noun": "Hauptschule",
+    "article": "die",
+    "plural": "Hauptschulen",
+    "meaning": "secondary school (basic track)",
+    "level": "A2"
+  },
+  {
+    "noun": "Hausaufgaben",
+    "article": "die",
+    "plural": "",
+    "meaning": "homework",
+    "level": "A2",
+    "plural_only": true
+  },
+  {
+    "noun": "Haustier",
+    "article": "das",
+    "plural": "Haustiere",
+    "meaning": "pet",
+    "level": "A2"
+  },
+  {
     "noun": "Heizung",
     "article": "die",
     "plural": "Heizungen",
     "meaning": "heating",
+    "level": "A2"
+  },
+  {
+    "noun": "Hersteller",
+    "article": "der",
+    "plural": "Hersteller",
+    "meaning": "manufacturer",
+    "level": "A2"
+  },
+  {
+    "noun": "Herz",
+    "article": "das",
+    "plural": "Herzen",
+    "meaning": "heart",
     "level": "A2"
   },
   {
@@ -582,6 +1470,34 @@
     "level": "A2"
   },
   {
+    "noun": "Hälfte",
+    "article": "die",
+    "plural": "Hälften",
+    "meaning": "half",
+    "level": "A2"
+  },
+  {
+    "noun": "Höhe",
+    "article": "die",
+    "plural": "Höhen",
+    "meaning": "height",
+    "level": "A2"
+  },
+  {
+    "noun": "Höhle",
+    "article": "die",
+    "plural": "Höhlen",
+    "meaning": "cave",
+    "level": "A2"
+  },
+  {
+    "noun": "Interesse",
+    "article": "das",
+    "plural": "Interessen",
+    "meaning": "interest",
+    "level": "A2"
+  },
+  {
     "noun": "Jahrmarkt",
     "article": "der",
     "plural": "Jahrmärkte",
@@ -593,6 +1509,84 @@
     "article": "die",
     "plural": "",
     "meaning": "youth",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Kabel",
+    "article": "das",
+    "plural": "Kabel",
+    "meaning": "cable",
+    "level": "A2"
+  },
+  {
+    "noun": "Kanne",
+    "article": "die",
+    "plural": "Kannen",
+    "meaning": "pot, jug, can",
+    "level": "A2"
+  },
+  {
+    "noun": "Karton",
+    "article": "der",
+    "plural": "Kartons",
+    "meaning": "cardboard box",
+    "level": "A2"
+  },
+  {
+    "noun": "Kassierer",
+    "article": "der",
+    "plural": "Kassierer",
+    "meaning": "cashier",
+    "level": "A2"
+  },
+  {
+    "noun": "Katalog",
+    "article": "der",
+    "plural": "Kataloge",
+    "meaning": "catalog",
+    "level": "A2"
+  },
+  {
+    "noun": "Kategorie",
+    "article": "die",
+    "plural": "Kategorien",
+    "meaning": "category",
+    "level": "A2"
+  },
+  {
+    "noun": "Kennzeichen",
+    "article": "das",
+    "plural": "Kennzeichen",
+    "meaning": "license plate, mark",
+    "level": "A2"
+  },
+  {
+    "noun": "Kerze",
+    "article": "die",
+    "plural": "Kerzen",
+    "meaning": "candle",
+    "level": "A2"
+  },
+  {
+    "noun": "Kette",
+    "article": "die",
+    "plural": "Ketten",
+    "meaning": "necklace, chain",
+    "level": "A2"
+  },
+  {
+    "noun": "Kinderwagen",
+    "article": "der",
+    "plural": "Kinderwagen",
+    "meaning": "stroller, pram",
+    "level": "A2"
+  },
+  {
+    "noun": "Kindheit",
+    "article": "die",
+    "plural": "",
+    "meaning": "childhood",
     "level": "A2",
     "singular_only": true
   },
@@ -654,6 +1648,13 @@
     "level": "A2"
   },
   {
+    "noun": "Klo",
+    "article": "das",
+    "plural": "Klos",
+    "meaning": "toilet / loo",
+    "level": "A2"
+  },
+  {
     "noun": "Knoblauch",
     "article": "der",
     "plural": "",
@@ -662,11 +1663,68 @@
     "singular_only": true
   },
   {
+    "noun": "Komparativ",
+    "article": "der",
+    "plural": "Komparative",
+    "meaning": "comparative (grammar)",
+    "level": "A2"
+  },
+  {
     "noun": "Kompetenz",
     "article": "die",
     "plural": "Kompetenzen",
     "meaning": "competence",
     "level": "A2"
+  },
+  {
+    "noun": "Konjunktiv",
+    "article": "der",
+    "plural": "Konjunktive",
+    "meaning": "subjunctive mood",
+    "level": "A2"
+  },
+  {
+    "noun": "Konsequenz",
+    "article": "die",
+    "plural": "Konsequenzen",
+    "meaning": "consequence",
+    "level": "A2"
+  },
+  {
+    "noun": "Konsulat",
+    "article": "das",
+    "plural": "Konsulate",
+    "meaning": "consulate",
+    "level": "A2"
+  },
+  {
+    "noun": "Kontoauszug",
+    "article": "der",
+    "plural": "Kontoauszüge",
+    "meaning": "bank statement",
+    "level": "A2"
+  },
+  {
+    "noun": "Kopfhörer",
+    "article": "der",
+    "plural": "Kopfhörer",
+    "meaning": "headphones",
+    "level": "A2"
+  },
+  {
+    "noun": "Kopierer",
+    "article": "der",
+    "plural": "Kopierer",
+    "meaning": "photocopier",
+    "level": "A2"
+  },
+  {
+    "noun": "Kranke",
+    "article": "der/die",
+    "plural": "Kranken",
+    "meaning": "sick person, patient",
+    "level": "A2",
+    "nominalized_adj": true
   },
   {
     "noun": "Krankenkasse",
@@ -711,6 +1769,27 @@
     "level": "A2"
   },
   {
+    "noun": "Kuh",
+    "article": "die",
+    "plural": "Kühe",
+    "meaning": "cow",
+    "level": "A2"
+  },
+  {
+    "noun": "König",
+    "article": "der",
+    "plural": "Könige",
+    "meaning": "king",
+    "level": "A2"
+  },
+  {
+    "noun": "Königin",
+    "article": "die",
+    "plural": "Königinnen",
+    "meaning": "queen",
+    "level": "A2"
+  },
+  {
     "noun": "Küste",
     "article": "die",
     "plural": "Küsten",
@@ -730,6 +1809,15 @@
     "plural": "Landkarten",
     "meaning": "map",
     "level": "A2"
+  },
+  {
+    "noun": "Laster",
+    "article": "der",
+    "plural": "Laster",
+    "meaning": "truck, lorry (LKW, colloquial)",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "Laster"
   },
   {
     "noun": "Laune",
@@ -768,6 +1856,31 @@
     "level": "A2"
   },
   {
+    "noun": "Leiter",
+    "article": "der",
+    "plural": "Leiter",
+    "meaning": "leader, director, electrical conductor",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "Leiter"
+  },
+  {
+    "noun": "Leiter",
+    "article": "die",
+    "plural": "Leitern",
+    "meaning": "ladder",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "Leiter"
+  },
+  {
+    "noun": "Liebling",
+    "article": "der",
+    "plural": "Lieblinge",
+    "meaning": "darling, favorite",
+    "level": "A2"
+  },
+  {
     "noun": "Lineal",
     "article": "das",
     "plural": "Lineale",
@@ -775,10 +1888,24 @@
     "level": "A2"
   },
   {
+    "noun": "Lkw",
+    "article": "der",
+    "plural": "Lkw",
+    "meaning": "truck (Lastkraftwagen)",
+    "level": "A2"
+  },
+  {
     "noun": "Lohn",
     "article": "der",
     "plural": "Löhne",
     "meaning": "wage",
+    "level": "A2"
+  },
+  {
+    "noun": "Mailbox",
+    "article": "die",
+    "plural": "Mailboxen",
+    "meaning": "voicemail box",
     "level": "A2"
   },
   {
@@ -796,10 +1923,31 @@
     "level": "A2"
   },
   {
+    "noun": "Material",
+    "article": "das",
+    "plural": "Materialien",
+    "meaning": "material",
+    "level": "A2"
+  },
+  {
     "noun": "Mautgebühr",
     "article": "die",
     "plural": "Mautgebühren",
     "meaning": "toll",
+    "level": "A2"
+  },
+  {
+    "noun": "Medaille",
+    "article": "die",
+    "plural": "Medaillen",
+    "meaning": "medal",
+    "level": "A2"
+  },
+  {
+    "noun": "Meinung",
+    "article": "die",
+    "plural": "Meinungen",
+    "meaning": "opinion",
     "level": "A2"
   },
   {
@@ -817,6 +1965,34 @@
     "level": "A2"
   },
   {
+    "noun": "Menge",
+    "article": "die",
+    "plural": "Mengen",
+    "meaning": "amount, quantity",
+    "level": "A2"
+  },
+  {
+    "noun": "Menü",
+    "article": "das",
+    "plural": "Menüs",
+    "meaning": "set menu",
+    "level": "A2"
+  },
+  {
+    "noun": "Messe",
+    "article": "die",
+    "plural": "Messen",
+    "meaning": "trade fair",
+    "level": "A2"
+  },
+  {
+    "noun": "Metall",
+    "article": "das",
+    "plural": "Metalle",
+    "meaning": "metal",
+    "level": "A2"
+  },
+  {
     "noun": "Mieter",
     "article": "der",
     "plural": "Mieter",
@@ -828,6 +2004,13 @@
     "article": "die",
     "plural": "Mieterinnen",
     "meaning": "female tenant",
+    "level": "A2"
+  },
+  {
+    "noun": "Migrant",
+    "article": "der",
+    "plural": "Migranten",
+    "meaning": "migrant",
     "level": "A2"
   },
   {
@@ -845,12 +2028,63 @@
     "level": "A2"
   },
   {
+    "noun": "Mitteilung",
+    "article": "die",
+    "plural": "Mitteilungen",
+    "meaning": "notice, message",
+    "level": "A2"
+  },
+  {
+    "noun": "Mobiltelefon",
+    "article": "das",
+    "plural": "Mobiltelefone",
+    "meaning": "mobile phone",
+    "level": "A2"
+  },
+  {
+    "noun": "Moment",
+    "article": "der",
+    "plural": "Momente",
+    "meaning": "moment, brief instant",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "Moment"
+  },
+  {
+    "noun": "Moped",
+    "article": "das",
+    "plural": "Mopeds",
+    "meaning": "moped",
+    "level": "A2"
+  },
+  {
+    "noun": "Märchen",
+    "article": "das",
+    "plural": "Märchen",
+    "meaning": "fairy tale",
+    "level": "A2"
+  },
+  {
     "noun": "Müll",
     "article": "der",
     "plural": "",
     "meaning": "garbage",
     "level": "A2",
     "singular_only": true
+  },
+  {
+    "noun": "Müllabfuhr",
+    "article": "die",
+    "plural": "Müllabfuhren",
+    "meaning": "garbage collection",
+    "level": "A2"
+  },
+  {
+    "noun": "Mülleimer",
+    "article": "der",
+    "plural": "Mülleimer",
+    "meaning": "rubbish bin",
+    "level": "A2"
   },
   {
     "noun": "Mülltonne",
@@ -860,10 +2094,45 @@
     "level": "A2"
   },
   {
+    "noun": "Münze",
+    "article": "die",
+    "plural": "Münzen",
+    "meaning": "coin",
+    "level": "A2"
+  },
+  {
     "noun": "Nachspeise",
     "article": "die",
     "plural": "Nachspeisen",
     "meaning": "dessert",
+    "level": "A2"
+  },
+  {
+    "noun": "Nahrungsmittel",
+    "article": "das",
+    "plural": "Nahrungsmittel",
+    "meaning": "food, foodstuff",
+    "level": "A2"
+  },
+  {
+    "noun": "Nationalfeiertag",
+    "article": "der",
+    "plural": "Nationalfeiertage",
+    "meaning": "national holiday",
+    "level": "A2"
+  },
+  {
+    "noun": "Navi",
+    "article": "das",
+    "plural": "Navis",
+    "meaning": "sat nav",
+    "level": "A2"
+  },
+  {
+    "noun": "Nebel",
+    "article": "der",
+    "plural": "Nebel",
+    "meaning": "fog",
     "level": "A2"
   },
   {
@@ -882,10 +2151,24 @@
     "plural_only": true
   },
   {
+    "noun": "Neffe",
+    "article": "der",
+    "plural": "Neffen",
+    "meaning": "nephew",
+    "level": "A2"
+  },
+  {
     "noun": "Netzwerk",
     "article": "das",
     "plural": "Netzwerke",
     "meaning": "network",
+    "level": "A2"
+  },
+  {
+    "noun": "Nichte",
+    "article": "die",
+    "plural": "Nichten",
+    "meaning": "niece",
     "level": "A2"
   },
   {
@@ -900,6 +2183,13 @@
     "article": "die",
     "plural": "Nüsse",
     "meaning": "nut",
+    "level": "A2"
+  },
+  {
+    "noun": "Ober",
+    "article": "der",
+    "plural": "Ober",
+    "meaning": "waiter",
     "level": "A2"
   },
   {
@@ -931,10 +2221,38 @@
     "level": "A2"
   },
   {
+    "noun": "PC",
+    "article": "der",
+    "plural": "PCs",
+    "meaning": "PC, computer",
+    "level": "A2"
+  },
+  {
     "noun": "Personalausweis",
     "article": "der",
     "plural": "Personalausweise",
     "meaning": "ID card",
+    "level": "A2"
+  },
+  {
+    "noun": "Pfand",
+    "article": "das",
+    "plural": "Pfänder",
+    "meaning": "bottle deposit",
+    "level": "A2"
+  },
+  {
+    "noun": "Pfanne",
+    "article": "die",
+    "plural": "Pfannen",
+    "meaning": "pan",
+    "level": "A2"
+  },
+  {
+    "noun": "Pferd",
+    "article": "das",
+    "plural": "Pferde",
+    "meaning": "horse",
     "level": "A2"
   },
   {
@@ -945,10 +2263,68 @@
     "level": "A2"
   },
   {
+    "noun": "Physik",
+    "article": "die",
+    "plural": "",
+    "meaning": "physics",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Pkw",
+    "article": "der",
+    "plural": "Pkw",
+    "meaning": "car (Personenkraftwagen)",
+    "level": "A2"
+  },
+  {
+    "noun": "Plastik",
+    "article": "das",
+    "plural": "",
+    "meaning": "plastic",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Platte",
+    "article": "die",
+    "plural": "Platten",
+    "meaning": "slab, plate, top (of furniture)",
+    "level": "A2"
+  },
+  {
+    "noun": "Plattform",
+    "article": "die",
+    "plural": "Plattformen",
+    "meaning": "platform",
+    "level": "A2"
+  },
+  {
+    "noun": "Politiker",
+    "article": "der",
+    "plural": "Politiker",
+    "meaning": "politician (male)",
+    "level": "A2"
+  },
+  {
+    "noun": "Politikerin",
+    "article": "die",
+    "plural": "Politikerinnen",
+    "meaning": "politician (female)",
+    "level": "A2"
+  },
+  {
     "noun": "Portemonnaie",
     "article": "das",
     "plural": "Portemonnaies",
     "meaning": "wallet",
+    "level": "A2"
+  },
+  {
+    "noun": "Poster",
+    "article": "das",
+    "plural": "Poster",
+    "meaning": "poster",
     "level": "A2"
   },
   {
@@ -959,10 +2335,136 @@
     "level": "A2"
   },
   {
+    "noun": "Praline",
+    "article": "die",
+    "plural": "Pralinen",
+    "meaning": "chocolate praline",
+    "level": "A2"
+  },
+  {
+    "noun": "Preisschild",
+    "article": "das",
+    "plural": "Preisschilder",
+    "meaning": "price tag",
+    "level": "A2"
+  },
+  {
+    "noun": "Prozent",
+    "article": "das",
+    "plural": "Prozente",
+    "meaning": "percent",
+    "level": "A2"
+  },
+  {
+    "noun": "Prüfer",
+    "article": "der",
+    "plural": "Prüfer",
+    "meaning": "examiner (male)",
+    "level": "A2"
+  },
+  {
+    "noun": "Prüferin",
+    "article": "die",
+    "plural": "Prüferinnen",
+    "meaning": "examiner (female)",
+    "level": "A2"
+  },
+  {
+    "noun": "Pudding",
+    "article": "der",
+    "plural": "Puddinge",
+    "meaning": "pudding",
+    "level": "A2"
+  },
+  {
+    "noun": "Puppe",
+    "article": "die",
+    "plural": "Puppen",
+    "meaning": "doll",
+    "level": "A2"
+  },
+  {
+    "noun": "Päckchen",
+    "article": "das",
+    "plural": "Päckchen",
+    "meaning": "small package, parcel",
+    "level": "A2"
+  },
+  {
+    "noun": "Quartett",
+    "article": "das",
+    "plural": "Quartette",
+    "meaning": "quartet (card game)",
+    "level": "A2"
+  },
+  {
+    "noun": "Quiz",
+    "article": "das",
+    "plural": "Quiz",
+    "meaning": "quiz",
+    "level": "A2"
+  },
+  {
     "noun": "Rabatt",
     "article": "der",
     "plural": "Rabatte",
     "meaning": "discount",
+    "level": "A2"
+  },
+  {
+    "noun": "Radfahrer",
+    "article": "der",
+    "plural": "Radfahrer",
+    "meaning": "cyclist",
+    "level": "A2"
+  },
+  {
+    "noun": "Radtour",
+    "article": "die",
+    "plural": "Radtouren",
+    "meaning": "bike tour",
+    "level": "A2"
+  },
+  {
+    "noun": "Radweg",
+    "article": "der",
+    "plural": "Radwege",
+    "meaning": "bike path",
+    "level": "A2"
+  },
+  {
+    "noun": "Ratschlag",
+    "article": "der",
+    "plural": "Ratschläge",
+    "meaning": "piece of advice",
+    "level": "A2"
+  },
+  {
+    "noun": "Ratte",
+    "article": "die",
+    "plural": "Ratten",
+    "meaning": "rat",
+    "level": "A2"
+  },
+  {
+    "noun": "Raucherin",
+    "article": "die",
+    "plural": "Raucherinnen",
+    "meaning": "female smoker",
+    "level": "A2"
+  },
+  {
+    "noun": "Realität",
+    "article": "die",
+    "plural": "Realitäten",
+    "meaning": "reality",
+    "level": "A2"
+  },
+  {
+    "noun": "Referat",
+    "article": "das",
+    "plural": "Referate",
+    "meaning": "presentation, paper",
     "level": "A2"
   },
   {
@@ -973,10 +2475,74 @@
     "level": "A2"
   },
   {
+    "noun": "Region",
+    "article": "die",
+    "plural": "Regionen",
+    "meaning": "region",
+    "level": "A2"
+  },
+  {
+    "noun": "Reisebüro",
+    "article": "das",
+    "plural": "Reisebüros",
+    "meaning": "travel agency",
+    "level": "A2"
+  },
+  {
+    "noun": "Reisende",
+    "article": "der/die",
+    "plural": "Reisenden",
+    "meaning": "traveler, passenger",
+    "level": "A2",
+    "nominalized_adj": true
+  },
+  {
+    "noun": "Relativpronomen",
+    "article": "das",
+    "plural": "Relativpronomen",
+    "meaning": "relative pronoun",
+    "level": "A2"
+  },
+  {
+    "noun": "Rente",
+    "article": "die",
+    "plural": "Renten",
+    "meaning": "pension",
+    "level": "A2"
+  },
+  {
     "noun": "Rentner",
     "article": "der",
     "plural": "Rentner",
     "meaning": "retiree",
+    "level": "A2"
+  },
+  {
+    "noun": "Reparatur",
+    "article": "die",
+    "plural": "Reparaturen",
+    "meaning": "repair",
+    "level": "A2"
+  },
+  {
+    "noun": "Rind",
+    "article": "das",
+    "plural": "Rinder",
+    "meaning": "cattle, beef",
+    "level": "A2"
+  },
+  {
+    "noun": "Roller",
+    "article": "der",
+    "plural": "Roller",
+    "meaning": "scooter",
+    "level": "A2"
+  },
+  {
+    "noun": "Rollstuhl",
+    "article": "der",
+    "plural": "Rollstühle",
+    "meaning": "wheelchair",
     "level": "A2"
   },
   {
@@ -987,6 +2553,27 @@
     "level": "A2"
   },
   {
+    "noun": "Rose",
+    "article": "die",
+    "plural": "Rosen",
+    "meaning": "rose",
+    "level": "A2"
+  },
+  {
+    "noun": "Rucksack",
+    "article": "der",
+    "plural": "Rucksäcke",
+    "meaning": "backpack",
+    "level": "A2"
+  },
+  {
+    "noun": "Rundfahrt",
+    "article": "die",
+    "plural": "Rundfahrten",
+    "meaning": "sightseeing tour, round trip",
+    "level": "A2"
+  },
+  {
     "noun": "Rückflug",
     "article": "der",
     "plural": "Rückflüge",
@@ -994,10 +2581,77 @@
     "level": "A2"
   },
   {
+    "noun": "Rückgaberecht",
+    "article": "das",
+    "plural": "Rückgaberechte",
+    "meaning": "right of return",
+    "level": "A2"
+  },
+  {
+    "noun": "Sachen",
+    "article": "die",
+    "plural": "",
+    "meaning": "things, belongings",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Schachtel",
+    "article": "die",
+    "plural": "Schachteln",
+    "meaning": "box",
+    "level": "A2"
+  },
+  {
+    "noun": "Schaf",
+    "article": "das",
+    "plural": "Schafe",
+    "meaning": "sheep",
+    "level": "A2"
+  },
+  {
     "noun": "Schatten",
     "article": "der",
     "plural": "Schatten",
     "meaning": "shadow",
+    "level": "A2"
+  },
+  {
+    "noun": "Schaufenster",
+    "article": "die",
+    "plural": "",
+    "meaning": "shop windows",
+    "level": "A2",
+    "plural_only": true
+  },
+  {
+    "noun": "Schere",
+    "article": "die",
+    "plural": "Scheren",
+    "meaning": "scissors",
+    "level": "A2"
+  },
+  {
+    "noun": "Schicht",
+    "article": "die",
+    "plural": "Schichten",
+    "meaning": "shift (work)",
+    "level": "A2"
+  },
+  {
+    "noun": "Schild",
+    "article": "das",
+    "plural": "Schilder",
+    "meaning": "signboard, plate, label, license plate",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "Schild"
+  },
+  {
+    "noun": "Schloss",
+    "article": "das",
+    "plural": "Schlösser",
+    "meaning": "lock; castle",
     "level": "A2"
   },
   {
@@ -1009,10 +2663,32 @@
     "singular_only": true
   },
   {
+    "noun": "Schulbus",
+    "article": "der",
+    "plural": "Schulbusse",
+    "meaning": "school bus",
+    "level": "A2"
+  },
+  {
+    "noun": "Schulferien",
+    "article": "die",
+    "plural": "",
+    "meaning": "school holidays",
+    "level": "A2",
+    "plural_only": true
+  },
+  {
     "noun": "Schuljahr",
     "article": "das",
     "plural": "Schuljahre",
     "meaning": "school year",
+    "level": "A2"
+  },
+  {
+    "noun": "Schulranzen",
+    "article": "der",
+    "plural": "Schulranzen",
+    "meaning": "school backpack",
     "level": "A2"
   },
   {
@@ -1023,10 +2699,140 @@
     "level": "A2"
   },
   {
+    "noun": "Schultüte",
+    "article": "die",
+    "plural": "Schultüten",
+    "meaning": "school cone (first-day-of-school gift)",
+    "level": "A2"
+  },
+  {
+    "noun": "Schuluniform",
+    "article": "die",
+    "plural": "Schuluniformen",
+    "meaning": "school uniform",
+    "level": "A2"
+  },
+  {
+    "noun": "Schutz",
+    "article": "der",
+    "plural": "Schutze",
+    "meaning": "protection",
+    "level": "A2"
+  },
+  {
+    "noun": "Schwein",
+    "article": "das",
+    "plural": "Schweine",
+    "meaning": "pig, pork",
+    "level": "A2"
+  },
+  {
+    "noun": "Schwiegervater",
+    "article": "der",
+    "plural": "Schwiegerväter",
+    "meaning": "father-in-law",
+    "level": "A2"
+  },
+  {
+    "noun": "Schüssel",
+    "article": "die",
+    "plural": "Schüsseln",
+    "meaning": "bowl",
+    "level": "A2"
+  },
+  {
+    "noun": "See",
+    "article": "die",
+    "plural": "Seen",
+    "meaning": "sea, ocean",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "See",
+    "singular_only": true
+  },
+  {
+    "noun": "Sender",
+    "article": "der",
+    "plural": "Sender",
+    "meaning": "broadcaster, radio/TV station",
+    "level": "A2"
+  },
+  {
     "noun": "Sendung",
     "article": "die",
     "plural": "Sendungen",
     "meaning": "broadcast",
+    "level": "A2"
+  },
+  {
+    "noun": "Senior",
+    "article": "der",
+    "plural": "Senioren",
+    "meaning": "senior citizen (male)",
+    "level": "A2"
+  },
+  {
+    "noun": "Seniorin",
+    "article": "die",
+    "plural": "Seniorinnen",
+    "meaning": "senior citizen (female)",
+    "level": "A2"
+  },
+  {
+    "noun": "Service",
+    "article": "der",
+    "plural": "Services",
+    "meaning": "service",
+    "level": "A2"
+  },
+  {
+    "noun": "Sicherheit",
+    "article": "die",
+    "plural": "Sicherheiten",
+    "meaning": "safety, security",
+    "level": "A2"
+  },
+  {
+    "noun": "Siegerin",
+    "article": "die",
+    "plural": "Siegerinnen",
+    "meaning": "female winner",
+    "level": "A2"
+  },
+  {
+    "noun": "Smartwatch",
+    "article": "die",
+    "plural": "Smartwatches",
+    "meaning": "smartwatch",
+    "level": "A2"
+  },
+  {
+    "noun": "SMS",
+    "article": "die",
+    "plural": "SMS",
+    "meaning": "text message",
+    "level": "A2"
+  },
+  {
+    "noun": "Sozialarbeit",
+    "article": "die",
+    "plural": "",
+    "meaning": "social work",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Sozialkunde",
+    "article": "die",
+    "plural": "Sozialkunden",
+    "meaning": "social studies",
+    "level": "A2"
+  },
+  {
+    "noun": "Spezialist",
+    "article": "der",
+    "plural": "Spezialisten",
+    "meaning": "specialist",
     "level": "A2"
   },
   {
@@ -1037,6 +2843,20 @@
     "level": "A2"
   },
   {
+    "noun": "Spielzeug",
+    "article": "das",
+    "plural": "Spielzeuge",
+    "meaning": "toy(s)",
+    "level": "A2"
+  },
+  {
+    "noun": "Sportart",
+    "article": "die",
+    "plural": "Sportarten",
+    "meaning": "type of sport",
+    "level": "A2"
+  },
+  {
     "noun": "Sprechstunde",
     "article": "die",
     "plural": "Sprechstunden",
@@ -1044,10 +2864,31 @@
     "level": "A2"
   },
   {
+    "noun": "Spur",
+    "article": "die",
+    "plural": "Spuren",
+    "meaning": "lane, track",
+    "level": "A2"
+  },
+  {
     "noun": "Stadtmitte",
     "article": "die",
     "plural": "Stadtmitten",
     "meaning": "city center",
+    "level": "A2"
+  },
+  {
+    "noun": "Stadtzentrum",
+    "article": "das",
+    "plural": "Stadtzentren",
+    "meaning": "city centre",
+    "level": "A2"
+  },
+  {
+    "noun": "Standesamt",
+    "article": "das",
+    "plural": "Standesämter",
+    "meaning": "civil registry office",
     "level": "A2"
   },
   {
@@ -1086,10 +2927,69 @@
     "level": "A2"
   },
   {
+    "noun": "Stern",
+    "article": "der",
+    "plural": "Sterne",
+    "meaning": "star",
+    "level": "A2"
+  },
+  {
+    "noun": "Steuer",
+    "article": "die",
+    "plural": "Steuern",
+    "meaning": "tax, state duty, levy",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "Steuer"
+  },
+  {
+    "noun": "Stimmung",
+    "article": "die",
+    "plural": "Stimmungen",
+    "meaning": "mood, atmosphere",
+    "level": "A2"
+  },
+  {
     "noun": "Stipendium",
     "article": "das",
     "plural": "Stipendien",
     "meaning": "scholarship",
+    "level": "A2"
+  },
+  {
+    "noun": "Stoff",
+    "article": "der",
+    "plural": "Stoffe",
+    "meaning": "fabric, material",
+    "level": "A2"
+  },
+  {
+    "noun": "Storch",
+    "article": "der",
+    "plural": "Störche",
+    "meaning": "stork",
+    "level": "A2"
+  },
+  {
+    "noun": "Strafzettel",
+    "article": "der",
+    "plural": "Strafzettel",
+    "meaning": "parking/traffic ticket",
+    "level": "A2"
+  },
+  {
+    "noun": "Strauß",
+    "article": "der",
+    "plural": "Sträuße",
+    "meaning": "flower bouquet; ostrich",
+    "level": "A2",
+    "double_plural": true
+  },
+  {
+    "noun": "Strecke",
+    "article": "die",
+    "plural": "Strecken",
+    "meaning": "route, distance",
     "level": "A2"
   },
   {
@@ -1114,10 +3014,45 @@
     "level": "A2"
   },
   {
+    "noun": "Stute",
+    "article": "die",
+    "plural": "Stuten",
+    "meaning": "mare",
+    "level": "A2"
+  },
+  {
     "noun": "Suchmaschine",
     "article": "die",
     "plural": "Suchmaschinen",
     "meaning": "search engine",
+    "level": "A2"
+  },
+  {
+    "noun": "Summe",
+    "article": "die",
+    "plural": "Summen",
+    "meaning": "sum, amount",
+    "level": "A2"
+  },
+  {
+    "noun": "System",
+    "article": "das",
+    "plural": "Systeme",
+    "meaning": "system",
+    "level": "A2"
+  },
+  {
+    "noun": "Tablet",
+    "article": "das",
+    "plural": "Tablets",
+    "meaning": "tablet (device)",
+    "level": "A2"
+  },
+  {
+    "noun": "Tagesablauf",
+    "article": "der",
+    "plural": "Tagesabläufe",
+    "meaning": "daily routine",
     "level": "A2"
   },
   {
@@ -1128,744 +3063,24 @@
     "level": "A2"
   },
   {
-    "noun": "Taste",
-    "article": "die",
-    "plural": "Tasten",
-    "meaning": "key, button",
-    "level": "A2"
-  },
-  {
-    "noun": "Teilzeitarbeit",
-    "article": "die",
-    "plural": "Teilzeitarbeiten",
-    "meaning": "part-time work",
-    "level": "A2"
-  },
-  {
-    "noun": "Tor",
-    "article": "das",
-    "plural": "Tore",
-    "meaning": "goal (sports)",
-    "level": "A2"
-  },
-  {
-    "noun": "Überstunde",
-    "article": "die",
-    "plural": "Überstunden",
-    "meaning": "overtime",
-    "level": "A2"
-  },
-  {
-    "noun": "Umweltschutz",
-    "article": "der",
-    "plural": "",
-    "meaning": "environmental protection",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Unterkunft",
-    "article": "die",
-    "plural": "Unterkünfte",
-    "meaning": "accommodation",
-    "level": "A2"
-  },
-  {
-    "noun": "Verein",
-    "article": "der",
-    "plural": "Vereine",
-    "meaning": "club",
-    "level": "A2"
-  },
-  {
-    "noun": "Verletzung",
-    "article": "die",
-    "plural": "Verletzungen",
-    "meaning": "injury",
-    "level": "A2"
-  },
-  {
-    "noun": "Visum",
-    "article": "das",
-    "plural": "Visa",
-    "meaning": "visa",
-    "level": "A2"
-  },
-  {
-    "noun": "Vitamin",
-    "article": "das",
-    "plural": "Vitamine",
-    "meaning": "vitamin",
-    "level": "A2"
-  },
-  {
-    "noun": "Vorspeise",
-    "article": "die",
-    "plural": "Vorspeisen",
-    "meaning": "appetizer",
-    "level": "A2"
-  },
-  {
-    "noun": "Vorstellung",
-    "article": "die",
-    "plural": "Vorstellungen",
-    "meaning": "show",
-    "level": "A2"
-  },
-  {
-    "noun": "Vorstellungsgespräch",
-    "article": "das",
-    "plural": "Vorstellungsgespräche",
-    "meaning": "job interview",
-    "level": "A2"
-  },
-  {
-    "noun": "Wasserhahn",
-    "article": "der",
-    "plural": "Wasserhähne",
-    "meaning": "faucet",
-    "level": "A2"
-  },
-  {
-    "noun": "Webseite",
-    "article": "die",
-    "plural": "Webseiten",
-    "meaning": "website",
-    "level": "A2"
-  },
-  {
-    "noun": "Wiese",
-    "article": "die",
-    "plural": "Wiesen",
-    "meaning": "meadow",
-    "level": "A2"
-  },
-  {
-    "noun": "Zebrastreifen",
-    "article": "der",
-    "plural": "Zebrastreifen",
-    "meaning": "crosswalk",
-    "level": "A2"
-  },
-  {
-    "noun": "Zeugnis",
-    "article": "das",
-    "plural": "Zeugnisse",
-    "meaning": "report card",
-    "level": "A2"
-  },
-  {
-    "noun": "Zusammenarbeit",
-    "article": "die",
-    "plural": "",
-    "meaning": "cooperation",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Zutat",
-    "article": "die",
-    "plural": "Zutaten",
-    "meaning": "ingredient",
-    "level": "A2"
-  },
-  {
-    "noun": "Entspannung",
-    "article": "die",
-    "plural": "Entspannungen",
-    "meaning": "relaxation",
-    "level": "A2"
-  },
-  {
-    "noun": "Vorhang",
-    "article": "der",
-    "plural": "Vorhänge",
-    "meaning": "curtain",
-    "level": "A2"
-  },
-  {
-    "noun": "Waschküche",
-    "article": "die",
-    "plural": "Waschküchen",
-    "meaning": "laundry room",
-    "level": "A2"
-  },
-  {
-    "noun": "Briefkasten",
-    "article": "der",
-    "plural": "Briefkästen",
-    "meaning": "letterbox",
-    "level": "A2"
-  },
-  {
-    "noun": "Glühbirne",
-    "article": "die",
-    "plural": "Glühbirnen",
-    "meaning": "light bulb",
-    "level": "A2"
-  },
-  {
-    "noun": "Wecker",
-    "article": "der",
-    "plural": "Wecker",
-    "meaning": "alarm clock",
-    "level": "A2"
-  },
-  {
-    "noun": "Waschbecken",
-    "article": "das",
-    "plural": "Waschbecken",
-    "meaning": "washbasin",
-    "level": "A2"
-  },
-  {
-    "noun": "Mülleimer",
-    "article": "der",
-    "plural": "Mülleimer",
-    "meaning": "rubbish bin",
-    "level": "A2"
-  },
-  {
-    "noun": "Vorhof",
-    "article": "der",
-    "plural": "Vorhöfe",
-    "meaning": "front yard",
-    "level": "A2"
-  },
-  {
-    "noun": "Klo",
-    "article": "das",
-    "plural": "Klos",
-    "meaning": "toilet / loo",
-    "level": "A2"
-  },
-  {
-    "noun": "Führerschein",
-    "article": "der",
-    "plural": "Führerscheine",
-    "meaning": "driving licence",
-    "level": "A2"
-  },
-  {
-    "noun": "Navi",
-    "article": "das",
-    "plural": "Navis",
-    "meaning": "sat nav",
-    "level": "A2"
-  },
-  {
-    "noun": "Fahrt",
-    "article": "die",
-    "plural": "Fahrten",
-    "meaning": "journey",
-    "level": "A2"
-  },
-  {
-    "noun": "Fahrplan",
-    "article": "der",
-    "plural": "Fahrpläne",
-    "meaning": "timetable",
-    "level": "A2"
-  },
-  {
-    "noun": "Bargeld",
-    "article": "das",
-    "plural": "",
-    "meaning": "cash",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Wechselgeld",
-    "article": "das",
-    "plural": "Wechselgelder",
-    "meaning": "change (money)",
-    "level": "A2"
-  },
-  {
-    "noun": "Pfand",
-    "article": "das",
-    "plural": "Pfänder",
-    "meaning": "bottle deposit",
-    "level": "A2"
-  },
-  {
-    "noun": "Preisschild",
-    "article": "das",
-    "plural": "Preisschilder",
-    "meaning": "price tag",
-    "level": "A2"
-  },
-  {
-    "noun": "Rückgaberecht",
-    "article": "das",
-    "plural": "Rückgaberechte",
-    "meaning": "right of return",
-    "level": "A2"
-  },
-  {
-    "noun": "Einkaufskorb",
-    "article": "der",
-    "plural": "Einkaufskörbe",
-    "meaning": "shopping basket",
-    "level": "A2"
-  },
-  {
-    "noun": "Schaufenster",
-    "article": "die",
-    "plural": "",
-    "meaning": "shop windows",
-    "level": "A2",
-    "plural_only": true
-  },
-  {
-    "noun": "Kassierer",
-    "article": "der",
-    "plural": "Kassierer",
-    "meaning": "cashier",
-    "level": "A2"
-  },
-  {
-    "noun": "Warteschlange",
-    "article": "die",
-    "plural": "Warteschlangen",
-    "meaning": "queue",
-    "level": "A2"
-  },
-  {
-    "noun": "Gutschein",
-    "article": "der",
-    "plural": "Gutscheine",
-    "meaning": "voucher / coupon",
-    "level": "A2"
-  },
-  {
-    "noun": "Hausaufgaben",
-    "article": "die",
-    "plural": "",
-    "meaning": "homework",
-    "level": "A2",
-    "plural_only": true
-  },
-  {
-    "noun": "Schulbus",
-    "article": "der",
-    "plural": "Schulbusse",
-    "meaning": "school bus",
-    "level": "A2"
-  },
-  {
-    "noun": "Schulferien",
-    "article": "die",
-    "plural": "",
-    "meaning": "school holidays",
-    "level": "A2",
-    "plural_only": true
-  },
-  {
-    "noun": "Aufsatz",
-    "article": "der",
-    "plural": "Aufsätze",
-    "meaning": "essay",
-    "level": "A2"
-  },
-  {
-    "noun": "Cousin",
-    "article": "der",
-    "plural": "Cousins",
-    "meaning": "male cousin",
-    "level": "A2"
-  },
-  {
-    "noun": "Kabel",
-    "article": "das",
-    "plural": "Kabel",
-    "meaning": "cable",
-    "level": "A2"
-  },
-  {
-    "noun": "Kopfhörer",
-    "article": "der",
-    "plural": "Kopfhörer",
-    "meaning": "headphones",
-    "level": "A2"
-  },
-  {
-    "noun": "Bücherei",
-    "article": "die",
-    "plural": "Büchereien",
-    "meaning": "library",
-    "level": "A2"
-  },
-  {
-    "noun": "Haustier",
-    "article": "das",
-    "plural": "Haustiere",
-    "meaning": "pet",
-    "level": "A2"
-  },
-  {
-    "noun": "Eimer",
-    "article": "der",
-    "plural": "Eimer",
-    "meaning": "bucket",
-    "level": "A2"
-  },
-  {
-    "noun": "Kerze",
-    "article": "die",
-    "plural": "Kerzen",
-    "meaning": "candle",
-    "level": "A2"
-  },
-  {
-    "noun": "Briefträger",
-    "article": "der",
-    "plural": "Briefträger",
-    "meaning": "postman",
-    "level": "A2"
-  },
-  {
-    "noun": "Abschluss",
-    "article": "der",
-    "plural": "Abschlüsse",
-    "meaning": "graduation, degree",
-    "level": "A2"
-  },
-  {
-    "noun": "Ahnung",
-    "article": "die",
-    "plural": "Ahnungen",
-    "meaning": "idea, clue",
-    "level": "A2"
-  },
-  {
-    "noun": "Akzent",
-    "article": "der",
-    "plural": "Akzente",
-    "meaning": "accent",
-    "level": "A2"
-  },
-  {
-    "noun": "Beamtin",
-    "article": "die",
-    "plural": "Beamtinnen",
-    "meaning": "female official, civil servant",
-    "level": "A2"
-  },
-  {
-    "noun": "Bedeutung",
-    "article": "die",
-    "plural": "Bedeutungen",
-    "meaning": "meaning",
-    "level": "A2"
-  },
-  {
-    "noun": "Enttäuschung",
-    "article": "die",
-    "plural": "Enttäuschungen",
-    "meaning": "disappointment",
-    "level": "A2"
-  },
-  {
-    "noun": "Fahrzeug",
-    "article": "das",
-    "plural": "Fahrzeuge",
-    "meaning": "vehicle",
-    "level": "A2"
-  },
-  {
-    "noun": "Feedback",
-    "article": "das",
-    "plural": "Feedbacks",
-    "meaning": "feedback",
-    "level": "A2"
-  },
-  {
-    "noun": "Fläche",
-    "article": "die",
-    "plural": "Flächen",
-    "meaning": "area, surface",
-    "level": "A2"
-  },
-  {
-    "noun": "Fortsetzung",
-    "article": "die",
-    "plural": "Fortsetzungen",
-    "meaning": "continuation, sequel",
-    "level": "A2"
-  },
-  {
-    "noun": "Freude",
-    "article": "die",
-    "plural": "Freuden",
-    "meaning": "joy, pleasure",
-    "level": "A2"
-  },
-  {
-    "noun": "Genitiv",
-    "article": "der",
-    "plural": "Genitive",
-    "meaning": "genitive case",
-    "level": "A2"
-  },
-  {
-    "noun": "Hälfte",
-    "article": "die",
-    "plural": "Hälften",
-    "meaning": "half",
-    "level": "A2"
-  },
-  {
-    "noun": "Hallig",
-    "article": "die",
-    "plural": "Halligen",
-    "meaning": "small unprotected island (North Sea)",
-    "level": "A2"
-  },
-  {
-    "noun": "Hauptrolle",
-    "article": "die",
-    "plural": "Hauptrollen",
-    "meaning": "leading role",
-    "level": "A2"
-  },
-  {
-    "noun": "Höhle",
-    "article": "die",
-    "plural": "Höhlen",
-    "meaning": "cave",
-    "level": "A2"
-  },
-  {
-    "noun": "Katalog",
-    "article": "der",
-    "plural": "Kataloge",
-    "meaning": "catalog",
-    "level": "A2"
-  },
-  {
-    "noun": "Kategorie",
-    "article": "die",
-    "plural": "Kategorien",
-    "meaning": "category",
-    "level": "A2"
-  },
-  {
-    "noun": "Kennzeichen",
-    "article": "das",
-    "plural": "Kennzeichen",
-    "meaning": "license plate, mark",
-    "level": "A2"
-  },
-  {
-    "noun": "Komparativ",
-    "article": "der",
-    "plural": "Komparative",
-    "meaning": "comparative (grammar)",
-    "level": "A2"
-  },
-  {
-    "noun": "König",
-    "article": "der",
-    "plural": "Könige",
-    "meaning": "king",
-    "level": "A2"
-  },
-  {
-    "noun": "Königin",
-    "article": "die",
-    "plural": "Königinnen",
-    "meaning": "queen",
-    "level": "A2"
-  },
-  {
-    "noun": "Konjunktiv",
-    "article": "der",
-    "plural": "Konjunktive",
-    "meaning": "subjunctive mood",
-    "level": "A2"
-  },
-  {
-    "noun": "Konsequenz",
-    "article": "die",
-    "plural": "Konsequenzen",
-    "meaning": "consequence",
-    "level": "A2"
-  },
-  {
-    "noun": "Lkw",
-    "article": "der",
-    "plural": "Lkw",
-    "meaning": "truck (Lastkraftwagen)",
-    "level": "A2"
-  },
-  {
-    "noun": "Mailbox",
-    "article": "die",
-    "plural": "Mailboxen",
-    "meaning": "voicemail box",
-    "level": "A2"
-  },
-  {
-    "noun": "Nebel",
-    "article": "der",
-    "plural": "Nebel",
-    "meaning": "fog",
-    "level": "A2"
-  },
-  {
-    "noun": "PC",
-    "article": "der",
-    "plural": "PCs",
-    "meaning": "PC, computer",
-    "level": "A2"
-  },
-  {
-    "noun": "Pferd",
-    "article": "das",
-    "plural": "Pferde",
-    "meaning": "horse",
-    "level": "A2"
-  },
-  {
-    "noun": "Pkw",
-    "article": "der",
-    "plural": "Pkw",
-    "meaning": "car (Personenkraftwagen)",
-    "level": "A2"
-  },
-  {
-    "noun": "Politiker",
-    "article": "der",
-    "plural": "Politiker",
-    "meaning": "politician (male)",
-    "level": "A2"
-  },
-  {
-    "noun": "Politikerin",
-    "article": "die",
-    "plural": "Politikerinnen",
-    "meaning": "politician (female)",
-    "level": "A2"
-  },
-  {
-    "noun": "Prozent",
-    "article": "das",
-    "plural": "Prozente",
-    "meaning": "percent",
-    "level": "A2"
-  },
-  {
-    "noun": "Prüfer",
-    "article": "der",
-    "plural": "Prüfer",
-    "meaning": "examiner (male)",
-    "level": "A2"
-  },
-  {
-    "noun": "Prüferin",
-    "article": "die",
-    "plural": "Prüferinnen",
-    "meaning": "examiner (female)",
-    "level": "A2"
-  },
-  {
-    "noun": "Quiz",
-    "article": "das",
-    "plural": "Quiz",
-    "meaning": "quiz",
-    "level": "A2"
-  },
-  {
-    "noun": "Radweg",
-    "article": "der",
-    "plural": "Radwege",
-    "meaning": "bike path",
-    "level": "A2"
-  },
-  {
-    "noun": "Ratte",
-    "article": "die",
-    "plural": "Ratten",
-    "meaning": "rat",
-    "level": "A2"
-  },
-  {
-    "noun": "Realität",
-    "article": "die",
-    "plural": "Realitäten",
-    "meaning": "reality",
-    "level": "A2"
-  },
-  {
-    "noun": "Relativpronomen",
-    "article": "das",
-    "plural": "Relativpronomen",
-    "meaning": "relative pronoun",
-    "level": "A2"
-  },
-  {
-    "noun": "Reparatur",
-    "article": "die",
-    "plural": "Reparaturen",
-    "meaning": "repair",
-    "level": "A2"
-  },
-  {
-    "noun": "Roller",
-    "article": "der",
-    "plural": "Roller",
-    "meaning": "scooter",
-    "level": "A2"
-  },
-  {
-    "noun": "Senior",
-    "article": "der",
-    "plural": "Senioren",
-    "meaning": "senior citizen (male)",
-    "level": "A2"
-  },
-  {
-    "noun": "Seniorin",
-    "article": "die",
-    "plural": "Seniorinnen",
-    "meaning": "senior citizen (female)",
-    "level": "A2"
-  },
-  {
-    "noun": "Service",
-    "article": "der",
-    "plural": "Services",
-    "meaning": "service",
-    "level": "A2"
-  },
-  {
-    "noun": "SMS",
-    "article": "die",
-    "plural": "SMS",
-    "meaning": "text message",
-    "level": "A2"
-  },
-  {
-    "noun": "Standesamt",
-    "article": "das",
-    "plural": "Standesämter",
-    "meaning": "civil registry office",
-    "level": "A2"
-  },
-  {
-    "noun": "Storch",
-    "article": "der",
-    "plural": "Störche",
-    "meaning": "stork",
-    "level": "A2"
-  },
-  {
     "noun": "Talent",
     "article": "das",
     "plural": "Talente",
     "meaning": "talent",
+    "level": "A2"
+  },
+  {
+    "noun": "Tanz",
+    "article": "der",
+    "plural": "Tänze",
+    "meaning": "dance",
+    "level": "A2"
+  },
+  {
+    "noun": "Tarif",
+    "article": "der",
+    "plural": "Tarife",
+    "meaning": "tariff, wage rate",
     "level": "A2"
   },
   {
@@ -1876,10 +3091,33 @@
     "level": "A2"
   },
   {
-    "noun": "Tätigkeit",
+    "noun": "Taste",
     "article": "die",
-    "plural": "Tätigkeiten",
-    "meaning": "activity, occupation",
+    "plural": "Tasten",
+    "meaning": "key, button",
+    "level": "A2"
+  },
+  {
+    "noun": "Teil",
+    "article": "der",
+    "plural": "Teile",
+    "meaning": "part, portion, section of a whole",
+    "level": "A2",
+    "is_homonym": true,
+    "homonym_group": "Teil"
+  },
+  {
+    "noun": "Teilnehmer",
+    "article": "der",
+    "plural": "Teilnehmer",
+    "meaning": "participant",
+    "level": "A2"
+  },
+  {
+    "noun": "Teilzeitarbeit",
+    "article": "die",
+    "plural": "Teilzeitarbeiten",
+    "meaning": "part-time work",
     "level": "A2"
   },
   {
@@ -1890,10 +3128,32 @@
     "level": "A2"
   },
   {
+    "noun": "Tiger",
+    "article": "der",
+    "plural": "Tiger",
+    "meaning": "tiger",
+    "level": "A2"
+  },
+  {
+    "noun": "Tischtennis",
+    "article": "das",
+    "plural": "",
+    "meaning": "table tennis",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
     "noun": "Titel",
     "article": "der",
     "plural": "Titel",
     "meaning": "title",
+    "level": "A2"
+  },
+  {
+    "noun": "Tod",
+    "article": "der",
+    "plural": "Tode",
+    "meaning": "death",
     "level": "A2"
   },
   {
@@ -1925,10 +3185,45 @@
     "level": "A2"
   },
   {
+    "noun": "Traumberuf",
+    "article": "der",
+    "plural": "Traumberufe",
+    "meaning": "dream job",
+    "level": "A2"
+  },
+  {
+    "noun": "Trauung",
+    "article": "die",
+    "plural": "Trauungen",
+    "meaning": "wedding ceremony",
+    "level": "A2"
+  },
+  {
+    "noun": "Trend",
+    "article": "der",
+    "plural": "Trends",
+    "meaning": "trend",
+    "level": "A2"
+  },
+  {
     "noun": "Trick",
     "article": "der",
     "plural": "Tricks",
     "meaning": "trick",
+    "level": "A2"
+  },
+  {
+    "noun": "Tätigkeit",
+    "article": "die",
+    "plural": "Tätigkeiten",
+    "meaning": "activity, occupation",
+    "level": "A2"
+  },
+  {
+    "noun": "Umfrage",
+    "article": "die",
+    "plural": "Umfragen",
+    "meaning": "survey, poll",
     "level": "A2"
   },
   {
@@ -1939,10 +3234,96 @@
     "level": "A2"
   },
   {
+    "noun": "Umweltschutz",
+    "article": "der",
+    "plural": "",
+    "meaning": "environmental protection",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Unterhaltung",
+    "article": "die",
+    "plural": "Unterhaltungen",
+    "meaning": "conversation, entertainment",
+    "level": "A2"
+  },
+  {
+    "noun": "Unterkunft",
+    "article": "die",
+    "plural": "Unterkünfte",
+    "meaning": "accommodation",
+    "level": "A2"
+  },
+  {
+    "noun": "Unterschied",
+    "article": "der",
+    "plural": "Unterschiede",
+    "meaning": "difference",
+    "level": "A2"
+  },
+  {
+    "noun": "Verein",
+    "article": "der",
+    "plural": "Vereine",
+    "meaning": "club",
+    "level": "A2"
+  },
+  {
+    "noun": "Verletzte",
+    "article": "der/die",
+    "plural": "Verletzten",
+    "meaning": "injured person, casualty",
+    "level": "A2",
+    "nominalized_adj": true
+  },
+  {
+    "noun": "Verletzung",
+    "article": "die",
+    "plural": "Verletzungen",
+    "meaning": "injury",
+    "level": "A2"
+  },
+  {
+    "noun": "Versammlung",
+    "article": "die",
+    "plural": "Versammlungen",
+    "meaning": "meeting, assembly",
+    "level": "A2"
+  },
+  {
+    "noun": "Verständnis",
+    "article": "das",
+    "plural": "Verständnisse",
+    "meaning": "understanding",
+    "level": "A2"
+  },
+  {
+    "noun": "Versuch",
+    "article": "der",
+    "plural": "Versuche",
+    "meaning": "attempt",
+    "level": "A2"
+  },
+  {
     "noun": "Videokonferenz",
     "article": "die",
     "plural": "Videokonferenzen",
     "meaning": "video conference",
+    "level": "A2"
+  },
+  {
+    "noun": "Visum",
+    "article": "das",
+    "plural": "Visa",
+    "meaning": "visa",
+    "level": "A2"
+  },
+  {
+    "noun": "Vitamin",
+    "article": "das",
+    "plural": "Vitamine",
+    "meaning": "vitamin",
     "level": "A2"
   },
   {
@@ -1953,10 +3334,31 @@
     "level": "A2"
   },
   {
+    "noun": "Volleyball",
+    "article": "der",
+    "plural": "Volleybälle",
+    "meaning": "volleyball",
+    "level": "A2"
+  },
+  {
     "noun": "Vorbereitung",
     "article": "die",
     "plural": "Vorbereitungen",
     "meaning": "preparation",
+    "level": "A2"
+  },
+  {
+    "noun": "Vorhang",
+    "article": "der",
+    "plural": "Vorhänge",
+    "meaning": "curtain",
+    "level": "A2"
+  },
+  {
+    "noun": "Vorhof",
+    "article": "der",
+    "plural": "Vorhöfe",
+    "meaning": "front yard",
     "level": "A2"
   },
   {
@@ -1967,6 +3369,41 @@
     "level": "A2"
   },
   {
+    "noun": "Vorschrift",
+    "article": "die",
+    "plural": "Vorschriften",
+    "meaning": "regulation, rule",
+    "level": "A2"
+  },
+  {
+    "noun": "Vorspeise",
+    "article": "die",
+    "plural": "Vorspeisen",
+    "meaning": "appetizer",
+    "level": "A2"
+  },
+  {
+    "noun": "Vorstellung",
+    "article": "die",
+    "plural": "Vorstellungen",
+    "meaning": "show",
+    "level": "A2"
+  },
+  {
+    "noun": "Vorstellungsgespräch",
+    "article": "das",
+    "plural": "Vorstellungsgespräche",
+    "meaning": "job interview",
+    "level": "A2"
+  },
+  {
+    "noun": "Vortrag",
+    "article": "der",
+    "plural": "Vorträge",
+    "meaning": "lecture, talk",
+    "level": "A2"
+  },
+  {
     "noun": "VR-Brille",
     "article": "die",
     "plural": "VR-Brillen",
@@ -1974,10 +3411,38 @@
     "level": "A2"
   },
   {
-    "noun": "Währung",
+    "noun": "Wagen",
+    "article": "der",
+    "plural": "Wagene",
+    "meaning": "car",
+    "level": "A2"
+  },
+  {
+    "noun": "Warteschlange",
     "article": "die",
-    "plural": "Währungen",
-    "meaning": "currency",
+    "plural": "Warteschlangen",
+    "meaning": "queue",
+    "level": "A2"
+  },
+  {
+    "noun": "Waschbecken",
+    "article": "das",
+    "plural": "Waschbecken",
+    "meaning": "washbasin",
+    "level": "A2"
+  },
+  {
+    "noun": "Waschküche",
+    "article": "die",
+    "plural": "Waschküchen",
+    "meaning": "laundry room",
+    "level": "A2"
+  },
+  {
+    "noun": "Wasserhahn",
+    "article": "der",
+    "plural": "Wasserhähne",
+    "meaning": "faucet",
     "level": "A2"
   },
   {
@@ -1985,6 +3450,62 @@
     "article": "das",
     "plural": "WC",
     "meaning": "toilet, restroom",
+    "level": "A2"
+  },
+  {
+    "noun": "Webseite",
+    "article": "die",
+    "plural": "Webseiten",
+    "meaning": "website",
+    "level": "A2"
+  },
+  {
+    "noun": "Wechselgeld",
+    "article": "das",
+    "plural": "Wechselgelder",
+    "meaning": "change (money)",
+    "level": "A2"
+  },
+  {
+    "noun": "Wecker",
+    "article": "der",
+    "plural": "Wecker",
+    "meaning": "alarm clock",
+    "level": "A2"
+  },
+  {
+    "noun": "Weltmeisterschaft",
+    "article": "die",
+    "plural": "Weltmeisterschaften",
+    "meaning": "world championship",
+    "level": "A2"
+  },
+  {
+    "noun": "Werbeagentur",
+    "article": "die",
+    "plural": "Werbeagenturen",
+    "meaning": "advertising agency",
+    "level": "A2"
+  },
+  {
+    "noun": "Werkzeug",
+    "article": "das",
+    "plural": "Werkzeuge",
+    "meaning": "tool(s)",
+    "level": "A2"
+  },
+  {
+    "noun": "Wettervorhersage",
+    "article": "die",
+    "plural": "Wettervorhersagen",
+    "meaning": "weather forecast",
+    "level": "A2"
+  },
+  {
+    "noun": "Wiese",
+    "article": "die",
+    "plural": "Wiesen",
+    "meaning": "meadow",
     "level": "A2"
   },
   {
@@ -2002,6 +3523,63 @@
     "level": "A2"
   },
   {
+    "noun": "Währung",
+    "article": "die",
+    "plural": "Währungen",
+    "meaning": "currency",
+    "level": "A2"
+  },
+  {
+    "noun": "Zebra",
+    "article": "das",
+    "plural": "Zebras",
+    "meaning": "zebra",
+    "level": "A2"
+  },
+  {
+    "noun": "Zebrastreifen",
+    "article": "der",
+    "plural": "Zebrastreifen",
+    "meaning": "crosswalk",
+    "level": "A2"
+  },
+  {
+    "noun": "Zeitarbeit",
+    "article": "die",
+    "plural": "",
+    "meaning": "temporary work",
+    "level": "A2",
+    "singular_only": true
+  },
+  {
+    "noun": "Zeitplan",
+    "article": "der",
+    "plural": "Zeitpläne",
+    "meaning": "schedule",
+    "level": "A2"
+  },
+  {
+    "noun": "Zeitverschwendung",
+    "article": "die",
+    "plural": "Zeitverschwendungen",
+    "meaning": "waste of time",
+    "level": "A2"
+  },
+  {
+    "noun": "Zertifikat",
+    "article": "das",
+    "plural": "Zertifikate",
+    "meaning": "certificate",
+    "level": "A2"
+  },
+  {
+    "noun": "Zeugnis",
+    "article": "das",
+    "plural": "Zeugnisse",
+    "meaning": "report card",
+    "level": "A2"
+  },
+  {
     "noun": "Zigarette",
     "article": "die",
     "plural": "Zigaretten",
@@ -2013,6 +3591,13 @@
     "article": "die",
     "plural": "Zitronen",
     "meaning": "lemon",
+    "level": "A2"
+  },
+  {
+    "noun": "Zoll",
+    "article": "der",
+    "plural": "Zölle",
+    "meaning": "customs",
     "level": "A2"
   },
   {
@@ -2037,869 +3622,12 @@
     "level": "A2"
   },
   {
-    "noun": "EC-Karte",
-    "article": "die",
-    "plural": "EC-Karten",
-    "meaning": "debit card",
-    "level": "A2"
-  },
-  {
-    "noun": "Geldautomat",
-    "article": "der",
-    "plural": "Geldautomaten",
-    "meaning": "cash machine / ATM",
-    "level": "A2"
-  },
-  {
-    "noun": "Girokonto",
-    "article": "das",
-    "plural": "Girokonten",
-    "meaning": "current/checking account",
-    "level": "A2"
-  },
-  {
-    "noun": "Summe",
-    "article": "die",
-    "plural": "Summen",
-    "meaning": "sum, amount",
-    "level": "A2"
-  },
-  {
-    "noun": "Hersteller",
-    "article": "der",
-    "plural": "Hersteller",
-    "meaning": "manufacturer",
-    "level": "A2"
-  },
-  {
-    "noun": "Broschüre",
-    "article": "die",
-    "plural": "Broschüren",
-    "meaning": "brochure",
-    "level": "A2"
-  },
-  {
-    "noun": "Gehaltsnachweis",
-    "article": "der",
-    "plural": "",
-    "meaning": "proof of salary, payslip",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Menü",
-    "article": "das",
-    "plural": "Menüs",
-    "meaning": "set menu",
-    "level": "A2"
-  },
-  {
-    "noun": "Ober",
-    "article": "der",
-    "plural": "Ober",
-    "meaning": "waiter",
-    "level": "A2"
-  },
-  {
-    "noun": "Kontoauszug",
-    "article": "der",
-    "plural": "Kontoauszüge",
-    "meaning": "bank statement",
-    "level": "A2"
-  },
-  {
-    "noun": "Erhöhung",
-    "article": "die",
-    "plural": "Erhöhungen",
-    "meaning": "raise, increase",
-    "level": "A2"
-  },
-  {
-    "noun": "Umfrage",
-    "article": "die",
-    "plural": "Umfragen",
-    "meaning": "survey, poll",
-    "level": "A2"
-  },
-  {
-    "noun": "Kindheit",
+    "noun": "Zusammenarbeit",
     "article": "die",
     "plural": "",
-    "meaning": "childhood",
+    "meaning": "cooperation",
     "level": "A2",
     "singular_only": true
-  },
-  {
-    "noun": "Gegenteil",
-    "article": "das",
-    "plural": "Gegenteile",
-    "meaning": "opposite",
-    "level": "A2"
-  },
-  {
-    "noun": "Meinung",
-    "article": "die",
-    "plural": "Meinungen",
-    "meaning": "opinion",
-    "level": "A2"
-  },
-  {
-    "noun": "Ratschlag",
-    "article": "der",
-    "plural": "Ratschläge",
-    "meaning": "piece of advice",
-    "level": "A2"
-  },
-  {
-    "noun": "Märchen",
-    "article": "das",
-    "plural": "Märchen",
-    "meaning": "fairy tale",
-    "level": "A2"
-  },
-  {
-    "noun": "Einfall",
-    "article": "der",
-    "plural": "Einfälle",
-    "meaning": "idea",
-    "level": "A2"
-  },
-  {
-    "noun": "Beleg",
-    "article": "der",
-    "plural": "Belege",
-    "meaning": "receipt, proof",
-    "level": "A2"
-  },
-  {
-    "noun": "Sachen",
-    "article": "die",
-    "plural": "",
-    "meaning": "things, belongings",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Arbeitstag",
-    "article": "der",
-    "plural": "Arbeitstage",
-    "meaning": "working day",
-    "level": "A2"
-  },
-  {
-    "noun": "Geldbörse",
-    "article": "die",
-    "plural": "Geldbörsen",
-    "meaning": "wallet, purse",
-    "level": "A2"
-  },
-  {
-    "noun": "Neffe",
-    "article": "der",
-    "plural": "Neffen",
-    "meaning": "nephew",
-    "level": "A2"
-  },
-  {
-    "noun": "Nichte",
-    "article": "die",
-    "plural": "Nichten",
-    "meaning": "niece",
-    "level": "A2"
-  },
-  {
-    "noun": "Dach",
-    "article": "das",
-    "plural": "Dächer",
-    "meaning": "roof",
-    "level": "A2"
-  },
-  {
-    "noun": "Schwiegervater",
-    "article": "der",
-    "plural": "Schwiegerväter",
-    "meaning": "father-in-law",
-    "level": "A2"
-  },
-  {
-    "noun": "Rente",
-    "article": "die",
-    "plural": "Renten",
-    "meaning": "pension",
-    "level": "A2"
-  },
-  {
-    "noun": "Menge",
-    "article": "die",
-    "plural": "Mengen",
-    "meaning": "amount, quantity",
-    "level": "A2"
-  },
-  {
-    "noun": "Schloss",
-    "article": "das",
-    "plural": "Schlösser",
-    "meaning": "lock; castle",
-    "level": "A2"
-  },
-  {
-    "noun": "Mitteilung",
-    "article": "die",
-    "plural": "Mitteilungen",
-    "meaning": "notice, message",
-    "level": "A2"
-  },
-  {
-    "noun": "Plastik",
-    "article": "das",
-    "plural": "",
-    "meaning": "plastic",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Müllabfuhr",
-    "article": "die",
-    "plural": "Müllabfuhren",
-    "meaning": "garbage collection",
-    "level": "A2"
-  },
-  {
-    "noun": "Einfahrt",
-    "article": "die",
-    "plural": "Einfahrten",
-    "meaning": "driveway, entrance",
-    "level": "A2"
-  },
-  {
-    "noun": "Verständnis",
-    "article": "das",
-    "plural": "Verständnisse",
-    "meaning": "understanding",
-    "level": "A2"
-  },
-  {
-    "noun": "Gegenstand",
-    "article": "der",
-    "plural": "Gegenstände",
-    "meaning": "object, item",
-    "level": "A2"
-  },
-  {
-    "noun": "Kinderwagen",
-    "article": "der",
-    "plural": "Kinderwagen",
-    "meaning": "stroller, pram",
-    "level": "A2"
-  },
-  {
-    "noun": "Absicht",
-    "article": "die",
-    "plural": "Absichten",
-    "meaning": "intention",
-    "level": "A2"
-  },
-  {
-    "noun": "Schicht",
-    "article": "die",
-    "plural": "Schichten",
-    "meaning": "shift (work)",
-    "level": "A2"
-  },
-  {
-    "noun": "Schwein",
-    "article": "das",
-    "plural": "Schweine",
-    "meaning": "pig, pork",
-    "level": "A2"
-  },
-  {
-    "noun": "Quartett",
-    "article": "das",
-    "plural": "Quartette",
-    "meaning": "quartet (card game)",
-    "level": "A2"
-  },
-  {
-    "noun": "Kanne",
-    "article": "die",
-    "plural": "Kannen",
-    "meaning": "pot, jug, can",
-    "level": "A2"
-  },
-  {
-    "noun": "Schüssel",
-    "article": "die",
-    "plural": "Schüsseln",
-    "meaning": "bowl",
-    "level": "A2"
-  },
-  {
-    "noun": "Pfanne",
-    "article": "die",
-    "plural": "Pfannen",
-    "meaning": "pan",
-    "level": "A2"
-  },
-  {
-    "noun": "Appetit",
-    "article": "der",
-    "plural": "",
-    "meaning": "appetite",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Fabrik",
-    "article": "die",
-    "plural": "Fabriken",
-    "meaning": "factory",
-    "level": "A2"
-  },
-  {
-    "noun": "Rind",
-    "article": "das",
-    "plural": "Rinder",
-    "meaning": "cattle, beef",
-    "level": "A2"
-  },
-  {
-    "noun": "Bestätigung",
-    "article": "die",
-    "plural": "Bestätigungen",
-    "meaning": "confirmation",
-    "level": "A2"
-  },
-  {
-    "noun": "Material",
-    "article": "das",
-    "plural": "Materialien",
-    "meaning": "material",
-    "level": "A2"
-  },
-  {
-    "noun": "Teilnehmer",
-    "article": "der",
-    "plural": "Teilnehmer",
-    "meaning": "participant",
-    "level": "A2"
-  },
-  {
-    "noun": "Plattform",
-    "article": "die",
-    "plural": "Plattformen",
-    "meaning": "platform",
-    "level": "A2"
-  },
-  {
-    "noun": "Forum",
-    "article": "das",
-    "plural": "Foren",
-    "meaning": "forum",
-    "level": "A2"
-  },
-  {
-    "noun": "Agentur",
-    "article": "die",
-    "plural": "Agenturen",
-    "meaning": "agency",
-    "level": "A2"
-  },
-  {
-    "noun": "Zeitarbeit",
-    "article": "die",
-    "plural": "",
-    "meaning": "temporary work",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Auszubildende",
-    "article": "der",
-    "plural": "Auszubildenden",
-    "meaning": "trainee, apprentice",
-    "level": "A2"
-  },
-  {
-    "noun": "Sicherheit",
-    "article": "die",
-    "plural": "Sicherheiten",
-    "meaning": "safety, security",
-    "level": "A2"
-  },
-  {
-    "noun": "Schutz",
-    "article": "der",
-    "plural": "Schutze",
-    "meaning": "protection",
-    "level": "A2"
-  },
-  {
-    "noun": "Versammlung",
-    "article": "die",
-    "plural": "Versammlungen",
-    "meaning": "meeting, assembly",
-    "level": "A2"
-  },
-  {
-    "noun": "Interesse",
-    "article": "das",
-    "plural": "Interessen",
-    "meaning": "interest",
-    "level": "A2"
-  },
-  {
-    "noun": "Tarif",
-    "article": "der",
-    "plural": "Tarife",
-    "meaning": "tariff, wage rate",
-    "level": "A2"
-  },
-  {
-    "noun": "Entlassung",
-    "article": "die",
-    "plural": "Entlassungen",
-    "meaning": "dismissal, layoff",
-    "level": "A2"
-  },
-  {
-    "noun": "Vorschrift",
-    "article": "die",
-    "plural": "Vorschriften",
-    "meaning": "regulation, rule",
-    "level": "A2"
-  },
-  {
-    "noun": "Nationalfeiertag",
-    "article": "der",
-    "plural": "Nationalfeiertage",
-    "meaning": "national holiday",
-    "level": "A2"
-  },
-  {
-    "noun": "Durchschnitt",
-    "article": "der",
-    "plural": "Durchschnitte",
-    "meaning": "average",
-    "level": "A2"
-  },
-  {
-    "noun": "Tanz",
-    "article": "der",
-    "plural": "Tänze",
-    "meaning": "dance",
-    "level": "A2"
-  },
-  {
-    "noun": "Versuch",
-    "article": "der",
-    "plural": "Versuche",
-    "meaning": "attempt",
-    "level": "A2"
-  },
-  {
-    "noun": "Sportart",
-    "article": "die",
-    "plural": "Sportarten",
-    "meaning": "type of sport",
-    "level": "A2"
-  },
-  {
-    "noun": "Weltmeisterschaft",
-    "article": "die",
-    "plural": "Weltmeisterschaften",
-    "meaning": "world championship",
-    "level": "A2"
-  },
-  {
-    "noun": "Wettervorhersage",
-    "article": "die",
-    "plural": "Wettervorhersagen",
-    "meaning": "weather forecast",
-    "level": "A2"
-  },
-  {
-    "noun": "Gold",
-    "article": "das",
-    "plural": "",
-    "meaning": "gold",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Gymnastik",
-    "article": "die",
-    "plural": "",
-    "meaning": "gymnastics, exercise",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Tischtennis",
-    "article": "das",
-    "plural": "",
-    "meaning": "table tennis",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Volleyball",
-    "article": "der",
-    "plural": "Volleybälle",
-    "meaning": "volleyball",
-    "level": "A2"
-  },
-  {
-    "noun": "Azubi",
-    "article": "der",
-    "plural": "Azubis",
-    "meaning": "apprentice, trainee",
-    "level": "A2"
-  },
-  {
-    "noun": "Trend",
-    "article": "der",
-    "plural": "Trends",
-    "meaning": "trend",
-    "level": "A2"
-  },
-  {
-    "noun": "Strecke",
-    "article": "die",
-    "plural": "Strecken",
-    "meaning": "route, distance",
-    "level": "A2"
-  },
-  {
-    "noun": "Referat",
-    "article": "das",
-    "plural": "Referate",
-    "meaning": "presentation, paper",
-    "level": "A2"
-  },
-  {
-    "noun": "Abitur",
-    "article": "das",
-    "plural": "Abiture",
-    "meaning": "school-leaving exam",
-    "level": "A2"
-  },
-  {
-    "noun": "Astronaut",
-    "article": "der",
-    "plural": "Astronauten",
-    "meaning": "astronaut",
-    "level": "A2"
-  },
-  {
-    "noun": "System",
-    "article": "das",
-    "plural": "Systeme",
-    "meaning": "system",
-    "level": "A2"
-  },
-  {
-    "noun": "Hauptschule",
-    "article": "die",
-    "plural": "Hauptschulen",
-    "meaning": "secondary school (basic track)",
-    "level": "A2"
-  },
-  {
-    "noun": "Physik",
-    "article": "die",
-    "plural": "",
-    "meaning": "physics",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Sozialkunde",
-    "article": "die",
-    "plural": "Sozialkunden",
-    "meaning": "social studies",
-    "level": "A2"
-  },
-  {
-    "noun": "Biologie",
-    "article": "die",
-    "plural": "",
-    "meaning": "biology",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Chemie",
-    "article": "die",
-    "plural": "Chemien",
-    "meaning": "chemistry",
-    "level": "A2"
-  },
-  {
-    "noun": "Frühjahr",
-    "article": "das",
-    "plural": "Frühjahre",
-    "meaning": "spring",
-    "level": "A2"
-  },
-  {
-    "noun": "Beginn",
-    "article": "der",
-    "plural": "Beginne",
-    "meaning": "beginning, start",
-    "level": "A2"
-  },
-  {
-    "noun": "Einführung",
-    "article": "die",
-    "plural": "Einführungen",
-    "meaning": "introduction",
-    "level": "A2"
-  },
-  {
-    "noun": "Migrant",
-    "article": "der",
-    "plural": "Migranten",
-    "meaning": "migrant",
-    "level": "A2"
-  },
-  {
-    "noun": "Vortrag",
-    "article": "der",
-    "plural": "Vorträge",
-    "meaning": "lecture, talk",
-    "level": "A2"
-  },
-  {
-    "noun": "Zertifikat",
-    "article": "das",
-    "plural": "Zertifikate",
-    "meaning": "certificate",
-    "level": "A2"
-  },
-  {
-    "noun": "Förderung",
-    "article": "die",
-    "plural": "Förderungen",
-    "meaning": "funding, support",
-    "level": "A2"
-  },
-  {
-    "noun": "Beratung",
-    "article": "die",
-    "plural": "Beratungen",
-    "meaning": "counseling, advice",
-    "level": "A2"
-  },
-  {
-    "noun": "Tagesablauf",
-    "article": "der",
-    "plural": "Tagesabläufe",
-    "meaning": "daily routine",
-    "level": "A2"
-  },
-  {
-    "noun": "Kette",
-    "article": "die",
-    "plural": "Ketten",
-    "meaning": "necklace, chain",
-    "level": "A2"
-  },
-  {
-    "noun": "Puppe",
-    "article": "die",
-    "plural": "Puppen",
-    "meaning": "doll",
-    "level": "A2"
-  },
-  {
-    "noun": "DVD",
-    "article": "die",
-    "plural": "DVDs",
-    "meaning": "DVD",
-    "level": "A2"
-  },
-  {
-    "noun": "Creme",
-    "article": "die",
-    "plural": "Cremes",
-    "meaning": "cream",
-    "level": "A2"
-  },
-  {
-    "noun": "Geldbeutel",
-    "article": "der",
-    "plural": "Geldbeutel",
-    "meaning": "wallet, purse",
-    "level": "A2"
-  },
-  {
-    "noun": "Schachtel",
-    "article": "die",
-    "plural": "Schachteln",
-    "meaning": "box",
-    "level": "A2"
-  },
-  {
-    "noun": "Briefmarke",
-    "article": "die",
-    "plural": "Briefmarken",
-    "meaning": "postage stamp",
-    "level": "A2"
-  },
-  {
-    "noun": "Trauung",
-    "article": "die",
-    "plural": "Trauungen",
-    "meaning": "wedding ceremony",
-    "level": "A2"
-  },
-  {
-    "noun": "Stimmung",
-    "article": "die",
-    "plural": "Stimmungen",
-    "meaning": "mood, atmosphere",
-    "level": "A2"
-  },
-  {
-    "noun": "Herz",
-    "article": "das",
-    "plural": "Herzen",
-    "meaning": "heart",
-    "level": "A2"
-  },
-  {
-    "noun": "Tod",
-    "article": "der",
-    "plural": "Tode",
-    "meaning": "death",
-    "level": "A2"
-  },
-  {
-    "noun": "Unterhaltung",
-    "article": "die",
-    "plural": "Unterhaltungen",
-    "meaning": "conversation, entertainment",
-    "level": "A2"
-  },
-  {
-    "noun": "Praline",
-    "article": "die",
-    "plural": "Pralinen",
-    "meaning": "chocolate praline",
-    "level": "A2"
-  },
-  {
-    "noun": "Hammer",
-    "article": "der",
-    "plural": "Hämmer",
-    "meaning": "hammer",
-    "level": "A2"
-  },
-  {
-    "noun": "Werkzeug",
-    "article": "das",
-    "plural": "Werkzeuge",
-    "meaning": "tool(s)",
-    "level": "A2"
-  },
-  {
-    "noun": "Disko",
-    "article": "die",
-    "plural": "Diskos",
-    "meaning": "disco",
-    "level": "A2"
-  },
-  {
-    "noun": "Diskothek",
-    "article": "die",
-    "plural": "Diskotheken",
-    "meaning": "discotheque",
-    "level": "A2"
-  },
-  {
-    "noun": "Radtour",
-    "article": "die",
-    "plural": "Radtouren",
-    "meaning": "bike tour",
-    "level": "A2"
-  },
-  {
-    "noun": "Flohmarkt",
-    "article": "der",
-    "plural": "Flohmärkte",
-    "meaning": "flea market",
-    "level": "A2"
-  },
-  {
-    "noun": "Rundfahrt",
-    "article": "die",
-    "plural": "Rundfahrten",
-    "meaning": "sightseeing tour, round trip",
-    "level": "A2"
-  },
-  {
-    "noun": "Bahn",
-    "article": "die",
-    "plural": "Bahnen",
-    "meaning": "train, railway",
-    "level": "A2"
-  },
-  {
-    "noun": "Fan",
-    "article": "der",
-    "plural": "Fans",
-    "meaning": "fan",
-    "level": "A2"
-  },
-  {
-    "noun": "Spielzeug",
-    "article": "das",
-    "plural": "Spielzeuge",
-    "meaning": "toy(s)",
-    "level": "A2"
-  },
-  {
-    "noun": "Sender",
-    "article": "der",
-    "plural": "Sender",
-    "meaning": "broadcaster, radio/TV station",
-    "level": "A2"
-  },
-  {
-    "noun": "Poster",
-    "article": "das",
-    "plural": "Poster",
-    "meaning": "poster",
-    "level": "A2"
-  },
-  {
-    "noun": "Brieftasche",
-    "article": "die",
-    "plural": "Brieftaschen",
-    "meaning": "wallet",
-    "level": "A2"
-  },
-  {
-    "noun": "Feuerzeug",
-    "article": "das",
-    "plural": "Feuerzeuge",
-    "meaning": "lighter",
-    "level": "A2"
-  },
-  {
-    "noun": "Platte",
-    "article": "die",
-    "plural": "Platten",
-    "meaning": "slab, plate, top (of furniture)",
-    "level": "A2"
-  },
-  {
-    "noun": "Höhe",
-    "article": "die",
-    "plural": "Höhen",
-    "meaning": "height",
-    "level": "A2"
   },
   {
     "noun": "Zustand",
@@ -2909,397 +3637,10 @@
     "level": "A2"
   },
   {
-    "noun": "Besteck",
-    "article": "das",
-    "plural": "Bestecke",
-    "meaning": "cutlery",
-    "level": "A2"
-  },
-  {
-    "noun": "Metall",
-    "article": "das",
-    "plural": "Metalle",
-    "meaning": "metal",
-    "level": "A2"
-  },
-  {
-    "noun": "Stoff",
-    "article": "der",
-    "plural": "Stoffe",
-    "meaning": "fabric, material",
-    "level": "A2"
-  },
-  {
-    "noun": "Rucksack",
-    "article": "der",
-    "plural": "Rucksäcke",
-    "meaning": "backpack",
-    "level": "A2"
-  },
-  {
-    "noun": "Pudding",
-    "article": "der",
-    "plural": "Puddinge",
-    "meaning": "pudding",
-    "level": "A2"
-  },
-  {
-    "noun": "Nahrungsmittel",
-    "article": "das",
-    "plural": "Nahrungsmittel",
-    "meaning": "food, foodstuff",
-    "level": "A2"
-  },
-  {
-    "noun": "Gas",
-    "article": "das",
-    "plural": "",
-    "meaning": "gas",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Gedanke",
-    "article": "der",
-    "plural": "Gedanken",
-    "meaning": "thought",
-    "level": "A2"
-  },
-  {
-    "noun": "Briefumschlag",
-    "article": "der",
-    "plural": "Briefumschläge",
-    "meaning": "envelope",
-    "level": "A2"
-  },
-  {
-    "noun": "Schere",
+    "noun": "Zutat",
     "article": "die",
-    "plural": "Scheren",
-    "meaning": "scissors",
-    "level": "A2"
-  },
-  {
-    "noun": "Ernte",
-    "article": "die",
-    "plural": "Ernten",
-    "meaning": "harvest",
-    "level": "A2"
-  },
-  {
-    "noun": "Einschreiben",
-    "article": "das",
-    "plural": "Einschreiben",
-    "meaning": "registered letter",
-    "level": "A2"
-  },
-  {
-    "noun": "Päckchen",
-    "article": "das",
-    "plural": "Päckchen",
-    "meaning": "small package, parcel",
-    "level": "A2"
-  },
-  {
-    "noun": "Zoll",
-    "article": "der",
-    "plural": "Zölle",
-    "meaning": "customs",
-    "level": "A2"
-  },
-  {
-    "noun": "Eisenbahn",
-    "article": "die",
-    "plural": "Eisenbahnen",
-    "meaning": "railway, train set",
-    "level": "A2"
-  },
-  {
-    "noun": "Bär",
-    "article": "der",
-    "plural": "Bären",
-    "meaning": "bear",
-    "level": "A2"
-  },
-  {
-    "noun": "Münze",
-    "article": "die",
-    "plural": "Münzen",
-    "meaning": "coin",
-    "level": "A2"
-  },
-  {
-    "noun": "Ente",
-    "article": "die",
-    "plural": "Enten",
-    "meaning": "duck",
-    "level": "A2"
-  },
-  {
-    "noun": "Elefant",
-    "article": "der",
-    "plural": "Elefanten",
-    "meaning": "elephant",
-    "level": "A2"
-  },
-  {
-    "noun": "Rose",
-    "article": "die",
-    "plural": "Rosen",
-    "meaning": "rose",
-    "level": "A2"
-  },
-  {
-    "noun": "Stern",
-    "article": "der",
-    "plural": "Sterne",
-    "meaning": "star",
-    "level": "A2"
-  },
-  {
-    "noun": "Mobiltelefon",
-    "article": "das",
-    "plural": "Mobiltelefone",
-    "meaning": "mobile phone",
-    "level": "A2"
-  },
-  {
-    "noun": "Elternbeirat",
-    "article": "der",
-    "plural": "Elternbeiräte",
-    "meaning": "parents' council",
-    "level": "A2"
-  },
-  {
-    "noun": "Konsulat",
-    "article": "das",
-    "plural": "Konsulate",
-    "meaning": "consulate",
-    "level": "A2"
-  },
-  {
-    "noun": "Tiger",
-    "article": "der",
-    "plural": "Tiger",
-    "meaning": "tiger",
-    "level": "A2"
-  },
-  {
-    "noun": "Zebra",
-    "article": "das",
-    "plural": "Zebras",
-    "meaning": "zebra",
-    "level": "A2"
-  },
-  {
-    "noun": "Ausfahrt",
-    "article": "die",
-    "plural": "Ausfahrten",
-    "meaning": "exit (highway)",
-    "level": "A2"
-  },
-  {
-    "noun": "Kopierer",
-    "article": "der",
-    "plural": "Kopierer",
-    "meaning": "photocopier",
-    "level": "A2"
-  },
-  {
-    "noun": "Cafeteria",
-    "article": "die",
-    "plural": "Cafeterien",
-    "meaning": "cafeteria",
-    "level": "A2"
-  },
-  {
-    "noun": "Radfahrer",
-    "article": "der",
-    "plural": "Radfahrer",
-    "meaning": "cyclist",
-    "level": "A2"
-  },
-  {
-    "noun": "Liebling",
-    "article": "der",
-    "plural": "Lieblinge",
-    "meaning": "darling, favorite",
-    "level": "A2"
-  },
-  {
-    "noun": "Batterie",
-    "article": "die",
-    "plural": "Batterien",
-    "meaning": "battery",
-    "level": "A2"
-  },
-  {
-    "noun": "Spur",
-    "article": "die",
-    "plural": "Spuren",
-    "meaning": "lane, track",
-    "level": "A2"
-  },
-  {
-    "noun": "Fahrbahn",
-    "article": "die",
-    "plural": "Fahrbahnen",
-    "meaning": "roadway, carriageway",
-    "level": "A2"
-  },
-  {
-    "noun": "Wagen",
-    "article": "der",
-    "plural": "Wagene",
-    "meaning": "car",
-    "level": "A2"
-  },
-  {
-    "noun": "Region",
-    "article": "die",
-    "plural": "Regionen",
-    "meaning": "region",
-    "level": "A2"
-  },
-  {
-    "noun": "Gefahr",
-    "article": "die",
-    "plural": "Gefahren",
-    "meaning": "danger",
-    "level": "A2"
-  },
-  {
-    "noun": "Bürgerin",
-    "article": "die",
-    "plural": "Bürgerinnen",
-    "meaning": "female citizen",
-    "level": "A2"
-  },
-  {
-    "noun": "Moped",
-    "article": "das",
-    "plural": "Mopeds",
-    "meaning": "moped",
-    "level": "A2"
-  },
-  {
-    "noun": "Fußgänger",
-    "article": "der",
-    "plural": "Fußgänger",
-    "meaning": "pedestrian",
-    "level": "A2"
-  },
-  {
-    "noun": "Fußgängerin",
-    "article": "die",
-    "plural": "Fußgängerinnen",
-    "meaning": "female pedestrian",
-    "level": "A2"
-  },
-  {
-    "noun": "Strafzettel",
-    "article": "der",
-    "plural": "Strafzettel",
-    "meaning": "parking/traffic ticket",
-    "level": "A2"
-  },
-  {
-    "noun": "Unterschied",
-    "article": "der",
-    "plural": "Unterschiede",
-    "meaning": "difference",
-    "level": "A2"
-  },
-  {
-    "noun": "Gebirge",
-    "article": "das",
-    "plural": "Gebirge",
-    "meaning": "mountain range",
-    "level": "A2"
-  },
-  {
-    "noun": "Bauernhof",
-    "article": "der",
-    "plural": "Bauernhöfe",
-    "meaning": "farm",
-    "level": "A2"
-  },
-  {
-    "noun": "Kuh",
-    "article": "die",
-    "plural": "Kühe",
-    "meaning": "cow",
-    "level": "A2"
-  },
-  {
-    "noun": "Schaf",
-    "article": "das",
-    "plural": "Schafe",
-    "meaning": "sheep",
-    "level": "A2"
-  },
-  {
-    "noun": "Boot",
-    "article": "das",
-    "plural": "Boote",
-    "meaning": "boat",
-    "level": "A2"
-  },
-  {
-    "noun": "Doppelzimmer",
-    "article": "das",
-    "plural": "Doppelzimmer",
-    "meaning": "double room",
-    "level": "A2"
-  },
-  {
-    "noun": "Halbpension",
-    "article": "die",
-    "plural": "",
-    "meaning": "half board",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Dom",
-    "article": "der",
-    "plural": "Dome",
-    "meaning": "cathedral",
-    "level": "A2"
-  },
-  {
-    "noun": "Aufenthalt",
-    "article": "der",
-    "plural": "Aufenthalte",
-    "meaning": "stay, stopover",
-    "level": "A2"
-  },
-  {
-    "noun": "Reisebüro",
-    "article": "das",
-    "plural": "Reisebüros",
-    "meaning": "travel agency",
-    "level": "A2"
-  },
-  {
-    "noun": "Spezialist",
-    "article": "der",
-    "plural": "Spezialisten",
-    "meaning": "specialist",
-    "level": "A2"
-  },
-  {
-    "noun": "Angestellte",
-    "article": "der",
-    "plural": "Angestellten",
-    "meaning": "employee (m.)",
-    "level": "A2"
-  },
-  {
-    "noun": "Raucherin",
-    "article": "die",
-    "plural": "Raucherinnen",
-    "meaning": "female smoker",
+    "plural": "Zutaten",
+    "meaning": "ingredient",
     "level": "A2"
   },
   {
@@ -3310,222 +3651,10 @@
     "level": "A2"
   },
   {
-    "noun": "Siegerin",
+    "noun": "Überstunde",
     "article": "die",
-    "plural": "Siegerinnen",
-    "meaning": "female winner",
-    "level": "A2"
-  },
-  {
-    "noun": "Stadtzentrum",
-    "article": "das",
-    "plural": "Stadtzentren",
-    "meaning": "city centre",
-    "level": "A2"
-  },
-  {
-    "noun": "Stute",
-    "article": "die",
-    "plural": "Stuten",
-    "meaning": "mare",
-    "level": "A2"
-  },
-  {
-    "noun": "Zeitverschwendung",
-    "article": "die",
-    "plural": "Zeitverschwendungen",
-    "meaning": "waste of time",
-    "level": "A2"
-  },
-  {
-    "noun": "Rollstuhl",
-    "article": "der",
-    "plural": "Rollstühle",
-    "meaning": "wheelchair",
-    "level": "A2"
-  },
-  {
-    "noun": "Sozialarbeit",
-    "article": "die",
-    "plural": "",
-    "meaning": "social work",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Behinderung",
-    "article": "die",
-    "plural": "Behinderungen",
-    "meaning": "disability",
-    "level": "A2"
-  },
-  {
-    "noun": "Tablet",
-    "article": "das",
-    "plural": "Tablets",
-    "meaning": "tablet (device)",
-    "level": "A2"
-  },
-  {
-    "noun": "Smartwatch",
-    "article": "die",
-    "plural": "Smartwatches",
-    "meaning": "smartwatch",
-    "level": "A2"
-  },
-  {
-    "noun": "E-Book-Reader",
-    "article": "der",
-    "plural": "E-Book-Reader",
-    "meaning": "e-book reader",
-    "level": "A2"
-  },
-  {
-    "noun": "Blogbeitrag",
-    "article": "der",
-    "plural": "Blogbeiträge",
-    "meaning": "blog post",
-    "level": "A2"
-  },
-  {
-    "noun": "Schuluniform",
-    "article": "die",
-    "plural": "Schuluniformen",
-    "meaning": "school uniform",
-    "level": "A2"
-  },
-  {
-    "noun": "Werbeagentur",
-    "article": "die",
-    "plural": "Werbeagenturen",
-    "meaning": "advertising agency",
-    "level": "A2"
-  },
-  {
-    "noun": "Messe",
-    "article": "die",
-    "plural": "Messen",
-    "meaning": "trade fair",
-    "level": "A2"
-  },
-  {
-    "noun": "Diebstahl",
-    "article": "der",
-    "plural": "Diebstähle",
-    "meaning": "theft",
-    "level": "A2"
-  },
-  {
-    "noun": "Karton",
-    "article": "der",
-    "plural": "Kartons",
-    "meaning": "cardboard box",
-    "level": "A2"
-  },
-  {
-    "noun": "Brautkleid",
-    "article": "das",
-    "plural": "Brautkleider",
-    "meaning": "wedding dress",
-    "level": "A2"
-  },
-  {
-    "noun": "Grundeinkommen",
-    "article": "das",
-    "plural": "",
-    "meaning": "basic income",
-    "level": "A2",
-    "singular_only": true
-  },
-  {
-    "noun": "Dolmetscher",
-    "article": "der",
-    "plural": "Dolmetscher",
-    "meaning": "interpreter (male)",
-    "level": "A2"
-  },
-  {
-    "noun": "Dolmetscherin",
-    "article": "die",
-    "plural": "Dolmetscherinnen",
-    "meaning": "interpreter (female)",
-    "level": "A2"
-  },
-  {
-    "noun": "Fahrgast",
-    "article": "der",
-    "plural": "Fahrgäste",
-    "meaning": "passenger",
-    "level": "A2"
-  },
-  {
-    "noun": "Gang",
-    "article": "der",
-    "plural": "Gänge",
-    "meaning": "corridor / gear / gait",
-    "level": "A2"
-  },
-  {
-    "noun": "Schulranzen",
-    "article": "der",
-    "plural": "Schulranzen",
-    "meaning": "school backpack",
-    "level": "A2"
-  },
-  {
-    "noun": "Traumberuf",
-    "article": "der",
-    "plural": "Traumberufe",
-    "meaning": "dream job",
-    "level": "A2"
-  },
-  {
-    "noun": "Zeitplan",
-    "article": "der",
-    "plural": "Zeitpläne",
-    "meaning": "schedule",
-    "level": "A2"
-  },
-  {
-    "noun": "Arbeitswelt",
-    "article": "die",
-    "plural": "Arbeitswelten",
-    "meaning": "world of work",
-    "level": "A2"
-  },
-  {
-    "noun": "Babykleidung",
-    "article": "die",
-    "plural": "Babykleidungen",
-    "meaning": "baby clothes",
-    "level": "A2"
-  },
-  {
-    "noun": "Bezahlung",
-    "article": "die",
-    "plural": "Bezahlungen",
-    "meaning": "payment / pay",
-    "level": "A2"
-  },
-  {
-    "noun": "Gartenarbeit",
-    "article": "die",
-    "plural": "Gartenarbeiten",
-    "meaning": "gardening / yard work",
-    "level": "A2"
-  },
-  {
-    "noun": "Medaille",
-    "article": "die",
-    "plural": "Medaillen",
-    "meaning": "medal",
-    "level": "A2"
-  },
-  {
-    "noun": "Schultüte",
-    "article": "die",
-    "plural": "Schultüten",
-    "meaning": "school cone (first-day-of-school gift)",
+    "plural": "Überstunden",
+    "meaning": "overtime",
     "level": "A2"
   }
 ]

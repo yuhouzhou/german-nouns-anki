@@ -1,9 +1,53 @@
 [
   {
+    "noun": "Abenteuer",
+    "article": "das",
+    "plural": "Abenteuer",
+    "meaning": "adventure",
+    "level": "B1"
+  },
+  {
+    "noun": "Abfalleimer",
+    "article": "der",
+    "plural": "Abfalleimer",
+    "meaning": "waste bin",
+    "level": "B1"
+  },
+  {
+    "noun": "Abfindung",
+    "article": "die",
+    "plural": "Abfindungen",
+    "meaning": "severance pay",
+    "level": "B1"
+  },
+  {
+    "noun": "Abgase",
+    "article": "die",
+    "plural": "",
+    "meaning": "exhaust fumes",
+    "level": "B1",
+    "plural_only": true
+  },
+  {
+    "noun": "Abgeordnete",
+    "article": "der/die",
+    "plural": "Abgeordneten",
+    "meaning": "member of parliament, deputy, delegate",
+    "level": "B1",
+    "nominalized_adj": true
+  },
+  {
     "noun": "Abhängigkeit",
     "article": "die",
     "plural": "Abhängigkeiten",
     "meaning": "addiction",
+    "level": "B1"
+  },
+  {
+    "noun": "Abonnent",
+    "article": "der",
+    "plural": "Abonnenten",
+    "meaning": "subscriber",
     "level": "B1"
   },
   {
@@ -14,10 +58,103 @@
     "level": "B1"
   },
   {
+    "noun": "Abteilungsleiterin",
+    "article": "die",
+    "plural": "Abteilungsleiterinnen",
+    "meaning": "department head (f)",
+    "level": "B1"
+  },
+  {
+    "noun": "Alleinerziehende",
+    "article": "der/die",
+    "plural": "Alleinerziehenden",
+    "meaning": "single parent",
+    "level": "B1",
+    "nominalized_adj": true
+  },
+  {
+    "noun": "Altenheim",
+    "article": "das",
+    "plural": "Altenheime",
+    "meaning": "retirement home",
+    "level": "B1"
+  },
+  {
+    "noun": "Alternative",
+    "article": "die",
+    "plural": "Alternativen",
+    "meaning": "alternative",
+    "level": "B1"
+  },
+  {
+    "noun": "Altersarmut",
+    "article": "die",
+    "plural": "",
+    "meaning": "old-age poverty",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
     "noun": "Anforderung",
     "article": "die",
     "plural": "Anforderungen",
     "meaning": "requirement",
+    "level": "B1"
+  },
+  {
+    "noun": "Anlage",
+    "article": "die",
+    "plural": "Anlagen",
+    "meaning": "attachment, enclosure",
+    "level": "B1"
+  },
+  {
+    "noun": "Ansicht",
+    "article": "die",
+    "plural": "Ansichten",
+    "meaning": "view, opinion",
+    "level": "B1"
+  },
+  {
+    "noun": "Anspruch",
+    "article": "der",
+    "plural": "Ansprüche",
+    "meaning": "claim, entitlement",
+    "level": "B1"
+  },
+  {
+    "noun": "Anwältin",
+    "article": "die",
+    "plural": "Anwältinnen",
+    "meaning": "female lawyer",
+    "level": "B1"
+  },
+  {
+    "noun": "Aprikose",
+    "article": "die",
+    "plural": "Aprikosen",
+    "meaning": "apricot",
+    "level": "B1"
+  },
+  {
+    "noun": "Arbeitnehmervertreter",
+    "article": "der",
+    "plural": "Arbeitnehmervertreter",
+    "meaning": "employee representative",
+    "level": "B1"
+  },
+  {
+    "noun": "Arbeitsamt",
+    "article": "das",
+    "plural": "Arbeitsämter",
+    "meaning": "employment office",
+    "level": "B1"
+  },
+  {
+    "noun": "Arbeitserfahrung",
+    "article": "die",
+    "plural": "Arbeitserfahrungen",
+    "meaning": "work experience",
     "level": "B1"
   },
   {
@@ -29,12 +166,47 @@
     "singular_only": true
   },
   {
+    "noun": "Arbeitsmarkt",
+    "article": "der",
+    "plural": "Arbeitsmärkte",
+    "meaning": "job market",
+    "level": "B1"
+  },
+  {
+    "noun": "Arbeitsverhältnis",
+    "article": "das",
+    "plural": "Arbeitsverhältnisse",
+    "meaning": "employment relationship",
+    "level": "B1"
+  },
+  {
+    "noun": "Arbeitsvertrag",
+    "article": "der",
+    "plural": "Arbeitsverträge",
+    "meaning": "employment contract",
+    "level": "B1"
+  },
+  {
+    "noun": "Arbeitszeugnis",
+    "article": "das",
+    "plural": "Arbeitszeugnisse",
+    "meaning": "employment reference",
+    "level": "B1"
+  },
+  {
     "noun": "Armut",
     "article": "die",
     "plural": "",
     "meaning": "poverty",
     "level": "B1",
     "singular_only": true
+  },
+  {
+    "noun": "Armutsgefährdung",
+    "article": "die",
+    "plural": "Armutsgefährdungen",
+    "meaning": "risk of poverty",
+    "level": "B1"
   },
   {
     "noun": "Artenschutz",
@@ -44,10 +216,24 @@
     "level": "B1"
   },
   {
+    "noun": "Arzttermin",
+    "article": "der",
+    "plural": "Arzttermine",
+    "meaning": "doctor's appointment",
+    "level": "B1"
+  },
+  {
     "noun": "Atomkraft",
     "article": "die",
     "plural": "Atomkräfte",
     "meaning": "nuclear power",
+    "level": "B1"
+  },
+  {
+    "noun": "Aufenthaltserlaubnis",
+    "article": "die",
+    "plural": "Aufenthaltserlaubnisse",
+    "meaning": "residence permit",
     "level": "B1"
   },
   {
@@ -65,6 +251,27 @@
     "level": "B1"
   },
   {
+    "noun": "Auftraggeber",
+    "article": "der",
+    "plural": "Auftraggeber",
+    "meaning": "client / principal",
+    "level": "B1"
+  },
+  {
+    "noun": "Augenblick",
+    "article": "der",
+    "plural": "Augenblicke",
+    "meaning": "moment",
+    "level": "B1"
+  },
+  {
+    "noun": "Ausbildungsplatz",
+    "article": "der",
+    "plural": "Ausbildungsplätze",
+    "meaning": "apprenticeship position",
+    "level": "B1"
+  },
+  {
     "noun": "Ausgabe",
     "article": "die",
     "plural": "Ausgaben",
@@ -72,10 +279,10 @@
     "level": "B1"
   },
   {
-    "noun": "Ausländer",
-    "article": "der",
-    "plural": "Ausländer",
-    "meaning": "foreigner",
+    "noun": "Auslandsreise",
+    "article": "die",
+    "plural": "Auslandsreisen",
+    "meaning": "trip abroad",
     "level": "B1"
   },
   {
@@ -86,6 +293,41 @@
     "level": "B1"
   },
   {
+    "noun": "Ausländer",
+    "article": "der",
+    "plural": "Ausländer",
+    "meaning": "foreigner",
+    "level": "B1"
+  },
+  {
+    "noun": "Ausnahme",
+    "article": "die",
+    "plural": "Ausnahmen",
+    "meaning": "exception",
+    "level": "B1"
+  },
+  {
+    "noun": "Autor",
+    "article": "der",
+    "plural": "Autoren",
+    "meaning": "author",
+    "level": "B1"
+  },
+  {
+    "noun": "Autorin",
+    "article": "die",
+    "plural": "Autorinnen",
+    "meaning": "female author",
+    "level": "B1"
+  },
+  {
+    "noun": "Babysitter",
+    "article": "der",
+    "plural": "Babysitter",
+    "meaning": "babysitter",
+    "level": "B1"
+  },
+  {
     "noun": "Bachelor",
     "article": "der",
     "plural": "Bachelors",
@@ -93,10 +335,49 @@
     "level": "B1"
   },
   {
+    "noun": "Band",
+    "article": "der",
+    "plural": "Bände",
+    "meaning": "volume of a book, tome",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Band"
+  },
+  {
+    "noun": "Barrierefreiheit",
+    "article": "die",
+    "plural": "",
+    "meaning": "accessibility",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Bau",
+    "article": "der",
+    "plural": "Bauten",
+    "meaning": "building, construction",
+    "level": "B1",
+    "double_plural": true
+  },
+  {
     "noun": "Bauwerk",
     "article": "das",
     "plural": "Bauwerke",
     "meaning": "building, structure",
+    "level": "B1"
+  },
+  {
+    "noun": "Bedienungsanleitung",
+    "article": "die",
+    "plural": "Bedienungsanleitungen",
+    "meaning": "instruction manual",
+    "level": "B1"
+  },
+  {
+    "noun": "Bedingung",
+    "article": "die",
+    "plural": "Bedingungen",
+    "meaning": "condition",
     "level": "B1"
   },
   {
@@ -107,10 +388,96 @@
     "level": "B1"
   },
   {
+    "noun": "Belegschaft",
+    "article": "die",
+    "plural": "Belegschaften",
+    "meaning": "workforce",
+    "level": "B1"
+  },
+  {
+    "noun": "Beratungsstelle",
+    "article": "die",
+    "plural": "Beratungsstellen",
+    "meaning": "advice centre",
+    "level": "B1"
+  },
+  {
+    "noun": "Berichterstattung",
+    "article": "die",
+    "plural": "Berichterstattungen",
+    "meaning": "reporting",
+    "level": "B1"
+  },
+  {
+    "noun": "Berufsausbildung",
+    "article": "die",
+    "plural": "Berufsausbildungen",
+    "meaning": "vocational training",
+    "level": "B1"
+  },
+  {
+    "noun": "Berufsschule",
+    "article": "die",
+    "plural": "Berufsschulen",
+    "meaning": "vocational school",
+    "level": "B1"
+  },
+  {
+    "noun": "Beschwerde",
+    "article": "die",
+    "plural": "Beschwerden",
+    "meaning": "complaint",
+    "level": "B1"
+  },
+  {
+    "noun": "Betreuung",
+    "article": "die",
+    "plural": "Betreuungen",
+    "meaning": "care, supervision",
+    "level": "B1"
+  },
+  {
+    "noun": "Betriebsklima",
+    "article": "das",
+    "plural": "",
+    "meaning": "workplace atmosphere",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Betriebsrat",
+    "article": "der",
+    "plural": "Betriebsräte",
+    "meaning": "works council",
+    "level": "B1"
+  },
+  {
+    "noun": "Bewerbungsmappe",
+    "article": "die",
+    "plural": "Bewerbungsmappen",
+    "meaning": "application folder",
+    "level": "B1"
+  },
+  {
+    "noun": "Bewerbungsunterlagen",
+    "article": "die",
+    "plural": "",
+    "meaning": "application documents",
+    "level": "B1",
+    "plural_only": true
+  },
+  {
     "noun": "Bewertung",
     "article": "die",
     "plural": "Bewertungen",
     "meaning": "evaluation",
+    "level": "B1"
+  },
+  {
+    "noun": "Biene",
+    "article": "die",
+    "plural": "Bienen",
+    "meaning": "bee",
     "level": "B1"
   },
   {
@@ -121,10 +488,45 @@
     "level": "B1"
   },
   {
+    "noun": "Bildungsangebot",
+    "article": "das",
+    "plural": "Bildungsangebote",
+    "meaning": "educational offer",
+    "level": "B1"
+  },
+  {
+    "noun": "Biodiversität",
+    "article": "die",
+    "plural": "Biodiversitäten",
+    "meaning": "biodiversity",
+    "level": "B1"
+  },
+  {
+    "noun": "Blutgruppe",
+    "article": "die",
+    "plural": "Blutgruppen",
+    "meaning": "blood type",
+    "level": "B1"
+  },
+  {
+    "noun": "Bombe",
+    "article": "die",
+    "plural": "Bomben",
+    "meaning": "bomb",
+    "level": "B1"
+  },
+  {
     "noun": "Buchung",
     "article": "die",
     "plural": "Buchungen",
     "meaning": "booking",
+    "level": "B1"
+  },
+  {
+    "noun": "Buchungsbestätigung",
+    "article": "die",
+    "plural": "Buchungsbestätigungen",
+    "meaning": "booking confirmation",
     "level": "B1"
   },
   {
@@ -135,10 +537,126 @@
     "level": "B1"
   },
   {
+    "noun": "Bund",
+    "article": "das",
+    "plural": "Bunde",
+    "meaning": "bundle, bunch (e.g. herbs, keys)",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Bund"
+  },
+  {
+    "noun": "Bund",
+    "article": "der",
+    "plural": "Bünde",
+    "meaning": "alliance, confederation, federation; waistband",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Bund"
+  },
+  {
+    "noun": "Bundeskanzler",
+    "article": "der",
+    "plural": "Bundeskanzler",
+    "meaning": "federal chancellor",
+    "level": "B1"
+  },
+  {
+    "noun": "Bundeskanzlerin",
+    "article": "die",
+    "plural": "Bundeskanzlerinnen",
+    "meaning": "female federal chancellor",
+    "level": "B1"
+  },
+  {
+    "noun": "Bundesland",
+    "article": "das",
+    "plural": "Bundesländer",
+    "meaning": "federal state",
+    "level": "B1"
+  },
+  {
+    "noun": "Burnout-Prävention",
+    "article": "die",
+    "plural": "Burnout-Präventionen",
+    "meaning": "burnout prevention",
+    "level": "B1"
+  },
+  {
+    "noun": "Bäuerin",
+    "article": "die",
+    "plural": "Bäuerinnen",
+    "meaning": "female farmer",
+    "level": "B1"
+  },
+  {
+    "noun": "Bürgerbeteiligung",
+    "article": "die",
+    "plural": "Bürgerbeteiligungen",
+    "meaning": "civic participation",
+    "level": "B1"
+  },
+  {
+    "noun": "Bürgerinitiative",
+    "article": "die",
+    "plural": "Bürgerinitiativen",
+    "meaning": "citizens' initiative",
+    "level": "B1"
+  },
+  {
+    "noun": "Bürgermeister",
+    "article": "der",
+    "plural": "Bürgermeister",
+    "meaning": "mayor",
+    "level": "B1"
+  },
+  {
+    "noun": "Bürgermeisterin",
+    "article": "die",
+    "plural": "Bürgermeisterinnen",
+    "meaning": "female mayor",
+    "level": "B1"
+  },
+  {
+    "noun": "Bürste",
+    "article": "die",
+    "plural": "Bürsten",
+    "meaning": "brush",
+    "level": "B1"
+  },
+  {
     "noun": "Campingplatz",
     "article": "der",
     "plural": "Campingplätze",
     "meaning": "campsite",
+    "level": "B1"
+  },
+  {
+    "noun": "Chance",
+    "article": "die",
+    "plural": "Chancen",
+    "meaning": "chance, opportunity",
+    "level": "B1"
+  },
+  {
+    "noun": "Chancengerechtigkeit",
+    "article": "die",
+    "plural": "Chancengerechtigkeiten",
+    "meaning": "equality of opportunity",
+    "level": "B1"
+  },
+  {
+    "noun": "Charakter",
+    "article": "der",
+    "plural": "Charaktere",
+    "meaning": "character",
+    "level": "B1"
+  },
+  {
+    "noun": "Chat",
+    "article": "der",
+    "plural": "Chats",
+    "meaning": "chat",
     "level": "B1"
   },
   {
@@ -148,6 +666,13 @@
     "meaning": "data protection",
     "level": "B1",
     "singular_only": true
+  },
+  {
+    "noun": "Datenschutzrichtlinie",
+    "article": "die",
+    "plural": "Datenschutzrichtlinien",
+    "meaning": "data protection policy",
+    "level": "B1"
   },
   {
     "noun": "Demokratie",
@@ -164,10 +689,45 @@
     "level": "B1"
   },
   {
-    "noun": "Diät",
+    "noun": "Desinfektionsmittel",
+    "article": "das",
+    "plural": "Desinfektionsmittel",
+    "meaning": "disinfectant",
+    "level": "B1"
+  },
+  {
+    "noun": "Desinformation",
     "article": "die",
-    "plural": "Diäten",
-    "meaning": "diet",
+    "plural": "Desinformationen",
+    "meaning": "disinformation",
+    "level": "B1"
+  },
+  {
+    "noun": "Dieb",
+    "article": "der",
+    "plural": "Diebe",
+    "meaning": "thief",
+    "level": "B1"
+  },
+  {
+    "noun": "Diebin",
+    "article": "die",
+    "plural": "Diebinnen",
+    "meaning": "female thief",
+    "level": "B1"
+  },
+  {
+    "noun": "Dienst",
+    "article": "der",
+    "plural": "Dienste",
+    "meaning": "service",
+    "level": "B1"
+  },
+  {
+    "noun": "Dienstreise",
+    "article": "die",
+    "plural": "Dienstreisen",
+    "meaning": "business trip",
     "level": "B1"
   },
   {
@@ -178,10 +738,87 @@
     "level": "B1"
   },
   {
+    "noun": "Diskussion",
+    "article": "die",
+    "plural": "Diskussionen",
+    "meaning": "discussion",
+    "level": "B1"
+  },
+  {
+    "noun": "Distanz",
+    "article": "die",
+    "plural": "Distanzen",
+    "meaning": "distance",
+    "level": "B1"
+  },
+  {
+    "noun": "Diät",
+    "article": "die",
+    "plural": "Diäten",
+    "meaning": "diet",
+    "level": "B1"
+  },
+  {
+    "noun": "Dokumentation",
+    "article": "die",
+    "plural": "Dokumentationen",
+    "meaning": "documentary",
+    "level": "B1"
+  },
+  {
+    "noun": "Drittel",
+    "article": "das",
+    "plural": "Drittel",
+    "meaning": "third (fraction)",
+    "level": "B1"
+  },
+  {
+    "noun": "Dürreperiode",
+    "article": "die",
+    "plural": "Dürreperioden",
+    "meaning": "drought period",
+    "level": "B1"
+  },
+  {
+    "noun": "Ehrenamt",
+    "article": "das",
+    "plural": "Ehrenämter",
+    "meaning": "voluntary work",
+    "level": "B1"
+  },
+  {
+    "noun": "Eigeninitiative",
+    "article": "die",
+    "plural": "Eigeninitiativen",
+    "meaning": "personal initiative",
+    "level": "B1"
+  },
+  {
     "noun": "Eigenschaft",
     "article": "die",
     "plural": "Eigenschaften",
     "meaning": "quality, trait",
+    "level": "B1"
+  },
+  {
+    "noun": "Eigentum",
+    "article": "das",
+    "plural": "Eigentume",
+    "meaning": "property, possession",
+    "level": "B1"
+  },
+  {
+    "noun": "Einbrecher",
+    "article": "der",
+    "plural": "Einbrecher",
+    "meaning": "burglar",
+    "level": "B1"
+  },
+  {
+    "noun": "Eindruck",
+    "article": "der",
+    "plural": "Eindrücke",
+    "meaning": "impression",
     "level": "B1"
   },
   {
@@ -190,6 +827,14 @@
     "plural": "Einkommen",
     "meaning": "income",
     "level": "B1"
+  },
+  {
+    "noun": "Einreisebestimmungen",
+    "article": "die",
+    "plural": "",
+    "meaning": "entry requirements",
+    "level": "B1",
+    "plural_only": true
   },
   {
     "noun": "Einrichtung",
@@ -203,6 +848,27 @@
     "article": "die",
     "plural": "Einwanderungen",
     "meaning": "immigration",
+    "level": "B1"
+  },
+  {
+    "noun": "Einwohner",
+    "article": "der",
+    "plural": "Einwohner",
+    "meaning": "inhabitant, resident",
+    "level": "B1"
+  },
+  {
+    "noun": "Elektroauto",
+    "article": "das",
+    "plural": "Elektroautos",
+    "meaning": "electric car",
+    "level": "B1"
+  },
+  {
+    "noun": "Elternabend",
+    "article": "der",
+    "plural": "Elternabende",
+    "meaning": "parents' evening",
     "level": "B1"
   },
   {
@@ -220,6 +886,29 @@
     "level": "B1"
   },
   {
+    "noun": "Energieeinsparung",
+    "article": "die",
+    "plural": "Energieeinsparungen",
+    "meaning": "energy saving",
+    "level": "B1"
+  },
+  {
+    "noun": "Energieverbrauch",
+    "article": "der",
+    "plural": "Energieverbräuche",
+    "meaning": "energy consumption",
+    "level": "B1"
+  },
+  {
+    "noun": "Erbe",
+    "article": "der",
+    "plural": "Erben",
+    "meaning": "heir, inheritor",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Erbe"
+  },
+  {
     "noun": "Erdbeben",
     "article": "das",
     "plural": "Erdbeben",
@@ -234,10 +923,81 @@
     "level": "B1"
   },
   {
-    "noun": "Fähigkeit",
+    "noun": "Erkrankung",
     "article": "die",
-    "plural": "Fähigkeiten",
-    "meaning": "ability",
+    "plural": "Erkrankungen",
+    "meaning": "illness / disease",
+    "level": "B1"
+  },
+  {
+    "noun": "Erlebnis",
+    "article": "das",
+    "plural": "Erlebnisse",
+    "meaning": "experience",
+    "level": "B1"
+  },
+  {
+    "noun": "Ernährungsberatung",
+    "article": "die",
+    "plural": "Ernährungsberatungen",
+    "meaning": "nutritional counselling",
+    "level": "B1"
+  },
+  {
+    "noun": "Erste Hilfe",
+    "article": "die",
+    "plural": "Erste hilfen",
+    "meaning": "first aid",
+    "level": "B1"
+  },
+  {
+    "noun": "Facharzt",
+    "article": "der",
+    "plural": "Fachärzte",
+    "meaning": "specialist doctor",
+    "level": "B1"
+  },
+  {
+    "noun": "Fachfrau",
+    "article": "die",
+    "plural": "Fachfrauen",
+    "meaning": "female expert, specialist",
+    "level": "B1"
+  },
+  {
+    "noun": "Fachgebiet",
+    "article": "das",
+    "plural": "Fachgebiete",
+    "meaning": "specialist field",
+    "level": "B1"
+  },
+  {
+    "noun": "Fachkompetenz",
+    "article": "die",
+    "plural": "Fachkompetenzen",
+    "meaning": "professional competence",
+    "level": "B1"
+  },
+  {
+    "noun": "Fachkraft",
+    "article": "die",
+    "plural": "Fachkräfte",
+    "meaning": "skilled worker",
+    "level": "B1"
+  },
+  {
+    "noun": "Fachleute",
+    "article": "die",
+    "plural": "",
+    "meaning": "experts, specialists",
+    "level": "B1",
+    "plural_only": true
+  },
+  {
+    "noun": "Fachmann",
+    "article": "der",
+    "plural": "Fachmänner",
+    "meaning": "expert",
     "level": "B1"
   },
   {
@@ -248,10 +1008,73 @@
     "level": "B1"
   },
   {
+    "noun": "Fall",
+    "article": "der",
+    "plural": "Fälle",
+    "meaning": "case",
+    "level": "B1"
+  },
+  {
+    "noun": "Falschmeldung",
+    "article": "die",
+    "plural": "Falschmeldungen",
+    "meaning": "false report",
+    "level": "B1"
+  },
+  {
+    "noun": "Farbstift",
+    "article": "der",
+    "plural": "Farbstifte",
+    "meaning": "coloured pencil",
+    "level": "B1"
+  },
+  {
+    "noun": "Feld",
+    "article": "das",
+    "plural": "Felder",
+    "meaning": "field, pitch",
+    "level": "B1"
+  },
+  {
     "noun": "Ferienwohnung",
     "article": "die",
     "plural": "Ferienwohnungen",
     "meaning": "vacation rental",
+    "level": "B1"
+  },
+  {
+    "noun": "Fernsehprogramm",
+    "article": "das",
+    "plural": "Fernsehprogramme",
+    "meaning": "TV programme",
+    "level": "B1"
+  },
+  {
+    "noun": "Feuerwehr",
+    "article": "die",
+    "plural": "Feuerwehren",
+    "meaning": "fire brigade",
+    "level": "B1"
+  },
+  {
+    "noun": "Figur",
+    "article": "die",
+    "plural": "Figuren",
+    "meaning": "character (in fiction)",
+    "level": "B1"
+  },
+  {
+    "noun": "Fitnessstudio",
+    "article": "das",
+    "plural": "Fitnessstudios",
+    "meaning": "gym",
+    "level": "B1"
+  },
+  {
+    "noun": "Flöte",
+    "article": "die",
+    "plural": "Flöten",
+    "meaning": "flute",
     "level": "B1"
   },
   {
@@ -261,6 +1084,20 @@
     "meaning": "refugees",
     "level": "B1",
     "plural_only": true
+  },
+  {
+    "noun": "Flüchtlingshilfe",
+    "article": "die",
+    "plural": "Flüchtlingshilfen",
+    "meaning": "refugee aid",
+    "level": "B1"
+  },
+  {
+    "noun": "Flüchtlingsunterkunft",
+    "article": "die",
+    "plural": "Flüchtlingsunterkünfte",
+    "meaning": "refugee accommodation",
+    "level": "B1"
   },
   {
     "noun": "Forschung",
@@ -277,6 +1114,35 @@
     "level": "B1"
   },
   {
+    "noun": "Fortbildungsmaßnahme",
+    "article": "die",
+    "plural": "Fortbildungsmaßnahmen",
+    "meaning": "training measure",
+    "level": "B1"
+  },
+  {
+    "noun": "Fotoapparat",
+    "article": "der",
+    "plural": "Fotoapparate",
+    "meaning": "camera",
+    "level": "B1"
+  },
+  {
+    "noun": "Frechheit",
+    "article": "die",
+    "plural": "Frechheiten",
+    "meaning": "cheek, nerve, impudence",
+    "level": "B1"
+  },
+  {
+    "noun": "Freelancer",
+    "article": "der",
+    "plural": "",
+    "meaning": "freelancer",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
     "noun": "Freiberufler",
     "article": "der",
     "plural": "Freiberufler",
@@ -291,10 +1157,40 @@
     "level": "B1"
   },
   {
+    "noun": "Fremde",
+    "article": "der/die",
+    "plural": "Fremden",
+    "meaning": "stranger, foreigner",
+    "level": "B1",
+    "nominalized_adj": true
+  },
+  {
+    "noun": "Frieden",
+    "article": "der",
+    "plural": "",
+    "meaning": "peace",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
     "noun": "Frist",
     "article": "die",
     "plural": "Fristen",
     "meaning": "deadline",
+    "level": "B1"
+  },
+  {
+    "noun": "Frucht",
+    "article": "die",
+    "plural": "Früchte",
+    "meaning": "fruit",
+    "level": "B1"
+  },
+  {
+    "noun": "Fähigkeit",
+    "article": "die",
+    "plural": "Fähigkeiten",
+    "meaning": "ability",
     "level": "B1"
   },
   {
@@ -312,10 +1208,96 @@
     "level": "B1"
   },
   {
+    "noun": "Gebiet",
+    "article": "das",
+    "plural": "Gebiete",
+    "meaning": "area, region",
+    "level": "B1"
+  },
+  {
+    "noun": "Gedicht",
+    "article": "das",
+    "plural": "Gedichte",
+    "meaning": "poem",
+    "level": "B1"
+  },
+  {
+    "noun": "Gegend",
+    "article": "die",
+    "plural": "Gegenden",
+    "meaning": "area, region",
+    "level": "B1"
+  },
+  {
+    "noun": "Gegensatz",
+    "article": "der",
+    "plural": "Gegensätze",
+    "meaning": "contrast, opposite",
+    "level": "B1"
+  },
+  {
+    "noun": "Gehalt",
+    "article": "der",
+    "plural": "Gehalte",
+    "meaning": "content, percentage, substance (e.g. Alkoholgehalt)",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Gehalt"
+  },
+  {
+    "noun": "Gehaltsabrechnung",
+    "article": "die",
+    "plural": "Gehaltsabrechnungen",
+    "meaning": "payslip",
+    "level": "B1"
+  },
+  {
+    "noun": "Gehaltserhöhung",
+    "article": "die",
+    "plural": "Gehaltserhöhungen",
+    "meaning": "pay rise",
+    "level": "B1"
+  },
+  {
+    "noun": "Gehaltsgespräch",
+    "article": "das",
+    "plural": "Gehaltsgespräche",
+    "meaning": "salary negotiation",
+    "level": "B1"
+  },
+  {
+    "noun": "Gehaltsverhandlung",
+    "article": "die",
+    "plural": "Gehaltsverhandlungen",
+    "meaning": "salary negotiation",
+    "level": "B1"
+  },
+  {
+    "noun": "Geheimnis",
+    "article": "das",
+    "plural": "Geheimnisse",
+    "meaning": "secret",
+    "level": "B1"
+  },
+  {
     "noun": "Gemeinde",
     "article": "die",
     "plural": "Gemeinden",
     "meaning": "community",
+    "level": "B1"
+  },
+  {
+    "noun": "Gemeindeverwaltung",
+    "article": "die",
+    "plural": "Gemeindeverwaltungen",
+    "meaning": "local administration",
+    "level": "B1"
+  },
+  {
+    "noun": "Generationenvertrag",
+    "article": "der",
+    "plural": "Generationenverträge",
+    "meaning": "intergenerational contract",
     "level": "B1"
   },
   {
@@ -338,6 +1320,28 @@
     "plural": "Gesamtschulen",
     "meaning": "comprehensive school",
     "level": "B1"
+  },
+  {
+    "noun": "Geschwindigkeit",
+    "article": "die",
+    "plural": "Geschwindigkeiten",
+    "meaning": "speed",
+    "level": "B1"
+  },
+  {
+    "noun": "Geschwindigkeitsbeschränkung",
+    "article": "die",
+    "plural": "Geschwindigkeitsbeschränkungen",
+    "meaning": "speed limit",
+    "level": "B1"
+  },
+  {
+    "noun": "Geschäftsleute",
+    "article": "die",
+    "plural": "",
+    "meaning": "businesspeople",
+    "level": "B1",
+    "plural_only": true
   },
   {
     "noun": "Gesundheit",
@@ -369,6 +1373,20 @@
     "level": "B1"
   },
   {
+    "noun": "Gewissen",
+    "article": "das",
+    "plural": "Gewissen",
+    "meaning": "conscience",
+    "level": "B1"
+  },
+  {
+    "noun": "Gewürz",
+    "article": "das",
+    "plural": "Gewürze",
+    "meaning": "spice",
+    "level": "B1"
+  },
+  {
     "noun": "Gleichberechtigung",
     "article": "die",
     "plural": "Gleichberechtigungen",
@@ -376,10 +1394,80 @@
     "level": "B1"
   },
   {
+    "noun": "Gott",
+    "article": "der",
+    "plural": "Götter",
+    "meaning": "god",
+    "level": "B1"
+  },
+  {
+    "noun": "Grenzübergang",
+    "article": "der",
+    "plural": "Grenzübergänge",
+    "meaning": "border crossing",
+    "level": "B1"
+  },
+  {
+    "noun": "Grieche",
+    "article": "der",
+    "plural": "Griechen",
+    "meaning": "Greek (person)",
+    "level": "B1"
+  },
+  {
+    "noun": "Griechin",
+    "article": "die",
+    "plural": "Griechinnen",
+    "meaning": "Greek woman",
+    "level": "B1"
+  },
+  {
+    "noun": "Griff",
+    "article": "der",
+    "plural": "Griffe",
+    "meaning": "handle, grip",
+    "level": "B1"
+  },
+  {
+    "noun": "Großstadt",
+    "article": "die",
+    "plural": "Großstädte",
+    "meaning": "big city",
+    "level": "B1"
+  },
+  {
+    "noun": "Grundlage",
+    "article": "die",
+    "plural": "Grundlagen",
+    "meaning": "basis, foundation",
+    "level": "B1"
+  },
+  {
+    "noun": "Grundsicherung",
+    "article": "die",
+    "plural": "Grundsicherungen",
+    "meaning": "basic social security",
+    "level": "B1"
+  },
+  {
     "noun": "Handel",
     "article": "der",
     "plural": "Händel",
     "meaning": "trade",
+    "level": "B1"
+  },
+  {
+    "noun": "Hausarzt",
+    "article": "der",
+    "plural": "Hausärzte",
+    "meaning": "general practitioner",
+    "level": "B1"
+  },
+  {
+    "noun": "Heilmittel",
+    "article": "das",
+    "plural": "Heilmittel",
+    "meaning": "remedy / cure",
     "level": "B1"
   },
   {
@@ -397,10 +1485,38 @@
     "level": "B1"
   },
   {
+    "noun": "Herkunft",
+    "article": "die",
+    "plural": "Herkünfte",
+    "meaning": "origin",
+    "level": "B1"
+  },
+  {
+    "noun": "Herkunftsland",
+    "article": "das",
+    "plural": "Herkunftsländer",
+    "meaning": "country of origin",
+    "level": "B1"
+  },
+  {
+    "noun": "Herzerkrankung",
+    "article": "die",
+    "plural": "Herzerkrankungen",
+    "meaning": "heart disease",
+    "level": "B1"
+  },
+  {
     "noun": "Hinflug",
     "article": "der",
     "plural": "Hinflüge",
     "meaning": "outbound flight",
+    "level": "B1"
+  },
+  {
+    "noun": "Hit",
+    "article": "der",
+    "plural": "Hits",
+    "meaning": "hit",
     "level": "B1"
   },
   {
@@ -411,10 +1527,46 @@
     "level": "B1"
   },
   {
+    "noun": "Horn",
+    "article": "das",
+    "plural": "Hörner",
+    "meaning": "animal horn, brass instrument; horn material",
+    "level": "B1",
+    "double_plural": true
+  },
+  {
+    "noun": "Hostel",
+    "article": "das",
+    "plural": "Hostels",
+    "meaning": "hostel",
+    "level": "B1"
+  },
+  {
+    "noun": "ICE",
+    "article": "der",
+    "plural": "ICE",
+    "meaning": "high-speed train (Intercity-Express)",
+    "level": "B1"
+  },
+  {
+    "noun": "Immunschwäche",
+    "article": "die",
+    "plural": "Immunschwächen",
+    "meaning": "immune deficiency",
+    "level": "B1"
+  },
+  {
     "noun": "Immunsystem",
     "article": "das",
     "plural": "Immunsysteme",
     "meaning": "immune system",
+    "level": "B1"
+  },
+  {
+    "noun": "Impfbescheinigung",
+    "article": "die",
+    "plural": "Impfbescheinigungen",
+    "meaning": "vaccination certificate",
     "level": "B1"
   },
   {
@@ -446,10 +1598,60 @@
     "level": "B1"
   },
   {
+    "noun": "Inhaltswarnung",
+    "article": "die",
+    "plural": "Inhaltswarnungen",
+    "meaning": "content warning",
+    "level": "B1"
+  },
+  {
+    "noun": "Innenstadt",
+    "article": "die",
+    "plural": "Innenstädte",
+    "meaning": "city centre",
+    "level": "B1"
+  },
+  {
+    "noun": "Instrument",
+    "article": "das",
+    "plural": "Instrumente",
+    "meaning": "instrument",
+    "level": "B1"
+  },
+  {
     "noun": "Integration",
     "article": "die",
     "plural": "Integrationen",
     "meaning": "integration",
+    "level": "B1"
+  },
+  {
+    "noun": "Integrationskurs",
+    "article": "der",
+    "plural": "Integrationskurse",
+    "meaning": "integration course",
+    "level": "B1"
+  },
+  {
+    "noun": "Jahresziel",
+    "article": "das",
+    "plural": "Jahresziele",
+    "meaning": "annual target",
+    "level": "B1"
+  },
+  {
+    "noun": "Jugendschutz",
+    "article": "der",
+    "plural": "",
+    "meaning": "youth protection",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Kampf",
+    "article": "der",
+    "plural": "Kämpfe",
+    "meaning": "fight, struggle",
     "level": "B1"
   },
   {
@@ -460,10 +1662,31 @@
     "level": "B1"
   },
   {
+    "noun": "Kasten",
+    "article": "der",
+    "plural": "Kästen",
+    "meaning": "box, crate",
+    "level": "B1"
+  },
+  {
     "noun": "Katastrophe",
     "article": "die",
     "plural": "Katastrophen",
     "meaning": "catastrophe",
+    "level": "B1"
+  },
+  {
+    "noun": "Kauffrau",
+    "article": "die",
+    "plural": "Kauffrauen",
+    "meaning": "businesswoman, tradeswoman",
+    "level": "B1"
+  },
+  {
+    "noun": "Kaufmann",
+    "article": "der",
+    "plural": "Kaufmänner",
+    "meaning": "merchant, businessman",
     "level": "B1"
   },
   {
@@ -474,6 +1697,54 @@
     "level": "B1"
   },
   {
+    "noun": "Kenntnisse",
+    "article": "die",
+    "plural": "",
+    "meaning": "knowledge, skills",
+    "level": "B1",
+    "plural_only": true
+  },
+  {
+    "noun": "Kiefer",
+    "article": "der",
+    "plural": "Kiefer",
+    "meaning": "jaw, jawbone",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Kiefer"
+  },
+  {
+    "noun": "Kiefer",
+    "article": "die",
+    "plural": "Kiefern",
+    "meaning": "pine tree",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Kiefer"
+  },
+  {
+    "noun": "Kinderbetreuung",
+    "article": "die",
+    "plural": "",
+    "meaning": "childcare",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Kindergeld",
+    "article": "das",
+    "plural": "Kindergelder",
+    "meaning": "child benefit",
+    "level": "B1"
+  },
+  {
+    "noun": "Klickrate",
+    "article": "die",
+    "plural": "Klickraten",
+    "meaning": "click-through rate",
+    "level": "B1"
+  },
+  {
     "noun": "Klimaerwärmung",
     "article": "die",
     "plural": "Klimaerwärmungen",
@@ -481,10 +1752,32 @@
     "level": "B1"
   },
   {
+    "noun": "Klimaschutz",
+    "article": "der",
+    "plural": "",
+    "meaning": "climate protection",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
     "noun": "Klimawandel",
     "article": "der",
     "plural": "Klimawandel",
     "meaning": "climate change",
+    "level": "B1"
+  },
+  {
+    "noun": "Klinik",
+    "article": "die",
+    "plural": "Kliniken",
+    "meaning": "clinic / hospital",
+    "level": "B1"
+  },
+  {
+    "noun": "Knopf",
+    "article": "der",
+    "plural": "Knöpfe",
+    "meaning": "button",
     "level": "B1"
   },
   {
@@ -495,10 +1788,87 @@
     "level": "B1"
   },
   {
+    "noun": "Kollektivvertrag",
+    "article": "der",
+    "plural": "Kollektivverträge",
+    "meaning": "collective agreement",
+    "level": "B1"
+  },
+  {
+    "noun": "Kompromiss",
+    "article": "der",
+    "plural": "Kompromisse",
+    "meaning": "compromise",
+    "level": "B1"
+  },
+  {
+    "noun": "Konferenz",
+    "article": "die",
+    "plural": "Konferenzen",
+    "meaning": "conference",
+    "level": "B1"
+  },
+  {
     "noun": "Konflikt",
     "article": "der",
     "plural": "Konflikte",
     "meaning": "conflict",
+    "level": "B1"
+  },
+  {
+    "noun": "Kontinent",
+    "article": "der",
+    "plural": "Kontinente",
+    "meaning": "continent",
+    "level": "B1"
+  },
+  {
+    "noun": "Kopie",
+    "article": "die",
+    "plural": "Kopien",
+    "meaning": "copy",
+    "level": "B1"
+  },
+  {
+    "noun": "Kostüm",
+    "article": "das",
+    "plural": "Kostüme",
+    "meaning": "costume",
+    "level": "B1"
+  },
+  {
+    "noun": "Kraft",
+    "article": "die",
+    "plural": "Kräfte",
+    "meaning": "strength, power",
+    "level": "B1"
+  },
+  {
+    "noun": "Krankenversicherung",
+    "article": "die",
+    "plural": "Krankenversicherungen",
+    "meaning": "health insurance",
+    "level": "B1"
+  },
+  {
+    "noun": "Krankmeldung",
+    "article": "die",
+    "plural": "Krankmeldungen",
+    "meaning": "sick note",
+    "level": "B1"
+  },
+  {
+    "noun": "Kreis",
+    "article": "der",
+    "plural": "Kreise",
+    "meaning": "circle, group",
+    "level": "B1"
+  },
+  {
+    "noun": "Krieg",
+    "article": "der",
+    "plural": "Kriege",
+    "meaning": "war",
     "level": "B1"
   },
   {
@@ -510,6 +1880,43 @@
     "singular_only": true
   },
   {
+    "noun": "Kristall",
+    "article": "der",
+    "plural": "Kristalle",
+    "meaning": "mineral crystal, gemstone",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Kristall"
+  },
+  {
+    "noun": "Kuli",
+    "article": "der",
+    "plural": "Kulis",
+    "meaning": "pen, biro",
+    "level": "B1"
+  },
+  {
+    "noun": "Kursleiter",
+    "article": "der",
+    "plural": "Kursleiter",
+    "meaning": "course leader",
+    "level": "B1"
+  },
+  {
+    "noun": "Kursleiterin",
+    "article": "die",
+    "plural": "Kursleiterinnen",
+    "meaning": "female course instructor",
+    "level": "B1"
+  },
+  {
+    "noun": "Körpergewicht",
+    "article": "das",
+    "plural": "Körpergewichte",
+    "meaning": "body weight",
+    "level": "B1"
+  },
+  {
     "noun": "Kündigung",
     "article": "die",
     "plural": "Kündigungen",
@@ -517,10 +1924,31 @@
     "level": "B1"
   },
   {
+    "noun": "Kündigungsfrist",
+    "article": "die",
+    "plural": "Kündigungsfristen",
+    "meaning": "notice period",
+    "level": "B1"
+  },
+  {
+    "noun": "Lager",
+    "article": "das",
+    "plural": "Lager",
+    "meaning": "warehouse, storage",
+    "level": "B1"
+  },
+  {
     "noun": "Landung",
     "article": "die",
     "plural": "Landungen",
     "meaning": "landing",
+    "level": "B1"
+  },
+  {
+    "noun": "Lebensmittelunverträglichkeit",
+    "article": "die",
+    "plural": "Lebensmittelunverträglichkeiten",
+    "meaning": "food intolerance",
     "level": "B1"
   },
   {
@@ -545,10 +1973,182 @@
     "level": "B1"
   },
   {
+    "noun": "Leitbild",
+    "article": "das",
+    "plural": "Leitbilder",
+    "meaning": "corporate vision / mission statement",
+    "level": "B1"
+  },
+  {
+    "noun": "Leitungswasser",
+    "article": "das",
+    "plural": "",
+    "meaning": "tap water",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Lieferung",
+    "article": "die",
+    "plural": "Lieferungen",
+    "meaning": "delivery",
+    "level": "B1"
+  },
+  {
+    "noun": "Lift",
+    "article": "der",
+    "plural": "Lifte",
+    "meaning": "lift, elevator",
+    "level": "B1"
+  },
+  {
+    "noun": "Limonade",
+    "article": "die",
+    "plural": "Limonaden",
+    "meaning": "lemonade, soft drink",
+    "level": "B1"
+  },
+  {
+    "noun": "Link",
+    "article": "der",
+    "plural": "Links",
+    "meaning": "link",
+    "level": "B1"
+  },
+  {
+    "noun": "Livestream",
+    "article": "der",
+    "plural": "Livestreams",
+    "meaning": "livestream",
+    "level": "B1"
+  },
+  {
+    "noun": "Lohnzettel",
+    "article": "der",
+    "plural": "Lohnzettel",
+    "meaning": "payslip",
+    "level": "B1"
+  },
+  {
+    "noun": "Lärmschutz",
+    "article": "der",
+    "plural": "",
+    "meaning": "noise protection",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Löwe",
+    "article": "der",
+    "plural": "Löwen",
+    "meaning": "lion",
+    "level": "B1"
+  },
+  {
+    "noun": "Lüge",
+    "article": "die",
+    "plural": "Lügen",
+    "meaning": "lie",
+    "level": "B1"
+  },
+  {
+    "noun": "Macht",
+    "article": "die",
+    "plural": "Mächte",
+    "meaning": "power",
+    "level": "B1"
+  },
+  {
+    "noun": "Maler",
+    "article": "der",
+    "plural": "Maler",
+    "meaning": "painter",
+    "level": "B1"
+  },
+  {
+    "noun": "Malerin",
+    "article": "die",
+    "plural": "Malerinnen",
+    "meaning": "female painter",
+    "level": "B1"
+  },
+  {
+    "noun": "Manager",
+    "article": "der",
+    "plural": "Manager",
+    "meaning": "manager",
+    "level": "B1"
+  },
+  {
+    "noun": "Managerin",
+    "article": "die",
+    "plural": "Managerinnen",
+    "meaning": "female manager",
+    "level": "B1"
+  },
+  {
+    "noun": "Mangel",
+    "article": "der",
+    "plural": "Mängel",
+    "meaning": "lack, shortage",
+    "level": "B1"
+  },
+  {
+    "noun": "Mast",
+    "article": "der",
+    "plural": "Masten",
+    "meaning": "ship mast, utility pole, pylon",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Mast"
+  },
+  {
+    "noun": "Mauer",
+    "article": "die",
+    "plural": "Mauern",
+    "meaning": "wall",
+    "level": "B1"
+  },
+  {
+    "noun": "Maßnahme",
+    "article": "die",
+    "plural": "Maßnahmen",
+    "meaning": "measure, action",
+    "level": "B1"
+  },
+  {
     "noun": "Medienkompetenz",
     "article": "die",
     "plural": "Medienkompetenzen",
     "meaning": "media literacy",
+    "level": "B1"
+  },
+  {
+    "noun": "Medienrecht",
+    "article": "das",
+    "plural": "Medienrechte",
+    "meaning": "media law",
+    "level": "B1"
+  },
+  {
+    "noun": "Medienunternehmen",
+    "article": "das",
+    "plural": "Medienunternehmen",
+    "meaning": "media company",
+    "level": "B1"
+  },
+  {
+    "noun": "Meeresverschmutzung",
+    "article": "die",
+    "plural": "Meeresverschmutzungen",
+    "meaning": "ocean pollution",
+    "level": "B1"
+  },
+  {
+    "noun": "Mehrgenerationenhaus",
+    "article": "das",
+    "plural": "Mehrgenerationenhäuser",
+    "meaning": "multigenerational house",
     "level": "B1"
   },
   {
@@ -566,6 +2166,14 @@
     "level": "B1"
   },
   {
+    "noun": "Menschenwürde",
+    "article": "die",
+    "plural": "",
+    "meaning": "human dignity",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
     "noun": "Mietvertrag",
     "article": "der",
     "plural": "Mietverträge",
@@ -580,10 +2188,95 @@
     "level": "B1"
   },
   {
+    "noun": "Migrationshintergrund",
+    "article": "der",
+    "plural": "Migrationshintergründe",
+    "meaning": "migration background",
+    "level": "B1"
+  },
+  {
     "noun": "Minderheit",
     "article": "die",
     "plural": "Minderheiten",
     "meaning": "minority",
+    "level": "B1"
+  },
+  {
+    "noun": "Ministerium",
+    "article": "das",
+    "plural": "Ministerien",
+    "meaning": "ministry",
+    "level": "B1"
+  },
+  {
+    "noun": "Missgeschick",
+    "article": "das",
+    "plural": "Missgeschicke",
+    "meaning": "mishap",
+    "level": "B1"
+  },
+  {
+    "noun": "Mitfahrgelegenheit",
+    "article": "die",
+    "plural": "Mitfahrgelegenheiten",
+    "meaning": "car share / lift",
+    "level": "B1"
+  },
+  {
+    "noun": "Mitreisende",
+    "article": "der",
+    "plural": "",
+    "meaning": "fellow traveller",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Mittel",
+    "article": "das",
+    "plural": "Mittel",
+    "meaning": "remedy, means",
+    "level": "B1"
+  },
+  {
+    "noun": "Moderator",
+    "article": "der",
+    "plural": "Moderatoren",
+    "meaning": "moderator, host",
+    "level": "B1"
+  },
+  {
+    "noun": "Moderatorin",
+    "article": "die",
+    "plural": "Moderatorinnen",
+    "meaning": "female moderator, host",
+    "level": "B1"
+  },
+  {
+    "noun": "Monitor",
+    "article": "der",
+    "plural": "Monitore",
+    "meaning": "monitor",
+    "level": "B1"
+  },
+  {
+    "noun": "Motorroller",
+    "article": "der",
+    "plural": "Motorroller",
+    "meaning": "scooter, moped",
+    "level": "B1"
+  },
+  {
+    "noun": "Mountainbike",
+    "article": "das",
+    "plural": "Mountainbikes",
+    "meaning": "mountain bike",
+    "level": "B1"
+  },
+  {
+    "noun": "Mühe",
+    "article": "die",
+    "plural": "Mühen",
+    "meaning": "effort, trouble",
     "level": "B1"
   },
   {
@@ -593,6 +2286,20 @@
     "meaning": "waste separation",
     "level": "B1",
     "singular_only": true
+  },
+  {
+    "noun": "Nachbarschaft",
+    "article": "die",
+    "plural": "Nachbarschaften",
+    "meaning": "neighbourhood",
+    "level": "B1"
+  },
+  {
+    "noun": "Nachbarschaftshilfe",
+    "article": "die",
+    "plural": "Nachbarschaftshilfen",
+    "meaning": "neighbourhood help",
+    "level": "B1"
   },
   {
     "noun": "Nachfrage",
@@ -609,10 +2316,38 @@
     "level": "B1"
   },
   {
+    "noun": "Nachrichtenmagazin",
+    "article": "das",
+    "plural": "Nachrichtenmagazine",
+    "meaning": "news magazine",
+    "level": "B1"
+  },
+  {
     "noun": "Nachrichtensprecherin",
     "article": "die",
     "plural": "Nachrichtensprecherinnen",
     "meaning": "news anchor",
+    "level": "B1"
+  },
+  {
+    "noun": "Nachtisch",
+    "article": "der",
+    "plural": "Nachtische",
+    "meaning": "dessert",
+    "level": "B1"
+  },
+  {
+    "noun": "Naturerlebnis",
+    "article": "das",
+    "plural": "Naturerlebnisse",
+    "meaning": "nature experience",
+    "level": "B1"
+  },
+  {
+    "noun": "Naturlehrpfad",
+    "article": "der",
+    "plural": "Naturlehrpfade",
+    "meaning": "nature trail",
     "level": "B1"
   },
   {
@@ -630,6 +2365,28 @@
     "level": "B1"
   },
   {
+    "noun": "Nerv",
+    "article": "der",
+    "plural": "Nerven",
+    "meaning": "nerve",
+    "level": "B1"
+  },
+  {
+    "noun": "Netzwerken",
+    "article": "das",
+    "plural": "",
+    "meaning": "networking",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Newsfeed",
+    "article": "der",
+    "plural": "Newsfeeds",
+    "meaning": "newsfeed",
+    "level": "B1"
+  },
+  {
     "noun": "Notaufnahme",
     "article": "die",
     "plural": "Notaufnahmen",
@@ -644,10 +2401,39 @@
     "level": "B1"
   },
   {
-    "noun": "Öffentlichkeit",
+    "noun": "Notfall",
+    "article": "der",
+    "plural": "Notfälle",
+    "meaning": "emergency",
+    "level": "B1"
+  },
+  {
+    "noun": "Notruf",
+    "article": "der",
+    "plural": "Notrufe",
+    "meaning": "emergency call",
+    "level": "B1"
+  },
+  {
+    "noun": "Obdachlose",
+    "article": "der/die",
+    "plural": "Obdachlosen",
+    "meaning": "homeless person",
+    "level": "B1",
+    "nominalized_adj": true
+  },
+  {
+    "noun": "Obdachlosigkeit",
     "article": "die",
-    "plural": "Öffentlichkeiten",
-    "meaning": "public",
+    "plural": "Obdachlosigkeiten",
+    "meaning": "homelessness",
+    "level": "B1"
+  },
+  {
+    "noun": "Ordner",
+    "article": "der",
+    "plural": "Ordner",
+    "meaning": "folder",
     "level": "B1"
   },
   {
@@ -665,12 +2451,40 @@
     "level": "B1"
   },
   {
+    "noun": "Pestizid",
+    "article": "das",
+    "plural": "Pestizide",
+    "meaning": "pesticide",
+    "level": "B1"
+  },
+  {
     "noun": "Pflege",
     "article": "die",
     "plural": "",
     "meaning": "care, nursing",
     "level": "B1",
     "singular_only": true
+  },
+  {
+    "noun": "Pflegeheim",
+    "article": "das",
+    "plural": "Pflegeheime",
+    "meaning": "care home",
+    "level": "B1"
+  },
+  {
+    "noun": "Pflegeperson",
+    "article": "die",
+    "plural": "Pflegepersonen",
+    "meaning": "carer",
+    "level": "B1"
+  },
+  {
+    "noun": "Pflegeversicherung",
+    "article": "die",
+    "plural": "Pflegeversicherungen",
+    "meaning": "care insurance",
+    "level": "B1"
   },
   {
     "noun": "Pflicht",
@@ -687,10 +2501,101 @@
     "level": "B1"
   },
   {
+    "noun": "Philosophie",
+    "article": "die",
+    "plural": "Philosophien",
+    "meaning": "philosophy",
+    "level": "B1"
+  },
+  {
+    "noun": "Physiotherapie",
+    "article": "die",
+    "plural": "Physiotherapien",
+    "meaning": "physiotherapy",
+    "level": "B1"
+  },
+  {
+    "noun": "Plastiktüte",
+    "article": "die",
+    "plural": "Plastiktüten",
+    "meaning": "plastic bag",
+    "level": "B1"
+  },
+  {
+    "noun": "Podcast",
+    "article": "der",
+    "plural": "Podcasts",
+    "meaning": "podcast",
+    "level": "B1"
+  },
+  {
     "noun": "Presse",
     "article": "die",
     "plural": "Pressen",
     "meaning": "press",
+    "level": "B1"
+  },
+  {
+    "noun": "Pressefreiheit",
+    "article": "die",
+    "plural": "Pressefreiheiten",
+    "meaning": "freedom of the press",
+    "level": "B1"
+  },
+  {
+    "noun": "Printmedium",
+    "article": "das",
+    "plural": "Printmedien",
+    "meaning": "print medium",
+    "level": "B1"
+  },
+  {
+    "noun": "Probezeit",
+    "article": "die",
+    "plural": "Probezeiten",
+    "meaning": "probationary period",
+    "level": "B1"
+  },
+  {
+    "noun": "Profi",
+    "article": "der",
+    "plural": "Profis",
+    "meaning": "professional",
+    "level": "B1"
+  },
+  {
+    "noun": "Protokoll",
+    "article": "das",
+    "plural": "Protokolle",
+    "meaning": "minutes / log",
+    "level": "B1"
+  },
+  {
+    "noun": "Präsident",
+    "article": "der",
+    "plural": "Präsidenten",
+    "meaning": "president",
+    "level": "B1"
+  },
+  {
+    "noun": "Präsidentin",
+    "article": "die",
+    "plural": "Präsidentinnen",
+    "meaning": "female president",
+    "level": "B1"
+  },
+  {
+    "noun": "Psyche",
+    "article": "die",
+    "plural": "Psychen",
+    "meaning": "psyche / mental health",
+    "level": "B1"
+  },
+  {
+    "noun": "Puzzle",
+    "article": "das",
+    "plural": "Puzzles",
+    "meaning": "puzzle, jigsaw",
     "level": "B1"
   },
   {
@@ -708,10 +2613,45 @@
     "level": "B1"
   },
   {
+    "noun": "Querstraße",
+    "article": "die",
+    "plural": "Querstraßen",
+    "meaning": "side street, cross street",
+    "level": "B1"
+  },
+  {
+    "noun": "Radiergummi",
+    "article": "der",
+    "plural": "Radiergummis",
+    "meaning": "eraser",
+    "level": "B1"
+  },
+  {
+    "noun": "Rand",
+    "article": "der",
+    "plural": "Ränder",
+    "meaning": "edge",
+    "level": "B1"
+  },
+  {
+    "noun": "Rasen",
+    "article": "der",
+    "plural": "Rasen",
+    "meaning": "lawn",
+    "level": "B1"
+  },
+  {
     "noun": "Realschule",
     "article": "die",
     "plural": "Realschulen",
     "meaning": "secondary school",
+    "level": "B1"
+  },
+  {
+    "noun": "Rechner",
+    "article": "der",
+    "plural": "Rechner",
+    "meaning": "computer",
     "level": "B1"
   },
   {
@@ -722,10 +2662,53 @@
     "level": "B1"
   },
   {
+    "noun": "Rechtsanwalt",
+    "article": "der",
+    "plural": "Rechtsanwälte",
+    "meaning": "lawyer",
+    "level": "B1"
+  },
+  {
+    "noun": "Rechtsanwältin",
+    "article": "die",
+    "plural": "Rechtsanwältinnen",
+    "meaning": "female lawyer",
+    "level": "B1"
+  },
+  {
+    "noun": "Rechtsberatung",
+    "article": "die",
+    "plural": "Rechtsberatungen",
+    "meaning": "legal advice",
+    "level": "B1"
+  },
+  {
+    "noun": "Recycling",
+    "article": "das",
+    "plural": "",
+    "meaning": "recycling",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Recyclingtonne",
+    "article": "die",
+    "plural": "Recyclingtonnen",
+    "meaning": "recycling bin",
+    "level": "B1"
+  },
+  {
     "noun": "Redaktion",
     "article": "die",
     "plural": "Redaktionen",
     "meaning": "editorial office",
+    "level": "B1"
+  },
+  {
+    "noun": "Rede",
+    "article": "die",
+    "plural": "Reden",
+    "meaning": "talk, speech",
     "level": "B1"
   },
   {
@@ -743,6 +2726,20 @@
     "level": "B1"
   },
   {
+    "noun": "Regenwald",
+    "article": "der",
+    "plural": "Regenwälder",
+    "meaning": "rainforest",
+    "level": "B1"
+  },
+  {
+    "noun": "Reisekrankenversicherung",
+    "article": "die",
+    "plural": "Reisekrankenversicherungen",
+    "meaning": "travel health insurance",
+    "level": "B1"
+  },
+  {
     "noun": "Reiseveranstalter",
     "article": "der",
     "plural": "Reiseveranstalter",
@@ -750,10 +2747,38 @@
     "level": "B1"
   },
   {
+    "noun": "Reiseversicherung",
+    "article": "die",
+    "plural": "Reiseversicherungen",
+    "meaning": "travel insurance",
+    "level": "B1"
+  },
+  {
+    "noun": "Reisewarnung",
+    "article": "die",
+    "plural": "Reisewarnungen",
+    "meaning": "travel warning",
+    "level": "B1"
+  },
+  {
+    "noun": "Reisezeit",
+    "article": "die",
+    "plural": "Reisezeiten",
+    "meaning": "travel time",
+    "level": "B1"
+  },
+  {
     "noun": "Renovierung",
     "article": "die",
     "plural": "Renovierungen",
     "meaning": "renovation",
+    "level": "B1"
+  },
+  {
+    "noun": "Rentenversicherung",
+    "article": "die",
+    "plural": "Rentenversicherungen",
+    "meaning": "pension insurance",
     "level": "B1"
   },
   {
@@ -778,11 +2803,40 @@
     "level": "B1"
   },
   {
+    "noun": "Risiko",
+    "article": "das",
+    "plural": "Risikos",
+    "meaning": "risk",
+    "level": "B1"
+  },
+  {
     "noun": "Rohstoff",
     "article": "der",
     "plural": "Rohstoffe",
     "meaning": "raw material",
     "level": "B1"
+  },
+  {
+    "noun": "Rufbereitschaft",
+    "article": "die",
+    "plural": "Rufbereitschaften",
+    "meaning": "on-call duty",
+    "level": "B1"
+  },
+  {
+    "noun": "Runde",
+    "article": "die",
+    "plural": "Runden",
+    "meaning": "round, group",
+    "level": "B1"
+  },
+  {
+    "noun": "Rundfunk",
+    "article": "der",
+    "plural": "",
+    "meaning": "broadcasting",
+    "level": "B1",
+    "singular_only": true
   },
   {
     "noun": "Rundreise",
@@ -792,10 +2846,89 @@
     "level": "B1"
   },
   {
+    "noun": "Rücksicht",
+    "article": "die",
+    "plural": "Rücksichten",
+    "meaning": "consideration",
+    "level": "B1"
+  },
+  {
+    "noun": "Salon",
+    "article": "der",
+    "plural": "Salons",
+    "meaning": "salon",
+    "level": "B1"
+  },
+  {
+    "noun": "Sanitäter",
+    "article": "der",
+    "plural": "Sanitäter",
+    "meaning": "paramedic",
+    "level": "B1"
+  },
+  {
+    "noun": "Schaden",
+    "article": "der",
+    "plural": "Schäden",
+    "meaning": "damage",
+    "level": "B1"
+  },
+  {
+    "noun": "Schichtarbeit",
+    "article": "die",
+    "plural": "Schichtarbeiten",
+    "meaning": "shift work",
+    "level": "B1"
+  },
+  {
+    "noun": "Schild",
+    "article": "der",
+    "plural": "Schilde",
+    "meaning": "protective shield, coat of arms",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Schild"
+  },
+  {
+    "noun": "Schlafmangel",
+    "article": "der",
+    "plural": "Schlafmängel",
+    "meaning": "lack of sleep",
+    "level": "B1"
+  },
+  {
     "noun": "Schlagzeile",
     "article": "die",
     "plural": "Schlagzeilen",
     "meaning": "headline",
+    "level": "B1"
+  },
+  {
+    "noun": "Schlange",
+    "article": "die",
+    "plural": "Schlangen",
+    "meaning": "queue, line",
+    "level": "B1"
+  },
+  {
+    "noun": "Schmerzmittel",
+    "article": "das",
+    "plural": "Schmerzmittel",
+    "meaning": "painkiller",
+    "level": "B1"
+  },
+  {
+    "noun": "Schreibblock",
+    "article": "der",
+    "plural": "Schreibblöcke",
+    "meaning": "notepad",
+    "level": "B1"
+  },
+  {
+    "noun": "Schrift",
+    "article": "die",
+    "plural": "Schriften",
+    "meaning": "script, writing",
     "level": "B1"
   },
   {
@@ -807,10 +2940,53 @@
     "plural_only": true
   },
   {
+    "noun": "Schulpflicht",
+    "article": "die",
+    "plural": "Schulpflichten",
+    "meaning": "compulsory schooling",
+    "level": "B1"
+  },
+  {
+    "noun": "Schwierigkeit",
+    "article": "die",
+    "plural": "Schwierigkeiten",
+    "meaning": "difficulty",
+    "level": "B1"
+  },
+  {
+    "noun": "Selbstmedikation",
+    "article": "die",
+    "plural": "Selbstmedikationen",
+    "meaning": "self-medication",
+    "level": "B1"
+  },
+  {
     "noun": "Selbstständigkeit",
     "article": "die",
     "plural": "Selbstständigkeiten",
     "meaning": "self-employment",
+    "level": "B1"
+  },
+  {
+    "noun": "Sieger",
+    "article": "der",
+    "plural": "Sieger",
+    "meaning": "winner",
+    "level": "B1"
+  },
+  {
+    "noun": "Sightseeing",
+    "article": "das",
+    "plural": "",
+    "meaning": "sightseeing",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Snack",
+    "article": "der",
+    "plural": "Snacks",
+    "meaning": "snack",
     "level": "B1"
   },
   {
@@ -821,11 +2997,165 @@
     "level": "B1"
   },
   {
+    "noun": "Sondermüll",
+    "article": "der",
+    "plural": "",
+    "meaning": "hazardous waste",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Song",
+    "article": "der",
+    "plural": "Songs",
+    "meaning": "song",
+    "level": "B1"
+  },
+  {
+    "noun": "Sonnenenergie",
+    "article": "die",
+    "plural": "",
+    "meaning": "solar energy",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Sozialamt",
+    "article": "das",
+    "plural": "Sozialämter",
+    "meaning": "social welfare office",
+    "level": "B1"
+  },
+  {
+    "noun": "Sozialarbeiter",
+    "article": "der",
+    "plural": "Sozialarbeiter",
+    "meaning": "social worker",
+    "level": "B1"
+  },
+  {
+    "noun": "Sozialbeitrag",
+    "article": "der",
+    "plural": "Sozialbeiträge",
+    "meaning": "social contribution",
+    "level": "B1"
+  },
+  {
+    "noun": "Sozialengagement",
+    "article": "das",
+    "plural": "Sozialengagements",
+    "meaning": "social commitment",
+    "level": "B1"
+  },
+  {
+    "noun": "Sozialhilfe",
+    "article": "die",
+    "plural": "",
+    "meaning": "social welfare",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Sozialstaat",
+    "article": "der",
+    "plural": "Sozialstaaten",
+    "meaning": "welfare state",
+    "level": "B1"
+  },
+  {
+    "noun": "Sozialwohnung",
+    "article": "die",
+    "plural": "Sozialwohnungen",
+    "meaning": "social housing",
+    "level": "B1"
+  },
+  {
+    "noun": "Speisewagen",
+    "article": "der",
+    "plural": "Speisewagen",
+    "meaning": "dining car",
+    "level": "B1"
+  },
+  {
+    "noun": "Spendenbereitschaft",
+    "article": "die",
+    "plural": "",
+    "meaning": "willingness to donate",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Sportmedizin",
+    "article": "die",
+    "plural": "",
+    "meaning": "sports medicine",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Sportverletzung",
+    "article": "die",
+    "plural": "Sportverletzungen",
+    "meaning": "sports injury",
+    "level": "B1"
+  },
+  {
+    "noun": "Staat",
+    "article": "der",
+    "plural": "Staaten",
+    "meaning": "state, country",
+    "level": "B1"
+  },
+  {
+    "noun": "Staatsangehörigkeit",
+    "article": "die",
+    "plural": "Staatsangehörigkeiten",
+    "meaning": "nationality, citizenship",
+    "level": "B1"
+  },
+  {
+    "noun": "Stadtfest",
+    "article": "das",
+    "plural": "Stadtfeste",
+    "meaning": "city festival",
+    "level": "B1"
+  },
+  {
     "noun": "Stadtteil",
     "article": "der",
     "plural": "Stadtteile",
     "meaning": "district",
     "level": "B1"
+  },
+  {
+    "noun": "Standpunkt",
+    "article": "der",
+    "plural": "Standpunkte",
+    "meaning": "point of view, standpoint",
+    "level": "B1"
+  },
+  {
+    "noun": "Stellenangebot",
+    "article": "das",
+    "plural": "Stellenangebote",
+    "meaning": "job offer",
+    "level": "B1"
+  },
+  {
+    "noun": "Stellenbeschreibung",
+    "article": "die",
+    "plural": "Stellenbeschreibungen",
+    "meaning": "job description",
+    "level": "B1"
+  },
+  {
+    "noun": "Steuer",
+    "article": "das",
+    "plural": "Steuer",
+    "meaning": "steering wheel, helm, rudder",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Steuer"
   },
   {
     "noun": "Steuern",
@@ -836,6 +3166,20 @@
     "plural_only": true
   },
   {
+    "noun": "Stimme",
+    "article": "die",
+    "plural": "Stimmen",
+    "meaning": "voice",
+    "level": "B1"
+  },
+  {
+    "noun": "Stirn",
+    "article": "die",
+    "plural": "Stirnen",
+    "meaning": "forehead",
+    "level": "B1"
+  },
+  {
     "noun": "Stockwerk",
     "article": "das",
     "plural": "Stockwerke",
@@ -843,10 +3187,113 @@
     "level": "B1"
   },
   {
+    "noun": "Stornierungsgebühr",
+    "article": "die",
+    "plural": "Stornierungsgebühren",
+    "meaning": "cancellation fee",
+    "level": "B1"
+  },
+  {
+    "noun": "Streaming-Plattform",
+    "article": "die",
+    "plural": "Streaming-Plattformen",
+    "meaning": "streaming platform",
+    "level": "B1"
+  },
+  {
+    "noun": "Streik",
+    "article": "der",
+    "plural": "Streiks",
+    "meaning": "strike",
+    "level": "B1"
+  },
+  {
+    "noun": "Stufe",
+    "article": "die",
+    "plural": "Stufen",
+    "meaning": "step, level",
+    "level": "B1"
+  },
+  {
+    "noun": "Störung",
+    "article": "die",
+    "plural": "Störungen",
+    "meaning": "disorder, disturbance",
+    "level": "B1"
+  },
+  {
+    "noun": "Suchtberatung",
+    "article": "die",
+    "plural": "Suchtberatungen",
+    "meaning": "addiction counselling",
+    "level": "B1"
+  },
+  {
+    "noun": "Sängerin",
+    "article": "die",
+    "plural": "Sängerinnen",
+    "meaning": "singer (female)",
+    "level": "B1"
+  },
+  {
+    "noun": "Tagesmutter",
+    "article": "die",
+    "plural": "Tagesmütter",
+    "meaning": "childminder",
+    "level": "B1"
+  },
+  {
+    "noun": "Tageszeitung",
+    "article": "die",
+    "plural": "Tageszeitungen",
+    "meaning": "daily newspaper",
+    "level": "B1"
+  },
+  {
+    "noun": "Tau",
+    "article": "der",
+    "plural": "",
+    "meaning": "morning dew",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Tau",
+    "singular_only": true
+  },
+  {
     "noun": "Teamarbeit",
     "article": "die",
     "plural": "Teamarbeiten",
     "meaning": "teamwork",
+    "level": "B1"
+  },
+  {
+    "noun": "Teamleiter",
+    "article": "der",
+    "plural": "Teamleiter",
+    "meaning": "team leader",
+    "level": "B1"
+  },
+  {
+    "noun": "Teil",
+    "article": "das",
+    "plural": "Teile",
+    "meaning": "piece, spare part, gadget, component",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Teil"
+  },
+  {
+    "noun": "Teilzeit",
+    "article": "die",
+    "plural": "Teilzeiten",
+    "meaning": "part-time",
+    "level": "B1"
+  },
+  {
+    "noun": "Textbaustein",
+    "article": "der",
+    "plural": "Textbausteine",
+    "meaning": "text module, template phrase",
     "level": "B1"
   },
   {
@@ -857,6 +3304,49 @@
     "level": "B1"
   },
   {
+    "noun": "Tierpark",
+    "article": "der",
+    "plural": "Tierparks",
+    "meaning": "zoo, animal park",
+    "level": "B1"
+  },
+  {
+    "noun": "Toleranz",
+    "article": "die",
+    "plural": "Toleranzen",
+    "meaning": "tolerance",
+    "level": "B1"
+  },
+  {
+    "noun": "Tote",
+    "article": "der/die",
+    "plural": "Toten",
+    "meaning": "dead person, casualty",
+    "level": "B1",
+    "nominalized_adj": true
+  },
+  {
+    "noun": "Touristeninformation",
+    "article": "die",
+    "plural": "Touristeninformationen",
+    "meaning": "tourist information",
+    "level": "B1"
+  },
+  {
+    "noun": "Tradition",
+    "article": "die",
+    "plural": "Traditionen",
+    "meaning": "tradition",
+    "level": "B1"
+  },
+  {
+    "noun": "Trainerin",
+    "article": "die",
+    "plural": "Trainerinnen",
+    "meaning": "female coach, trainer",
+    "level": "B1"
+  },
+  {
     "noun": "Treibhauseffekt",
     "article": "der",
     "plural": "Treibhauseffekte",
@@ -864,17 +3354,32 @@
     "level": "B1"
   },
   {
-    "noun": "Überfahrt",
+    "noun": "Treibhausgas-Emissionen",
     "article": "die",
-    "plural": "Überfahrten",
-    "meaning": "crossing",
+    "plural": "",
+    "meaning": "greenhouse gas emissions",
+    "level": "B1",
+    "plural_only": true
+  },
+  {
+    "noun": "Trinkwasser",
+    "article": "das",
+    "plural": "Trinkwasser",
+    "meaning": "drinking water",
     "level": "B1"
   },
   {
-    "noun": "Überweisung",
-    "article": "die",
-    "plural": "Überweisungen",
-    "meaning": "referral",
+    "noun": "Typ",
+    "article": "der",
+    "plural": "Typen",
+    "meaning": "guy, type",
+    "level": "B1"
+  },
+  {
+    "noun": "Ufer",
+    "article": "das",
+    "plural": "Ufer",
+    "meaning": "shore, bank",
     "level": "B1"
   },
   {
@@ -885,10 +3390,31 @@
     "level": "B1"
   },
   {
+    "noun": "Umtausch",
+    "article": "der",
+    "plural": "Umtausche",
+    "meaning": "exchange (of goods)",
+    "level": "B1"
+  },
+  {
     "noun": "Umweg",
     "article": "der",
     "plural": "Umwege",
     "meaning": "detour",
+    "level": "B1"
+  },
+  {
+    "noun": "Umweltbildung",
+    "article": "die",
+    "plural": "Umweltbildungen",
+    "meaning": "environmental education",
+    "level": "B1"
+  },
+  {
+    "noun": "Umweltkatastrophe",
+    "article": "die",
+    "plural": "Umweltkatastrophen",
+    "meaning": "environmental disaster",
     "level": "B1"
   },
   {
@@ -899,6 +3425,28 @@
     "level": "B1"
   },
   {
+    "noun": "Unterlagen",
+    "article": "die",
+    "plural": "",
+    "meaning": "documents",
+    "level": "B1",
+    "plural_only": true
+  },
+  {
+    "noun": "Unternehmen",
+    "article": "das",
+    "plural": "Unternehmen",
+    "meaning": "company / enterprise",
+    "level": "B1"
+  },
+  {
+    "noun": "Unterstützung",
+    "article": "die",
+    "plural": "Unterstützungen",
+    "meaning": "support",
+    "level": "B1"
+  },
+  {
     "noun": "Untersuchung",
     "article": "die",
     "plural": "Untersuchungen",
@@ -906,10 +3454,38 @@
     "level": "B1"
   },
   {
+    "noun": "Urlaubsantrag",
+    "article": "der",
+    "plural": "Urlaubsanträge",
+    "meaning": "holiday request",
+    "level": "B1"
+  },
+  {
+    "noun": "Urlaubsgeld",
+    "article": "das",
+    "plural": "Urlaubsgelder",
+    "meaning": "holiday pay",
+    "level": "B1"
+  },
+  {
     "noun": "Verantwortung",
     "article": "die",
     "plural": "Verantwortungen",
     "meaning": "responsibility",
+    "level": "B1"
+  },
+  {
+    "noun": "Verantwortung tragen",
+    "article": "die",
+    "plural": "Verantwortung tragene",
+    "meaning": "to bear responsibility",
+    "level": "B1"
+  },
+  {
+    "noun": "Verbesserung",
+    "article": "die",
+    "plural": "Verbesserungen",
+    "meaning": "improvement",
     "level": "B1"
   },
   {
@@ -934,6 +3510,72 @@
     "level": "B1"
   },
   {
+    "noun": "Verbraucherin",
+    "article": "die",
+    "plural": "Verbraucherinnen",
+    "meaning": "female consumer",
+    "level": "B1"
+  },
+  {
+    "noun": "Verdienst",
+    "article": "der",
+    "plural": "Verdienste",
+    "meaning": "earnings, salary, wages",
+    "level": "B1",
+    "is_homonym": true,
+    "homonym_group": "Verdienst"
+  },
+  {
+    "noun": "Vereinswesen",
+    "article": "das",
+    "plural": "",
+    "meaning": "club system",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Verfallsdatum",
+    "article": "das",
+    "plural": "Verfallsdaten",
+    "meaning": "expiry date",
+    "level": "B1"
+  },
+  {
+    "noun": "Vergleich",
+    "article": "der",
+    "plural": "Vergleiche",
+    "meaning": "comparison",
+    "level": "B1"
+  },
+  {
+    "noun": "Vergütung",
+    "article": "die",
+    "plural": "Vergütungen",
+    "meaning": "remuneration",
+    "level": "B1"
+  },
+  {
+    "noun": "Verhältnis",
+    "article": "das",
+    "plural": "Verhältnisse",
+    "meaning": "relationship",
+    "level": "B1"
+  },
+  {
+    "noun": "Verlierer",
+    "article": "der",
+    "plural": "Verlierer",
+    "meaning": "loser",
+    "level": "B1"
+  },
+  {
+    "noun": "Vermittlung",
+    "article": "die",
+    "plural": "Vermittlungen",
+    "meaning": "placement, mediation",
+    "level": "B1"
+  },
+  {
     "noun": "Verschmutzung",
     "article": "die",
     "plural": "Verschmutzungen",
@@ -948,12 +3590,40 @@
     "level": "B1"
   },
   {
+    "noun": "Virus",
+    "article": "das",
+    "plural": "Viren",
+    "meaning": "virus",
+    "level": "B1"
+  },
+  {
+    "noun": "Vitaminergänzung",
+    "article": "die",
+    "plural": "Vitaminergänzungen",
+    "meaning": "vitamin supplement",
+    "level": "B1"
+  },
+  {
+    "noun": "Volk",
+    "article": "das",
+    "plural": "Völker",
+    "meaning": "people, nation",
+    "level": "B1"
+  },
+  {
     "noun": "Vollzeitarbeit",
     "article": "die",
     "plural": "",
     "meaning": "full-time work",
     "level": "B1",
     "singular_only": true
+  },
+  {
+    "noun": "Voraussetzung",
+    "article": "die",
+    "plural": "Voraussetzungen",
+    "meaning": "prerequisite",
+    "level": "B1"
   },
   {
     "noun": "Vorort",
@@ -992,11 +3662,47 @@
     "level": "B1"
   },
   {
+    "noun": "Wahlrecht",
+    "article": "das",
+    "plural": "Wahlrechte",
+    "meaning": "right to vote",
+    "level": "B1"
+  },
+  {
     "noun": "Wahrheit",
     "article": "die",
     "plural": "Wahrheiten",
     "meaning": "truth",
     "level": "B1"
+  },
+  {
+    "noun": "Wanderung",
+    "article": "die",
+    "plural": "Wanderungen",
+    "meaning": "hike",
+    "level": "B1"
+  },
+  {
+    "noun": "Waschmittel",
+    "article": "das",
+    "plural": "Waschmittel",
+    "meaning": "laundry detergent",
+    "level": "B1"
+  },
+  {
+    "noun": "Wasserqualität",
+    "article": "die",
+    "plural": "Wasserqualitäten",
+    "meaning": "water quality",
+    "level": "B1"
+  },
+  {
+    "noun": "Weiterbildung",
+    "article": "die",
+    "plural": "",
+    "meaning": "further training",
+    "level": "B1",
+    "singular_only": true
   },
   {
     "noun": "Werbung",
@@ -1013,12 +3719,41 @@
     "level": "B1"
   },
   {
+    "noun": "Wiederholung",
+    "article": "die",
+    "plural": "Wiederholungen",
+    "meaning": "repetition",
+    "level": "B1"
+  },
+  {
     "noun": "Windenergie",
     "article": "die",
     "plural": "",
     "meaning": "wind energy",
     "level": "B1",
     "singular_only": true
+  },
+  {
+    "noun": "Windkraft",
+    "article": "die",
+    "plural": "",
+    "meaning": "wind power",
+    "level": "B1",
+    "singular_only": true
+  },
+  {
+    "noun": "Wirklichkeit",
+    "article": "die",
+    "plural": "Wirklichkeiten",
+    "meaning": "reality",
+    "level": "B1"
+  },
+  {
+    "noun": "Wirkung",
+    "article": "die",
+    "plural": "Wirkungen",
+    "meaning": "effect",
+    "level": "B1"
   },
   {
     "noun": "Wirtschaft",
@@ -1035,357 +3770,10 @@
     "level": "B1"
   },
   {
-    "noun": "Wohlstand",
-    "article": "der",
-    "plural": "",
-    "meaning": "prosperity",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Zielgruppe",
+    "noun": "Wochenbettdepression",
     "article": "die",
-    "plural": "Zielgruppen",
-    "meaning": "target audience",
-    "level": "B1"
-  },
-  {
-    "noun": "Zuschlag",
-    "article": "der",
-    "plural": "Zuschläge",
-    "meaning": "bonus",
-    "level": "B1"
-  },
-  {
-    "noun": "Bewerbungsunterlagen",
-    "article": "die",
-    "plural": "",
-    "meaning": "application documents",
-    "level": "B1",
-    "plural_only": true
-  },
-  {
-    "noun": "Arbeitsvertrag",
-    "article": "der",
-    "plural": "Arbeitsverträge",
-    "meaning": "employment contract",
-    "level": "B1"
-  },
-  {
-    "noun": "Probezeit",
-    "article": "die",
-    "plural": "Probezeiten",
-    "meaning": "probationary period",
-    "level": "B1"
-  },
-  {
-    "noun": "Gehaltsgespräch",
-    "article": "das",
-    "plural": "Gehaltsgespräche",
-    "meaning": "salary negotiation",
-    "level": "B1"
-  },
-  {
-    "noun": "Überstunden",
-    "article": "die",
-    "plural": "",
-    "meaning": "overtime",
-    "level": "B1",
-    "plural_only": true
-  },
-  {
-    "noun": "Gehaltsabrechnung",
-    "article": "die",
-    "plural": "Gehaltsabrechnungen",
-    "meaning": "payslip",
-    "level": "B1"
-  },
-  {
-    "noun": "Betriebsrat",
-    "article": "der",
-    "plural": "Betriebsräte",
-    "meaning": "works council",
-    "level": "B1"
-  },
-  {
-    "noun": "Fortbildungsmaßnahme",
-    "article": "die",
-    "plural": "Fortbildungsmaßnahmen",
-    "meaning": "training measure",
-    "level": "B1"
-  },
-  {
-    "noun": "Teilzeit",
-    "article": "die",
-    "plural": "Teilzeiten",
-    "meaning": "part-time",
-    "level": "B1"
-  },
-  {
-    "noun": "Arbeitszeugnis",
-    "article": "das",
-    "plural": "Arbeitszeugnisse",
-    "meaning": "employment reference",
-    "level": "B1"
-  },
-  {
-    "noun": "Abfindung",
-    "article": "die",
-    "plural": "Abfindungen",
-    "meaning": "severance pay",
-    "level": "B1"
-  },
-  {
-    "noun": "Rufbereitschaft",
-    "article": "die",
-    "plural": "Rufbereitschaften",
-    "meaning": "on-call duty",
-    "level": "B1"
-  },
-  {
-    "noun": "Unternehmen",
-    "article": "das",
-    "plural": "Unternehmen",
-    "meaning": "company / enterprise",
-    "level": "B1"
-  },
-  {
-    "noun": "Abteilungsleiterin",
-    "article": "die",
-    "plural": "Abteilungsleiterinnen",
-    "meaning": "department head (f)",
-    "level": "B1"
-  },
-  {
-    "noun": "Fachkraft",
-    "article": "die",
-    "plural": "Fachkräfte",
-    "meaning": "skilled worker",
-    "level": "B1"
-  },
-  {
-    "noun": "Gehaltserhöhung",
-    "article": "die",
-    "plural": "Gehaltserhöhungen",
-    "meaning": "pay rise",
-    "level": "B1"
-  },
-  {
-    "noun": "Schichtarbeit",
-    "article": "die",
-    "plural": "Schichtarbeiten",
-    "meaning": "shift work",
-    "level": "B1"
-  },
-  {
-    "noun": "Arbeitsamt",
-    "article": "das",
-    "plural": "Arbeitsämter",
-    "meaning": "employment office",
-    "level": "B1"
-  },
-  {
-    "noun": "Berufsausbildung",
-    "article": "die",
-    "plural": "Berufsausbildungen",
-    "meaning": "vocational training",
-    "level": "B1"
-  },
-  {
-    "noun": "Arbeitnehmervertreter",
-    "article": "der",
-    "plural": "Arbeitnehmervertreter",
-    "meaning": "employee representative",
-    "level": "B1"
-  },
-  {
-    "noun": "Dienstreise",
-    "article": "die",
-    "plural": "Dienstreisen",
-    "meaning": "business trip",
-    "level": "B1"
-  },
-  {
-    "noun": "Stellenbeschreibung",
-    "article": "die",
-    "plural": "Stellenbeschreibungen",
-    "meaning": "job description",
-    "level": "B1"
-  },
-  {
-    "noun": "Arbeitsmarkt",
-    "article": "der",
-    "plural": "Arbeitsmärkte",
-    "meaning": "job market",
-    "level": "B1"
-  },
-  {
-    "noun": "Eigeninitiative",
-    "article": "die",
-    "plural": "Eigeninitiativen",
-    "meaning": "personal initiative",
-    "level": "B1"
-  },
-  {
-    "noun": "Arbeitserfahrung",
-    "article": "die",
-    "plural": "Arbeitserfahrungen",
-    "meaning": "work experience",
-    "level": "B1"
-  },
-  {
-    "noun": "Vergütung",
-    "article": "die",
-    "plural": "Vergütungen",
-    "meaning": "remuneration",
-    "level": "B1"
-  },
-  {
-    "noun": "Stellenangebot",
-    "article": "das",
-    "plural": "Stellenangebote",
-    "meaning": "job offer",
-    "level": "B1"
-  },
-  {
-    "noun": "Verantwortung tragen",
-    "article": "die",
-    "plural": "Verantwortung tragene",
-    "meaning": "to bear responsibility",
-    "level": "B1"
-  },
-  {
-    "noun": "Protokoll",
-    "article": "das",
-    "plural": "Protokolle",
-    "meaning": "minutes / log",
-    "level": "B1"
-  },
-  {
-    "noun": "Zielvorgabe",
-    "article": "die",
-    "plural": "Zielvorgaben",
-    "meaning": "target / objective",
-    "level": "B1"
-  },
-  {
-    "noun": "Gehaltsverhandlung",
-    "article": "die",
-    "plural": "Gehaltsverhandlungen",
-    "meaning": "salary negotiation",
-    "level": "B1"
-  },
-  {
-    "noun": "Netzwerken",
-    "article": "das",
-    "plural": "",
-    "meaning": "networking",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Arzttermin",
-    "article": "der",
-    "plural": "Arzttermine",
-    "meaning": "doctor's appointment",
-    "level": "B1"
-  },
-  {
-    "noun": "Erkrankung",
-    "article": "die",
-    "plural": "Erkrankungen",
-    "meaning": "illness / disease",
-    "level": "B1"
-  },
-  {
-    "noun": "Hausarzt",
-    "article": "der",
-    "plural": "Hausärzte",
-    "meaning": "general practitioner",
-    "level": "B1"
-  },
-  {
-    "noun": "Erste Hilfe",
-    "article": "die",
-    "plural": "Erste hilfen",
-    "meaning": "first aid",
-    "level": "B1"
-  },
-  {
-    "noun": "Sportverletzung",
-    "article": "die",
-    "plural": "Sportverletzungen",
-    "meaning": "sports injury",
-    "level": "B1"
-  },
-  {
-    "noun": "Schlafmangel",
-    "article": "der",
-    "plural": "Schlafmängel",
-    "meaning": "lack of sleep",
-    "level": "B1"
-  },
-  {
-    "noun": "Psyche",
-    "article": "die",
-    "plural": "Psychen",
-    "meaning": "psyche / mental health",
-    "level": "B1"
-  },
-  {
-    "noun": "Fitnessstudio",
-    "article": "das",
-    "plural": "Fitnessstudios",
-    "meaning": "gym",
-    "level": "B1"
-  },
-  {
-    "noun": "Facharzt",
-    "article": "der",
-    "plural": "Fachärzte",
-    "meaning": "specialist doctor",
-    "level": "B1"
-  },
-  {
-    "noun": "Physiotherapie",
-    "article": "die",
-    "plural": "Physiotherapien",
-    "meaning": "physiotherapy",
-    "level": "B1"
-  },
-  {
-    "noun": "Notfall",
-    "article": "der",
-    "plural": "Notfälle",
-    "meaning": "emergency",
-    "level": "B1"
-  },
-  {
-    "noun": "Krankenversicherung",
-    "article": "die",
-    "plural": "Krankenversicherungen",
-    "meaning": "health insurance",
-    "level": "B1"
-  },
-  {
-    "noun": "Übergewicht",
-    "article": "das",
-    "plural": "Übergewichte",
-    "meaning": "overweight",
-    "level": "B1"
-  },
-  {
-    "noun": "Lebensmittelunverträglichkeit",
-    "article": "die",
-    "plural": "Lebensmittelunverträglichkeiten",
-    "meaning": "food intolerance",
-    "level": "B1"
-  },
-  {
-    "noun": "Klinik",
-    "article": "die",
-    "plural": "Kliniken",
-    "meaning": "clinic / hospital",
+    "plural": "Wochenbettdepressionen",
+    "meaning": "postnatal depression",
     "level": "B1"
   },
   {
@@ -1397,664 +3785,32 @@
     "singular_only": true
   },
   {
-    "noun": "Impfbescheinigung",
-    "article": "die",
-    "plural": "Impfbescheinigungen",
-    "meaning": "vaccination certificate",
-    "level": "B1"
-  },
-  {
-    "noun": "Suchtberatung",
-    "article": "die",
-    "plural": "Suchtberatungen",
-    "meaning": "addiction counselling",
-    "level": "B1"
-  },
-  {
-    "noun": "Pflegeheim",
-    "article": "das",
-    "plural": "Pflegeheime",
-    "meaning": "care home",
-    "level": "B1"
-  },
-  {
-    "noun": "Ernährungsberatung",
-    "article": "die",
-    "plural": "Ernährungsberatungen",
-    "meaning": "nutritional counselling",
-    "level": "B1"
-  },
-  {
-    "noun": "Burnout-Prävention",
-    "article": "die",
-    "plural": "Burnout-Präventionen",
-    "meaning": "burnout prevention",
-    "level": "B1"
-  },
-  {
-    "noun": "Ehrenamt",
-    "article": "das",
-    "plural": "Ehrenämter",
-    "meaning": "voluntary work",
-    "level": "B1"
-  },
-  {
-    "noun": "Toleranz",
-    "article": "die",
-    "plural": "Toleranzen",
-    "meaning": "tolerance",
-    "level": "B1"
-  },
-  {
-    "noun": "Obdachlosigkeit",
-    "article": "die",
-    "plural": "Obdachlosigkeiten",
-    "meaning": "homelessness",
-    "level": "B1"
-  },
-  {
-    "noun": "Kindergeld",
-    "article": "das",
-    "plural": "Kindergelder",
-    "meaning": "child benefit",
-    "level": "B1"
-  },
-  {
-    "noun": "Pflegeversicherung",
-    "article": "die",
-    "plural": "Pflegeversicherungen",
-    "meaning": "care insurance",
-    "level": "B1"
-  },
-  {
-    "noun": "Flüchtlingshilfe",
-    "article": "die",
-    "plural": "Flüchtlingshilfen",
-    "meaning": "refugee aid",
-    "level": "B1"
-  },
-  {
-    "noun": "Sozialbeitrag",
-    "article": "der",
-    "plural": "Sozialbeiträge",
-    "meaning": "social contribution",
-    "level": "B1"
-  },
-  {
-    "noun": "Armutsgefährdung",
-    "article": "die",
-    "plural": "Armutsgefährdungen",
-    "meaning": "risk of poverty",
-    "level": "B1"
-  },
-  {
-    "noun": "Bürgerbeteiligung",
-    "article": "die",
-    "plural": "Bürgerbeteiligungen",
-    "meaning": "civic participation",
-    "level": "B1"
-  },
-  {
-    "noun": "Sozialhilfe",
-    "article": "die",
-    "plural": "",
-    "meaning": "social welfare",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Kinderbetreuung",
-    "article": "die",
-    "plural": "",
-    "meaning": "childcare",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Nachbarschaftshilfe",
-    "article": "die",
-    "plural": "Nachbarschaftshilfen",
-    "meaning": "neighbourhood help",
-    "level": "B1"
-  },
-  {
-    "noun": "Altersarmut",
-    "article": "die",
-    "plural": "",
-    "meaning": "old-age poverty",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Zivilgesellschaft",
-    "article": "die",
-    "plural": "Zivilgesellschaften",
-    "meaning": "civil society",
-    "level": "B1"
-  },
-  {
-    "noun": "Wahlrecht",
-    "article": "das",
-    "plural": "Wahlrechte",
-    "meaning": "right to vote",
-    "level": "B1"
-  },
-  {
-    "noun": "Menschenwürde",
-    "article": "die",
-    "plural": "",
-    "meaning": "human dignity",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Generationenvertrag",
-    "article": "der",
-    "plural": "Generationenverträge",
-    "meaning": "intergenerational contract",
-    "level": "B1"
-  },
-  {
-    "noun": "Migrationshintergrund",
-    "article": "der",
-    "plural": "Migrationshintergründe",
-    "meaning": "migration background",
-    "level": "B1"
-  },
-  {
-    "noun": "Grundsicherung",
-    "article": "die",
-    "plural": "Grundsicherungen",
-    "meaning": "basic social security",
-    "level": "B1"
-  },
-  {
-    "noun": "Aufenthaltserlaubnis",
-    "article": "die",
-    "plural": "Aufenthaltserlaubnisse",
-    "meaning": "residence permit",
-    "level": "B1"
-  },
-  {
-    "noun": "Podcast",
-    "article": "der",
-    "plural": "Podcasts",
-    "meaning": "podcast",
-    "level": "B1"
-  },
-  {
-    "noun": "Berichterstattung",
-    "article": "die",
-    "plural": "Berichterstattungen",
-    "meaning": "reporting",
-    "level": "B1"
-  },
-  {
-    "noun": "Fernsehprogramm",
-    "article": "das",
-    "plural": "Fernsehprogramme",
-    "meaning": "TV programme",
-    "level": "B1"
-  },
-  {
-    "noun": "Datenschutzrichtlinie",
-    "article": "die",
-    "plural": "Datenschutzrichtlinien",
-    "meaning": "data protection policy",
-    "level": "B1"
-  },
-  {
-    "noun": "Pressefreiheit",
-    "article": "die",
-    "plural": "Pressefreiheiten",
-    "meaning": "freedom of the press",
-    "level": "B1"
-  },
-  {
-    "noun": "Streaming-Plattform",
-    "article": "die",
-    "plural": "Streaming-Plattformen",
-    "meaning": "streaming platform",
-    "level": "B1"
-  },
-  {
-    "noun": "Öffentlichkeitsarbeit",
-    "article": "die",
-    "plural": "Öffentlichkeitsarbeiten",
-    "meaning": "public relations",
-    "level": "B1"
-  },
-  {
-    "noun": "Dokumentation",
-    "article": "die",
-    "plural": "Dokumentationen",
-    "meaning": "documentary",
-    "level": "B1"
-  },
-  {
-    "noun": "Nachrichtenmagazin",
-    "article": "das",
-    "plural": "Nachrichtenmagazine",
-    "meaning": "news magazine",
-    "level": "B1"
-  },
-  {
-    "noun": "Desinformation",
-    "article": "die",
-    "plural": "Desinformationen",
-    "meaning": "disinformation",
-    "level": "B1"
-  },
-  {
-    "noun": "Livestream",
-    "article": "der",
-    "plural": "Livestreams",
-    "meaning": "livestream",
-    "level": "B1"
-  },
-  {
-    "noun": "Falschmeldung",
-    "article": "die",
-    "plural": "Falschmeldungen",
-    "meaning": "false report",
-    "level": "B1"
-  },
-  {
-    "noun": "Einreisebestimmungen",
-    "article": "die",
-    "plural": "",
-    "meaning": "entry requirements",
-    "level": "B1",
-    "plural_only": true
-  },
-  {
-    "noun": "Reiseversicherung",
-    "article": "die",
-    "plural": "Reiseversicherungen",
-    "meaning": "travel insurance",
-    "level": "B1"
-  },
-  {
-    "noun": "Hostel",
-    "article": "das",
-    "plural": "Hostels",
-    "meaning": "hostel",
-    "level": "B1"
-  },
-  {
-    "noun": "Sightseeing",
-    "article": "das",
-    "plural": "",
-    "meaning": "sightseeing",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Übernachtung",
-    "article": "die",
-    "plural": "Übernachtungen",
-    "meaning": "overnight stay",
-    "level": "B1"
-  },
-  {
-    "noun": "Wanderung",
-    "article": "die",
-    "plural": "Wanderungen",
-    "meaning": "hike",
-    "level": "B1"
-  },
-  {
-    "noun": "Touristeninformation",
-    "article": "die",
-    "plural": "Touristeninformationen",
-    "meaning": "tourist information",
-    "level": "B1"
-  },
-  {
-    "noun": "Buchungsbestätigung",
-    "article": "die",
-    "plural": "Buchungsbestätigungen",
-    "meaning": "booking confirmation",
-    "level": "B1"
-  },
-  {
-    "noun": "Abenteuer",
-    "article": "das",
-    "plural": "Abenteuer",
-    "meaning": "adventure",
-    "level": "B1"
-  },
-  {
-    "noun": "Reisewarnung",
-    "article": "die",
-    "plural": "Reisewarnungen",
-    "meaning": "travel warning",
-    "level": "B1"
-  },
-  {
-    "noun": "Urlaubsantrag",
-    "article": "der",
-    "plural": "Urlaubsanträge",
-    "meaning": "holiday request",
-    "level": "B1"
-  },
-  {
-    "noun": "Auslandsreise",
-    "article": "die",
-    "plural": "Auslandsreisen",
-    "meaning": "trip abroad",
-    "level": "B1"
-  },
-  {
-    "noun": "Klimaschutz",
+    "noun": "Wohlstand",
     "article": "der",
     "plural": "",
-    "meaning": "climate protection",
+    "meaning": "prosperity",
     "level": "B1",
     "singular_only": true
   },
   {
-    "noun": "Recycling",
-    "article": "das",
-    "plural": "",
-    "meaning": "recycling",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Energieverbrauch",
+    "noun": "Wohnblock",
     "article": "der",
-    "plural": "Energieverbräuche",
-    "meaning": "energy consumption",
+    "plural": "Wohnblöcke",
+    "meaning": "apartment block",
     "level": "B1"
   },
   {
-    "noun": "Sonnenenergie",
-    "article": "die",
-    "plural": "",
-    "meaning": "solar energy",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Elektroauto",
-    "article": "das",
-    "plural": "Elektroautos",
-    "meaning": "electric car",
-    "level": "B1"
-  },
-  {
-    "noun": "Abgase",
-    "article": "die",
-    "plural": "",
-    "meaning": "exhaust fumes",
-    "level": "B1",
-    "plural_only": true
-  },
-  {
-    "noun": "Plastiktüte",
-    "article": "die",
-    "plural": "Plastiktüten",
-    "meaning": "plastic bag",
-    "level": "B1"
-  },
-  {
-    "noun": "Regenwald",
+    "noun": "Wohnungsmarkt",
     "article": "der",
-    "plural": "Regenwälder",
-    "meaning": "rainforest",
+    "plural": "Wohnungsmärkte",
+    "meaning": "housing market",
     "level": "B1"
   },
   {
-    "noun": "Windkraft",
+    "noun": "Zahncreme",
     "article": "die",
-    "plural": "",
-    "meaning": "wind power",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Trinkwasser",
-    "article": "das",
-    "plural": "Trinkwasser",
-    "meaning": "drinking water",
-    "level": "B1"
-  },
-  {
-    "noun": "Biodiversität",
-    "article": "die",
-    "plural": "Biodiversitäten",
-    "meaning": "biodiversity",
-    "level": "B1"
-  },
-  {
-    "noun": "Energieeinsparung",
-    "article": "die",
-    "plural": "Energieeinsparungen",
-    "meaning": "energy saving",
-    "level": "B1"
-  },
-  {
-    "noun": "Meeresverschmutzung",
-    "article": "die",
-    "plural": "Meeresverschmutzungen",
-    "meaning": "ocean pollution",
-    "level": "B1"
-  },
-  {
-    "noun": "Dürreperiode",
-    "article": "die",
-    "plural": "Dürreperioden",
-    "meaning": "drought period",
-    "level": "B1"
-  },
-  {
-    "noun": "Umweltbildung",
-    "article": "die",
-    "plural": "Umweltbildungen",
-    "meaning": "environmental education",
-    "level": "B1"
-  },
-  {
-    "noun": "Pestizid",
-    "article": "das",
-    "plural": "Pestizide",
-    "meaning": "pesticide",
-    "level": "B1"
-  },
-  {
-    "noun": "Leitungswasser",
-    "article": "das",
-    "plural": "",
-    "meaning": "tap water",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Umweltkatastrophe",
-    "article": "die",
-    "plural": "Umweltkatastrophen",
-    "meaning": "environmental disaster",
-    "level": "B1"
-  },
-  {
-    "noun": "Berufsschule",
-    "article": "die",
-    "plural": "Berufsschulen",
-    "meaning": "vocational school",
-    "level": "B1"
-  },
-  {
-    "noun": "Recyclingtonne",
-    "article": "die",
-    "plural": "Recyclingtonnen",
-    "meaning": "recycling bin",
-    "level": "B1"
-  },
-  {
-    "noun": "Spendenbereitschaft",
-    "article": "die",
-    "plural": "",
-    "meaning": "willingness to donate",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Bewerbungsmappe",
-    "article": "die",
-    "plural": "Bewerbungsmappen",
-    "meaning": "application folder",
-    "level": "B1"
-  },
-  {
-    "noun": "Teamleiter",
-    "article": "der",
-    "plural": "Teamleiter",
-    "meaning": "team leader",
-    "level": "B1"
-  },
-  {
-    "noun": "Weiterbildung",
-    "article": "die",
-    "plural": "",
-    "meaning": "further training",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Arbeitsverhältnis",
-    "article": "das",
-    "plural": "Arbeitsverhältnisse",
-    "meaning": "employment relationship",
-    "level": "B1"
-  },
-  {
-    "noun": "Kollektivvertrag",
-    "article": "der",
-    "plural": "Kollektivverträge",
-    "meaning": "collective agreement",
-    "level": "B1"
-  },
-  {
-    "noun": "Belegschaft",
-    "article": "die",
-    "plural": "Belegschaften",
-    "meaning": "workforce",
-    "level": "B1"
-  },
-  {
-    "noun": "Betriebsklima",
-    "article": "das",
-    "plural": "",
-    "meaning": "workplace atmosphere",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Lohnzettel",
-    "article": "der",
-    "plural": "Lohnzettel",
-    "meaning": "payslip",
-    "level": "B1"
-  },
-  {
-    "noun": "Jahresziel",
-    "article": "das",
-    "plural": "Jahresziele",
-    "meaning": "annual target",
-    "level": "B1"
-  },
-  {
-    "noun": "Auftraggeber",
-    "article": "der",
-    "plural": "Auftraggeber",
-    "meaning": "client / principal",
-    "level": "B1"
-  },
-  {
-    "noun": "Fachkompetenz",
-    "article": "die",
-    "plural": "Fachkompetenzen",
-    "meaning": "professional competence",
-    "level": "B1"
-  },
-  {
-    "noun": "Kündigungsfrist",
-    "article": "die",
-    "plural": "Kündigungsfristen",
-    "meaning": "notice period",
-    "level": "B1"
-  },
-  {
-    "noun": "Leitbild",
-    "article": "das",
-    "plural": "Leitbilder",
-    "meaning": "corporate vision / mission statement",
-    "level": "B1"
-  },
-  {
-    "noun": "Freelancer",
-    "article": "der",
-    "plural": "",
-    "meaning": "freelancer",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Wochenbettdepression",
-    "article": "die",
-    "plural": "Wochenbettdepressionen",
-    "meaning": "postnatal depression",
-    "level": "B1"
-  },
-  {
-    "noun": "Heilmittel",
-    "article": "das",
-    "plural": "Heilmittel",
-    "meaning": "remedy / cure",
-    "level": "B1"
-  },
-  {
-    "noun": "Krankmeldung",
-    "article": "die",
-    "plural": "Krankmeldungen",
-    "meaning": "sick note",
-    "level": "B1"
-  },
-  {
-    "noun": "Sportmedizin",
-    "article": "die",
-    "plural": "",
-    "meaning": "sports medicine",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Schmerzmittel",
-    "article": "das",
-    "plural": "Schmerzmittel",
-    "meaning": "painkiller",
-    "level": "B1"
-  },
-  {
-    "noun": "Herzerkrankung",
-    "article": "die",
-    "plural": "Herzerkrankungen",
-    "meaning": "heart disease",
-    "level": "B1"
-  },
-  {
-    "noun": "Blutgruppe",
-    "article": "die",
-    "plural": "Blutgruppen",
-    "meaning": "blood type",
-    "level": "B1"
-  },
-  {
-    "noun": "Selbstmedikation",
-    "article": "die",
-    "plural": "Selbstmedikationen",
-    "meaning": "self-medication",
+    "plural": "Zahncremes",
+    "meaning": "toothpaste",
     "level": "B1"
   },
   {
@@ -2066,742 +3822,10 @@
     "singular_only": true
   },
   {
-    "noun": "Desinfektionsmittel",
+    "noun": "Zeichen",
     "article": "das",
-    "plural": "Desinfektionsmittel",
-    "meaning": "disinfectant",
-    "level": "B1"
-  },
-  {
-    "noun": "Immunschwäche",
-    "article": "die",
-    "plural": "Immunschwächen",
-    "meaning": "immune deficiency",
-    "level": "B1"
-  },
-  {
-    "noun": "Sanitäter",
-    "article": "der",
-    "plural": "Sanitäter",
-    "meaning": "paramedic",
-    "level": "B1"
-  },
-  {
-    "noun": "Pflegeperson",
-    "article": "die",
-    "plural": "Pflegepersonen",
-    "meaning": "carer",
-    "level": "B1"
-  },
-  {
-    "noun": "Vitaminergänzung",
-    "article": "die",
-    "plural": "Vitaminergänzungen",
-    "meaning": "vitamin supplement",
-    "level": "B1"
-  },
-  {
-    "noun": "Körpergewicht",
-    "article": "das",
-    "plural": "Körpergewichte",
-    "meaning": "body weight",
-    "level": "B1"
-  },
-  {
-    "noun": "Bildungsangebot",
-    "article": "das",
-    "plural": "Bildungsangebote",
-    "meaning": "educational offer",
-    "level": "B1"
-  },
-  {
-    "noun": "Sozialarbeiter",
-    "article": "der",
-    "plural": "Sozialarbeiter",
-    "meaning": "social worker",
-    "level": "B1"
-  },
-  {
-    "noun": "Jugendschutz",
-    "article": "der",
-    "plural": "",
-    "meaning": "youth protection",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Sozialwohnung",
-    "article": "die",
-    "plural": "Sozialwohnungen",
-    "meaning": "social housing",
-    "level": "B1"
-  },
-  {
-    "noun": "Mehrgenerationenhaus",
-    "article": "das",
-    "plural": "Mehrgenerationenhäuser",
-    "meaning": "multigenerational house",
-    "level": "B1"
-  },
-  {
-    "noun": "Flüchtlingsunterkunft",
-    "article": "die",
-    "plural": "Flüchtlingsunterkünfte",
-    "meaning": "refugee accommodation",
-    "level": "B1"
-  },
-  {
-    "noun": "Sozialamt",
-    "article": "das",
-    "plural": "Sozialämter",
-    "meaning": "social welfare office",
-    "level": "B1"
-  },
-  {
-    "noun": "Chancengerechtigkeit",
-    "article": "die",
-    "plural": "Chancengerechtigkeiten",
-    "meaning": "equality of opportunity",
-    "level": "B1"
-  },
-  {
-    "noun": "Barrierefreiheit",
-    "article": "die",
-    "plural": "",
-    "meaning": "accessibility",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Rentenversicherung",
-    "article": "die",
-    "plural": "Rentenversicherungen",
-    "meaning": "pension insurance",
-    "level": "B1"
-  },
-  {
-    "noun": "Sozialengagement",
-    "article": "das",
-    "plural": "Sozialengagements",
-    "meaning": "social commitment",
-    "level": "B1"
-  },
-  {
-    "noun": "Rechtsberatung",
-    "article": "die",
-    "plural": "Rechtsberatungen",
-    "meaning": "legal advice",
-    "level": "B1"
-  },
-  {
-    "noun": "Wohnungsmarkt",
-    "article": "der",
-    "plural": "Wohnungsmärkte",
-    "meaning": "housing market",
-    "level": "B1"
-  },
-  {
-    "noun": "Vereinswesen",
-    "article": "das",
-    "plural": "",
-    "meaning": "club system",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Printmedium",
-    "article": "das",
-    "plural": "Printmedien",
-    "meaning": "print medium",
-    "level": "B1"
-  },
-  {
-    "noun": "Rundfunk",
-    "article": "der",
-    "plural": "",
-    "meaning": "broadcasting",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Medienrecht",
-    "article": "das",
-    "plural": "Medienrechte",
-    "meaning": "media law",
-    "level": "B1"
-  },
-  {
-    "noun": "Inhaltswarnung",
-    "article": "die",
-    "plural": "Inhaltswarnungen",
-    "meaning": "content warning",
-    "level": "B1"
-  },
-  {
-    "noun": "Abonnent",
-    "article": "der",
-    "plural": "Abonnenten",
-    "meaning": "subscriber",
-    "level": "B1"
-  },
-  {
-    "noun": "Klickrate",
-    "article": "die",
-    "plural": "Klickraten",
-    "meaning": "click-through rate",
-    "level": "B1"
-  },
-  {
-    "noun": "Medienunternehmen",
-    "article": "das",
-    "plural": "Medienunternehmen",
-    "meaning": "media company",
-    "level": "B1"
-  },
-  {
-    "noun": "Übertragungsrechte",
-    "article": "die",
-    "plural": "",
-    "meaning": "broadcasting rights",
-    "level": "B1",
-    "plural_only": true
-  },
-  {
-    "noun": "Newsfeed",
-    "article": "der",
-    "plural": "Newsfeeds",
-    "meaning": "newsfeed",
-    "level": "B1"
-  },
-  {
-    "noun": "Reisekrankenversicherung",
-    "article": "die",
-    "plural": "Reisekrankenversicherungen",
-    "meaning": "travel health insurance",
-    "level": "B1"
-  },
-  {
-    "noun": "Mitfahrgelegenheit",
-    "article": "die",
-    "plural": "Mitfahrgelegenheiten",
-    "meaning": "car share / lift",
-    "level": "B1"
-  },
-  {
-    "noun": "Zugabteil",
-    "article": "das",
-    "plural": "Zugabteile",
-    "meaning": "train compartment",
-    "level": "B1"
-  },
-  {
-    "noun": "Grenzübergang",
-    "article": "der",
-    "plural": "Grenzübergänge",
-    "meaning": "border crossing",
-    "level": "B1"
-  },
-  {
-    "noun": "Stornierungsgebühr",
-    "article": "die",
-    "plural": "Stornierungsgebühren",
-    "meaning": "cancellation fee",
-    "level": "B1"
-  },
-  {
-    "noun": "Urlaubsgeld",
-    "article": "das",
-    "plural": "Urlaubsgelder",
-    "meaning": "holiday pay",
-    "level": "B1"
-  },
-  {
-    "noun": "Reisezeit",
-    "article": "die",
-    "plural": "Reisezeiten",
-    "meaning": "travel time",
-    "level": "B1"
-  },
-  {
-    "noun": "Mitreisende",
-    "article": "der",
-    "plural": "",
-    "meaning": "fellow traveller",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Treibhausgas-Emissionen",
-    "article": "die",
-    "plural": "",
-    "meaning": "greenhouse gas emissions",
-    "level": "B1",
-    "plural_only": true
-  },
-  {
-    "noun": "Naturerlebnis",
-    "article": "das",
-    "plural": "Naturerlebnisse",
-    "meaning": "nature experience",
-    "level": "B1"
-  },
-  {
-    "noun": "Naturlehrpfad",
-    "article": "der",
-    "plural": "Naturlehrpfade",
-    "meaning": "nature trail",
-    "level": "B1"
-  },
-  {
-    "noun": "Lärmschutz",
-    "article": "der",
-    "plural": "",
-    "meaning": "noise protection",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Wasserqualität",
-    "article": "die",
-    "plural": "Wasserqualitäten",
-    "meaning": "water quality",
-    "level": "B1"
-  },
-  {
-    "noun": "Sondermüll",
-    "article": "der",
-    "plural": "",
-    "meaning": "hazardous waste",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Sozialstaat",
-    "article": "der",
-    "plural": "Sozialstaaten",
-    "meaning": "welfare state",
-    "level": "B1"
-  },
-  {
-    "noun": "Gemeindeverwaltung",
-    "article": "die",
-    "plural": "Gemeindeverwaltungen",
-    "meaning": "local administration",
-    "level": "B1"
-  },
-  {
-    "noun": "Stadtfest",
-    "article": "das",
-    "plural": "Stadtfeste",
-    "meaning": "city festival",
-    "level": "B1"
-  },
-  {
-    "noun": "Notruf",
-    "article": "der",
-    "plural": "Notrufe",
-    "meaning": "emergency call",
-    "level": "B1"
-  },
-  {
-    "noun": "Beratungsstelle",
-    "article": "die",
-    "plural": "Beratungsstellen",
-    "meaning": "advice centre",
-    "level": "B1"
-  },
-  {
-    "noun": "Ministerium",
-    "article": "das",
-    "plural": "Ministerien",
-    "meaning": "ministry",
-    "level": "B1"
-  },
-  {
-    "noun": "Beschwerde",
-    "article": "die",
-    "plural": "Beschwerden",
-    "meaning": "complaint",
-    "level": "B1"
-  },
-  {
-    "noun": "Nachbarschaft",
-    "article": "die",
-    "plural": "Nachbarschaften",
-    "meaning": "neighbourhood",
-    "level": "B1"
-  },
-  {
-    "noun": "Schulpflicht",
-    "article": "die",
-    "plural": "Schulpflichten",
-    "meaning": "compulsory schooling",
-    "level": "B1"
-  },
-  {
-    "noun": "Ausbildungsplatz",
-    "article": "der",
-    "plural": "Ausbildungsplätze",
-    "meaning": "apprenticeship position",
-    "level": "B1"
-  },
-  {
-    "noun": "Fachgebiet",
-    "article": "das",
-    "plural": "Fachgebiete",
-    "meaning": "specialist field",
-    "level": "B1"
-  },
-  {
-    "noun": "Tageszeitung",
-    "article": "die",
-    "plural": "Tageszeitungen",
-    "meaning": "daily newspaper",
-    "level": "B1"
-  },
-  {
-    "noun": "Textbaustein",
-    "article": "der",
-    "plural": "Textbausteine",
-    "meaning": "text module, template phrase",
-    "level": "B1"
-  },
-  {
-    "noun": "Erlebnis",
-    "article": "das",
-    "plural": "Erlebnisse",
-    "meaning": "experience",
-    "level": "B1"
-  },
-  {
-    "noun": "Steuer",
-    "article": "die",
-    "plural": "Steuern",
-    "meaning": "tax",
-    "level": "B1"
-  },
-  {
-    "noun": "Stimme",
-    "article": "die",
-    "plural": "Stimmen",
-    "meaning": "voice",
-    "level": "B1"
-  },
-  {
-    "noun": "Einbrecher",
-    "article": "der",
-    "plural": "Einbrecher",
-    "meaning": "burglar",
-    "level": "B1"
-  },
-  {
-    "noun": "Motorroller",
-    "article": "der",
-    "plural": "Motorroller",
-    "meaning": "scooter, moped",
-    "level": "B1"
-  },
-  {
-    "noun": "Feld",
-    "article": "das",
-    "plural": "Felder",
-    "meaning": "field, pitch",
-    "level": "B1"
-  },
-  {
-    "noun": "Schaden",
-    "article": "der",
-    "plural": "Schäden",
-    "meaning": "damage",
-    "level": "B1"
-  },
-  {
-    "noun": "Löwe",
-    "article": "der",
-    "plural": "Löwen",
-    "meaning": "lion",
-    "level": "B1"
-  },
-  {
-    "noun": "Charakter",
-    "article": "der",
-    "plural": "Charaktere",
-    "meaning": "character",
-    "level": "B1"
-  },
-  {
-    "noun": "Verlierer",
-    "article": "der",
-    "plural": "Verlierer",
-    "meaning": "loser",
-    "level": "B1"
-  },
-  {
-    "noun": "Typ",
-    "article": "der",
-    "plural": "Typen",
-    "meaning": "guy, type",
-    "level": "B1"
-  },
-  {
-    "noun": "Figur",
-    "article": "die",
-    "plural": "Figuren",
-    "meaning": "character (in fiction)",
-    "level": "B1"
-  },
-  {
-    "noun": "Fall",
-    "article": "der",
-    "plural": "Fälle",
-    "meaning": "case",
-    "level": "B1"
-  },
-  {
-    "noun": "Sängerin",
-    "article": "die",
-    "plural": "Sängerinnen",
-    "meaning": "singer (female)",
-    "level": "B1"
-  },
-  {
-    "noun": "Band",
-    "article": "die",
-    "plural": "Bands",
-    "meaning": "band",
-    "level": "B1"
-  },
-  {
-    "noun": "Großstadt",
-    "article": "die",
-    "plural": "Großstädte",
-    "meaning": "big city",
-    "level": "B1"
-  },
-  {
-    "noun": "Song",
-    "article": "der",
-    "plural": "Songs",
-    "meaning": "song",
-    "level": "B1"
-  },
-  {
-    "noun": "Hit",
-    "article": "der",
-    "plural": "Hits",
-    "meaning": "hit",
-    "level": "B1"
-  },
-  {
-    "noun": "Lager",
-    "article": "das",
-    "plural": "Lager",
-    "meaning": "warehouse, storage",
-    "level": "B1"
-  },
-  {
-    "noun": "Verhältnis",
-    "article": "das",
-    "plural": "Verhältnisse",
-    "meaning": "relationship",
-    "level": "B1"
-  },
-  {
-    "noun": "Ufer",
-    "article": "das",
-    "plural": "Ufer",
-    "meaning": "shore, bank",
-    "level": "B1"
-  },
-  {
-    "noun": "Mittel",
-    "article": "das",
-    "plural": "Mittel",
-    "meaning": "remedy, means",
-    "level": "B1"
-  },
-  {
-    "noun": "Grundlage",
-    "article": "die",
-    "plural": "Grundlagen",
-    "meaning": "basis, foundation",
-    "level": "B1"
-  },
-  {
-    "noun": "Wirkung",
-    "article": "die",
-    "plural": "Wirkungen",
-    "meaning": "effect",
-    "level": "B1"
-  },
-  {
-    "noun": "Kraft",
-    "article": "die",
-    "plural": "Kräfte",
-    "meaning": "strength, power",
-    "level": "B1"
-  },
-  {
-    "noun": "Mangel",
-    "article": "der",
-    "plural": "Mängel",
-    "meaning": "lack, shortage",
-    "level": "B1"
-  },
-  {
-    "noun": "Abfalleimer",
-    "article": "der",
-    "plural": "Abfalleimer",
-    "meaning": "waste bin",
-    "level": "B1"
-  },
-  {
-    "noun": "Verbesserung",
-    "article": "die",
-    "plural": "Verbesserungen",
-    "meaning": "improvement",
-    "level": "B1"
-  },
-  {
-    "noun": "Fachmann",
-    "article": "der",
-    "plural": "Fachmänner",
-    "meaning": "expert",
-    "level": "B1"
-  },
-  {
-    "noun": "Störung",
-    "article": "die",
-    "plural": "Störungen",
-    "meaning": "disorder, disturbance",
-    "level": "B1"
-  },
-  {
-    "noun": "Drittel",
-    "article": "das",
-    "plural": "Drittel",
-    "meaning": "third (fraction)",
-    "level": "B1"
-  },
-  {
-    "noun": "Frucht",
-    "article": "die",
-    "plural": "Früchte",
-    "meaning": "fruit",
-    "level": "B1"
-  },
-  {
-    "noun": "Konferenz",
-    "article": "die",
-    "plural": "Konferenzen",
-    "meaning": "conference",
-    "level": "B1"
-  },
-  {
-    "noun": "Schreibblock",
-    "article": "der",
-    "plural": "Schreibblöcke",
-    "meaning": "notepad",
-    "level": "B1"
-  },
-  {
-    "noun": "Präsident",
-    "article": "der",
-    "plural": "Präsidenten",
-    "meaning": "president",
-    "level": "B1"
-  },
-  {
-    "noun": "Wiederholung",
-    "article": "die",
-    "plural": "Wiederholungen",
-    "meaning": "repetition",
-    "level": "B1"
-  },
-  {
-    "noun": "Integrationskurs",
-    "article": "der",
-    "plural": "Integrationskurse",
-    "meaning": "integration course",
-    "level": "B1"
-  },
-  {
-    "noun": "Herkunft",
-    "article": "die",
-    "plural": "Herkünfte",
-    "meaning": "origin",
-    "level": "B1"
-  },
-  {
-    "noun": "Grieche",
-    "article": "der",
-    "plural": "Griechen",
-    "meaning": "Greek (person)",
-    "level": "B1"
-  },
-  {
-    "noun": "Nerv",
-    "article": "der",
-    "plural": "Nerven",
-    "meaning": "nerve",
-    "level": "B1"
-  },
-  {
-    "noun": "Stirn",
-    "article": "die",
-    "plural": "Stirnen",
-    "meaning": "forehead",
-    "level": "B1"
-  },
-  {
-    "noun": "Autor",
-    "article": "der",
-    "plural": "Autoren",
-    "meaning": "author",
-    "level": "B1"
-  },
-  {
-    "noun": "Kenntnisse",
-    "article": "die",
-    "plural": "",
-    "meaning": "knowledge, skills",
-    "level": "B1",
-    "plural_only": true
-  },
-  {
-    "noun": "Schrift",
-    "article": "die",
-    "plural": "Schriften",
-    "meaning": "script, writing",
-    "level": "B1"
-  },
-  {
-    "noun": "Voraussetzung",
-    "article": "die",
-    "plural": "Voraussetzungen",
-    "meaning": "prerequisite",
-    "level": "B1"
-  },
-  {
-    "noun": "Unterlagen",
-    "article": "die",
-    "plural": "",
-    "meaning": "documents",
-    "level": "B1",
-    "plural_only": true
-  },
-  {
-    "noun": "Unterstützung",
-    "article": "die",
-    "plural": "Unterstützungen",
-    "meaning": "support",
-    "level": "B1"
-  },
-  {
-    "noun": "Anlage",
-    "article": "die",
-    "plural": "Anlagen",
-    "meaning": "attachment, enclosure",
+    "plural": "Zeichen",
+    "meaning": "sign, signal",
     "level": "B1"
   },
   {
@@ -2812,586 +3836,17 @@
     "level": "B1"
   },
   {
-    "noun": "Geheimnis",
-    "article": "das",
-    "plural": "Geheimnisse",
-    "meaning": "secret",
-    "level": "B1"
-  },
-  {
-    "noun": "Risiko",
-    "article": "das",
-    "plural": "Risikos",
-    "meaning": "risk",
-    "level": "B1"
-  },
-  {
-    "noun": "Änderung",
+    "noun": "Zielgruppe",
     "article": "die",
-    "plural": "Änderungen",
-    "meaning": "change",
+    "plural": "Zielgruppen",
+    "meaning": "target audience",
     "level": "B1"
   },
   {
-    "noun": "Gewürz",
-    "article": "das",
-    "plural": "Gewürze",
-    "meaning": "spice",
-    "level": "B1"
-  },
-  {
-    "noun": "Rücksicht",
+    "noun": "Zielvorgabe",
     "article": "die",
-    "plural": "Rücksichten",
-    "meaning": "consideration",
-    "level": "B1"
-  },
-  {
-    "noun": "Kaufmann",
-    "article": "der",
-    "plural": "Kaufmänner",
-    "meaning": "merchant, businessman",
-    "level": "B1"
-  },
-  {
-    "noun": "Geschäftsleute",
-    "article": "die",
-    "plural": "",
-    "meaning": "businesspeople",
-    "level": "B1",
-    "plural_only": true
-  },
-  {
-    "noun": "Rede",
-    "article": "die",
-    "plural": "Reden",
-    "meaning": "talk, speech",
-    "level": "B1"
-  },
-  {
-    "noun": "Kompromiss",
-    "article": "der",
-    "plural": "Kompromisse",
-    "meaning": "compromise",
-    "level": "B1"
-  },
-  {
-    "noun": "Mühe",
-    "article": "die",
-    "plural": "Mühen",
-    "meaning": "effort, trouble",
-    "level": "B1"
-  },
-  {
-    "noun": "Zahncreme",
-    "article": "die",
-    "plural": "Zahncremes",
-    "meaning": "toothpaste",
-    "level": "B1"
-  },
-  {
-    "noun": "Waschmittel",
-    "article": "das",
-    "plural": "Waschmittel",
-    "meaning": "laundry detergent",
-    "level": "B1"
-  },
-  {
-    "noun": "Bürste",
-    "article": "die",
-    "plural": "Bürsten",
-    "meaning": "brush",
-    "level": "B1"
-  },
-  {
-    "noun": "Anspruch",
-    "article": "der",
-    "plural": "Ansprüche",
-    "meaning": "claim, entitlement",
-    "level": "B1"
-  },
-  {
-    "noun": "Kopie",
-    "article": "die",
-    "plural": "Kopien",
-    "meaning": "copy",
-    "level": "B1"
-  },
-  {
-    "noun": "Bedienungsanleitung",
-    "article": "die",
-    "plural": "Bedienungsanleitungen",
-    "meaning": "instruction manual",
-    "level": "B1"
-  },
-  {
-    "noun": "Rechtsanwalt",
-    "article": "der",
-    "plural": "Rechtsanwälte",
-    "meaning": "lawyer",
-    "level": "B1"
-  },
-  {
-    "noun": "Frieden",
-    "article": "der",
-    "plural": "",
-    "meaning": "peace",
-    "level": "B1",
-    "singular_only": true
-  },
-  {
-    "noun": "Wirklichkeit",
-    "article": "die",
-    "plural": "Wirklichkeiten",
-    "meaning": "reality",
-    "level": "B1"
-  },
-  {
-    "noun": "Rasen",
-    "article": "der",
-    "plural": "Rasen",
-    "meaning": "lawn",
-    "level": "B1"
-  },
-  {
-    "noun": "Bundesland",
-    "article": "das",
-    "plural": "Bundesländer",
-    "meaning": "federal state",
-    "level": "B1"
-  },
-  {
-    "noun": "Eigentum",
-    "article": "das",
-    "plural": "Eigentume",
-    "meaning": "property, possession",
-    "level": "B1"
-  },
-  {
-    "noun": "Radiergummi",
-    "article": "der",
-    "plural": "Radiergummis",
-    "meaning": "eraser",
-    "level": "B1"
-  },
-  {
-    "noun": "Farbstift",
-    "article": "der",
-    "plural": "Farbstifte",
-    "meaning": "coloured pencil",
-    "level": "B1"
-  },
-  {
-    "noun": "Puzzle",
-    "article": "das",
-    "plural": "Puzzles",
-    "meaning": "puzzle, jigsaw",
-    "level": "B1"
-  },
-  {
-    "noun": "Frechheit",
-    "article": "die",
-    "plural": "Frechheiten",
-    "meaning": "cheek, nerve, impudence",
-    "level": "B1"
-  },
-  {
-    "noun": "Lift",
-    "article": "der",
-    "plural": "Lifte",
-    "meaning": "lift, elevator",
-    "level": "B1"
-  },
-  {
-    "noun": "Innenstadt",
-    "article": "die",
-    "plural": "Innenstädte",
-    "meaning": "city centre",
-    "level": "B1"
-  },
-  {
-    "noun": "Querstraße",
-    "article": "die",
-    "plural": "Querstraßen",
-    "meaning": "side street, cross street",
-    "level": "B1"
-  },
-  {
-    "noun": "Alternative",
-    "article": "die",
-    "plural": "Alternativen",
-    "meaning": "alternative",
-    "level": "B1"
-  },
-  {
-    "noun": "Rand",
-    "article": "der",
-    "plural": "Ränder",
-    "meaning": "edge",
-    "level": "B1"
-  },
-  {
-    "noun": "Link",
-    "article": "der",
-    "plural": "Links",
-    "meaning": "link",
-    "level": "B1"
-  },
-  {
-    "noun": "Staat",
-    "article": "der",
-    "plural": "Staaten",
-    "meaning": "state, country",
-    "level": "B1"
-  },
-  {
-    "noun": "Mauer",
-    "article": "die",
-    "plural": "Mauern",
-    "meaning": "wall",
-    "level": "B1"
-  },
-  {
-    "noun": "Stufe",
-    "article": "die",
-    "plural": "Stufen",
-    "meaning": "step, level",
-    "level": "B1"
-  },
-  {
-    "noun": "Chance",
-    "article": "die",
-    "plural": "Chancen",
-    "meaning": "chance, opportunity",
-    "level": "B1"
-  },
-  {
-    "noun": "Bau",
-    "article": "der",
-    "plural": "Bauten",
-    "meaning": "building, construction",
-    "level": "B1"
-  },
-  {
-    "noun": "Chat",
-    "article": "der",
-    "plural": "Chats",
-    "meaning": "chat",
-    "level": "B1"
-  },
-  {
-    "noun": "Kuli",
-    "article": "der",
-    "plural": "Kulis",
-    "meaning": "pen, biro",
-    "level": "B1"
-  },
-  {
-    "noun": "Distanz",
-    "article": "die",
-    "plural": "Distanzen",
-    "meaning": "distance",
-    "level": "B1"
-  },
-  {
-    "noun": "Gedicht",
-    "article": "das",
-    "plural": "Gedichte",
-    "meaning": "poem",
-    "level": "B1"
-  },
-  {
-    "noun": "Elternabend",
-    "article": "der",
-    "plural": "Elternabende",
-    "meaning": "parents' evening",
-    "level": "B1"
-  },
-  {
-    "noun": "Vergleich",
-    "article": "der",
-    "plural": "Vergleiche",
-    "meaning": "comparison",
-    "level": "B1"
-  },
-  {
-    "noun": "Eindruck",
-    "article": "der",
-    "plural": "Eindrücke",
-    "meaning": "impression",
-    "level": "B1"
-  },
-  {
-    "noun": "Ordner",
-    "article": "der",
-    "plural": "Ordner",
-    "meaning": "folder",
-    "level": "B1"
-  },
-  {
-    "noun": "Virus",
-    "article": "das",
-    "plural": "Viren",
-    "meaning": "virus",
-    "level": "B1"
-  },
-  {
-    "noun": "Monitor",
-    "article": "der",
-    "plural": "Monitore",
-    "meaning": "monitor",
-    "level": "B1"
-  },
-  {
-    "noun": "Gott",
-    "article": "der",
-    "plural": "Götter",
-    "meaning": "god",
-    "level": "B1"
-  },
-  {
-    "noun": "Rechner",
-    "article": "der",
-    "plural": "Rechner",
-    "meaning": "computer",
-    "level": "B1"
-  },
-  {
-    "noun": "Kursleiter",
-    "article": "der",
-    "plural": "Kursleiter",
-    "meaning": "course leader",
-    "level": "B1"
-  },
-  {
-    "noun": "Manager",
-    "article": "der",
-    "plural": "Manager",
-    "meaning": "manager",
-    "level": "B1"
-  },
-  {
-    "noun": "Wohnblock",
-    "article": "der",
-    "plural": "Wohnblöcke",
-    "meaning": "apartment block",
-    "level": "B1"
-  },
-  {
-    "noun": "Salon",
-    "article": "der",
-    "plural": "Salons",
-    "meaning": "salon",
-    "level": "B1"
-  },
-  {
-    "noun": "Knopf",
-    "article": "der",
-    "plural": "Knöpfe",
-    "meaning": "button",
-    "level": "B1"
-  },
-  {
-    "noun": "Mountainbike",
-    "article": "das",
-    "plural": "Mountainbikes",
-    "meaning": "mountain bike",
-    "level": "B1"
-  },
-  {
-    "noun": "Diskussion",
-    "article": "die",
-    "plural": "Diskussionen",
-    "meaning": "discussion",
-    "level": "B1"
-  },
-  {
-    "noun": "Moderator",
-    "article": "der",
-    "plural": "Moderatoren",
-    "meaning": "moderator, host",
-    "level": "B1"
-  },
-  {
-    "noun": "Standpunkt",
-    "article": "der",
-    "plural": "Standpunkte",
-    "meaning": "point of view, standpoint",
-    "level": "B1"
-  },
-  {
-    "noun": "Sieger",
-    "article": "der",
-    "plural": "Sieger",
-    "meaning": "winner",
-    "level": "B1"
-  },
-  {
-    "noun": "Limonade",
-    "article": "die",
-    "plural": "Limonaden",
-    "meaning": "lemonade, soft drink",
-    "level": "B1"
-  },
-  {
-    "noun": "Lieferung",
-    "article": "die",
-    "plural": "Lieferungen",
-    "meaning": "delivery",
-    "level": "B1"
-  },
-  {
-    "noun": "Bedingung",
-    "article": "die",
-    "plural": "Bedingungen",
-    "meaning": "condition",
-    "level": "B1"
-  },
-  {
-    "noun": "Fotoapparat",
-    "article": "der",
-    "plural": "Fotoapparate",
-    "meaning": "camera",
-    "level": "B1"
-  },
-  {
-    "noun": "Umtausch",
-    "article": "der",
-    "plural": "Umtausche",
-    "meaning": "exchange (of goods)",
-    "level": "B1"
-  },
-  {
-    "noun": "Schlange",
-    "article": "die",
-    "plural": "Schlangen",
-    "meaning": "queue, line",
-    "level": "B1"
-  },
-  {
-    "noun": "Missgeschick",
-    "article": "das",
-    "plural": "Missgeschicke",
-    "meaning": "mishap",
-    "level": "B1"
-  },
-  {
-    "noun": "Snack",
-    "article": "der",
-    "plural": "Snacks",
-    "meaning": "snack",
-    "level": "B1"
-  },
-  {
-    "noun": "Aprikose",
-    "article": "die",
-    "plural": "Aprikosen",
-    "meaning": "apricot",
-    "level": "B1"
-  },
-  {
-    "noun": "Kampf",
-    "article": "der",
-    "plural": "Kämpfe",
-    "meaning": "fight, struggle",
-    "level": "B1"
-  },
-  {
-    "noun": "Griff",
-    "article": "der",
-    "plural": "Griffe",
-    "meaning": "handle, grip",
-    "level": "B1"
-  },
-  {
-    "noun": "Dieb",
-    "article": "der",
-    "plural": "Diebe",
-    "meaning": "thief",
-    "level": "B1"
-  },
-  {
-    "noun": "Kasten",
-    "article": "der",
-    "plural": "Kästen",
-    "meaning": "box, crate",
-    "level": "B1"
-  },
-  {
-    "noun": "Gebiet",
-    "article": "das",
-    "plural": "Gebiete",
-    "meaning": "area, region",
-    "level": "B1"
-  },
-  {
-    "noun": "Flöte",
-    "article": "die",
-    "plural": "Flöten",
-    "meaning": "flute",
-    "level": "B1"
-  },
-  {
-    "noun": "Instrument",
-    "article": "das",
-    "plural": "Instrumente",
-    "meaning": "instrument",
-    "level": "B1"
-  },
-  {
-    "noun": "Runde",
-    "article": "die",
-    "plural": "Runden",
-    "meaning": "round, group",
-    "level": "B1"
-  },
-  {
-    "noun": "ICE",
-    "article": "der",
-    "plural": "ICE",
-    "meaning": "high-speed train (Intercity-Express)",
-    "level": "B1"
-  },
-  {
-    "noun": "Speisewagen",
-    "article": "der",
-    "plural": "Speisewagen",
-    "meaning": "dining car",
-    "level": "B1"
-  },
-  {
-    "noun": "Ausnahme",
-    "article": "die",
-    "plural": "Ausnahmen",
-    "meaning": "exception",
-    "level": "B1"
-  },
-  {
-    "noun": "Geschwindigkeitsbeschränkung",
-    "article": "die",
-    "plural": "Geschwindigkeitsbeschränkungen",
-    "meaning": "speed limit",
-    "level": "B1"
-  },
-  {
-    "noun": "Herkunftsland",
-    "article": "das",
-    "plural": "Herkunftsländer",
-    "meaning": "country of origin",
-    "level": "B1"
-  },
-  {
-    "noun": "Biene",
-    "article": "die",
-    "plural": "Bienen",
-    "meaning": "bee",
-    "level": "B1"
-  },
-  {
-    "noun": "Schwierigkeit",
-    "article": "die",
-    "plural": "Schwierigkeiten",
-    "meaning": "difficulty",
+    "plural": "Zielvorgaben",
+    "meaning": "target / objective",
     "level": "B1"
   },
   {
@@ -3402,192 +3857,10 @@
     "level": "B1"
   },
   {
-    "noun": "Tagesmutter",
+    "noun": "Zivilgesellschaft",
     "article": "die",
-    "plural": "Tagesmütter",
-    "meaning": "childminder",
-    "level": "B1"
-  },
-  {
-    "noun": "Vermittlung",
-    "article": "die",
-    "plural": "Vermittlungen",
-    "meaning": "placement, mediation",
-    "level": "B1"
-  },
-  {
-    "noun": "Augenblick",
-    "article": "der",
-    "plural": "Augenblicke",
-    "meaning": "moment",
-    "level": "B1"
-  },
-  {
-    "noun": "Kreis",
-    "article": "der",
-    "plural": "Kreise",
-    "meaning": "circle, group",
-    "level": "B1"
-  },
-  {
-    "noun": "Dienst",
-    "article": "der",
-    "plural": "Dienste",
-    "meaning": "service",
-    "level": "B1"
-  },
-  {
-    "noun": "Betreuung",
-    "article": "die",
-    "plural": "Betreuungen",
-    "meaning": "care, supervision",
-    "level": "B1"
-  },
-  {
-    "noun": "Feuerwehr",
-    "article": "die",
-    "plural": "Feuerwehren",
-    "meaning": "fire brigade",
-    "level": "B1"
-  },
-  {
-    "noun": "Bürgerinitiative",
-    "article": "die",
-    "plural": "Bürgerinitiativen",
-    "meaning": "citizens' initiative",
-    "level": "B1"
-  },
-  {
-    "noun": "Babysitter",
-    "article": "der",
-    "plural": "Babysitter",
-    "meaning": "babysitter",
-    "level": "B1"
-  },
-  {
-    "noun": "Verfallsdatum",
-    "article": "das",
-    "plural": "Verfallsdaten",
-    "meaning": "expiry date",
-    "level": "B1"
-  },
-  {
-    "noun": "Altenheim",
-    "article": "das",
-    "plural": "Altenheime",
-    "meaning": "retirement home",
-    "level": "B1"
-  },
-  {
-    "noun": "Philosophie",
-    "article": "die",
-    "plural": "Philosophien",
-    "meaning": "philosophy",
-    "level": "B1"
-  },
-  {
-    "noun": "Maßnahme",
-    "article": "die",
-    "plural": "Maßnahmen",
-    "meaning": "measure, action",
-    "level": "B1"
-  },
-  {
-    "noun": "Gewissen",
-    "article": "das",
-    "plural": "Gewissen",
-    "meaning": "conscience",
-    "level": "B1"
-  },
-  {
-    "noun": "Lüge",
-    "article": "die",
-    "plural": "Lügen",
-    "meaning": "lie",
-    "level": "B1"
-  },
-  {
-    "noun": "Krieg",
-    "article": "der",
-    "plural": "Kriege",
-    "meaning": "war",
-    "level": "B1"
-  },
-  {
-    "noun": "Bombe",
-    "article": "die",
-    "plural": "Bomben",
-    "meaning": "bomb",
-    "level": "B1"
-  },
-  {
-    "noun": "Bürgermeister",
-    "article": "der",
-    "plural": "Bürgermeister",
-    "meaning": "mayor",
-    "level": "B1"
-  },
-  {
-    "noun": "Geschwindigkeit",
-    "article": "die",
-    "plural": "Geschwindigkeiten",
-    "meaning": "speed",
-    "level": "B1"
-  },
-  {
-    "noun": "Ansicht",
-    "article": "die",
-    "plural": "Ansichten",
-    "meaning": "view, opinion",
-    "level": "B1"
-  },
-  {
-    "noun": "Zusammenhang",
-    "article": "der",
-    "plural": "Zusammenhänge",
-    "meaning": "connection, context",
-    "level": "B1"
-  },
-  {
-    "noun": "Gegensatz",
-    "article": "der",
-    "plural": "Gegensätze",
-    "meaning": "contrast, opposite",
-    "level": "B1"
-  },
-  {
-    "noun": "Zeichen",
-    "article": "das",
-    "plural": "Zeichen",
-    "meaning": "sign, signal",
-    "level": "B1"
-  },
-  {
-    "noun": "Bauer",
-    "article": "der",
-    "plural": "Bauern",
-    "meaning": "farmer",
-    "level": "B1"
-  },
-  {
-    "noun": "Streik",
-    "article": "der",
-    "plural": "Streiks",
-    "meaning": "strike",
-    "level": "B1"
-  },
-  {
-    "noun": "Bundeskanzler",
-    "article": "der",
-    "plural": "Bundeskanzler",
-    "meaning": "federal chancellor",
-    "level": "B1"
-  },
-  {
-    "noun": "Macht",
-    "article": "die",
-    "plural": "Mächte",
-    "meaning": "power",
+    "plural": "Zivilgesellschaften",
+    "meaning": "civil society",
     "level": "B1"
   },
   {
@@ -3598,52 +3871,24 @@
     "level": "B1"
   },
   {
-    "noun": "Tradition",
-    "article": "die",
-    "plural": "Traditionen",
-    "meaning": "tradition",
-    "level": "B1"
-  },
-  {
-    "noun": "Gegend",
-    "article": "die",
-    "plural": "Gegenden",
-    "meaning": "area, region",
-    "level": "B1"
-  },
-  {
-    "noun": "Volk",
+    "noun": "Zugabteil",
     "article": "das",
-    "plural": "Völker",
-    "meaning": "people, nation",
+    "plural": "Zugabteile",
+    "meaning": "train compartment",
     "level": "B1"
   },
   {
-    "noun": "Staatsangehörigkeit",
-    "article": "die",
-    "plural": "Staatsangehörigkeiten",
-    "meaning": "nationality, citizenship",
-    "level": "B1"
-  },
-  {
-    "noun": "Profi",
+    "noun": "Zusammenhang",
     "article": "der",
-    "plural": "Profis",
-    "meaning": "professional",
+    "plural": "Zusammenhänge",
+    "meaning": "connection, context",
     "level": "B1"
   },
   {
-    "noun": "Einwohner",
+    "noun": "Zuschlag",
     "article": "der",
-    "plural": "Einwohner",
-    "meaning": "inhabitant, resident",
-    "level": "B1"
-  },
-  {
-    "noun": "Kontinent",
-    "article": "der",
-    "plural": "Kontinente",
-    "meaning": "continent",
+    "plural": "Zuschläge",
+    "meaning": "bonus",
     "level": "B1"
   },
   {
@@ -3654,52 +3899,45 @@
     "level": "B1"
   },
   {
-    "noun": "Nachtisch",
-    "article": "der",
-    "plural": "Nachtische",
-    "meaning": "dessert",
-    "level": "B1"
-  },
-  {
-    "noun": "Trainerin",
+    "noun": "Änderung",
     "article": "die",
-    "plural": "Trainerinnen",
-    "meaning": "female coach, trainer",
+    "plural": "Änderungen",
+    "meaning": "change",
     "level": "B1"
   },
   {
-    "noun": "Präsidentin",
+    "noun": "Öffentlichkeit",
     "article": "die",
-    "plural": "Präsidentinnen",
-    "meaning": "female president",
+    "plural": "Öffentlichkeiten",
+    "meaning": "public",
     "level": "B1"
   },
   {
-    "noun": "Griechin",
+    "noun": "Öffentlichkeitsarbeit",
     "article": "die",
-    "plural": "Griechinnen",
-    "meaning": "Greek woman",
+    "plural": "Öffentlichkeitsarbeiten",
+    "meaning": "public relations",
     "level": "B1"
   },
   {
-    "noun": "Autorin",
+    "noun": "Überfahrt",
     "article": "die",
-    "plural": "Autorinnen",
-    "meaning": "female author",
+    "plural": "Überfahrten",
+    "meaning": "crossing",
     "level": "B1"
   },
   {
-    "noun": "Maler",
-    "article": "der",
-    "plural": "Maler",
-    "meaning": "painter",
+    "noun": "Übergewicht",
+    "article": "das",
+    "plural": "Übergewichte",
+    "meaning": "overweight",
     "level": "B1"
   },
   {
-    "noun": "Malerin",
+    "noun": "Übernachtung",
     "article": "die",
-    "plural": "Malerinnen",
-    "meaning": "female painter",
+    "plural": "Übernachtungen",
+    "meaning": "overnight stay",
     "level": "B1"
   },
   {
@@ -3710,109 +3948,26 @@
     "level": "B1"
   },
   {
-    "noun": "Tierpark",
-    "article": "der",
-    "plural": "Tierparks",
-    "meaning": "zoo, animal park",
-    "level": "B1"
-  },
-  {
-    "noun": "Kauffrau",
-    "article": "die",
-    "plural": "Kauffrauen",
-    "meaning": "businesswoman, tradeswoman",
-    "level": "B1"
-  },
-  {
-    "noun": "Rechtsanwältin",
-    "article": "die",
-    "plural": "Rechtsanwältinnen",
-    "meaning": "female lawyer",
-    "level": "B1"
-  },
-  {
-    "noun": "Anwältin",
-    "article": "die",
-    "plural": "Anwältinnen",
-    "meaning": "female lawyer",
-    "level": "B1"
-  },
-  {
-    "noun": "Kursleiterin",
-    "article": "die",
-    "plural": "Kursleiterinnen",
-    "meaning": "female course instructor",
-    "level": "B1"
-  },
-  {
-    "noun": "Managerin",
-    "article": "die",
-    "plural": "Managerinnen",
-    "meaning": "female manager",
-    "level": "B1"
-  },
-  {
-    "noun": "Moderatorin",
-    "article": "die",
-    "plural": "Moderatorinnen",
-    "meaning": "female moderator, host",
-    "level": "B1"
-  },
-  {
-    "noun": "Verbraucherin",
-    "article": "die",
-    "plural": "Verbraucherinnen",
-    "meaning": "female consumer",
-    "level": "B1"
-  },
-  {
-    "noun": "Diebin",
-    "article": "die",
-    "plural": "Diebinnen",
-    "meaning": "female thief",
-    "level": "B1"
-  },
-  {
-    "noun": "Fachfrau",
-    "article": "die",
-    "plural": "Fachfrauen",
-    "meaning": "female expert, specialist",
-    "level": "B1"
-  },
-  {
-    "noun": "Fachleute",
+    "noun": "Überstunden",
     "article": "die",
     "plural": "",
-    "meaning": "experts, specialists",
+    "meaning": "overtime",
     "level": "B1",
     "plural_only": true
   },
   {
-    "noun": "Bürgermeisterin",
+    "noun": "Übertragungsrechte",
     "article": "die",
-    "plural": "Bürgermeisterinnen",
-    "meaning": "female mayor",
-    "level": "B1"
+    "plural": "",
+    "meaning": "broadcasting rights",
+    "level": "B1",
+    "plural_only": true
   },
   {
-    "noun": "Bäuerin",
+    "noun": "Überweisung",
     "article": "die",
-    "plural": "Bäuerinnen",
-    "meaning": "female farmer",
-    "level": "B1"
-  },
-  {
-    "noun": "Bundeskanzlerin",
-    "article": "die",
-    "plural": "Bundeskanzlerinnen",
-    "meaning": "female federal chancellor",
-    "level": "B1"
-  },
-  {
-    "noun": "Kostüm",
-    "article": "das",
-    "plural": "Kostüme",
-    "meaning": "costume",
+    "plural": "Überweisungen",
+    "meaning": "referral",
     "level": "B1"
   }
 ]

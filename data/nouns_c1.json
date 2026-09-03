@@ -21,13 +21,6 @@
     "level": "C1"
   },
   {
-    "noun": "Ästhetik",
-    "article": "die",
-    "plural": "Ästhetiken",
-    "meaning": "aesthetics",
-    "level": "C1"
-  },
-  {
     "noun": "Akquisition",
     "article": "die",
     "plural": "Akquisitionen",
@@ -39,6 +32,13 @@
     "article": "die",
     "plural": "Ambivalenzen",
     "meaning": "ambivalence",
+    "level": "C1"
+  },
+  {
+    "noun": "Amnestie",
+    "article": "die",
+    "plural": "Amnestien",
+    "meaning": "amnesty",
     "level": "C1"
   },
   {
@@ -68,6 +68,21 @@
     "article": "das",
     "plural": "Artensterben",
     "meaning": "species extinction",
+    "level": "C1"
+  },
+  {
+    "noun": "Augmented Reality",
+    "article": "die",
+    "plural": "",
+    "meaning": "augmented reality",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Automatisierungswelle",
+    "article": "die",
+    "plural": "Automatisierungswellen",
+    "meaning": "wave of automation",
     "level": "C1"
   },
   {
@@ -114,10 +129,25 @@
     "level": "C1"
   },
   {
+    "noun": "Beweislastumkehr",
+    "article": "die",
+    "plural": "",
+    "meaning": "reversal of burden of proof",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
     "noun": "Bilanzierung",
     "article": "die",
     "plural": "Bilanzierungen",
     "meaning": "accounting",
+    "level": "C1"
+  },
+  {
+    "noun": "Biodiversitätsstrategie",
+    "article": "die",
+    "plural": "Biodiversitätsstrategien",
+    "meaning": "biodiversity strategy",
     "level": "C1"
   },
   {
@@ -129,12 +159,41 @@
     "singular_only": true
   },
   {
+    "noun": "Biomarker",
+    "article": "die",
+    "plural": "",
+    "meaning": "biomarkers",
+    "level": "C1",
+    "plural_only": true
+  },
+  {
     "noun": "Biotechnologie",
     "article": "die",
     "plural": "",
     "meaning": "biotechnology",
     "level": "C1",
     "singular_only": true
+  },
+  {
+    "noun": "Blockchain",
+    "article": "die",
+    "plural": "Blockchains",
+    "meaning": "blockchain",
+    "level": "C1"
+  },
+  {
+    "noun": "Bruttosozialprodukt",
+    "article": "das",
+    "plural": "Bruttosozialprodukte",
+    "meaning": "gross national product",
+    "level": "C1"
+  },
+  {
+    "noun": "Burnout",
+    "article": "das",
+    "plural": "Burnouts",
+    "meaning": "burnout",
+    "level": "C1"
   },
   {
     "noun": "Bündnispolitik",
@@ -144,10 +203,10 @@
     "level": "C1"
   },
   {
-    "noun": "Burnout",
-    "article": "das",
-    "plural": "Burnouts",
-    "meaning": "burnout",
+    "noun": "Bürokratisierung",
+    "article": "die",
+    "plural": "Bürokratisierungen",
+    "meaning": "bureaucratisation",
     "level": "C1"
   },
   {
@@ -167,12 +226,47 @@
     "plural_only": true
   },
   {
+    "noun": "Cloud-Infrastruktur",
+    "article": "die",
+    "plural": "Cloud-Infrastrukturen",
+    "meaning": "cloud infrastructure",
+    "level": "C1"
+  },
+  {
     "noun": "Compliance",
     "article": "die",
     "plural": "",
     "meaning": "compliance",
     "level": "C1",
     "singular_only": true
+  },
+  {
+    "noun": "Cybersicherheit",
+    "article": "die",
+    "plural": "Cybersicherheiten",
+    "meaning": "cybersecurity",
+    "level": "C1"
+  },
+  {
+    "noun": "Datenanalyse",
+    "article": "die",
+    "plural": "Datenanalysen",
+    "meaning": "data analytics",
+    "level": "C1"
+  },
+  {
+    "noun": "Datenhoheit",
+    "article": "die",
+    "plural": "Datenhoheiten",
+    "meaning": "data sovereignty",
+    "level": "C1"
+  },
+  {
+    "noun": "Deepfake",
+    "article": "das",
+    "plural": "Deepfakes",
+    "meaning": "deepfake",
+    "level": "C1"
   },
   {
     "noun": "Deflation",
@@ -190,6 +284,13 @@
     "singular_only": true
   },
   {
+    "noun": "Delikt",
+    "article": "das",
+    "plural": "Delikte",
+    "meaning": "offence / tort",
+    "level": "C1"
+  },
+  {
     "noun": "Demenz",
     "article": "die",
     "plural": "Demenzen",
@@ -201,6 +302,20 @@
     "article": "die",
     "plural": "Demografien",
     "meaning": "demographics",
+    "level": "C1"
+  },
+  {
+    "noun": "Demokratiedefizit",
+    "article": "das",
+    "plural": "Demokratiedefizite",
+    "meaning": "democratic deficit",
+    "level": "C1"
+  },
+  {
+    "noun": "Denkkollektiv",
+    "article": "das",
+    "plural": "Denkkollektive",
+    "meaning": "thought collective",
     "level": "C1"
   },
   {
@@ -243,10 +358,24 @@
     "singular_only": true
   },
   {
+    "noun": "Diskursanalyse",
+    "article": "die",
+    "plural": "Diskursanalysen",
+    "meaning": "discourse analysis",
+    "level": "C1"
+  },
+  {
     "noun": "Dissertation",
     "article": "die",
     "plural": "Dissertationen",
     "meaning": "dissertation",
+    "level": "C1"
+  },
+  {
+    "noun": "Diversifikation",
+    "article": "die",
+    "plural": "Diversifikationen",
+    "meaning": "diversification",
     "level": "C1"
   },
   {
@@ -301,10 +430,32 @@
     "level": "C1"
   },
   {
+    "noun": "Entwaldung",
+    "article": "die",
+    "plural": "Entwaldungen",
+    "meaning": "deforestation",
+    "level": "C1"
+  },
+  {
+    "noun": "Entwässerung",
+    "article": "die",
+    "plural": "Entwässerungen",
+    "meaning": "drainage / dewatering",
+    "level": "C1"
+  },
+  {
     "noun": "Epidemiologie",
     "article": "die",
     "plural": "",
     "meaning": "epidemiology",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Epigenetik",
+    "article": "die",
+    "plural": "",
+    "meaning": "epigenetics",
     "level": "C1",
     "singular_only": true
   },
@@ -317,10 +468,24 @@
     "singular_only": true
   },
   {
+    "noun": "Erkenntnissubjekt",
+    "article": "das",
+    "plural": "Erkenntnissubjekte",
+    "meaning": "knowing subject",
+    "level": "C1"
+  },
+  {
     "noun": "Ermittlung",
     "article": "die",
     "plural": "Ermittlungen",
     "meaning": "investigation",
+    "level": "C1"
+  },
+  {
+    "noun": "Erzähltheorie",
+    "article": "die",
+    "plural": "Erzähltheorien",
+    "meaning": "narratology",
     "level": "C1"
   },
   {
@@ -338,6 +503,27 @@
     "level": "C1"
   },
   {
+    "noun": "Extremismusprävention",
+    "article": "die",
+    "plural": "Extremismuspräventionen",
+    "meaning": "extremism prevention",
+    "level": "C1"
+  },
+  {
+    "noun": "Filmästhetik",
+    "article": "die",
+    "plural": "Filmästhetiken",
+    "meaning": "film aesthetics",
+    "level": "C1"
+  },
+  {
+    "noun": "Fiskalunion",
+    "article": "die",
+    "plural": "Fiskalunionen",
+    "meaning": "fiscal union",
+    "level": "C1"
+  },
+  {
     "noun": "Freispruch",
     "article": "der",
     "plural": "Freisprüche",
@@ -352,12 +538,26 @@
     "level": "C1"
   },
   {
+    "noun": "Geldmenge",
+    "article": "die",
+    "plural": "Geldmengen",
+    "meaning": "money supply",
+    "level": "C1"
+  },
+  {
     "noun": "Genetik",
     "article": "die",
     "plural": "",
     "meaning": "genetics",
     "level": "C1",
     "singular_only": true
+  },
+  {
+    "noun": "Genomsequenzierung",
+    "article": "die",
+    "plural": "Genomsequenzierungen",
+    "meaning": "genome sequencing",
+    "level": "C1"
   },
   {
     "noun": "Gentechnik",
@@ -374,10 +574,25 @@
     "level": "C1"
   },
   {
+    "noun": "Geoengineering",
+    "article": "das",
+    "plural": "",
+    "meaning": "geoengineering",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
     "noun": "Gerichtsbarkeit",
     "article": "die",
     "plural": "Gerichtsbarkeiten",
     "meaning": "jurisdiction",
+    "level": "C1"
+  },
+  {
+    "noun": "Gesamtkunstwerk",
+    "article": "das",
+    "plural": "Gesamtkunstwerke",
+    "meaning": "total work of art",
     "level": "C1"
   },
   {
@@ -396,6 +611,20 @@
     "singular_only": true
   },
   {
+    "noun": "Gewebetransplantation",
+    "article": "die",
+    "plural": "Gewebetransplantationen",
+    "meaning": "tissue transplantation",
+    "level": "C1"
+  },
+  {
+    "noun": "Gewohnheitsrecht",
+    "article": "das",
+    "plural": "Gewohnheitsrechte",
+    "meaning": "common law / customary law",
+    "level": "C1"
+  },
+  {
     "noun": "Grundgesetz",
     "article": "das",
     "plural": "Grundgesetze",
@@ -410,11 +639,41 @@
     "level": "C1"
   },
   {
+    "noun": "Handelsembargo",
+    "article": "das",
+    "plural": "Handelsembargos",
+    "meaning": "trade embargo",
+    "level": "C1"
+  },
+  {
+    "noun": "Haushaltskonsolidierung",
+    "article": "die",
+    "plural": "Haushaltskonsolidierungen",
+    "meaning": "fiscal consolidation",
+    "level": "C1"
+  },
+  {
+    "noun": "Hermeneutik",
+    "article": "die",
+    "plural": "",
+    "meaning": "hermeneutics",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
     "noun": "Humanismus",
     "article": "der",
     "plural": "Humanismen",
     "meaning": "humanism",
     "level": "C1"
+  },
+  {
+    "noun": "Humankapital",
+    "article": "das",
+    "plural": "",
+    "meaning": "human capital",
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Identität",
@@ -439,10 +698,24 @@
     "singular_only": true
   },
   {
+    "noun": "Immuntherapie",
+    "article": "die",
+    "plural": "Immuntherapien",
+    "meaning": "immunotherapy",
+    "level": "C1"
+  },
+  {
     "noun": "Implikation",
     "article": "die",
     "plural": "Implikationen",
     "meaning": "implication",
+    "level": "C1"
+  },
+  {
+    "noun": "Infektionskette",
+    "article": "die",
+    "plural": "Infektionsketten",
+    "meaning": "chain of infection",
     "level": "C1"
   },
   {
@@ -467,6 +740,20 @@
     "level": "C1"
   },
   {
+    "noun": "Interessenvermittlung",
+    "article": "die",
+    "plural": "Interessenvermittlungen",
+    "meaning": "interest intermediation",
+    "level": "C1"
+  },
+  {
+    "noun": "Interoperabilität",
+    "article": "die",
+    "plural": "Interoperabilitäten",
+    "meaning": "interoperability",
+    "level": "C1"
+  },
+  {
     "noun": "Intervenieren",
     "article": "das",
     "plural": "Intervenieren",
@@ -478,6 +765,20 @@
     "article": "die",
     "plural": "Jurisdiktionen",
     "meaning": "jurisdiction",
+    "level": "C1"
+  },
+  {
+    "noun": "Kanonrevision",
+    "article": "die",
+    "plural": "Kanonrevisionen",
+    "meaning": "canon revision",
+    "level": "C1"
+  },
+  {
+    "noun": "Kapitalmarktregulierung",
+    "article": "die",
+    "plural": "Kapitalmarktregulierungen",
+    "meaning": "capital market regulation",
     "level": "C1"
   },
   {
@@ -495,11 +796,54 @@
     "level": "C1"
   },
   {
+    "noun": "Klimaanpassung",
+    "article": "die",
+    "plural": "Klimaanpassungen",
+    "meaning": "climate adaptation",
+    "level": "C1"
+  },
+  {
+    "noun": "Klimafinanzierung",
+    "article": "die",
+    "plural": "Klimafinanzierungen",
+    "meaning": "climate finance",
+    "level": "C1"
+  },
+  {
+    "noun": "Klimamodell",
+    "article": "das",
+    "plural": "Klimamodelle",
+    "meaning": "climate model",
+    "level": "C1"
+  },
+  {
     "noun": "Klimaneutralität",
     "article": "die",
     "plural": "Klimaneutralitäten",
     "meaning": "carbon neutrality",
     "level": "C1"
+  },
+  {
+    "noun": "Kognitionswissenschaft",
+    "article": "die",
+    "plural": "Kognitionswissenschaften",
+    "meaning": "cognitive science",
+    "level": "C1"
+  },
+  {
+    "noun": "Kognitivismus",
+    "article": "der",
+    "plural": "Kognitivismen",
+    "meaning": "cognitivism",
+    "level": "C1"
+  },
+  {
+    "noun": "Kommunitarismus",
+    "article": "der",
+    "plural": "",
+    "meaning": "communitarianism",
+    "level": "C1",
+    "singular_only": true
   },
   {
     "noun": "Konsolidierung",
@@ -537,6 +881,43 @@
     "level": "C1"
   },
   {
+    "noun": "Kreditwürdigkeit",
+    "article": "die",
+    "plural": "",
+    "meaning": "creditworthiness",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Kulturerbe",
+    "article": "das",
+    "plural": "",
+    "meaning": "cultural heritage",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Kulturimperialismus",
+    "article": "der",
+    "plural": "Kulturimperialismen",
+    "meaning": "cultural imperialism",
+    "level": "C1"
+  },
+  {
+    "noun": "Kunsterlebnis",
+    "article": "das",
+    "plural": "Kunsterlebnisse",
+    "meaning": "art experience",
+    "level": "C1"
+  },
+  {
+    "noun": "Kunstförderung",
+    "article": "die",
+    "plural": "Kunstförderungen",
+    "meaning": "arts funding",
+    "level": "C1"
+  },
+  {
     "noun": "Kybernetik",
     "article": "die",
     "plural": "",
@@ -545,12 +926,26 @@
     "singular_only": true
   },
   {
+    "noun": "Landnutzungsänderung",
+    "article": "die",
+    "plural": "Landnutzungsänderungen",
+    "meaning": "land use change",
+    "level": "C1"
+  },
+  {
     "noun": "Lebenserwartung",
     "article": "die",
     "plural": "",
     "meaning": "life expectancy",
     "level": "C1",
     "singular_only": true
+  },
+  {
+    "noun": "Legalitätsprinzip",
+    "article": "das",
+    "plural": "Legalitätsprinzipien",
+    "meaning": "principle of legality",
+    "level": "C1"
   },
   {
     "noun": "Legitimität",
@@ -590,6 +985,13 @@
     "level": "C1"
   },
   {
+    "noun": "Marktgleichgewicht",
+    "article": "das",
+    "plural": "Marktgleichgewichte",
+    "meaning": "market equilibrium",
+    "level": "C1"
+  },
+  {
     "noun": "Maschinelle Lernen",
     "article": "das",
     "plural": "",
@@ -605,6 +1007,28 @@
     "level": "C1"
   },
   {
+    "noun": "Mehrheitsdemokratie",
+    "article": "die",
+    "plural": "Mehrheitsdemokratien",
+    "meaning": "majoritarian democracy",
+    "level": "C1"
+  },
+  {
+    "noun": "Menschenrecht",
+    "article": "das",
+    "plural": "Menschenrechte",
+    "meaning": "human right",
+    "level": "C1"
+  },
+  {
+    "noun": "Metabolomik",
+    "article": "die",
+    "plural": "",
+    "meaning": "metabolomics",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
     "noun": "Metaphysik",
     "article": "die",
     "plural": "",
@@ -617,6 +1041,13 @@
     "article": "die",
     "plural": "Methodiken",
     "meaning": "methodology",
+    "level": "C1"
+  },
+  {
+    "noun": "Mikrobiom",
+    "article": "das",
+    "plural": "Mikrobiome",
+    "meaning": "microbiome",
     "level": "C1"
   },
   {
@@ -649,6 +1080,29 @@
     "level": "C1"
   },
   {
+    "noun": "Naturschutzrecht",
+    "article": "das",
+    "plural": "Naturschutzrechte",
+    "meaning": "nature conservation law",
+    "level": "C1"
+  },
+  {
+    "noun": "Negativzinsen",
+    "article": "die",
+    "plural": "",
+    "meaning": "negative interest rates",
+    "level": "C1",
+    "plural_only": true
+  },
+  {
+    "noun": "Neuroplastizität",
+    "article": "die",
+    "plural": "",
+    "meaning": "neuroplasticity",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
     "noun": "Neurowissenschaft",
     "article": "die",
     "plural": "Neurowissenschaften",
@@ -671,6 +1125,20 @@
     "singular_only": true
   },
   {
+    "noun": "Normenhierarchie",
+    "article": "die",
+    "plural": "Normenhierarchien",
+    "meaning": "hierarchy of norms",
+    "level": "C1"
+  },
+  {
+    "noun": "Notdienstplan",
+    "article": "der",
+    "plural": "Notdienstpläne",
+    "meaning": "on-call schedule",
+    "level": "C1"
+  },
+  {
     "noun": "Novellierung",
     "article": "die",
     "plural": "Novellierungen",
@@ -685,10 +1153,24 @@
     "level": "C1"
   },
   {
+    "noun": "Oligopol",
+    "article": "das",
+    "plural": "Oligopole",
+    "meaning": "oligopoly",
+    "level": "C1"
+  },
+  {
     "noun": "Ontologie",
     "article": "die",
     "plural": "Ontologien",
     "meaning": "ontology",
+    "level": "C1"
+  },
+  {
+    "noun": "Ordnungspolitik",
+    "article": "die",
+    "plural": "Ordnungspolitiken",
+    "meaning": "competition policy",
     "level": "C1"
   },
   {
@@ -716,6 +1198,14 @@
     "singular_only": true
   },
   {
+    "noun": "Pandemievorsorge",
+    "article": "die",
+    "plural": "",
+    "meaning": "pandemic preparedness",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
     "noun": "Paradigma",
     "article": "das",
     "plural": "Paradigmen",
@@ -723,10 +1213,54 @@
     "level": "C1"
   },
   {
+    "noun": "Parlamentssouveränität",
+    "article": "die",
+    "plural": "Parlamentssouveränitäten",
+    "meaning": "parliamentary sovereignty",
+    "level": "C1"
+  },
+  {
+    "noun": "Partikularinteressen",
+    "article": "die",
+    "plural": "",
+    "meaning": "particular interests",
+    "level": "C1",
+    "plural_only": true
+  },
+  {
     "noun": "Pathologie",
     "article": "die",
     "plural": "Pathologien",
     "meaning": "pathology",
+    "level": "C1"
+  },
+  {
+    "noun": "Phänomenologie",
+    "article": "die",
+    "plural": "",
+    "meaning": "phenomenology",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Placebo",
+    "article": "das",
+    "plural": "Placebos",
+    "meaning": "placebo",
+    "level": "C1"
+  },
+  {
+    "noun": "Plastikflut",
+    "article": "die",
+    "plural": "Plastikfluten",
+    "meaning": "plastic pollution",
+    "level": "C1"
+  },
+  {
+    "noun": "Plattformökonomie",
+    "article": "die",
+    "plural": "Plattformökonomien",
+    "meaning": "platform economy",
     "level": "C1"
   },
   {
@@ -737,10 +1271,25 @@
     "level": "C1"
   },
   {
-    "noun": "Prämisse",
+    "noun": "Pluralität",
     "article": "die",
-    "plural": "Prämissen",
-    "meaning": "premise",
+    "plural": "Pluralitäten",
+    "meaning": "plurality",
+    "level": "C1"
+  },
+  {
+    "noun": "Positivismus",
+    "article": "der",
+    "plural": "",
+    "meaning": "positivism",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Pragmatik",
+    "article": "die",
+    "plural": "Pragmatiken",
+    "meaning": "pragmatics",
     "level": "C1"
   },
   {
@@ -759,9 +1308,44 @@
     "level": "C1"
   },
   {
+    "noun": "Proteinfaltung",
+    "article": "die",
+    "plural": "Proteinfaltungen",
+    "meaning": "protein folding",
+    "level": "C1"
+  },
+  {
+    "noun": "Prozessordnung",
+    "article": "die",
+    "plural": "Prozessordnungen",
+    "meaning": "procedural code",
+    "level": "C1"
+  },
+  {
+    "noun": "Prämisse",
+    "article": "die",
+    "plural": "Prämissen",
+    "meaning": "premise",
+    "level": "C1"
+  },
+  {
+    "noun": "Präzisionsmedizin",
+    "article": "die",
+    "plural": "Präzisionsmedizinen",
+    "meaning": "precision medicine",
+    "level": "C1"
+  },
+  {
     "noun": "Quantencomputer",
     "article": "die",
     "plural": "Quantencomputer",
+    "meaning": "quantum computing",
+    "level": "C1"
+  },
+  {
+    "noun": "Quantencomputing",
+    "article": "das",
+    "plural": "Quantencomputinge",
     "meaning": "quantum computing",
     "level": "C1"
   },
@@ -787,10 +1371,61 @@
     "level": "C1"
   },
   {
+    "noun": "Rechtsbeistand",
+    "article": "der",
+    "plural": "Rechtsbeistände",
+    "meaning": "legal counsel",
+    "level": "C1"
+  },
+  {
+    "noun": "Rechtsdogmatik",
+    "article": "die",
+    "plural": "",
+    "meaning": "legal doctrine",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Rechtsextremismusprävention",
+    "article": "die",
+    "plural": "Rechtsextremismuspräventionen",
+    "meaning": "right-wing extremism prevention",
+    "level": "C1"
+  },
+  {
+    "noun": "Rechtsmittel",
+    "article": "das",
+    "plural": "Rechtsmittel",
+    "meaning": "legal remedy / appeal",
+    "level": "C1"
+  },
+  {
     "noun": "Rechtsprechung",
     "article": "die",
     "plural": "Rechtsprechungen",
     "meaning": "jurisdiction",
+    "level": "C1"
+  },
+  {
+    "noun": "Rechtssicherheit",
+    "article": "die",
+    "plural": "Rechtssicherheiten",
+    "meaning": "legal certainty",
+    "level": "C1"
+  },
+  {
+    "noun": "Rechtsstaatlichkeit",
+    "article": "die",
+    "plural": "",
+    "meaning": "rule of law",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Regulierungslücke",
+    "article": "die",
+    "plural": "Regulierungslücken",
+    "meaning": "regulatory gap",
     "level": "C1"
   },
   {
@@ -822,6 +1457,13 @@
     "level": "C1"
   },
   {
+    "noun": "Resistenzentwicklung",
+    "article": "die",
+    "plural": "Resistenzentwicklungen",
+    "meaning": "resistance development",
+    "level": "C1"
+  },
+  {
     "noun": "Resolution",
     "article": "die",
     "plural": "Resolutionen",
@@ -829,10 +1471,31 @@
     "level": "C1"
   },
   {
+    "noun": "Ressourceneffizienz",
+    "article": "die",
+    "plural": "Ressourceneffizienzen",
+    "meaning": "resource efficiency",
+    "level": "C1"
+  },
+  {
+    "noun": "Restwassermenge",
+    "article": "die",
+    "plural": "Restwassermengen",
+    "meaning": "residual flow",
+    "level": "C1"
+  },
+  {
     "noun": "Resultat",
     "article": "das",
     "plural": "Resultate",
     "meaning": "result",
+    "level": "C1"
+  },
+  {
+    "noun": "Rezessionsbekämpfung",
+    "article": "die",
+    "plural": "Rezessionsbekämpfungen",
+    "meaning": "combating recession",
     "level": "C1"
   },
   {
@@ -865,6 +1528,13 @@
     "level": "C1"
   },
   {
+    "noun": "Schattenwirtschaft",
+    "article": "die",
+    "plural": "Schattenwirtschaften",
+    "meaning": "shadow economy",
+    "level": "C1"
+  },
+  {
     "noun": "Schlussfolgerung",
     "article": "die",
     "plural": "Schlussfolgerungen",
@@ -883,6 +1553,13 @@
     "article": "die",
     "plural": "Segregationen",
     "meaning": "segregation",
+    "level": "C1"
+  },
+  {
+    "noun": "Semantik",
+    "article": "die",
+    "plural": "Semantiken",
+    "meaning": "semantics",
     "level": "C1"
   },
   {
@@ -908,6 +1585,14 @@
     "singular_only": true
   },
   {
+    "noun": "Smart Grid",
+    "article": "das",
+    "plural": "",
+    "meaning": "smart grid",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
     "noun": "Souveränität",
     "article": "die",
     "plural": "Souveränitäten",
@@ -919,6 +1604,50 @@
     "article": "die",
     "plural": "Sozialisierungen",
     "meaning": "socialization",
+    "level": "C1"
+  },
+  {
+    "noun": "Spracherwerbstheorie",
+    "article": "die",
+    "plural": "Spracherwerbstheorien",
+    "meaning": "language acquisition theory",
+    "level": "C1"
+  },
+  {
+    "noun": "Sprachspiel",
+    "article": "das",
+    "plural": "Sprachspiele",
+    "meaning": "language game",
+    "level": "C1"
+  },
+  {
+    "noun": "Sprachverarbeitung",
+    "article": "die",
+    "plural": "",
+    "meaning": "natural language processing",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Staatshaftung",
+    "article": "die",
+    "plural": "Staatshaftungen",
+    "meaning": "state liability",
+    "level": "C1"
+  },
+  {
+    "noun": "Staatsräson",
+    "article": "die",
+    "plural": "",
+    "meaning": "reason of state",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Stagflation",
+    "article": "die",
+    "plural": "Stagflationen",
+    "meaning": "stagflation",
     "level": "C1"
   },
   {
@@ -951,10 +1680,90 @@
     "level": "C1"
   },
   {
+    "noun": "Strafjustiz",
+    "article": "die",
+    "plural": "",
+    "meaning": "criminal justice system",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Strafmaßnahme",
+    "article": "die",
+    "plural": "Strafmaßnahmen",
+    "meaning": "punitive measure",
+    "level": "C1"
+  },
+  {
+    "noun": "Subsidiaritätsprinzip",
+    "article": "das",
+    "plural": "",
+    "meaning": "principle of subsidiarity",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Suffizienz",
+    "article": "die",
+    "plural": "Suffizienzen",
+    "meaning": "sufficiency",
+    "level": "C1"
+  },
+  {
+    "noun": "Syntax",
+    "article": "die",
+    "plural": "Syntaxen",
+    "meaning": "syntax",
+    "level": "C1"
+  },
+  {
+    "noun": "Systembiologie",
+    "article": "die",
+    "plural": "",
+    "meaning": "systems biology",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Systemtransformation",
+    "article": "die",
+    "plural": "Systemtransformationen",
+    "meaning": "systemic transformation",
+    "level": "C1"
+  },
+  {
+    "noun": "Technologierente",
+    "article": "die",
+    "plural": "Technologierenten",
+    "meaning": "technology rent",
+    "level": "C1"
+  },
+  {
+    "noun": "Theodizee",
+    "article": "die",
+    "plural": "Theodizeen",
+    "meaning": "theodicy",
+    "level": "C1"
+  },
+  {
+    "noun": "Theodizee-Debatte",
+    "article": "die",
+    "plural": "Theodizee-Debatten",
+    "meaning": "theodicy debate",
+    "level": "C1"
+  },
+  {
     "noun": "These",
     "article": "die",
     "plural": "Thesen",
     "meaning": "thesis",
+    "level": "C1"
+  },
+  {
+    "noun": "Tiermodell",
+    "article": "das",
+    "plural": "Tiermodelle",
+    "meaning": "animal model",
     "level": "C1"
   },
   {
@@ -973,6 +1782,13 @@
     "level": "C1"
   },
   {
+    "noun": "Treibhausgasbilanz",
+    "article": "die",
+    "plural": "Treibhausgasbilanzen",
+    "meaning": "greenhouse gas balance",
+    "level": "C1"
+  },
+  {
     "noun": "Tugend",
     "article": "die",
     "plural": "Tugenden",
@@ -980,10 +1796,25 @@
     "level": "C1"
   },
   {
-    "noun": "Überwachung",
+    "noun": "Umverteilung",
     "article": "die",
-    "plural": "Überwachungen",
-    "meaning": "surveillance",
+    "plural": "Umverteilungen",
+    "meaning": "redistribution",
+    "level": "C1"
+  },
+  {
+    "noun": "Umweltbundesamt",
+    "article": "das",
+    "plural": "",
+    "meaning": "Federal Environment Agency",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Umweltverträglichkeitsprüfung",
+    "article": "die",
+    "plural": "Umweltverträglichkeitsprüfungen",
+    "meaning": "environmental impact assessment",
     "level": "C1"
   },
   {
@@ -1023,6 +1854,27 @@
     "level": "C1"
   },
   {
+    "noun": "Verbotsgesetz",
+    "article": "das",
+    "plural": "Verbotsgesetze",
+    "meaning": "prohibition law",
+    "level": "C1"
+  },
+  {
+    "noun": "Verfassungsgericht",
+    "article": "das",
+    "plural": "Verfassungsgerichte",
+    "meaning": "constitutional court",
+    "level": "C1"
+  },
+  {
+    "noun": "Verfassungsrecht",
+    "article": "das",
+    "plural": "Verfassungsrechte",
+    "meaning": "constitutional law",
+    "level": "C1"
+  },
+  {
     "noun": "Verjährung",
     "article": "die",
     "plural": "Verjährungen",
@@ -1051,18 +1903,17 @@
     "level": "C1"
   },
   {
+    "noun": "Vetomacht",
+    "article": "die",
+    "plural": "Vetomächte",
+    "meaning": "veto power",
+    "level": "C1"
+  },
+  {
     "noun": "Virologie",
     "article": "die",
     "plural": "",
     "meaning": "virology",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Völkerrecht",
-    "article": "das",
-    "plural": "",
-    "meaning": "international law",
     "level": "C1",
     "singular_only": true
   },
@@ -1074,10 +1925,32 @@
     "level": "C1"
   },
   {
+    "noun": "Vollstreckung",
+    "article": "die",
+    "plural": "Vollstreckungen",
+    "meaning": "enforcement / execution",
+    "level": "C1"
+  },
+  {
     "noun": "Vorsorgeuntersuchung",
     "article": "die",
     "plural": "Vorsorgeuntersuchungen",
     "meaning": "preventive examination",
+    "level": "C1"
+  },
+  {
+    "noun": "Völkerrecht",
+    "article": "das",
+    "plural": "",
+    "meaning": "international law",
+    "level": "C1",
+    "singular_only": true
+  },
+  {
+    "noun": "Wahlsystem",
+    "article": "das",
+    "plural": "Wahlsysteme",
+    "meaning": "electoral system",
     "level": "C1"
   },
   {
@@ -1124,221 +1997,11 @@
     "singular_only": true
   },
   {
-    "noun": "Zahlungsfähigkeit",
-    "article": "die",
-    "plural": "",
-    "meaning": "solvency",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Zivilrecht",
-    "article": "das",
-    "plural": "",
-    "meaning": "civil law",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Rechtsstaatlichkeit",
-    "article": "die",
-    "plural": "",
-    "meaning": "rule of law",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Verfassungsgericht",
-    "article": "das",
-    "plural": "Verfassungsgerichte",
-    "meaning": "constitutional court",
-    "level": "C1"
-  },
-  {
-    "noun": "Normenhierarchie",
-    "article": "die",
-    "plural": "Normenhierarchien",
-    "meaning": "hierarchy of norms",
-    "level": "C1"
-  },
-  {
-    "noun": "Gewohnheitsrecht",
-    "article": "das",
-    "plural": "Gewohnheitsrechte",
-    "meaning": "common law / customary law",
-    "level": "C1"
-  },
-  {
-    "noun": "Rechtsdogmatik",
-    "article": "die",
-    "plural": "",
-    "meaning": "legal doctrine",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Delikt",
-    "article": "das",
-    "plural": "Delikte",
-    "meaning": "offence / tort",
-    "level": "C1"
-  },
-  {
-    "noun": "Strafmaßnahme",
-    "article": "die",
-    "plural": "Strafmaßnahmen",
-    "meaning": "punitive measure",
-    "level": "C1"
-  },
-  {
-    "noun": "Prozessordnung",
-    "article": "die",
-    "plural": "Prozessordnungen",
-    "meaning": "procedural code",
-    "level": "C1"
-  },
-  {
-    "noun": "Staatshaftung",
-    "article": "die",
-    "plural": "Staatshaftungen",
-    "meaning": "state liability",
-    "level": "C1"
-  },
-  {
-    "noun": "Rechtsbeistand",
+    "noun": "Wirkungsmechanismus",
     "article": "der",
-    "plural": "Rechtsbeistände",
-    "meaning": "legal counsel",
+    "plural": "Wirkungsmechanismen",
+    "meaning": "mechanism of action",
     "level": "C1"
-  },
-  {
-    "noun": "Rechtssicherheit",
-    "article": "die",
-    "plural": "Rechtssicherheiten",
-    "meaning": "legal certainty",
-    "level": "C1"
-  },
-  {
-    "noun": "Beweislastumkehr",
-    "article": "die",
-    "plural": "",
-    "meaning": "reversal of burden of proof",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Verbotsgesetz",
-    "article": "das",
-    "plural": "Verbotsgesetze",
-    "meaning": "prohibition law",
-    "level": "C1"
-  },
-  {
-    "noun": "Zuständigkeit",
-    "article": "die",
-    "plural": "Zuständigkeiten",
-    "meaning": "jurisdiction / competence",
-    "level": "C1"
-  },
-  {
-    "noun": "Legalitätsprinzip",
-    "article": "das",
-    "plural": "Legalitätsprinzipien",
-    "meaning": "principle of legality",
-    "level": "C1"
-  },
-  {
-    "noun": "Vollstreckung",
-    "article": "die",
-    "plural": "Vollstreckungen",
-    "meaning": "enforcement / execution",
-    "level": "C1"
-  },
-  {
-    "noun": "Menschenrecht",
-    "article": "das",
-    "plural": "Menschenrechte",
-    "meaning": "human right",
-    "level": "C1"
-  },
-  {
-    "noun": "Amnestie",
-    "article": "die",
-    "plural": "Amnestien",
-    "meaning": "amnesty",
-    "level": "C1"
-  },
-  {
-    "noun": "Strafjustiz",
-    "article": "die",
-    "plural": "",
-    "meaning": "criminal justice system",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Rechtsmittel",
-    "article": "das",
-    "plural": "Rechtsmittel",
-    "meaning": "legal remedy / appeal",
-    "level": "C1"
-  },
-  {
-    "noun": "Fiskalunion",
-    "article": "die",
-    "plural": "Fiskalunionen",
-    "meaning": "fiscal union",
-    "level": "C1"
-  },
-  {
-    "noun": "Geldmenge",
-    "article": "die",
-    "plural": "Geldmengen",
-    "meaning": "money supply",
-    "level": "C1"
-  },
-  {
-    "noun": "Bruttosozialprodukt",
-    "article": "das",
-    "plural": "Bruttosozialprodukte",
-    "meaning": "gross national product",
-    "level": "C1"
-  },
-  {
-    "noun": "Rezessionsbekämpfung",
-    "article": "die",
-    "plural": "Rezessionsbekämpfungen",
-    "meaning": "combating recession",
-    "level": "C1"
-  },
-  {
-    "noun": "Kapitalmarktregulierung",
-    "article": "die",
-    "plural": "Kapitalmarktregulierungen",
-    "meaning": "capital market regulation",
-    "level": "C1"
-  },
-  {
-    "noun": "Haushaltskonsolidierung",
-    "article": "die",
-    "plural": "Haushaltskonsolidierungen",
-    "meaning": "fiscal consolidation",
-    "level": "C1"
-  },
-  {
-    "noun": "Technologierente",
-    "article": "die",
-    "plural": "Technologierenten",
-    "meaning": "technology rent",
-    "level": "C1"
-  },
-  {
-    "noun": "Negativzinsen",
-    "article": "die",
-    "plural": "",
-    "meaning": "negative interest rates",
-    "level": "C1",
-    "plural_only": true
   },
   {
     "noun": "Wirtschaftsprognose",
@@ -1348,25 +2011,10 @@
     "level": "C1"
   },
   {
-    "noun": "Kreditwürdigkeit",
+    "noun": "Wirtschaftssanktion",
     "article": "die",
-    "plural": "",
-    "meaning": "creditworthiness",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Oligopol",
-    "article": "das",
-    "plural": "Oligopole",
-    "meaning": "oligopoly",
-    "level": "C1"
-  },
-  {
-    "noun": "Diversifikation",
-    "article": "die",
-    "plural": "Diversifikationen",
-    "meaning": "diversification",
+    "plural": "Wirtschaftssanktionen",
+    "meaning": "economic sanction",
     "level": "C1"
   },
   {
@@ -1377,366 +2025,18 @@
     "level": "C1"
   },
   {
-    "noun": "Humankapital",
-    "article": "das",
+    "noun": "Zahlungsfähigkeit",
+    "article": "die",
     "plural": "",
-    "meaning": "human capital",
+    "meaning": "solvency",
     "level": "C1",
     "singular_only": true
-  },
-  {
-    "noun": "Wirtschaftssanktion",
-    "article": "die",
-    "plural": "Wirtschaftssanktionen",
-    "meaning": "economic sanction",
-    "level": "C1"
-  },
-  {
-    "noun": "Stagflation",
-    "article": "die",
-    "plural": "Stagflationen",
-    "meaning": "stagflation",
-    "level": "C1"
-  },
-  {
-    "noun": "Umverteilung",
-    "article": "die",
-    "plural": "Umverteilungen",
-    "meaning": "redistribution",
-    "level": "C1"
-  },
-  {
-    "noun": "Handelsembargo",
-    "article": "das",
-    "plural": "Handelsembargos",
-    "meaning": "trade embargo",
-    "level": "C1"
-  },
-  {
-    "noun": "Schattenwirtschaft",
-    "article": "die",
-    "plural": "Schattenwirtschaften",
-    "meaning": "shadow economy",
-    "level": "C1"
-  },
-  {
-    "noun": "Marktgleichgewicht",
-    "article": "das",
-    "plural": "Marktgleichgewichte",
-    "meaning": "market equilibrium",
-    "level": "C1"
-  },
-  {
-    "noun": "Kognitionswissenschaft",
-    "article": "die",
-    "plural": "Kognitionswissenschaften",
-    "meaning": "cognitive science",
-    "level": "C1"
-  },
-  {
-    "noun": "Epigenetik",
-    "article": "die",
-    "plural": "",
-    "meaning": "epigenetics",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Immuntherapie",
-    "article": "die",
-    "plural": "Immuntherapien",
-    "meaning": "immunotherapy",
-    "level": "C1"
-  },
-  {
-    "noun": "Placebo",
-    "article": "das",
-    "plural": "Placebos",
-    "meaning": "placebo",
-    "level": "C1"
-  },
-  {
-    "noun": "Genomsequenzierung",
-    "article": "die",
-    "plural": "Genomsequenzierungen",
-    "meaning": "genome sequencing",
-    "level": "C1"
-  },
-  {
-    "noun": "Neuroplastizität",
-    "article": "die",
-    "plural": "",
-    "meaning": "neuroplasticity",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Proteinfaltung",
-    "article": "die",
-    "plural": "Proteinfaltungen",
-    "meaning": "protein folding",
-    "level": "C1"
-  },
-  {
-    "noun": "Wirkungsmechanismus",
-    "article": "der",
-    "plural": "Wirkungsmechanismen",
-    "meaning": "mechanism of action",
-    "level": "C1"
-  },
-  {
-    "noun": "Biomarker",
-    "article": "die",
-    "plural": "",
-    "meaning": "biomarkers",
-    "level": "C1",
-    "plural_only": true
-  },
-  {
-    "noun": "Gewebetransplantation",
-    "article": "die",
-    "plural": "Gewebetransplantationen",
-    "meaning": "tissue transplantation",
-    "level": "C1"
-  },
-  {
-    "noun": "Infektionskette",
-    "article": "die",
-    "plural": "Infektionsketten",
-    "meaning": "chain of infection",
-    "level": "C1"
   },
   {
     "noun": "Zellwachstum",
     "article": "das",
     "plural": "",
     "meaning": "cell growth",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Metabolomik",
-    "article": "die",
-    "plural": "",
-    "meaning": "metabolomics",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Pandemievorsorge",
-    "article": "die",
-    "plural": "",
-    "meaning": "pandemic preparedness",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Resistenzentwicklung",
-    "article": "die",
-    "plural": "Resistenzentwicklungen",
-    "meaning": "resistance development",
-    "level": "C1"
-  },
-  {
-    "noun": "Tiermodell",
-    "article": "das",
-    "plural": "Tiermodelle",
-    "meaning": "animal model",
-    "level": "C1"
-  },
-  {
-    "noun": "Systembiologie",
-    "article": "die",
-    "plural": "",
-    "meaning": "systems biology",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Präzisionsmedizin",
-    "article": "die",
-    "plural": "Präzisionsmedizinen",
-    "meaning": "precision medicine",
-    "level": "C1"
-  },
-  {
-    "noun": "Mikrobiom",
-    "article": "das",
-    "plural": "Mikrobiome",
-    "meaning": "microbiome",
-    "level": "C1"
-  },
-  {
-    "noun": "Phänomenologie",
-    "article": "die",
-    "plural": "",
-    "meaning": "phenomenology",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Erkenntnissubjekt",
-    "article": "das",
-    "plural": "Erkenntnissubjekte",
-    "meaning": "knowing subject",
-    "level": "C1"
-  },
-  {
-    "noun": "Hermeneutik",
-    "article": "die",
-    "plural": "",
-    "meaning": "hermeneutics",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Sprachspiel",
-    "article": "das",
-    "plural": "Sprachspiele",
-    "meaning": "language game",
-    "level": "C1"
-  },
-  {
-    "noun": "Pragmatik",
-    "article": "die",
-    "plural": "Pragmatiken",
-    "meaning": "pragmatics",
-    "level": "C1"
-  },
-  {
-    "noun": "Semantik",
-    "article": "die",
-    "plural": "Semantiken",
-    "meaning": "semantics",
-    "level": "C1"
-  },
-  {
-    "noun": "Syntax",
-    "article": "die",
-    "plural": "Syntaxen",
-    "meaning": "syntax",
-    "level": "C1"
-  },
-  {
-    "noun": "Spracherwerbstheorie",
-    "article": "die",
-    "plural": "Spracherwerbstheorien",
-    "meaning": "language acquisition theory",
-    "level": "C1"
-  },
-  {
-    "noun": "Diskursanalyse",
-    "article": "die",
-    "plural": "Diskursanalysen",
-    "meaning": "discourse analysis",
-    "level": "C1"
-  },
-  {
-    "noun": "Erzähltheorie",
-    "article": "die",
-    "plural": "Erzähltheorien",
-    "meaning": "narratology",
-    "level": "C1"
-  },
-  {
-    "noun": "Kognitivismus",
-    "article": "der",
-    "plural": "Kognitivismen",
-    "meaning": "cognitivism",
-    "level": "C1"
-  },
-  {
-    "noun": "Theodizee",
-    "article": "die",
-    "plural": "Theodizeen",
-    "meaning": "theodicy",
-    "level": "C1"
-  },
-  {
-    "noun": "Positivismus",
-    "article": "der",
-    "plural": "",
-    "meaning": "positivism",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Denkkollektiv",
-    "article": "das",
-    "plural": "Denkkollektive",
-    "meaning": "thought collective",
-    "level": "C1"
-  },
-  {
-    "noun": "Theodizee-Debatte",
-    "article": "die",
-    "plural": "Theodizee-Debatten",
-    "meaning": "theodicy debate",
-    "level": "C1"
-  },
-  {
-    "noun": "Systemtransformation",
-    "article": "die",
-    "plural": "Systemtransformationen",
-    "meaning": "systemic transformation",
-    "level": "C1"
-  },
-  {
-    "noun": "Partikularinteressen",
-    "article": "die",
-    "plural": "",
-    "meaning": "particular interests",
-    "level": "C1",
-    "plural_only": true
-  },
-  {
-    "noun": "Wahlsystem",
-    "article": "das",
-    "plural": "Wahlsysteme",
-    "meaning": "electoral system",
-    "level": "C1"
-  },
-  {
-    "noun": "Parlamentssouveränität",
-    "article": "die",
-    "plural": "Parlamentssouveränitäten",
-    "meaning": "parliamentary sovereignty",
-    "level": "C1"
-  },
-  {
-    "noun": "Bürokratisierung",
-    "article": "die",
-    "plural": "Bürokratisierungen",
-    "meaning": "bureaucratisation",
-    "level": "C1"
-  },
-  {
-    "noun": "Vetomacht",
-    "article": "die",
-    "plural": "Vetomächte",
-    "meaning": "veto power",
-    "level": "C1"
-  },
-  {
-    "noun": "Pluralität",
-    "article": "die",
-    "plural": "Pluralitäten",
-    "meaning": "plurality",
-    "level": "C1"
-  },
-  {
-    "noun": "Subsidiaritätsprinzip",
-    "article": "das",
-    "plural": "",
-    "meaning": "principle of subsidiarity",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Staatsräson",
-    "article": "die",
-    "plural": "",
-    "meaning": "reason of state",
     "level": "C1",
     "singular_only": true
   },
@@ -1749,311 +2049,25 @@
     "singular_only": true
   },
   {
-    "noun": "Kommunitarismus",
-    "article": "der",
+    "noun": "Zivilrecht",
+    "article": "das",
     "plural": "",
-    "meaning": "communitarianism",
+    "meaning": "civil law",
     "level": "C1",
     "singular_only": true
   },
   {
-    "noun": "Extremismusprävention",
+    "noun": "Zuständigkeit",
     "article": "die",
-    "plural": "Extremismuspräventionen",
-    "meaning": "extremism prevention",
+    "plural": "Zuständigkeiten",
+    "meaning": "jurisdiction / competence",
     "level": "C1"
   },
   {
-    "noun": "Demokratiedefizit",
-    "article": "das",
-    "plural": "Demokratiedefizite",
-    "meaning": "democratic deficit",
-    "level": "C1"
-  },
-  {
-    "noun": "Mehrheitsdemokratie",
+    "noun": "Ästhetik",
     "article": "die",
-    "plural": "Mehrheitsdemokratien",
-    "meaning": "majoritarian democracy",
-    "level": "C1"
-  },
-  {
-    "noun": "Interessenvermittlung",
-    "article": "die",
-    "plural": "Interessenvermittlungen",
-    "meaning": "interest intermediation",
-    "level": "C1"
-  },
-  {
-    "noun": "Ordnungspolitik",
-    "article": "die",
-    "plural": "Ordnungspolitiken",
-    "meaning": "competition policy",
-    "level": "C1"
-  },
-  {
-    "noun": "Rechtsextremismusprävention",
-    "article": "die",
-    "plural": "Rechtsextremismuspräventionen",
-    "meaning": "right-wing extremism prevention",
-    "level": "C1"
-  },
-  {
-    "noun": "Verfassungsrecht",
-    "article": "das",
-    "plural": "Verfassungsrechte",
-    "meaning": "constitutional law",
-    "level": "C1"
-  },
-  {
-    "noun": "Klimaanpassung",
-    "article": "die",
-    "plural": "Klimaanpassungen",
-    "meaning": "climate adaptation",
-    "level": "C1"
-  },
-  {
-    "noun": "Biodiversitätsstrategie",
-    "article": "die",
-    "plural": "Biodiversitätsstrategien",
-    "meaning": "biodiversity strategy",
-    "level": "C1"
-  },
-  {
-    "noun": "Suffizienz",
-    "article": "die",
-    "plural": "Suffizienzen",
-    "meaning": "sufficiency",
-    "level": "C1"
-  },
-  {
-    "noun": "Treibhausgasbilanz",
-    "article": "die",
-    "plural": "Treibhausgasbilanzen",
-    "meaning": "greenhouse gas balance",
-    "level": "C1"
-  },
-  {
-    "noun": "Ökosystemleistung",
-    "article": "die",
-    "plural": "Ökosystemleistungen",
-    "meaning": "ecosystem service",
-    "level": "C1"
-  },
-  {
-    "noun": "Entwaldung",
-    "article": "die",
-    "plural": "Entwaldungen",
-    "meaning": "deforestation",
-    "level": "C1"
-  },
-  {
-    "noun": "Geoengineering",
-    "article": "das",
-    "plural": "",
-    "meaning": "geoengineering",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Ökosystemmanagement",
-    "article": "das",
-    "plural": "Ökosystemmanagements",
-    "meaning": "ecosystem management",
-    "level": "C1"
-  },
-  {
-    "noun": "Ressourceneffizienz",
-    "article": "die",
-    "plural": "Ressourceneffizienzen",
-    "meaning": "resource efficiency",
-    "level": "C1"
-  },
-  {
-    "noun": "Klimafinanzierung",
-    "article": "die",
-    "plural": "Klimafinanzierungen",
-    "meaning": "climate finance",
-    "level": "C1"
-  },
-  {
-    "noun": "Landnutzungsänderung",
-    "article": "die",
-    "plural": "Landnutzungsänderungen",
-    "meaning": "land use change",
-    "level": "C1"
-  },
-  {
-    "noun": "Restwassermenge",
-    "article": "die",
-    "plural": "Restwassermengen",
-    "meaning": "residual flow",
-    "level": "C1"
-  },
-  {
-    "noun": "Umweltbundesamt",
-    "article": "das",
-    "plural": "",
-    "meaning": "Federal Environment Agency",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Naturschutzrecht",
-    "article": "das",
-    "plural": "Naturschutzrechte",
-    "meaning": "nature conservation law",
-    "level": "C1"
-  },
-  {
-    "noun": "Umweltverträglichkeitsprüfung",
-    "article": "die",
-    "plural": "Umweltverträglichkeitsprüfungen",
-    "meaning": "environmental impact assessment",
-    "level": "C1"
-  },
-  {
-    "noun": "Plastikflut",
-    "article": "die",
-    "plural": "Plastikfluten",
-    "meaning": "plastic pollution",
-    "level": "C1"
-  },
-  {
-    "noun": "Klimamodell",
-    "article": "das",
-    "plural": "Klimamodelle",
-    "meaning": "climate model",
-    "level": "C1"
-  },
-  {
-    "noun": "Entwässerung",
-    "article": "die",
-    "plural": "Entwässerungen",
-    "meaning": "drainage / dewatering",
-    "level": "C1"
-  },
-  {
-    "noun": "Plattformökonomie",
-    "article": "die",
-    "plural": "Plattformökonomien",
-    "meaning": "platform economy",
-    "level": "C1"
-  },
-  {
-    "noun": "Blockchain",
-    "article": "die",
-    "plural": "Blockchains",
-    "meaning": "blockchain",
-    "level": "C1"
-  },
-  {
-    "noun": "Augmented Reality",
-    "article": "die",
-    "plural": "",
-    "meaning": "augmented reality",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Quantencomputing",
-    "article": "das",
-    "plural": "Quantencomputinge",
-    "meaning": "quantum computing",
-    "level": "C1"
-  },
-  {
-    "noun": "Cybersicherheit",
-    "article": "die",
-    "plural": "Cybersicherheiten",
-    "meaning": "cybersecurity",
-    "level": "C1"
-  },
-  {
-    "noun": "Automatisierungswelle",
-    "article": "die",
-    "plural": "Automatisierungswellen",
-    "meaning": "wave of automation",
-    "level": "C1"
-  },
-  {
-    "noun": "Sprachverarbeitung",
-    "article": "die",
-    "plural": "",
-    "meaning": "natural language processing",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Datenhoheit",
-    "article": "die",
-    "plural": "Datenhoheiten",
-    "meaning": "data sovereignty",
-    "level": "C1"
-  },
-  {
-    "noun": "Smart Grid",
-    "article": "das",
-    "plural": "",
-    "meaning": "smart grid",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Cloud-Infrastruktur",
-    "article": "die",
-    "plural": "Cloud-Infrastrukturen",
-    "meaning": "cloud infrastructure",
-    "level": "C1"
-  },
-  {
-    "noun": "Deepfake",
-    "article": "das",
-    "plural": "Deepfakes",
-    "meaning": "deepfake",
-    "level": "C1"
-  },
-  {
-    "noun": "Datenanalyse",
-    "article": "die",
-    "plural": "Datenanalysen",
-    "meaning": "data analytics",
-    "level": "C1"
-  },
-  {
-    "noun": "Interoperabilität",
-    "article": "die",
-    "plural": "Interoperabilitäten",
-    "meaning": "interoperability",
-    "level": "C1"
-  },
-  {
-    "noun": "Regulierungslücke",
-    "article": "die",
-    "plural": "Regulierungslücken",
-    "meaning": "regulatory gap",
-    "level": "C1"
-  },
-  {
-    "noun": "Kulturerbe",
-    "article": "das",
-    "plural": "",
-    "meaning": "cultural heritage",
-    "level": "C1",
-    "singular_only": true
-  },
-  {
-    "noun": "Kunstförderung",
-    "article": "die",
-    "plural": "Kunstförderungen",
-    "meaning": "arts funding",
-    "level": "C1"
-  },
-  {
-    "noun": "Kulturimperialismus",
-    "article": "der",
-    "plural": "Kulturimperialismen",
-    "meaning": "cultural imperialism",
+    "plural": "Ästhetiken",
+    "meaning": "aesthetics",
     "level": "C1"
   },
   {
@@ -2064,38 +2078,24 @@
     "level": "C1"
   },
   {
-    "noun": "Gesamtkunstwerk",
-    "article": "das",
-    "plural": "Gesamtkunstwerke",
-    "meaning": "total work of art",
-    "level": "C1"
-  },
-  {
-    "noun": "Filmästhetik",
+    "noun": "Ökosystemleistung",
     "article": "die",
-    "plural": "Filmästhetiken",
-    "meaning": "film aesthetics",
+    "plural": "Ökosystemleistungen",
+    "meaning": "ecosystem service",
     "level": "C1"
   },
   {
-    "noun": "Kunsterlebnis",
+    "noun": "Ökosystemmanagement",
     "article": "das",
-    "plural": "Kunsterlebnisse",
-    "meaning": "art experience",
+    "plural": "Ökosystemmanagements",
+    "meaning": "ecosystem management",
     "level": "C1"
   },
   {
-    "noun": "Kanonrevision",
+    "noun": "Überwachung",
     "article": "die",
-    "plural": "Kanonrevisionen",
-    "meaning": "canon revision",
-    "level": "C1"
-  },
-  {
-    "noun": "Notdienstplan",
-    "article": "der",
-    "plural": "Notdienstpläne",
-    "meaning": "on-call schedule",
+    "plural": "Überwachungen",
+    "meaning": "surveillance",
     "level": "C1"
   }
 ]

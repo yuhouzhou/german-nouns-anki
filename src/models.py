@@ -136,6 +136,22 @@ html, body {
   color: #16a34a !important;
 }
 
+/* Dual Gender - Nominalized Adjectives (der/die) */
+[class*="der/die"], .der_die, .der.die {
+  color: #8b5cf6 !important;
+}
+.article[class*="der/die"], .article.der_die, span.der_die, .article.der.die, .main-noun.der.die .article {
+  background: linear-gradient(135deg, #0284c7 0%, #dc2626 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  color: #8b5cf6 !important;
+  font-weight: 900 !important;
+}
+.noun[class*="der/die"], .noun.der_die, .noun.der.die, .main-noun.der.die .noun {
+  color: #7c3aed !important;
+  font-weight: 800 !important;
+}
+
 /* Plural Neutral Article 'die' (Black/Standard) */
 .plural-article-neutral {
   color: #0f172a;
@@ -279,6 +295,28 @@ body.nightMode, body.night_mode {
 .nightMode .das .article, .night_mode .das .article,
 .nightMode span.das, .night_mode span.das {
   color: #4ade80 !important;
+}
+
+.nightMode [class*="der/die"], .night_mode [class*="der/die"],
+.nightMode .der_die, .night_mode .der_die,
+.nightMode .der.die, .night_mode .der.die {
+  color: #c084fc !important;
+}
+.nightMode .article[class*="der/die"], .night_mode .article[class*="der/die"],
+.nightMode .article.der_die, .night_mode .article.der_die,
+.nightMode .article.der.die, .night_mode .article.der.die,
+.nightMode .main-noun.der.die .article, .night_mode .main-noun.der.die .article {
+  background: linear-gradient(135deg, #38bdf8 0%, #f87171 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  font-weight: 900 !important;
+}
+.nightMode .noun[class*="der/die"], .night_mode .noun[class*="der/die"],
+.nightMode .noun.der_die, .night_mode .noun.der_die,
+.nightMode .noun.der.die, .night_mode .noun.der.die,
+.nightMode .main-noun.der.die .noun, .night_mode .main-noun.der.die .noun {
+  color: #a78bfa !important;
+  font-weight: 800 !important;
 }
 
 .nightMode .plural-article-neutral, .night_mode .plural-article-neutral {

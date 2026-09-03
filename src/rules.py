@@ -262,6 +262,178 @@ MASCULINE_EXCEPTIONS = {
     )
 }
 
+# Known nominalized adjectives ending in -e
+NOMINALIZED_ADJ = {
+    "abgeordnete", "angeklagte", "beamte", "angestellte", "bekannte",
+    "erwachsene", "jugendliche", "verwandte", "angehörige", "einheimische",
+    "fremde", "obdachlose", "tote", "sachverständige", "reisende", "vorsitzende",
+    "alleinerziehende", "deutsche", "kranke", "verletzte"
+}
+
+# Exhaustive Curated Homonyms with Different Gender & Meaning
+HOMONYM_GROUPS = {
+    "Band": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>das Band</b> (Band/Streifen/Ligament) &rarr; <i>die Bänder</i><br>• <b>der Band</b> (Buchband) &rarr; <i>die Bände</i><br>• <b>die Band</b> (Musikgruppe) &rarr; <i>die Bands</i>"
+    },
+    "Gehalt": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>das Gehalt</b> (Einkommen/Monatslohn) &rarr; <i>die Gehälter</i><br>• <b>der Gehalt</b> (Inhalt/Anteil, z. B. Alkoholgehalt) &rarr; <i>die Gehalte</i>"
+    },
+    "Leiter": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Leiter</b> (Chef/Führungsperson/Stromleiter) &rarr; <i>die Leiter</i><br>• <b>die Leiter</b> (Klettergerät/Sprossenleiter) &rarr; <i>die Leitern</i>"
+    },
+    "Schild": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>das Schild</b> (Hinweisschild/Etikett) &rarr; <i>die Schilder</i><br>• <b>der Schild</b> (Schutzwaffe/Wappenschild) &rarr; <i>die Schilde</i>"
+    },
+    "Steuer": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>die Steuer</b> (Geldabgabe an den Staat) &rarr; <i>die Steuern</i><br>• <b>das Steuer</b> (Lenkrad/Ruder) &rarr; <i>die Steuer</i>"
+    },
+    "See": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der See</b> (Binnengewässer, z. B. Bodensee) &rarr; <i>die Seen</i><br>• <b>die See</b> (Meer/Ozean, z. B. Nordsee, Ostsee) &rarr; <i>die Seen</i>"
+    },
+    "Kiefer": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Kiefer</b> (Gesichtsknochen) &rarr; <i>die Kiefer</i><br>• <b>die Kiefer</b> (Nadelbaum) &rarr; <i>die Kiefern</i>"
+    },
+    "Tor": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>das Tor</b> (große Tür/Fußballtor) &rarr; <i>die Tore</i><br>• <b>der Tor</b> (Narr/dummer Mensch, literarisch) &rarr; <i>die Toren</i>"
+    },
+    "Erbe": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Erbe</b> (Person, die erbt) &rarr; <i>die Erben</i><br>• <b>das Erbe</b> (Nachlass/Kulturerbe) &rarr; <i>nur Singular</i>"
+    },
+    "Verdienst": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Verdienst</b> (Einkommen/Lohn) &rarr; <i>die Verdienste</i><br>• <b>das Verdienst</b> (Leistung/Anerkennung) &rarr; <i>die Verdienste</i>"
+    },
+    "Teil": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Teil</b> (abstrakter Anteil/Abschnitt) &rarr; <i>die Teile</i><br>• <b>das Teil</b> (konkretes Einzelstück/Ersatzteil) &rarr; <i>die Teile</i>"
+    },
+    "Moment": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Moment</b> (Augenblick/Zeitpunkt) &rarr; <i>die Momente</i><br>• <b>das Moment</b> (ausschlaggebender Faktor/Impuls) &rarr; <i>die Momente</i>"
+    },
+    "Flur": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Flur</b> (Hausgang/Korridor) &rarr; <i>die Flure</i><br>• <b>die Flur</b> (Wiese/Feld/Gelände) &rarr; <i>die Fluren</i>"
+    },
+    "Bauer": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Bauer</b> (Landwirt/Schachfigur) &rarr; <i>die Bauern</i><br>• <b>das Bauer</b> (Vogelkäfig) &rarr; <i>die Bauer</i>"
+    },
+    "Bund": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Bund</b> (Bündnis/Hosenbund) &rarr; <i>die Bünde</i><br>• <b>das Bund</b> (Gebündeltes, z. B. Bund Schlüssel) &rarr; <i>die Bunde</i>"
+    },
+    "Laster": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Laster</b> (Lastkraftwagen) &rarr; <i>die Laster</i><br>• <b>das Laster</b> (schlechte Angewohnheit/Sünde) &rarr; <i>die Laster</i>"
+    },
+    "Tau": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Tau</b> (Morgentau/Feuchtigkeit) &rarr; <i>nur Singular</i><br>• <b>das Tau</b> (starkes Schiffstau/Seil) &rarr; <i>die Taue</i>"
+    },
+    "Mast": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Mast</b> (Schiffsmast/Strommast) &rarr; <i>die Masten</i><br>• <b>die Mast</b> (Tierzucht/Fütterung) &rarr; <i>nur Singular</i>"
+    },
+    "Kunde": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Kunde</b> (Käufer/Klient) &rarr; <i>die Kunden</i><br>• <b>die Kunde</b> (Nachricht/Wissenschaft, z. B. Erdkunde) &rarr; <i>nur Singular</i>"
+    },
+    "Heide": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Heide</b> (Nichtchrist/Ungläubiger) &rarr; <i>die Heiden</i><br>• <b>die Heide</b> (Heidelandschaft/Moor) &rarr; <i>die Heiden</i>"
+    },
+    "Hut": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Hut</b> (Kopfbedeckung) &rarr; <i>die Hüte</i><br>• <b>die Hut</b> (Wachsamkeit, z. B. 'auf der Hut sein') &rarr; <i>nur Singular</i>"
+    },
+    "Kristall": {
+        "note": "⚠️ <b>Homonym-Verwechslungsgefahr:</b><br>• <b>der Kristall</b> (Mineral/Edelstein) &rarr; <i>die Kristalle</i><br>• <b>das Kristall</b> (Kristallglas/Geschirr) &rarr; <i>nur Singular</i>"
+    }
+}
+
+# Exhaustive Curated Double Plurals Database
+CURATED_DOUBLE_PLURALS = {
+    "Wort": {
+        "article": "das",
+        "plurals": ["Wörter", "Worte"],
+        "display": "die Wörter / die Worte",
+        "semantic_note": "• <b>die Wörter</b>: Einzelne Vokabeln / Wörter im Text (isolated vocabulary words)<br>• <b>die Worte</b>: Zusammenhängende Rede / Aussage / Zitat (connected speech, meaningful words, quotes)"
+    },
+    "Bank": {
+        "article": "die",
+        "plurals": ["Bänke", "Banken"],
+        "display": "die Bänke / die Banken",
+        "semantic_note": "• <b>die Bänke</b>: Sitzbänke (park / sitting benches)<br>• <b>die Banken</b>: Geldinstitute (financial banks)"
+    },
+    "Band": {
+        "article": "das",
+        "plurals": ["Bänder", "Bande"],
+        "display": "die Bänder / die Bande",
+        "semantic_note": "• <b>die Bänder</b>: Geschenkbänder, Tonbänder, Bänder im Körper (ribbons, tapes, ligaments)<br>• <b>die Bande</b>: Bande der Freundschaft, Fesseln (bonds of friendship, ties)"
+    },
+    "Tuch": {
+        "article": "das",
+        "plurals": ["Tücher", "Tuche"],
+        "display": "die Tücher / die Tuche",
+        "semantic_note": "• <b>die Tücher</b>: Handtücher, Halstücher, Taschentücher (cloths, towels, scarves)<br>• <b>die Tuche</b>: Gewebte Stoffe, Textilarten (woven textiles, fabrics)"
+    },
+    "Denkmal": {
+        "article": "das",
+        "plurals": ["Denkmäler", "Denkmale"],
+        "display": "die Denkmäler / die Denkmale",
+        "semantic_note": "• <b>die Denkmäler</b>: Monumente, Gedenkstätten (monuments - standard)<br>• <b>die Denkmale</b>: Amtliche / literarische Variante (Baudenkmale)"
+    },
+    "Strauß": {
+        "article": "der",
+        "plurals": ["Sträuße", "Strauße"],
+        "display": "die Sträuße / die Strauße",
+        "semantic_note": "• <b>die Sträuße</b>: Blumensträuße (flower bouquets)<br>• <b>die Strauße</b>: Große Laufvögel (ostriches)"
+    },
+    "Mutter": {
+        "article": "die",
+        "plurals": ["Mütter", "Muttern"],
+        "display": "die Mütter / die Muttern",
+        "semantic_note": "• <b>die Mütter</b>: Weibliche Elternteile (mothers)<br>• <b>die Muttern</b>: Schraubenmuttern (threaded metal nuts for bolts)"
+    },
+    "Bau": {
+        "article": "der",
+        "plurals": ["Bauten", "Baue"],
+        "display": "die Bauten / die Baue",
+        "semantic_note": "• <b>die Bauten</b>: Gebäude, Bauwerke (buildings, constructions)<br>• <b>die Baue</b>: Tierbauten (dens, burrows, e.g. Fuchsbaue)"
+    },
+    "Horn": {
+        "article": "das",
+        "plurals": ["Hörner", "Horne"],
+        "display": "die Hörner / die Horne",
+        "semantic_note": "• <b>die Hörner</b>: Tierhörner, Blasinstrumente (animal horns, brass instruments)<br>• <b>die Horne</b>: Hornsubstanzen, Gesteinsarten (horn materials)"
+    },
+    "Dorn": {
+        "article": "der",
+        "plurals": ["Dornen", "Dörner"],
+        "display": "die Dornen / die Dörner",
+        "semantic_note": "• <b>die Dornen</b>: Pflanzendornen (thorns on roses/bushes)<br>• <b>die Dörner</b>: Technische Dorne, Werkzeugdorne (mandrel tools, technical spikes)"
+    },
+    "Licht": {
+        "article": "das",
+        "plurals": ["Lichter", "Lichte"],
+        "display": "die Lichter / die Lichte",
+        "semantic_note": "• <b>die Lichter</b>: Lampen, Scheinwerfer, Lichtquellen (lights, lamps)<br>• <b>die Lichte</b>: Kerzen (poetisch / Weidmannssprache für Tieraugen)"
+    },
+    "Wasser": {
+        "article": "das",
+        "plurals": ["Wässer", "Wasser"],
+        "display": "die Wässer / die Wasser",
+        "semantic_note": "• <b>die Wässer</b>: Mineralwässer, Duftwässer, Heilwässer (bottled/mineral waters, perfumes)<br>• <b>die Wasser</b>: Große Wassermassen, Fluten, Gewässer (bodies of water, floods)"
+    },
+    "Stock": {
+        "article": "der",
+        "plurals": ["Stöcke", "Stockwerke"],
+        "display": "die Stöcke / die Stockwerke",
+        "semantic_note": "• <b>die Stöcke</b>: Spazierstöcke, Holzstäbe (canes, sticks)<br>• <b>die Stockwerke</b> / <b>Stock</b>: Etagen eines Gebäudes (floors, stories)"
+    },
+    "Scheusal": {
+        "article": "das",
+        "plurals": ["Scheusale", "Scheusäler"],
+        "display": "die Scheusale / die Scheusäler",
+        "semantic_note": "• <b>die Scheusale</b>: Ungeheuer, grausame Wesen (monsters - standard)<br>• <b>die Scheusäler</b>: Umgangssprachliche / mundartliche Nebenform"
+    },
+    "Gesicht": {
+        "article": "das",
+        "plurals": ["Gesichter", "Gesichte"],
+        "display": "die Gesichter / die Gesichte",
+        "semantic_note": "• <b>die Gesichter</b>: Antlitze von Menschen (human faces - standard)<br>• <b>die Gesichte</b>: Visionen, übernatürliche Erscheinungen (visions, apparitions)"
+    },
+}
+
 
 # ==========================================
 # 3. DETAILED GENDER RULES LOGIC
@@ -289,6 +461,19 @@ def get_gender_rule(noun: str, article: str, meaning: str = "", tags: Optional[l
             "examples": examples,
             "icon": icon
         }
+
+    # ---------------------------------------------------------
+    # 0. NOMINALIZED ADJECTIVES (der/die)
+    # ---------------------------------------------------------
+    if article in ("der/die", "der / die") or lower_noun in NOMINALIZED_ADJ:
+        return make_rule(
+            "Morphology", "Substantiviertes Adjektiv (Maskulin & Feminin)",
+            "<b>Substantiviertes Adjektiv</b> &rarr; <i>der</i> (m.) / <i>die</i> (f.)",
+            f"Dieses Personen-Nomen folgt der Adjektiv-Deklination:<br>"
+            f"• <b>Maskulin</b>: <i>der {clean_noun}</i> (unbestimmt: <i>ein {clean_noun}r</i>)<br>"
+            f"• <b>Feminin</b>: <i>die {clean_noun}</i> (unbestimmt: <i>eine {clean_noun}</i>)",
+            "100%", f"der {clean_noun} / die {clean_noun}", "👥"
+        )
 
     # ---------------------------------------------------------
     # A. EXPLICIT EXCEPTIONS & CONFLICT CASES
@@ -777,6 +962,28 @@ def get_plural_rule(noun: str, article: str, plural: str, is_pl_only: bool = Fal
             "<b>Singulariatantum</b> &rarr; Nur Singular (kein Plural)",
             "Dieses Substantiv existiert im Deutschen standardmäßig nur im Singular und bildet keine Pluralform.",
             f"{article} {clean_noun}", "📌"
+        )
+
+    # 0c. Double Plurals (Doppelplural mit Bedeutungsunterschied)
+    if clean_noun in CURATED_DOUBLE_PLURALS:
+        dp = CURATED_DOUBLE_PLURALS[clean_noun]
+        if article == dp["article"]:
+            return make_plural_rule(
+                "Doppelplural", "Doppelplural (Zwei Bedeutungen)",
+                f"<b>Doppelplural</b>: {dp['display']}",
+                f"Dieses Nomen hat zwei verschiedene Pluralformen mit Bedeutungsunterschied:<br>{dp['semantic_note']}",
+                dp["display"], "✨"
+            )
+
+    # 0d. Nominalized Adjectives (Substantivierte Adjektive)
+    if article in ("der/die", "der / die") or lower_noun in NOMINALIZED_ADJ:
+        return make_plural_rule(
+            "Substantiviertes Adjektiv", "Plural-Deklination bei substantivierten Adjektiven",
+            f"<b>Substantiviertes Adjektiv</b> &rarr; <i>die {clean_noun}n</i>",
+            f"Dieses Nomen folgt im Plural der Adjektiv-Deklination:<br>"
+            f"• <b>Mit bestimmtem Artikel</b> (schwach): <i>die {clean_noun}n</i> (-en Endung)<br>"
+            f"• <b>Ohne Artikel / nach Zahlen</b> (stark): <i>viele {clean_noun}</i>, <i>zwei {clean_noun}</i> (-e Endung)",
+            f"die {clean_noun}n (viele {clean_noun})", "👥"
         )
 
     # 1. Diminutives -chen / -lein (No change)

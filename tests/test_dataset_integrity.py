@@ -50,16 +50,17 @@ def test_datasets_integrity():
             plural = item["plural"].strip()
             level = item["level"].strip().upper()
 
-            # Validate article
-            assert article in {"der", "die", "das"}, f"Invalid article '{article}' for '{noun}' in {filename}"
+            # Validate article (including der/die for nominalized adjectives)
+            assert article in {"der", "die", "das", "der/die"}, f"Invalid article '{article}' for '{noun}' in {filename}"
 
             # Validate level
             assert level in {"A1", "A2", "B1", "B2", "C1"}, f"Invalid level '{level}' for '{noun}' in {filename}"
 
-            # Check uniqueness within single-level files
+            # Check uniqueness of (noun, article) within single-level files
             if filename != "nouns_a1_to_c1.json":
-                assert noun not in seen_nouns, f"Duplicate noun '{noun}' in {filename}"
-                seen_nouns.add(noun)
+                entry_key = (noun.lower(), article.lower())
+                assert entry_key not in seen_nouns, f"Duplicate entry '{noun}' with article '{article}' in {filename}"
+                seen_nouns.add(entry_key)
 
             # Test rule execution
             g_rule = get_gender_rule(noun, article, meaning=item.get("meaning", ""))
@@ -119,6 +120,52 @@ def test_special_noun_classes():
     print("✅ Verified special noun classes (Singulariatantum & Pluraliatantum)!")
 
 
+def test_homonyms_nominalized_adjectives_and_double_plurals():
+    """Verifies homonyms, nominalized adjectives, and double plurals."""
+    with open(DATA_DIR / "nouns_a1.json", "r", encoding="utf-8") as f:
+        a1_nouns = json.load(f)
+    with open(DATA_DIR / "nouns_a2.json", "r", encoding="utf-8") as f:
+        a2_nouns = json.load(f)
+    with open(DATA_DIR / "nouns_b1.json", "r", encoding="utf-8") as f:
+        b1_nouns = json.load(f)
+
+    # 1. Nominalized Adjectives (der/die)
+    a1_nom_adjs = {n["noun"]: n for n in a1_nouns if n.get("nominalized_adj")}
+    assert "Erwachsene" in a1_nom_adjs
+    assert a1_nom_adjs["Erwachsene"]["article"] == "der/die"
+    assert a1_nom_adjs["Erwachsene"]["plural"] == "Erwachsenen"
+
+    assert "Jugendliche" in a1_nom_adjs
+    assert a1_nom_adjs["Jugendliche"]["article"] == "der/die"
+    assert a1_nom_adjs["Jugendliche"]["plural"] == "Jugendlichen"
+
+    assert "Bekannte" in a1_nom_adjs
+    assert a1_nom_adjs["Bekannte"]["article"] == "der/die"
+
+    # 2. Homonyms with different gender and meaning
+    a1_bands = [n for n in a1_nouns if n["noun"] == "Band"]
+    a2_bands = [n for n in a2_nouns if n["noun"] == "Band"]
+    b1_bands = [n for n in b1_nouns if n["noun"] == "Band"]
+
+    assert len(a1_bands) == 1 and a1_bands[0]["article"] == "die"  # die Band (music group)
+    assert len(a2_bands) == 1 and a2_bands[0]["article"] == "das"  # das Band (ribbon/tape)
+    assert len(b1_bands) == 1 and b1_bands[0]["article"] == "der"  # der Band (book volume)
+
+    # Gehalt
+    a2_gehalt = [n for n in a2_nouns if n["noun"] == "Gehalt"]
+    b1_gehalt = [n for n in b1_nouns if n["noun"] == "Gehalt"]
+    assert len(a2_gehalt) == 1 and a2_gehalt[0]["article"] == "das"  # das Gehalt (salary)
+    assert len(b1_gehalt) == 1 and b1_gehalt[0]["article"] == "der"  # der Gehalt (content)
+
+    # 3. Double Plurals
+    a1_words = {n["noun"]: n for n in a1_nouns if n.get("double_plural")}
+    assert "Wort" in a1_words and a1_words["Wort"]["article"] == "das"
+    assert "Bank" in a1_words and a1_words["Bank"]["article"] == "die"
+
+    print("✅ Verified homonyms, nominalized adjectives, and double plurals!")
+
+
 if __name__ == "__main__":
     test_datasets_integrity()
     test_special_noun_classes()
+    test_homonyms_nominalized_adjectives_and_double_plurals()
