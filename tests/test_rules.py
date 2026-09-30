@@ -124,6 +124,29 @@ def test_plural_rules():
     p = get_plural_rule("Hund", "der", "Hunde")
     assert "Standard (+e)" in p["rule_name"]
 
+    # Compound with -spiel / -el ending taking +e (Beispiel)
+    p = get_plural_rule("Beispiel", "das", "Beispiele")
+    assert "Standard (+e)" in p["rule_name"]
+    assert "Takes standard plural suffix" in p["summary"]
+
+    # Foreign loanwords in -a -> -en (Computerfirma, Firma, Thema)
+    p_firma = get_plural_rule("Computerfirma", "die", "Computerfirmen")
+    assert "in -a &rarr; -en" in p_firma["rule_name"]
+    assert "replaces with" in p_firma["summary"]
+
+    p_thema = get_plural_rule("Thema", "das", "Themen")
+    assert "in -a &rarr; -en" in p_thema["rule_name"]
+
+    # Masculine -er / -en endings (zero ending, umlaut, and weak +(e)n)
+    p_wagen = get_plural_rule("Wagen", "der", "Wagen")
+    assert "without Ending" in p_wagen["rule_name"]
+
+    p_apfel = get_plural_rule("Apfel", "der", "Äpfel")
+    assert "with Umlaut" in p_apfel["rule_name"]
+
+    p_bauer = get_plural_rule("Bauer", "der", "Bauern")
+    assert "Masculine/Neuter" in p_bauer["rule_name"]
+
 
 def test_conflicting_rules():
     # die Gemeinde (Ge- prefix vs die ending in -e)

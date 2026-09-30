@@ -7,16 +7,16 @@
 
 A curated, comprehensive collection of **2,805 German Nouns (5,610 cards)** organized by CEFR level (**A1 to C1**), powered by a 100,000-lemma Wiktionary morphological database, concise 2-tier grammatical rules, automatic morphological plural highlighting, and zero sibling burying.
 
-### 📥 Direct Downloads ([v1.1.0 Release](https://github.com/yuhouzhou/german-nouns-anki/releases/tag/v1.1.0))
+### 📥 Direct Downloads ([v1.1.1 Release](https://github.com/yuhouzhou/german-nouns-anki/releases/tag/v1.1.1))
 
 | Deck Package | Level | Nouns | Cards | Direct Download |
 | :--- | :--- | :--- | :--- | :--- |
-| **Complete Bundle** | **A1–C1** | **2,805** | **5,610** | [⬇️ Download .apkg (2.6 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_A1_to_C1_complete.apkg) |
-| **Level A1** | Beginner | 1,110 | 2,220 | [⬇️ Download .apkg (1.0 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_A1.apkg) |
-| **Level A2** | Elementary | 514 | 1,028 | [⬇️ Download .apkg (544 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_A2.apkg) |
-| **Level B1** | Intermediate | 555 | 1,110 | [⬇️ Download .apkg (612 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_B1.apkg) |
-| **Level B2** | Upper-Intermediate | 336 | 672 | [⬇️ Download .apkg (408 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_B2.apkg) |
-| **Level C1** | Advanced | 290 | 580 | [⬇️ Download .apkg (372 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.0/german_nouns_C1.apkg) |
+| **Complete Bundle** | **A1–C1** | **2,805** | **5,610** | [⬇️ Download .apkg (2.6 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.1/german_nouns_A1_to_C1_complete.apkg) |
+| **Level A1** | Beginner | 1,110 | 2,220 | [⬇️ Download .apkg (1.0 MB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.1/german_nouns_A1.apkg) |
+| **Level A2** | Elementary | 514 | 1,028 | [⬇️ Download .apkg (548 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.1/german_nouns_A2.apkg) |
+| **Level B1** | Intermediate | 555 | 1,110 | [⬇️ Download .apkg (616 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.1/german_nouns_B1.apkg) |
+| **Level B2** | Upper-Intermediate | 336 | 672 | [⬇️ Download .apkg (412 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.1/german_nouns_B2.apkg) |
+| **Level C1** | Advanced | 290 | 580 | [⬇️ Download .apkg (376 KB)](https://github.com/yuhouzhou/german-nouns-anki/releases/download/v1.1.1/german_nouns_C1.apkg) |
 
 ---
 

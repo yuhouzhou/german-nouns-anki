@@ -1040,13 +1040,45 @@ def get_plural_rule(noun: str, article: str, plural: str, is_pl_only: bool = Fal
             "der Optimismus &rarr; die Optimismen, der Realismus &rarr; die Realismen", "⭐"
         )
         
-    # 7. Latin / Greek Suffix Transformations
+    # 7. Latin / Greek / Foreign Suffix Transformations
+    if lower_noun.endswith("a") and lower_plural.endswith("en"):
+        return make_plural_rule(
+            "-a &rarr; -en", "Foreign Loanwords in -a &rarr; -en",
+            "Ending <b>-a</b> &rarr; replaces with <b>-en</b>",
+            "Nouns of Latin, Greek, or Italian origin ending in <i>-a</i> replace the ending <b>-a</b> with <b>-en</b> in the plural.",
+            "die Firma &rarr; die Firmen, das Thema &rarr; die Themen, die Mensa &rarr; die Mensen, die Villa &rarr; die Villen", "⭐"
+        )
+
+    if lower_noun.endswith("ium") and lower_plural.endswith("ien"):
+        return make_plural_rule(
+            "-ium &rarr; -ien", "Latin -ium &rarr; -ien",
+            "Ending <b>-ium</b> &rarr; replaces with <b>-ien</b>",
+            "Latin neuter nouns ending in <i>-ium</i> form their plural with <b>-ien</b>.",
+            "das Studium &rarr; die Studien, das Ministerium &rarr; die Ministerien, das Kriterium &rarr; die Kriterien", "⭐"
+        )
+
     if lower_noun.endswith("um") and lower_plural.endswith("en"):
         return make_plural_rule(
             "-um &rarr; -en", "Latin -um &rarr; -en (100%)",
             "Latin ending <b>-um</b> &rarr; replaces with <b>-en</b>",
             "Standard plural shift for Latin neuter nouns in -um.",
             "das Museum &rarr; die Museen, das Zentrum &rarr; die Zentren, das Datum &rarr; die Daten", "⭐"
+        )
+
+    if lower_noun.endswith("us") and lower_plural.endswith("en"):
+        return make_plural_rule(
+            "-us &rarr; -en", "Latin -us &rarr; -en",
+            "Latin ending <b>-us</b> &rarr; replaces with <b>-en</b>",
+            "Latin loan nouns ending in <i>-us</i> drop the ending and add <b>-en</b>.",
+            "der Rhythmus &rarr; die Rhythmen, der Zyklus &rarr; die Zyklen, der Virus &rarr; die Viren", "⭐"
+        )
+
+    if lower_noun.endswith("is") and lower_plural.endswith("en"):
+        return make_plural_rule(
+            "-is &rarr; -en", "Greek -is &rarr; -en",
+            "Greek ending <b>-is</b> &rarr; replaces with <b>-en</b>",
+            "Greek feminine nouns ending in <i>-is</i> replace the suffix with <b>-en</b>.",
+            "die Basis &rarr; die Basen, die Praxis &rarr; die Praxen, die Dosis &rarr; die Dosen", "⭐"
         )
 
     # 8. S-Plural for loanwords and vowel endings
@@ -1101,17 +1133,22 @@ def get_plural_rule(noun: str, article: str, plural: str, is_pl_only: bool = Fal
                 "die Frau &rarr; die Frauen, die Zeitung &rarr; die Zeitungen, die Tür &rarr; die Türen", "💡"
             )
 
-    # 11. Masculine / Neuter in -er, -en, -el
+    # 11. Masculine / Neuter / Feminine (Mutter/Tochter) in -er, -en, -el (Zero-ending or Umlaut only)
     if lower_noun.endswith("er") or lower_noun.endswith("en") or lower_noun.endswith("el"):
         has_umlaut = any(c in lower_plural for c in ["ä", "ö", "ü", "ae", "oe", "ue"]) and not any(c in lower_noun for c in ["ä", "ö", "ü", "ae", "oe", "ue"])
-        if has_umlaut:
+        def _deumlaut(s: str) -> str:
+            return s.lower().replace("ä", "a").replace("ö", "o").replace("ü", "u")
+        is_exact = (lower_plural == lower_noun)
+        is_umlaut_only = has_umlaut and (_deumlaut(lower_plural) == _deumlaut(lower_noun))
+
+        if is_umlaut_only:
             return make_plural_rule(
                 "Umlaut + -", "Endings in -el/-en/-er with Umlaut",
                 "Endings in <b>-el, -en, -er</b> &rarr; <b>Umlaut</b> only (no ending)",
                 "Vowel changes to an umlaut without adding an extra suffix.",
-                "der Apfel &rarr; die Äpfel, der Vater &rarr; die Väter, der Garten &rarr; die Gärten", "💡"
+                "der Apfel &rarr; die Äpfel, der Vater &rarr; die Väter, der Garten &rarr; die Gärten, die Mutter &rarr; die Mütter", "💡"
             )
-        else:
+        elif is_exact:
             return make_plural_rule(
                 "- (No ending)", "Endings in -el/-en/-er without Ending",
                 "Endings in <b>-el, -en, -er</b> &rarr; No ending change",
@@ -1144,8 +1181,17 @@ def get_plural_rule(noun: str, article: str, plural: str, is_pl_only: bool = Fal
                 "+e (No Umlaut)", "Standard (+e)",
                 "Takes standard plural suffix <b>-e</b>",
                 "Regular suffix -e without stem vowel change.",
-                "der Hund &rarr; die Hunde, der Tag &rarr; die Tage, das Jahr &rarr; die Jahre", "💡"
+                "der Hund &rarr; die Hunde, das Spiel &rarr; die Spiele, das Jahr &rarr; die Jahre, das Beispiel &rarr; die Beispiele", "💡"
             )
+
+    # 14. Masculine / Neuter taking -(e)n (Mixed / Weak Declension)
+    if (article in ("der", "das")) and (lower_plural.endswith("en") or lower_plural.endswith("n")) and not (lower_noun.endswith("en") or lower_noun.endswith("n")):
+        return make_plural_rule(
+            "+en / +n", "Masculine/Neuter (+en / +n)",
+            "Masculine / Neuter &rarr; adds <b>-(e)n</b>",
+            "Takes the plural suffix <b>-(e)n</b> (weak or mixed declension).",
+            "der Staat &rarr; die Staaten, der Nachbar &rarr; die Nachbarn, der Bauer &rarr; die Bauern, das Auge &rarr; die Augen, das Bett &rarr; die Betten", "💡"
+        )
 
     # Fallback
     return {
